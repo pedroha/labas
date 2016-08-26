@@ -1,0 +1,583 @@
+<html><script>(function main() {
+    // Create enabled event
+    function fireEnabledEvent() {
+        // If gli exists, then we are already present and shouldn't do anything
+        if (!window.gli) {
+            setTimeout(function () {
+                var enabledEvent = document.createEvent("Event");
+                enabledEvent.initEvent("WebGLEnabledEvent", true, true);
+                document.dispatchEvent(enabledEvent);
+            }, 0);
+        } else {
+            //console.log("WebGL Inspector already embedded on the page - disabling extension");
+        }
+    };
+
+    // Grab the path root from the extension
+    document.addEventListener("WebGLInspectorReadyEvent", function (e) {
+        var pathElement = document.getElementById("__webglpathroot");
+        if (window["gliloader"]) {
+            gliloader.pathRoot = pathElement.innerText;
+        } else {
+            // TODO: more?
+            window.gliCssUrl = pathElement.innerText + "gli.all.css";
+        }
+    }, false);
+
+    // Rewrite getContext to snoop for webgl
+    var originalGetContext = HTMLCanvasElement.prototype.getContext;
+    if (!HTMLCanvasElement.prototype.getContextRaw) {
+        HTMLCanvasElement.prototype.getContextRaw = originalGetContext;
+    }
+    HTMLCanvasElement.prototype.getContext = function () {
+        var ignoreCanvas = this.internalInspectorSurface;
+        if (ignoreCanvas) {
+            return originalGetContext.apply(this, arguments);
+        }
+
+        var result = originalGetContext.apply(this, arguments);
+        if (result == null) {
+            return null;
+        }
+
+        var contextNames = ["moz-webgl", "webkit-3d", "experimental-webgl", "webgl", "3d"];
+        var requestingWebGL = contextNames.indexOf(arguments[0]) != -1;
+        if (requestingWebGL) {
+            // Page is requesting a WebGL context!
+            fireEnabledEvent(this);
+
+            // If we are injected, inspect this context
+            if (window.gli) {
+                if (gli.host.inspectContext) {
+                    // TODO: pull options from extension
+                    result = gli.host.inspectContext(this, result);
+                    // NOTE: execute in a timeout so that if the dom is not yet
+                    // loaded this won't error out.
+                    window.setTimeout(function() {
+                        var hostUI = new gli.host.HostUI(result);
+                        result.hostUI = hostUI; // just so we can access it later for debugging
+                    }, 0);
+                }
+            }
+        }
+
+        return result;
+    };
+})();</script><head>
+<meta charset="utf-8">
+<link rel="alternate" hreflang="ru-ad" href="http://www.goethe-verlag.com/book2/_VOCAB/AD/ADLT/ADLT.HTM">
+<link rel="alternate" hreflang="af" href="http://www.goethe-verlag.com/book2/_VOCAB/AF/AFLT/AFLT.HTM">
+<link rel="alternate" hreflang="ar" href="http://www.goethe-verlag.com/book2/_VOCAB/AR/ARLT/ARLT.HTM">
+<link rel="alternate" hreflang="be" href="http://www.goethe-verlag.com/book2/_VOCAB/BE/BELT/BELT.HTM">
+<link rel="alternate" hreflang="bg" href="http://www.goethe-verlag.com/book2/_VOCAB/BG/BGLT/BGLT.HTM">
+<link rel="alternate" hreflang="bn" href="http://www.goethe-verlag.com/book2/_VOCAB/BN/BNLT/BNLT.HTM">
+<link rel="alternate" hreflang="bs" href="http://www.goethe-verlag.com/book2/_VOCAB/BS/BSLT/BSLT.HTM">
+<link rel="alternate" hreflang="ca" href="http://www.goethe-verlag.com/book2/_VOCAB/CA/CALT/CALT.HTM">
+<link rel="alternate" hreflang="cs" href="http://www.goethe-verlag.com/book2/_VOCAB/CS/CSLT/CSLT.HTM">
+<link rel="alternate" hreflang="da" href="http://www.goethe-verlag.com/book2/_VOCAB/DA/DALT/DALT.HTM">
+<link rel="alternate" hreflang="de" href="http://www.goethe-verlag.com/book2/_VOCAB/DE/DELT/DELT.HTM">
+<link rel="alternate" hreflang="el" href="http://www.goethe-verlag.com/book2/_VOCAB/EL/ELLT/ELLT.HTM">
+<link rel="alternate" hreflang="en-us" href="http://www.goethe-verlag.com/book2/_VOCAB/EM/EMLT/EMLT.HTM">
+<link rel="alternate" hreflang="en" href="http://www.goethe-verlag.com/book2/_VOCAB/EN/ENLT/ENLT.HTM">
+<link rel="alternate" hreflang="eo" href="http://www.goethe-verlag.com/book2/_VOCAB/EO/EOLT/EOLT.HTM">
+<link rel="alternate" hreflang="es" href="http://www.goethe-verlag.com/book2/_VOCAB/ES/ESLT/ESLT.HTM">
+<link rel="alternate" hreflang="et" href="http://www.goethe-verlag.com/book2/_VOCAB/ET/ETLT/ETLT.HTM">
+<link rel="alternate" hreflang="fa" href="http://www.goethe-verlag.com/book2/_VOCAB/FA/FALT/FALT.HTM">
+<link rel="alternate" hreflang="fi" href="http://www.goethe-verlag.com/book2/_VOCAB/FI/FILT/FILT.HTM">
+<link rel="alternate" hreflang="fr" href="http://www.goethe-verlag.com/book2/_VOCAB/FR/FRLT/FRLT.HTM">
+<link rel="alternate" hreflang="he" href="http://www.goethe-verlag.com/book2/_VOCAB/HE/HELT/HELT.HTM">
+<link rel="alternate" hreflang="hi" href="http://www.goethe-verlag.com/book2/_VOCAB/HI/HILT/HILT.HTM">
+<link rel="alternate" hreflang="hr" href="http://www.goethe-verlag.com/book2/_VOCAB/HR/HRLT/HRLT.HTM">
+<link rel="alternate" hreflang="hu" href="http://www.goethe-verlag.com/book2/_VOCAB/HU/HULT/HULT.HTM">
+<link rel="alternate" hreflang="id" href="http://www.goethe-verlag.com/book2/_VOCAB/ID/IDLT/IDLT.HTM">
+<link rel="alternate" hreflang="it" href="http://www.goethe-verlag.com/book2/_VOCAB/IT/ITLT/ITLT.HTM">
+<link rel="alternate" hreflang="ja" href="http://www.goethe-verlag.com/book2/_VOCAB/JA/JALT/JALT.HTM">
+<link rel="alternate" hreflang="ka" href="http://www.goethe-verlag.com/book2/_VOCAB/KA/KALT/KALT.HTM">
+<link rel="alternate" hreflang="kn" href="http://www.goethe-verlag.com/book2/_VOCAB/KN/KNLT/KNLT.HTM">
+<link rel="alternate" hreflang="ko" href="http://www.goethe-verlag.com/book2/_VOCAB/KO/KOLT/KOLT.HTM">
+<link rel="alternate" hreflang="lv" href="http://www.goethe-verlag.com/book2/_VOCAB/LV/LVLT/LVLT.HTM">
+<link rel="alternate" hreflang="mk" href="http://www.goethe-verlag.com/book2/_VOCAB/MK/MKLT/MKLT.HTM">
+<link rel="alternate" hreflang="mr" href="http://www.goethe-verlag.com/book2/_VOCAB/MR/MRLT/MRLT.HTM">
+<link rel="alternate" hreflang="nl" href="http://www.goethe-verlag.com/book2/_VOCAB/NL/NLLT/NLLT.HTM">
+<link rel="alternate" hreflang="no" href="http://www.goethe-verlag.com/book2/_VOCAB/NO/NOLT/NOLT.HTM">
+<link rel="alternate" hreflang="pa" href="http://www.goethe-verlag.com/book2/_VOCAB/PA/PALT/PALT.HTM">
+<link rel="alternate" hreflang="pl" href="http://www.goethe-verlag.com/book2/_VOCAB/PL/PLLT/PLLT.HTM">
+<link rel="alternate" hreflang="pt" href="http://www.goethe-verlag.com/book2/_VOCAB/PT/PTLT/PTLT.HTM">
+<link rel="alternate" hreflang="pt-br" href="http://www.goethe-verlag.com/book2/_VOCAB/PX/PXLT/PXLT.HTM">
+<link rel="alternate" hreflang="ro" href="http://www.goethe-verlag.com/book2/_VOCAB/RO/ROLT/ROLT.HTM">
+<link rel="alternate" hreflang="ru" href="http://www.goethe-verlag.com/book2/_VOCAB/RU/RULT/RULT.HTM">
+<link rel="alternate" hreflang="sk" href="http://www.goethe-verlag.com/book2/_VOCAB/SK/SKLT/SKLT.HTM">
+<link rel="alternate" hreflang="sl" href="http://www.goethe-verlag.com/book2/_VOCAB/SL/SLLT/SLLT.HTM">
+<link rel="alternate" hreflang="sq" href="http://www.goethe-verlag.com/book2/_VOCAB/SQ/SQLT/SQLT.HTM">
+<link rel="alternate" hreflang="sr" href="http://www.goethe-verlag.com/book2/_VOCAB/SR/SRLT/SRLT.HTM">
+<link rel="alternate" hreflang="sv" href="http://www.goethe-verlag.com/book2/_VOCAB/SV/SVLT/SVLT.HTM">
+<link rel="alternate" hreflang="ta" href="http://www.goethe-verlag.com/book2/_VOCAB/TA/TALT/TALT.HTM">
+<link rel="alternate" hreflang="te" href="http://www.goethe-verlag.com/book2/_VOCAB/TE/TELT/TELT.HTM">
+<link rel="alternate" hreflang="th" href="http://www.goethe-verlag.com/book2/_VOCAB/TH/THLT/THLT.HTM">
+<link rel="alternate" hreflang="tr" href="http://www.goethe-verlag.com/book2/_VOCAB/TR/TRLT/TRLT.HTM">
+<link rel="alternate" hreflang="uk" href="http://www.goethe-verlag.com/book2/_VOCAB/UK/UKLT/UKLT.HTM">
+<link rel="alternate" hreflang="ur" href="http://www.goethe-verlag.com/book2/_VOCAB/UR/URLT/URLT.HTM">
+<link rel="alternate" hreflang="vi" href="http://www.goethe-verlag.com/book2/_VOCAB/VI/VILT/VILT.HTM">
+<link rel="alternate" hreflang="zh" href="http://www.goethe-verlag.com/book2/_VOCAB/ZH/ZHLT/ZHLT.HTM">
+<title>Vocabulary - English US - Lithuanian</title>
+<style type="text/css">
+.html-marquee {height:36px;background-color:#ebebc4;background-image:url(http://);font-family:Verdana;font-size:14px;color:000000;border-width:0;}
+.Stil36 {font-family: "Verdana"; font-size: 15px; text-align: center; color: #666; margin:2px}
+.Stil46 {font-family: "Verdana"; font-size: 15px; text-align: center; margin:2px}
+.Stil39 {font-family: "Arial"; font-size: 12px; color: #996600; text-align: center; margin:2px;}
+A:link {text-decoration: none}
+A:visited {text-decoration: none}
+A:active {text-decoration: none}
+A:hover {text-decoration: underline; color: red;}
+</style>
+<meta name="description" content="Feelings - Jausmai | Animals - Gyvūnai | Sports - Sportas | Music - Muzika | Office - Biuras | People - Žmonės | Time - Laikas | Environment - Aplinka | Packaging - Įpakavimas | Tools - Įrankiai | Fruits - Vaisiai | Leisure - Laisvalaikis | Military - Kariuomenė | Clothing - Apranga | Communication - Komunikacija | Apartment - Butas | Food - Maistas | Occupations - Profesijos | Vegetables - Daržovės | Objects - Daiktai | Body - Kūnas | Nature - Gamta | Finances - Finansai | Furniture - Baldai | Religion - Religija | Abstract terms - Abstraktūs žodžiai | Kitchen appliances - Virtuviniai prietaisai | Materials - Medžiagos | Health - Sveikata | Car - Automobilis | City - Miestas | Weather - Oras | Shopping - Apsipirkimas | Architecture - Architektūra | Big animals - Dideli gyvūnai | ">
+</head>
+<body>
+<form><input type="BUTTON" value="Go back" onclick="history.go(-1)"></form>
+<marquee class="html-marquee" direction="left" behavior="scroll" scrollamount="2"><img src="http://www.goethe-verlag.com/images/click_30.png"> Click on an image! </marquee><table width="100%" border="0" align="center">
+<tbody><tr bgcolor="#ebebc4">
+<td width="164" align="center"><p><a href="01.HTM"><img src="../../../_alleima/x01.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+Jausmai
+</span></a>
+<button onclick="document.getElementById('1').play()">►</button>
+<audio id="1">
+<source src="../../../_alleima/_mp3/LT/x01.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">Feelings
+</span><br></p></td>
+<td width="164" align="center"><p><a href="02.HTM"><img src="../../../_alleima/x02.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+Gyvūnai
+</span></a>
+<button onclick="document.getElementById('2').play()">►</button>
+<audio id="2">
+<source src="../../../_alleima/_mp3/LT/x02.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">Animals
+</span><br></p></td>
+<td width="164" align="center"><p><a href="03.HTM"><img src="../../../_alleima/x03.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+Sportas
+</span></a>
+<button onclick="document.getElementById('3').play()">►</button>
+<audio id="3">
+<source src="../../../_alleima/_mp3/LT/x03.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">Sports
+</span><br></p></td>
+<td width="164" align="center"><p><a href="04.HTM"><img src="../../../_alleima/x04.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+Muzika
+</span></a>
+<button onclick="document.getElementById('4').play()">►</button>
+<audio id="4">
+<source src="../../../_alleima/_mp3/LT/x04.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">Music
+</span><br></p></td>
+<td width="164" align="center"><p><a href="05.HTM"><img src="../../../_alleima/x05.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+Biuras
+</span></a>
+<button onclick="document.getElementById('5').play()">►</button>
+<audio id="5">
+<source src="../../../_alleima/_mp3/LT/x05.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">Office
+</span><br></p></td>
+</tr><tr bgcolor="#ebebc4">
+<td width="164" align="center"><p><a href="06.HTM"><img src="../../../_alleima/x06.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+Gėrimai
+</span></a>
+<button onclick="document.getElementById('6').play()">►</button>
+<audio id="6">
+<source src="../../../_alleima/_mp3/LT/x06.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">Beverages
+</span><br></p></td>
+<td width="164" align="center"><p><a href="07.HTM"><img src="../../../_alleima/x07.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+Žmonės
+</span></a>
+<button onclick="document.getElementById('7').play()">►</button>
+<audio id="7">
+<source src="../../../_alleima/_mp3/LT/x07.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">People
+</span><br></p></td>
+<td width="164" align="center"><p><a href="08.HTM"><img src="../../../_alleima/x08.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+Laikas
+</span></a>
+<button onclick="document.getElementById('8').play()">►</button>
+<audio id="8">
+<source src="../../../_alleima/_mp3/LT/x08.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">Time
+</span><br></p></td>
+<td width="164" align="center"><p><a href="09.HTM"><img src="../../../_alleima/x09.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+Aplinka
+</span></a>
+<button onclick="document.getElementById('9').play()">►</button>
+<audio id="9">
+<source src="../../../_alleima/_mp3/LT/x09.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">Environment
+</span><br></p></td>
+<td width="164" align="center"><p><a href="10.HTM"><img src="../../../_alleima/x10.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+Įpakavimas
+</span></a>
+<button onclick="document.getElementById('10').play()">►</button>
+<audio id="10">
+<source src="../../../_alleima/_mp3/LT/x10.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">Packaging
+</span><br></p></td>
+</tr><tr bgcolor="#ebebc4">
+<td width="164" align="center"><p><a href="11.HTM"><img src="../../../_alleima/x11.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+Įrankiai
+</span></a>
+<button onclick="document.getElementById('11').play()">►</button>
+<audio id="11">
+<source src="../../../_alleima/_mp3/LT/x11.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">Tools
+</span><br></p></td>
+<td width="164" align="center"><p><a href="12.HTM"><img src="../../../_alleima/x12.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+Eismas
+</span></a>
+<button onclick="document.getElementById('12').play()">►</button>
+<audio id="12">
+<source src="../../../_alleima/_mp3/LT/x12.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">Traffic
+</span><br></p></td>
+<td width="164" align="center"><p><a href="13.HTM"><img src="../../../_alleima/x13.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+Vaisiai
+</span></a>
+<button onclick="document.getElementById('13').play()">►</button>
+<audio id="13">
+<source src="../../../_alleima/_mp3/LT/x13.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">Fruits
+</span><br></p></td>
+<td width="164" align="center"><p><a href="14.HTM"><img src="../../../_alleima/x14.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+Laisvalaikis
+</span></a>
+<button onclick="document.getElementById('14').play()">►</button>
+<audio id="14">
+<source src="../../../_alleima/_mp3/LT/x14.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">Leisure
+</span><br></p></td>
+<td width="164" align="center"><p><a href="15.HTM"><img src="../../../_alleima/x15.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+Kariuomenė
+</span></a>
+<button onclick="document.getElementById('15').play()">►</button>
+<audio id="15">
+<source src="../../../_alleima/_mp3/LT/x15.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">Military
+</span><br></p></td>
+</tr><tr bgcolor="#ebebc4">
+<td width="164" align="center"><p><a href="16.HTM"><img src="../../../_alleima/x16.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+Apranga
+</span></a>
+<button onclick="document.getElementById('16').play()">►</button>
+<audio id="16">
+<source src="../../../_alleima/_mp3/LT/x16.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">Clothing
+</span><br></p></td>
+<td width="164" align="center"><p><a href="17.HTM"><img src="../../../_alleima/x17.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+Komunikacija
+</span></a>
+<button onclick="document.getElementById('17').play()">►</button>
+<audio id="17">
+<source src="../../../_alleima/_mp3/LT/x17.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">Communication
+</span><br></p></td>
+<td width="164" align="center"><p><a href="18.HTM"><img src="../../../_alleima/x18.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+Technologija
+</span></a>
+<button onclick="document.getElementById('18').play()">►</button>
+<audio id="18">
+<source src="../../../_alleima/_mp3/LT/x18.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">Technology
+</span><br></p></td>
+<td width="164" align="center"><p><a href="19.HTM"><img src="../../../_alleima/x19.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+Butas
+</span></a>
+<button onclick="document.getElementById('19').play()">►</button>
+<audio id="19">
+<source src="../../../_alleima/_mp3/LT/x19.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">Apartment
+</span><br></p></td>
+<td width="164" align="center"><p><a href="20.HTM"><img src="../../../_alleima/x20.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+Maistas
+</span></a>
+<button onclick="document.getElementById('20').play()">►</button>
+<audio id="20">
+<source src="../../../_alleima/_mp3/LT/x20.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">Food
+</span><br></p></td>
+</tr><tr bgcolor="#ebebc4">
+<td width="164" align="center"><p><a href="21.HTM"><img src="../../../_alleima/x21.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+Profesijos
+</span></a>
+<button onclick="document.getElementById('21').play()">►</button>
+<audio id="21">
+<source src="../../../_alleima/_mp3/LT/x21.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">Occupations
+</span><br></p></td>
+<td width="164" align="center"><p><a href="22.HTM"><img src="../../../_alleima/x22.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+Daržovės
+</span></a>
+<button onclick="document.getElementById('22').play()">►</button>
+<audio id="22">
+<source src="../../../_alleima/_mp3/LT/x22.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">Vegetables
+</span><br></p></td>
+<td width="164" align="center"><p><a href="23.HTM"><img src="../../../_alleima/x23.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+Daiktai
+</span></a>
+<button onclick="document.getElementById('23').play()">►</button>
+<audio id="23">
+<source src="../../../_alleima/_mp3/LT/x23.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">Objects
+</span><br></p></td>
+<td width="164" align="center"><p><a href="24.HTM"><img src="../../../_alleima/x24.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+Mokslas
+</span></a>
+<button onclick="document.getElementById('24').play()">►</button>
+<audio id="24">
+<source src="../../../_alleima/_mp3/LT/x24.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">Education
+</span><br></p></td>
+<td width="164" align="center"><p><a href="25.HTM"><img src="../../../_alleima/x25.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+Kūnas
+</span></a>
+<button onclick="document.getElementById('25').play()">►</button>
+<audio id="25">
+<source src="../../../_alleima/_mp3/LT/x25.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">Body
+</span><br></p></td>
+</tr><tr bgcolor="#ebebc4">
+<td width="164" align="center"><p><a href="26.HTM"><img src="../../../_alleima/x26.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+Gamta
+</span></a>
+<button onclick="document.getElementById('26').play()">►</button>
+<audio id="26">
+<source src="../../../_alleima/_mp3/LT/x26.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">Nature
+</span><br></p></td>
+<td width="164" align="center"><p><a href="27.HTM"><img src="../../../_alleima/x27.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+Finansai
+</span></a>
+<button onclick="document.getElementById('27').play()">►</button>
+<audio id="27">
+<source src="../../../_alleima/_mp3/LT/x27.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">Finances
+</span><br></p></td>
+<td width="164" align="center"><p><a href="28.HTM"><img src="../../../_alleima/x28.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+Baldai
+</span></a>
+<button onclick="document.getElementById('28').play()">►</button>
+<audio id="28">
+<source src="../../../_alleima/_mp3/LT/x28.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">Furniture
+</span><br></p></td>
+<td width="164" align="center"><p><a href="29.HTM"><img src="../../../_alleima/x29.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+Religija
+</span></a>
+<button onclick="document.getElementById('29').play()">►</button>
+<audio id="29">
+<source src="../../../_alleima/_mp3/LT/x29.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">Religion
+</span><br></p></td>
+<td width="164" align="center"><p><a href="30.HTM"><img src="../../../_alleima/x30.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+Augalai
+</span></a>
+<button onclick="document.getElementById('30').play()">►</button>
+<audio id="30">
+<source src="../../../_alleima/_mp3/LT/x30.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">Plants
+</span><br></p></td>
+</tr><tr bgcolor="#ebebc4">
+<td width="164" align="center"><p><a href="31.HTM"><img src="../../../_alleima/x31.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+Abstraktūs žodžiai
+</span></a>
+<button onclick="document.getElementById('31').play()">►</button>
+<audio id="31">
+<source src="../../../_alleima/_mp3/LT/x31.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">Abstract terms
+</span><br></p></td>
+<td width="164" align="center"><p><a href="32.HTM"><img src="../../../_alleima/x32.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+Virtuviniai prietaisai
+</span></a>
+<button onclick="document.getElementById('32').play()">►</button>
+<audio id="32">
+<source src="../../../_alleima/_mp3/LT/x32.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">Kitchen appliances
+</span><br></p></td>
+<td width="164" align="center"><p><a href="33.HTM"><img src="../../../_alleima/x33.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+Medžiagos
+</span></a>
+<button onclick="document.getElementById('33').play()">►</button>
+<audio id="33">
+<source src="../../../_alleima/_mp3/LT/x33.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">Materials
+</span><br></p></td>
+<td width="164" align="center"><p><a href="34.HTM"><img src="../../../_alleima/x34.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+Sveikata
+</span></a>
+<button onclick="document.getElementById('34').play()">►</button>
+<audio id="34">
+<source src="../../../_alleima/_mp3/LT/x34.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">Health
+</span><br></p></td>
+<td width="164" align="center"><p><a href="35.HTM"><img src="../../../_alleima/x35.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+Automobilis
+</span></a>
+<button onclick="document.getElementById('35').play()">►</button>
+<audio id="35">
+<source src="../../../_alleima/_mp3/LT/x35.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">Car
+</span><br></p></td>
+</tr><tr bgcolor="#ebebc4">
+<td width="164" align="center"><p><a href="36.HTM"><img src="../../../_alleima/x36.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+Menai
+</span></a>
+<button onclick="document.getElementById('36').play()">►</button>
+<audio id="36">
+<source src="../../../_alleima/_mp3/LT/x36.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">Arts
+</span><br></p></td>
+<td width="164" align="center"><p><a href="37.HTM"><img src="../../../_alleima/x37.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+Miestas
+</span></a>
+<button onclick="document.getElementById('37').play()">►</button>
+<audio id="37">
+<source src="../../../_alleima/_mp3/LT/x37.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">City
+</span><br></p></td>
+<td width="164" align="center"><p><a href="38.HTM"><img src="../../../_alleima/x38.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+Oras
+</span></a>
+<button onclick="document.getElementById('38').play()">►</button>
+<audio id="38">
+<source src="../../../_alleima/_mp3/LT/x38.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">Weather
+</span><br></p></td>
+<td width="164" align="center"><p><a href="39.HTM"><img src="../../../_alleima/x39.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+Apsipirkimas
+</span></a>
+<button onclick="document.getElementById('39').play()">►</button>
+<audio id="39">
+<source src="../../../_alleima/_mp3/LT/x39.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">Shopping
+</span><br></p></td>
+<td width="164" align="center"><p><a href="40.HTM"><img src="../../../_alleima/x40.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+Architektūra
+</span></a>
+<button onclick="document.getElementById('40').play()">►</button>
+<audio id="40">
+<source src="../../../_alleima/_mp3/LT/x40.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">Architecture
+</span><br></p></td>
+</tr><tr bgcolor="#ebebc4">
+<td width="164" align="center"><p><a href="41.HTM"><img src="../../../_alleima/x41.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+Dideli gyvūnai
+</span></a>
+<button onclick="document.getElementById('41').play()">►</button>
+<audio id="41">
+<source src="../../../_alleima/_mp3/LT/x41.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">Big animals
+</span><br></p></td>
+<td width="164" align="center"><p><a href="42.HTM"><img src="../../../_alleima/x42.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+Maži gyvūnai
+</span></a>
+<button onclick="document.getElementById('42').play()">►</button>
+<audio id="42">
+<source src="../../../_alleima/_mp3/LT/x42.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">Small animals
+</span><br></p></td>
+<td width="164" align="center"><p><br></p></td>
+<td width="164" align="center"><p><br></p></td>
+<td width="164" align="center"><p><br></p></td>
+</tr>
+</tbody></table>
+<form><input type="BUTTON" value="Go back" onclick="history.go(-1)"></form>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-3977703-3");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body></html>

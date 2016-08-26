@@ -1,0 +1,2974 @@
+[
+  {
+    "topic": "1 People",
+    "words": [
+      { "t": "1 [one]", "l": "1 [jedna]", "a": "0001.mp3" },
+      { "t": "People", "l": "Osoby", "a": "0002.mp3" },
+      { "t": "I", "l": "já", "a": "0003.mp3" },
+      { "t": "I and you", "l": "já a ty", "a": "0004.mp3" },
+      { "t": "both of us", "l": "my oba / my obě", "a": "0005.mp3" },
+      { "t": "he", "l": "on", "a": "0006.mp3" },
+      { "t": "he and she", "l": "on a ona", "a": "0007.mp3" },
+      { "t": "they both", "l": "oni oba / ony obě", "a": "0008.mp3" },
+      { "t": "the man", "l": "muž", "a": "0009.mp3" },
+      { "t": "the woman", "l": "žena", "a": "0010.mp3" },
+      { "t": "the child", "l": "dítě", "a": "0011.mp3" },
+      { "t": "a family", "l": "rodina", "a": "0012.mp3" },
+      { "t": "my family", "l": "moje rodina", "a": "0013.mp3" },
+      { "t": "My family is here.", "l": "Moje rodina je tady.", "a": "0014.mp3" },
+      { "t": "I am here.", "l": "Jsem tady.", "a": "0015.mp3" },
+      { "t": "You are here.", "l": "Jsi tady.", "a": "0016.mp3" },
+      { "t": "He is here and she is here.", "l": "On je tady a ona je tady.", "a": "0017.mp3" },
+      { "t": "We are here.", "l": "Jsme tady.", "a": "0018.mp3" },
+      { "t": "You are here.", "l": "Jste tady.", "a": "0019.mp3" },
+      { "t": "They are all here.", "l": "Všichni jsou tady.", "a": "0020.mp3" }
+    ]
+  },
+  {
+    "topic": "2 Family Members",
+    "words": [
+      { "t": "2 [two]", "l": "2 [dvě]", "a": "0021.mp3" },
+      { "t": "Family Members", "l": "Rodina", "a": "0022.mp3" },
+      { "t": "the grandfather", "l": "dědeček", "a": "0023.mp3" },
+      { "t": "the grandmother", "l": "babička", "a": "0024.mp3" },
+      { "t": "he and she", "l": "on a ona", "a": "0025.mp3" },
+      { "t": "the father", "l": "otec", "a": "0026.mp3" },
+      { "t": "the mother", "l": "matka", "a": "0027.mp3" },
+      { "t": "he and she", "l": "on a ona", "a": "0028.mp3" },
+      { "t": "the son", "l": "syn", "a": "0029.mp3" },
+      { "t": "the daughter", "l": "dcera", "a": "0030.mp3" },
+      { "t": "he and she", "l": "on a ona", "a": "0031.mp3" },
+      { "t": "the brother", "l": "bratr", "a": "0032.mp3" },
+      { "t": "the sister", "l": "sestra", "a": "0033.mp3" },
+      { "t": "he and she", "l": "on a ona", "a": "0034.mp3" },
+      { "t": "the uncle", "l": "strýc", "a": "0035.mp3" },
+      { "t": "the aunt", "l": "teta", "a": "0036.mp3" },
+      { "t": "he and she", "l": "on a ona", "a": "0037.mp3" },
+      { "t": "We are a family.", "l": "My jsme rodina.", "a": "0038.mp3" },
+      { "t": "The family is not small.", "l": "Rodina není malá.", "a": "0039.mp3" },
+      { "t": "The family is big.", "l": "Rodina je velká.", "a": "0040.mp3" }
+    ]
+  },
+  {
+    "topic": "3 Getting to know others",
+    "words": [
+      { "t": "3 [three]", "l": "3 [tři]", "a": "0041.mp3" },
+      { "t": "Getting to know others", "l": "Seznamování", "a": "0042.mp3" },
+      { "t": "Hi!", "l": "Ahoj!", "a": "0043.mp3" },
+      { "t": "Hello!", "l": "Dobrý den!", "a": "0044.mp3" },
+      { "t": "How are you?", "l": "Jak se máte?", "a": "0045.mp3" },
+      { "t": "Do you come from Europe?", "l": "Jste z Evropy?", "a": "0046.mp3" },
+      { "t": "Do you come from America?", "l": "Jste z Ameriky?", "a": "0047.mp3" },
+      { "t": "Do you come from Asia?", "l": "Jste z Asie?", "a": "0048.mp3" },
+      { "t": "In which hotel are you staying?", "l": "Ve kterém hotelu bydlíte?", "a": "0049.mp3" },
+      { "t": "How long have you been here for?", "l": "Jak dlouho už tu jste?", "a": "0050.mp3" },
+      { "t": "How long will you be staying?", "l": "Jak dlouho tu zůstanete?", "a": "0051.mp3" },
+      { "t": "Do you like it here?", "l": "Líbí se Vám tady?", "a": "0052.mp3" },
+      { "t": "Are you here on vacation?", "l": "Jste tu na dovolené?", "a": "0053.mp3" },
+      { "t": "Please do visit me sometime!", "l": "Přijďte ke mně někdy na návštěvu!", "a": "0054.mp3" },
+      { "t": "Here is my address.", "l": "Tady máte mou adresu.", "a": "0055.mp3" },
+      { "t": "Shall we see each other tomorrow?", "l": "Uvidíme se zítra?", "a": "0056.mp3" },
+      {
+        "t": "I am sorry, but I already have plans.",
+        "l": "Mrzí mě to, ale už mám v plánu něco jiného.",
+        "a": "0057.mp3"
+      },
+      { "t": "Bye!", "l": "Čau!", "a": "0058.mp3" },
+      { "t": "Good bye!", "l": "Na shledanou!", "a": "0059.mp3" },
+      { "t": "See you soon!", "l": "Tak zatím!", "a": "0060.mp3" }
+    ]
+  },
+  {
+    "topic": "4 At school",
+    "words": [
+      { "t": "4 [four]", "l": "4 [čtyři]", "a": "0061.mp3" },
+      { "t": "At school", "l": "Ve škole", "a": "0062.mp3" },
+      { "t": "Where are we?", "l": "Kde jsme?", "a": "0063.mp3" },
+      { "t": "We are at school.", "l": "Jsme ve škole.", "a": "0064.mp3" },
+      { "t": "We are having class / a lesson.", "l": "Máme vyučování.", "a": "0065.mp3" },
+      { "t": "Those are the school children.", "l": "To jsou žáci.", "a": "0066.mp3" },
+      { "t": "That is the teacher.", "l": "To je učitelka.", "a": "0067.mp3" },
+      { "t": "That is the class.", "l": "To je třída.", "a": "0068.mp3" },
+      { "t": "What are we doing?", "l": "Co děláme?", "a": "0069.mp3" },
+      { "t": "We are learning.", "l": "Učíme se.", "a": "0070.mp3" },
+      { "t": "We are learning a language.", "l": "Učíme se jazyk.", "a": "0071.mp3" },
+      { "t": "I learn English.", "l": "Já se učím anglicky.", "a": "0072.mp3" },
+      { "t": "You learn Spanish.", "l": "Ty se učíš španělsky.", "a": "0073.mp3" },
+      { "t": "He learns German.", "l": "On se učí německy.", "a": "0074.mp3" },
+      { "t": "We learn French.", "l": "My se učíme francouzsky.", "a": "0075.mp3" },
+      { "t": "You all learn Italian.", "l": "Vy se učíte italsky.", "a": "0076.mp3" },
+      { "t": "They learn Russian.", "l": "Oni se učí rusky.", "a": "0077.mp3" },
+      { "t": "Learning languages is interesting.", "l": "Učit se jazyky je zajímavé.", "a": "0078.mp3" },
+      { "t": "We want to understand people.", "l": "Chceme rozumět lidem.", "a": "0079.mp3" },
+      { "t": "We want to speak with people.", "l": "Chceme mluvit s lidmi.", "a": "0080.mp3" }
+    ]
+  },
+  {
+    "topic": "5 Countries and Languages",
+    "words": [
+      { "t": "5 [five]", "l": "5 [pět]", "a": "0081.mp3" },
+      { "t": "Countries and Languages", "l": "Země a jazyky", "a": "0082.mp3" },
+      { "t": "John is from London.", "l": "John je z Londýna.", "a": "0083.mp3" },
+      { "t": "London is in Great Britain.", "l": "Londýn leží ve Velké Británii.", "a": "0084.mp3" },
+      { "t": "He speaks English.", "l": "On mluví anglicky.", "a": "0085.mp3" },
+      { "t": "Maria is from Madrid.", "l": "Maria je z Madridu.", "a": "0086.mp3" },
+      { "t": "Madrid is in Spain.", "l": "Madrid leží ve Španělsku.", "a": "0087.mp3" },
+      { "t": "She speaks Spanish.", "l": "Ona mluví španělsky.", "a": "0088.mp3" },
+      { "t": "Peter and Martha are from Berlin.", "l": "Petr a Marta jsou z Berlína.", "a": "0089.mp3" },
+      { "t": "Berlin is in Germany.", "l": "Berlín leží v Německu.", "a": "0090.mp3" },
+      { "t": "Do both of you speak German?", "l": "Mluvíte oba / obě německy?", "a": "0091.mp3" },
+      { "t": "London is a capital city.", "l": "Londýn je hlavní město.", "a": "0092.mp3" },
+      {
+        "t": "Madrid and Berlin are also capital cities.",
+        "l": "Madrid a Berlín jsou také hlavní města.",
+        "a": "0093.mp3"
+      },
+      { "t": "Capital cities are big and noisy.", "l": "Hlavní města jsou velká a hlučná.", "a": "0094.mp3" },
+      { "t": "France is in Europe.", "l": "Francie leží v Evropě.", "a": "0095.mp3" },
+      { "t": "Egypt is in Africa.", "l": "Egypt leží v Africe.", "a": "0096.mp3" },
+      { "t": "Japan is in Asia.", "l": "Japonsko leží v Asii.", "a": "0097.mp3" },
+      { "t": "Canada is in North America.", "l": "Kanada leží v Severní Americe.", "a": "0098.mp3" },
+      { "t": "Panama is in Central America.", "l": "Panama leží ve Střední Americe.", "a": "0099.mp3" },
+      { "t": "Brazil is in South America.", "l": "Brazílie leží v Jižní Americe.", "a": "0100.mp3" }
+    ]
+  },
+  {
+    "topic": "6 Reading and writing",
+    "words": [
+      { "t": "6 [six]", "l": "6 [šest]", "a": "0101.mp3" },
+      { "t": "Reading and writing", "l": "Čtení a psaní", "a": "0102.mp3" },
+      { "t": "I read.", "l": "Čtu.", "a": "0103.mp3" },
+      { "t": "I read a letter.", "l": "Čtu písmeno.", "a": "0104.mp3" },
+      { "t": "I read a word.", "l": "Čtu slovo.", "a": "0105.mp3" },
+      { "t": "I read a sentence.", "l": "Čtu větu.", "a": "0106.mp3" },
+      { "t": "I read a letter.", "l": "Čtu dopis.", "a": "0107.mp3" },
+      { "t": "I read a book.", "l": "Čtu knihu.", "a": "0108.mp3" },
+      { "t": "I read.", "l": "Čtu.", "a": "0109.mp3" },
+      { "t": "You read.", "l": "Čteš.", "a": "0110.mp3" },
+      { "t": "He reads.", "l": "Čte.", "a": "0111.mp3" },
+      { "t": "I write.", "l": "Píšu.", "a": "0112.mp3" },
+      { "t": "I write a letter / character.", "l": "Píšu písmeno.", "a": "0113.mp3" },
+      { "t": "I write a word.", "l": "Píšu slovo.", "a": "0114.mp3" },
+      { "t": "I write a sentence.", "l": "Píšu větu.", "a": "0115.mp3" },
+      { "t": "I write a letter.", "l": "Píšu dopis.", "a": "0116.mp3" },
+      { "t": "I write a book.", "l": "Píšu knihu.", "a": "0117.mp3" },
+      { "t": "I write.", "l": "Píšu.", "a": "0118.mp3" },
+      { "t": "You write.", "l": "Píšeš.", "a": "0119.mp3" },
+      { "t": "He writes.", "l": "Píše.", "a": "0120.mp3" }
+    ]
+  },
+  {
+    "topic": "7 Numbers",
+    "words": [
+      { "t": "7 [seven]", "l": "7 [sedm]", "a": "0121.mp3" },
+      { "t": "Numbers", "l": "Čísla", "a": "0122.mp3" },
+      { "t": "I count:", "l": "Počítám:", "a": "0123.mp3" },
+      { "t": "one, two, three", "l": "jedna, dvě, tři", "a": "0124.mp3" },
+      { "t": "I count to three.", "l": "Počítám do tří.", "a": "0125.mp3" },
+      { "t": "I count further:", "l": "Počítám dále:", "a": "0126.mp3" },
+      { "t": "four, five, six,", "l": "čtyři, pět, šest,", "a": "0127.mp3" },
+      { "t": "seven, eight, nine", "l": "sedm, osm, devět", "a": "0128.mp3" },
+      { "t": "I count.", "l": "Počítám.", "a": "0129.mp3" },
+      { "t": "You count.", "l": "Počítáš.", "a": "0130.mp3" },
+      { "t": "He counts.", "l": "Počítá.", "a": "0131.mp3" },
+      { "t": "One. The first.", "l": "Jedna. První.", "a": "0132.mp3" },
+      { "t": "Two. The second.", "l": "Dvě. Druhý.", "a": "0133.mp3" },
+      { "t": "Three. The third.", "l": "Tři. Třetí.", "a": "0134.mp3" },
+      { "t": "Four. The fourth.", "l": "Čtyři. Čtvrtý.", "a": "0135.mp3" },
+      { "t": "Five. The fifth.", "l": "Pět. Pátý.", "a": "0136.mp3" },
+      { "t": "Six. The sixth.", "l": "Šest. Šestý.", "a": "0137.mp3" },
+      { "t": "Seven. The seventh.", "l": "Sedm. Sedmý.", "a": "0138.mp3" },
+      { "t": "Eight. The eighth.", "l": "Osm. Osmý.", "a": "0139.mp3" },
+      { "t": "Nine. The ninth.", "l": "Devět. Devátý.", "a": "0140.mp3" }
+    ]
+  },
+  {
+    "topic": "8 The time",
+    "words": [
+      { "t": "8 [eight]", "l": "8 [osm]", "a": "0141.mp3" },
+      { "t": "The time", "l": "Časové údaje", "a": "0142.mp3" },
+      { "t": "Excuse me!", "l": "Promiňte!", "a": "0143.mp3" },
+      { "t": "What time is it, please?", "l": "Kolik je hodin, prosím?", "a": "0144.mp3" },
+      { "t": "Thank you very much.", "l": "Děkuji mnohokrát.", "a": "0145.mp3" },
+      { "t": "It is one o’clock.", "l": "Je jedna hodina.", "a": "0146.mp3" },
+      { "t": "It is two o’clock.", "l": "Jsou dvě hodiny.", "a": "0147.mp3" },
+      { "t": "It is three o’clock.", "l": "Jsou tři hodiny.", "a": "0148.mp3" },
+      { "t": "It is four o’clock.", "l": "Jsou čtyři hodiny.", "a": "0149.mp3" },
+      { "t": "It is five o’clock.", "l": "Je pět hodin.", "a": "0150.mp3" },
+      { "t": "It is six o’clock.", "l": "Je šest hodin.", "a": "0151.mp3" },
+      { "t": "It is seven o’clock.", "l": "Je sedm hodin.", "a": "0152.mp3" },
+      { "t": "It is eight o’clock.", "l": "Je osm hodin.", "a": "0153.mp3" },
+      { "t": "It is nine o’clock.", "l": "Je devět hodin.", "a": "0154.mp3" },
+      { "t": "It is ten o’clock.", "l": "Je deset hodin.", "a": "0155.mp3" },
+      { "t": "It is eleven o’clock.", "l": "Je jedenáct hodin.", "a": "0156.mp3" },
+      { "t": "It is twelve o’clock.", "l": "Je dvanáct hodin.", "a": "0157.mp3" },
+      { "t": "A minute has sixty seconds.", "l": "Jedna minuta má šedesát sekund.", "a": "0158.mp3" },
+      { "t": "An hour has sixty minutes.", "l": "Jedna hodina má šedesát minut.", "a": "0159.mp3" },
+      { "t": "A day has twenty-four hours.", "l": "Jeden den má dvacet čtyři hodin.", "a": "0160.mp3" }
+    ]
+  },
+  {
+    "topic": "9 Days of the week",
+    "words": [
+      { "t": "9 [nine]", "l": "9 [devět]", "a": "0161.mp3" },
+      { "t": "Days of the week", "l": "Dny v týdnu", "a": "0162.mp3" },
+      { "t": "Monday", "l": "pondělí", "a": "0163.mp3" },
+      { "t": "Tuesday", "l": "úterý", "a": "0164.mp3" },
+      { "t": "Wednesday", "l": "středa", "a": "0165.mp3" },
+      { "t": "Thursday", "l": "čtvrtek", "a": "0166.mp3" },
+      { "t": "Friday", "l": "pátek", "a": "0167.mp3" },
+      { "t": "Saturday", "l": "sobota", "a": "0168.mp3" },
+      { "t": "Sunday", "l": "neděle", "a": "0169.mp3" },
+      { "t": "the week", "l": "týden", "a": "0170.mp3" },
+      { "t": "from Monday to Sunday", "l": "od pondělí do neděle", "a": "0171.mp3" },
+      { "t": "The first day is Monday.", "l": "První den je pondělí.", "a": "0172.mp3" },
+      { "t": "The second day is Tuesday.", "l": "Druhý den je úterý.", "a": "0173.mp3" },
+      { "t": "The third day is Wednesday.", "l": "Třetí den je středa.", "a": "0174.mp3" },
+      { "t": "The fourth day is Thursday.", "l": "Čtvrtý den je čtvrtek.", "a": "0175.mp3" },
+      { "t": "The fifth day is Friday.", "l": "Pátý den je pátek.", "a": "0176.mp3" },
+      { "t": "The sixth day is Saturday.", "l": "Šestý den je sobota.", "a": "0177.mp3" },
+      { "t": "The seventh day is Sunday.", "l": "Sedmý den je neděle.", "a": "0178.mp3" },
+      { "t": "The week has seven days.", "l": "Týden má sedm dní.", "a": "0179.mp3" },
+      { "t": "We only work for five days.", "l": "Pracujeme jen pět dní.", "a": "0180.mp3" }
+    ]
+  },
+  {
+    "topic": "10 Yesterday – today – tomorrow",
+    "words": [
+      { "t": "10 [ten]", "l": "10 [deset]", "a": "0181.mp3" },
+      { "t": "Yesterday – today – tomorrow", "l": "Včera – dnes – zítra", "a": "0182.mp3" },
+      { "t": "Yesterday was Saturday.", "l": "Včera byla sobota.", "a": "0183.mp3" },
+      { "t": "I was at the cinema yesterday.", "l": "Včera jsem byl / byla v kině.", "a": "0184.mp3" },
+      { "t": "The film was interesting.", "l": "Ten film byl zajímavý.", "a": "0185.mp3" },
+      { "t": "Today is Sunday.", "l": "Dnes je neděle.", "a": "0186.mp3" },
+      { "t": "I’m not working today.", "l": "Dnes nepracuji.", "a": "0187.mp3" },
+      { "t": "I’m staying at home.", "l": "Zůstanu doma.", "a": "0188.mp3" },
+      { "t": "Tomorrow is Monday.", "l": "Zítra je pondělí.", "a": "0189.mp3" },
+      { "t": "Tomorrow I will work again.", "l": "Zítra zase pracuji.", "a": "0190.mp3" },
+      { "t": "I work at an office.", "l": "Pracuji v kanceláři.", "a": "0191.mp3" },
+      { "t": "Who is that?", "l": "Kdo je to?", "a": "0192.mp3" },
+      { "t": "That is Peter.", "l": "To je Petr.", "a": "0193.mp3" },
+      { "t": "Peter is a student.", "l": "Petr je student.", "a": "0194.mp3" },
+      { "t": "Who is that?", "l": "Kdo je to?", "a": "0195.mp3" },
+      { "t": "That is Martha.", "l": "To je Marta.", "a": "0196.mp3" },
+      { "t": "Martha is a secretary.", "l": "Marta je sekretářka.", "a": "0197.mp3" },
+      { "t": "Peter and Martha are friends.", "l": "Petr a Marta jsou přátelé.", "a": "0198.mp3" },
+      { "t": "Peter is Martha’s friend.", "l": "Petr je Martin přítel.", "a": "0199.mp3" },
+      { "t": "Martha is Peter’s friend.", "l": "Marta je Petrova přítelkyně.", "a": "0200.mp3" }
+    ]
+  },
+  {
+    "topic": "11 Months",
+    "words": [
+      { "t": "11 [eleven]", "l": "11 [jedenáct]", "a": "0201.mp3" },
+      { "t": "Months", "l": "Měsíce", "a": "0202.mp3" },
+      { "t": "January", "l": "leden", "a": "0203.mp3" },
+      { "t": "February", "l": "únor", "a": "0204.mp3" },
+      { "t": "March", "l": "březen", "a": "0205.mp3" },
+      { "t": "April", "l": "duben", "a": "0206.mp3" },
+      { "t": "May", "l": "květen", "a": "0207.mp3" },
+      { "t": "June", "l": "červen", "a": "0208.mp3" },
+      { "t": "These are six months.", "l": "To je šest měsíců.", "a": "0209.mp3" },
+      { "t": "January, February, March,", "l": "Leden, únor, březen,", "a": "0210.mp3" },
+      { "t": "April, May and June.", "l": "duben, květen a červen.", "a": "0211.mp3" },
+      { "t": "July", "l": "červenec", "a": "0212.mp3" },
+      { "t": "August", "l": "srpen", "a": "0213.mp3" },
+      { "t": "September", "l": "září", "a": "0214.mp3" },
+      { "t": "October", "l": "říjen", "a": "0215.mp3" },
+      { "t": "November", "l": "listopad", "a": "0216.mp3" },
+      { "t": "December", "l": "prosinec", "a": "0217.mp3" },
+      { "t": "These are also six months.", "l": "To je také šest měsíců.", "a": "0218.mp3" },
+      { "t": "July, August, September,", "l": "Červenec, srpen, září,", "a": "0219.mp3" },
+      { "t": "October, November and December.", "l": "říjen, listopad a prosinec.", "a": "0220.mp3" }
+    ]
+  },
+  {
+    "topic": "12 Beverages",
+    "words": [
+      { "t": "12 [twelve]", "l": "12 [dvanáct]", "a": "0221.mp3" },
+      { "t": "Beverages", "l": "Nápoje", "a": "0222.mp3" },
+      { "t": "I drink tea.", "l": "Piju čaj.", "a": "0223.mp3" },
+      { "t": "I drink coffee.", "l": "Piju kávu / kafe.", "a": "0224.mp3" },
+      { "t": "I drink mineral water.", "l": "Piju minerálku.", "a": "0225.mp3" },
+      { "t": "Do you drink tea with lemon?", "l": "Piješ čaj s citrónem?", "a": "0226.mp3" },
+      { "t": "Do you drink coffee with sugar?", "l": "Piješ slazenou kávu?", "a": "0227.mp3" },
+      { "t": "Do you drink water with ice?", "l": "Piješ vodu s ledem?", "a": "0228.mp3" },
+      { "t": "There is a party here.", "l": "Je tady párty / večírek / mejdan.", "a": "0229.mp3" },
+      { "t": "People are drinking champagne.", "l": "Pije se šampaňské.", "a": "0230.mp3" },
+      { "t": "People are drinking wine and beer.", "l": "Pije se víno a pivo.", "a": "0231.mp3" },
+      { "t": "Do you drink alcohol?", "l": "Piješ alkohol?", "a": "0232.mp3" },
+      { "t": "Do you drink whisky / whiskey (am.)?", "l": "Piješ whisky?", "a": "0233.mp3" },
+      { "t": "Do you drink Coke with rum?", "l": "Piješ kolu s rumem?", "a": "0234.mp3" },
+      { "t": "I do not like champagne.", "l": "Šampaňské mi nechutná.", "a": "0235.mp3" },
+      { "t": "I do not like wine.", "l": "Víno mi nechutná.", "a": "0236.mp3" },
+      { "t": "I do not like beer.", "l": "Pivo mi nechutná.", "a": "0237.mp3" },
+      { "t": "The baby likes milk.", "l": "To dítě má rádo mléko.", "a": "0238.mp3" },
+      {
+        "t": "The child likes cocoa and apple juice.",
+        "l": "To dítě má rádo kakao a jablečný džus.",
+        "a": "0239.mp3"
+      },
+      {
+        "t": "The woman likes orange and grapefruit juice.",
+        "l": "Ta paní má ráda pomerančový a grepový džus.",
+        "a": "0240.mp3"
+      }
+    ]
+  },
+  {
+    "topic": "13 Activities",
+    "words": [
+      { "t": "13 [thirteen]", "l": "13 [třináct]", "a": "0241.mp3" },
+      { "t": "Activities", "l": "Činnosti", "a": "0242.mp3" },
+      { "t": "What does Martha do?", "l": "Co dělá Marta?", "a": "0243.mp3" },
+      { "t": "She works at an office.", "l": "Pracuje v kanceláři.", "a": "0244.mp3" },
+      { "t": "She works on the computer.", "l": "Pracuje s počítačem.", "a": "0245.mp3" },
+      { "t": "Where is Martha?", "l": "Kde je Marta?", "a": "0246.mp3" },
+      { "t": "At the cinema.", "l": "V kině.", "a": "0247.mp3" },
+      { "t": "She is watching a film.", "l": "Dívá se na film.", "a": "0248.mp3" },
+      { "t": "What does Peter do?", "l": "Co dělá Petr?", "a": "0249.mp3" },
+      { "t": "He studies at the university.", "l": "Studuje na univerzitě.", "a": "0250.mp3" },
+      { "t": "He studies languages.", "l": "Studuje jazyky.", "a": "0251.mp3" },
+      { "t": "Where is Peter?", "l": "Kde je Petr?", "a": "0252.mp3" },
+      { "t": "At the café.", "l": "V kavárně.", "a": "0253.mp3" },
+      { "t": "He is drinking coffee.", "l": "Pije kávu.", "a": "0254.mp3" },
+      { "t": "Where do they like to go?", "l": "Kam chodí rádi / rády?", "a": "0255.mp3" },
+      { "t": "To a concert.", "l": "Na koncert.", "a": "0256.mp3" },
+      { "t": "They like to listen to music.", "l": "Poslouchají rádi hudbu.", "a": "0257.mp3" },
+      { "t": "Where do they not like to go?", "l": "Kam chodí neradi / nerady?", "a": "0258.mp3" },
+      { "t": "To the disco.", "l": "Na diskotéku.", "a": "0259.mp3" },
+      { "t": "They do not like to dance.", "l": "Neradi tančí.", "a": "0260.mp3" }
+    ]
+  },
+  {
+    "topic": "14 Colors",
+    "words": [
+      { "t": "14 [fourteen]", "l": "14 [čtrnáct]", "a": "0261.mp3" },
+      { "t": "Colors", "l": "Barvy", "a": "0262.mp3" },
+      { "t": "Snow is white.", "l": "Sníh je bílý.", "a": "0263.mp3" },
+      { "t": "The sun is yellow.", "l": "Slunce je žluté.", "a": "0264.mp3" },
+      { "t": "The orange is orange.", "l": "Pomeranč je oranžový.", "a": "0265.mp3" },
+      { "t": "The cherry is red.", "l": "Třešeň je červená.", "a": "0266.mp3" },
+      { "t": "The sky is blue.", "l": "Obloha je modrá.", "a": "0267.mp3" },
+      { "t": "The grass is green.", "l": "Tráva je zelená.", "a": "0268.mp3" },
+      { "t": "The earth is brown.", "l": "Hlína je hnědá.", "a": "0269.mp3" },
+      { "t": "The cloud is grey / gray (am.).", "l": "Mrak je šedý.", "a": "0270.mp3" },
+      { "t": "The tyres / tires (am.) are black.", "l": "Pneumatiky jsou černé.", "a": "0271.mp3" },
+      { "t": "What colour / color (am.) is the snow? White.", "l": "Jakou barvu má sníh? Bílou.", "a": "0272.mp3" },
+      { "t": "What colour / color (am.) is the sun? Yellow.", "l": "Jakou barvu má slunce? Žlutou.", "a": "0273.mp3" },
+      {
+        "t": "What colour / color (am.) is the orange? Orange.",
+        "l": "Jakou barvu má pomeranč? Oranžovou.",
+        "a": "0274.mp3"
+      },
+      {
+        "t": "What colour / color (am.) is the cherry? Red.",
+        "l": "Jakou barvu má třešeň? Červenou.",
+        "a": "0275.mp3"
+      },
+      { "t": "What colour / color (am.) is the sky? Blue.", "l": "Jakou barvu má obloha? Modrou.", "a": "0276.mp3" },
+      {
+        "t": "What colour / color (am.) is the grass? Green.",
+        "l": "Jakou barvu má tráva? Zelenou.",
+        "a": "0277.mp3"
+      },
+      { "t": "What colour / color (am.) is the earth? Brown.", "l": "Jakou barvu má hlína? Hnědou.", "a": "0278.mp3" },
+      {
+        "t": "What colour / color (am.) is the cloud? Grey / Gray (am.).",
+        "l": "Jakou barvu má oblak? Šedou.",
+        "a": "0279.mp3"
+      },
+      {
+        "t": "What colour / color (am.) are the tyres / tires (am.)? Black.",
+        "l": "Jakou barvu mají pneumatiky? Černou.",
+        "a": "0280.mp3"
+      }
+    ]
+  },
+  {
+    "topic": "15 Fruits and food",
+    "words": [
+      { "t": "15 [fifteen]", "l": "15 [patnáct]", "a": "0281.mp3" },
+      { "t": "Fruits and food", "l": "Ovoce a potraviny", "a": "0282.mp3" },
+      { "t": "I have a strawberry.", "l": "Mám jahodu.", "a": "0283.mp3" },
+      { "t": "I have a kiwi and a melon.", "l": "Mám kiwi a meloun.", "a": "0284.mp3" },
+      { "t": "I have an orange and a grapefruit.", "l": "Mám pomeranč a grep.", "a": "0285.mp3" },
+      { "t": "I have an apple and a mango.", "l": "Mám jablko a mango.", "a": "0286.mp3" },
+      { "t": "I have a banana and a pineapple.", "l": "Mám banán a ananas.", "a": "0287.mp3" },
+      { "t": "I am making a fruit salad.", "l": "Dělám ovocný salát.", "a": "0288.mp3" },
+      { "t": "I am eating toast.", "l": "Jím toast.", "a": "0289.mp3" },
+      { "t": "I am eating toast with butter.", "l": "Jím toast s máslem.", "a": "0290.mp3" },
+      { "t": "I am eating toast with butter and jam.", "l": "Jím toast s máslem a marmeládou.", "a": "0291.mp3" },
+      { "t": "I am eating a sandwich.", "l": "Jím sendvič.", "a": "0292.mp3" },
+      { "t": "I am eating a sandwich with margarine.", "l": "Jím sendvič s margarínem.", "a": "0293.mp3" },
+      {
+        "t": "I am eating a sandwich with margarine and tomatoes.",
+        "l": "Jím sendvič s margarínem a rajčetem.",
+        "a": "0294.mp3"
+      },
+      { "t": "We need bread and rice.", "l": "Potřebujeme chléb a rýži.", "a": "0295.mp3" },
+      { "t": "We need fish and steaks.", "l": "Potřebujeme rybu a steaky.", "a": "0296.mp3" },
+      { "t": "We need pizza and spaghetti.", "l": "Potřebujeme pizzu a špagety.", "a": "0297.mp3" },
+      { "t": "What else do we need?", "l": "Co ještě potřebujeme?", "a": "0298.mp3" },
+      {
+        "t": "We need carrots and tomatoes for the soup.",
+        "l": "Potřebujeme mrkev a rajčata na polévku.",
+        "a": "0299.mp3"
+      },
+      { "t": "Where is the supermarket?", "l": "Kde je supermarket?", "a": "0300.mp3" }
+    ]
+  },
+  {
+    "topic": "17 Around the house",
+    "words": [
+      { "t": "17 [seventeen]", "l": "17 [sedmnáct]", "a": "0321.mp3" },
+      { "t": "Around the house", "l": "V dome", "a": "0322.mp3" },
+      { "t": "Our house is here.", "l": "Toto je náš dům.", "a": "0323.mp3" },
+      { "t": "The roof is on top.", "l": "Nahoře je střecha.", "a": "0324.mp3" },
+      { "t": "The basement is below.", "l": "Dole je sklep.", "a": "0325.mp3" },
+      { "t": "There is a garden behind the house.", "l": "Za domem je zahrada.", "a": "0326.mp3" },
+      { "t": "There is no street in front of the house.", "l": "Před domem nevede žádná cesta.", "a": "0327.mp3" },
+      { "t": "There are trees next to the house.", "l": "Vedle domu jsou stromy.", "a": "0328.mp3" },
+      { "t": "My apartment is here.", "l": "Toto je můj byt.", "a": "0329.mp3" },
+      { "t": "The kitchen and bathroom are here.", "l": "Tady je kuchyně a koupelna.", "a": "0330.mp3" },
+      { "t": "The living room and bedroom are there.", "l": "Tam je obývák a ložnice.", "a": "0331.mp3" },
+      { "t": "The front door is closed.", "l": "Domovní dveře jsou zavřené.", "a": "0332.mp3" },
+      { "t": "But the windows are open.", "l": "Ale okna jsou otevřená.", "a": "0333.mp3" },
+      { "t": "It is hot today.", "l": "Dnes je horko.", "a": "0334.mp3" },
+      { "t": "We are going to the living room.", "l": "Jdeme do obýváku.", "a": "0335.mp3" },
+      { "t": "There is a sofa and an armchair there.", "l": "Je tam pohovka a křeslo.", "a": "0336.mp3" },
+      { "t": "Please, sit down!", "l": "Posaďte se!", "a": "0337.mp3" },
+      { "t": "My computer is there.", "l": "Tam stojí můj počítač.", "a": "0338.mp3" },
+      { "t": "My stereo is there.", "l": "Tam stojí moje stereo věž.", "a": "0339.mp3" },
+      { "t": "The TV set is brand new.", "l": "Ta televize je úplně nová.", "a": "0340.mp3" }
+    ]
+  },
+  {
+    "topic": "18 House cleaning",
+    "words": [
+      { "t": "18 [eighteen]", "l": "18 [osmnáct]", "a": "0341.mp3" },
+      { "t": "House cleaning", "l": "Úklid", "a": "0342.mp3" },
+      { "t": "Today is Saturday.", "l": "Dnes je sobota.", "a": "0343.mp3" },
+      { "t": "We have time today.", "l": "Dnes máme čas.", "a": "0344.mp3" },
+      { "t": "We are cleaning the apartment today.", "l": "Dnes uklidíme byt.", "a": "0345.mp3" },
+      { "t": "I am cleaning the bathroom.", "l": "Já uklidím koupelnu.", "a": "0346.mp3" },
+      { "t": "My husband is washing the car.", "l": "Můj manžel umyje auto.", "a": "0347.mp3" },
+      { "t": "The children are cleaning the bicycles.", "l": "Děti umyjí kola.", "a": "0348.mp3" },
+      { "t": "Grandma is watering the flowers.", "l": "Babička zalije květiny.", "a": "0349.mp3" },
+      {
+        "t": "The children are cleaning up the children’s room.",
+        "l": "Děti si uklidí dětský pokoj.",
+        "a": "0350.mp3"
+      },
+      { "t": "My husband is tidying up his desk.", "l": "Můj manžel si uklidí svůj psací stůl.", "a": "0351.mp3" },
+      { "t": "I am putting the laundry in the washing machine.", "l": "Dám prádlo do pračky.", "a": "0352.mp3" },
+      { "t": "I am hanging up the laundry.", "l": "Pověsím prádlo.", "a": "0353.mp3" },
+      { "t": "I am ironing the clothes.", "l": "Vyžehlím prádlo.", "a": "0354.mp3" },
+      { "t": "The windows are dirty.", "l": "Okna jsou špinavá.", "a": "0355.mp3" },
+      { "t": "The floor is dirty.", "l": "Podlaha je špinavá.", "a": "0356.mp3" },
+      { "t": "The dishes are dirty.", "l": "Nádobí je špinavé.", "a": "0357.mp3" },
+      { "t": "Who washes the windows?", "l": "Kdo umyje okna?", "a": "0358.mp3" },
+      { "t": "Who does the vacuuming?", "l": "Kdo vyluxuje?", "a": "0359.mp3" },
+      { "t": "Who does the dishes?", "l": "Kdo umyje nádobí?", "a": "0360.mp3" }
+    ]
+  },
+  {
+    "topic": "19 In the kitchen",
+    "words": [
+      { "t": "19 [nineteen]", "l": "19 [devatenáct]", "a": "0361.mp3" },
+      { "t": "In the kitchen", "l": "V kuchyni", "a": "0362.mp3" },
+      { "t": "Do you have a new kitchen?", "l": "Máš novou kuchyni?", "a": "0363.mp3" },
+      { "t": "What do you want to cook today?", "l": "Co chceš dnes vařit?", "a": "0364.mp3" },
+      { "t": "Do you cook on an electric or a gas stove?", "l": "Vaříš na elektřině nebo na plynu?", "a": "0365.mp3" },
+      { "t": "Shall I cut the onions?", "l": "Mám nakrájet cibuli?", "a": "0366.mp3" },
+      { "t": "Shall I peel the potatoes?", "l": "Mám oloupat brambory?", "a": "0367.mp3" },
+      { "t": "Shall I rinse the lettuce?", "l": "Mám umýt salát?", "a": "0368.mp3" },
+      { "t": "Where are the glasses?", "l": "Kde jsou skleničky?", "a": "0369.mp3" },
+      { "t": "Where are the dishes?", "l": "Kde je nádobí?", "a": "0370.mp3" },
+      { "t": "Where is the cutlery / silverware (am.)?", "l": "Kde je příbor?", "a": "0371.mp3" },
+      { "t": "Do you have a tin opener / can opener (am.)?", "l": "Máš otvírák na konzervy?", "a": "0372.mp3" },
+      { "t": "Do you have a bottle opener?", "l": "Máš otvírák lahví?", "a": "0373.mp3" },
+      { "t": "Do you have a corkscrew?", "l": "Máš vývrtku?", "a": "0374.mp3" },
+      { "t": "Are you cooking the soup in this pot?", "l": "Vaříš polévku v tomto hrnci?", "a": "0375.mp3" },
+      { "t": "Are you frying the fish in this pan?", "l": "Smažíš rybu v této pánvi?", "a": "0376.mp3" },
+      {
+        "t": "Are you grilling the vegetables on this grill?",
+        "l": "Griluješ zeleninu na tomto grilu?",
+        "a": "0377.mp3"
+      },
+      { "t": "I am setting the table.", "l": "Prostřu stůl.", "a": "0378.mp3" },
+      {
+        "t": "Here are the knives, the forks and the spoons.",
+        "l": "Tady jsou nože, vidličky a lžičky.",
+        "a": "0379.mp3"
+      },
+      {
+        "t": "Here are the glasses, the plates and the napkins.",
+        "l": "Tady jsou skleničky, talíře a ubrousky.",
+        "a": "0380.mp3"
+      }
+    ]
+  },
+  {
+    "topic": "20 Small Talk 1",
+    "words": [
+      { "t": "20 [twenty]", "l": "20 [dvacet]", "a": "0381.mp3" },
+      { "t": "Small Talk 1", "l": "Konverzace 1", "a": "0382.mp3" },
+      { "t": "Make yourself comfortable!", "l": "Udělejte si pohodlí!", "a": "0383.mp3" },
+      { "t": "Please, feel right at home!", "l": "Ciťte se jako doma!", "a": "0384.mp3" },
+      { "t": "What would you like to drink?", "l": "Co si dáte k pití?", "a": "0385.mp3" },
+      { "t": "Do you like music?", "l": "Máte rád / ráda hudbu?", "a": "0386.mp3" },
+      { "t": "I like classical music.", "l": "Mám rád klasickou hudbu.", "a": "0387.mp3" },
+      { "t": "These are my CD’s.", "l": "Tady jsou má cédéčka.", "a": "0388.mp3" },
+      { "t": "Do you play a musical instrument?", "l": "Hrajete na nějaký hudební nástroj?", "a": "0389.mp3" },
+      { "t": "This is my guitar.", "l": "To je moje kytara.", "a": "0390.mp3" },
+      { "t": "Do you like to sing?", "l": "Zpíváte rád / ráda?", "a": "0391.mp3" },
+      { "t": "Do you have children?", "l": "Máte děti?", "a": "0392.mp3" },
+      { "t": "Do you have a dog?", "l": "Máte psa?", "a": "0393.mp3" },
+      { "t": "Do you have a cat?", "l": "Máte kočku?", "a": "0394.mp3" },
+      { "t": "These are my books.", "l": "Toto jsou mé knihy.", "a": "0395.mp3" },
+      { "t": "I am currently reading this book.", "l": "Mám rozečtenou tuto knihu.", "a": "0396.mp3" },
+      { "t": "What do you like to read?", "l": "Co rád / ráda čtete?", "a": "0397.mp3" },
+      { "t": "Do you like to go to concerts?", "l": "Chodíte rád / ráda na koncerty?", "a": "0398.mp3" },
+      {
+        "t": "Do you like to go to the theatre / theater (am.)?",
+        "l": "Chodíte rád / ráda do divadla?",
+        "a": "0399.mp3"
+      },
+      { "t": "Do you like to go to the opera?", "l": "Chodíte rád / ráda do opery?", "a": "0400.mp3" }
+    ]
+  },
+  {
+    "topic": "21 Small Talk 2",
+    "words": [
+      { "t": "21 [twenty-one]", "l": "21 [dvacet jedna]", "a": "0401.mp3" },
+      { "t": "Small Talk 2", "l": "Konverzace 2", "a": "0402.mp3" },
+      { "t": "Where do you come from?", "l": "Odkud jste?", "a": "0403.mp3" },
+      { "t": "From Basel.", "l": "Z Basileje.", "a": "0404.mp3" },
+      { "t": "Basel is in Switzerland.", "l": "Basilej leží ve Švýcarsku.", "a": "0405.mp3" },
+      { "t": "May I introduce Mr. Miller?", "l": "Mohu vám představit pana Müllera?", "a": "0406.mp3" },
+      { "t": "He is a foreigner.", "l": "Je to cizinec.", "a": "0407.mp3" },
+      { "t": "He speaks several languages.", "l": "Ovládá několik řečí. / Mluví několika jazyky.", "a": "0408.mp3" },
+      { "t": "Are you here for the first time?", "l": "Jste tady poprvé?", "a": "0409.mp3" },
+      { "t": "No, I was here once last year.", "l": "Ne, byl jsem tady už minulý rok.", "a": "0410.mp3" },
+      { "t": "Only for a week, though.", "l": "Ale jen na týden.", "a": "0411.mp3" },
+      { "t": "How do you like it here?", "l": "Jak se Vám u nás líbí?", "a": "0412.mp3" },
+      { "t": "A lot. The people are nice.", "l": "Velmi se mi tady líbí. Lidé jsou milí.", "a": "0413.mp3" },
+      { "t": "And I like the scenery, too.", "l": "A krajina se mi také líbí.", "a": "0414.mp3" },
+      { "t": "What is your profession?", "l": "Čím jste? / Jaké je vaše povolání?", "a": "0415.mp3" },
+      { "t": "I am a translator.", "l": "Jsem překladatel.", "a": "0416.mp3" },
+      { "t": "I translate books.", "l": "Překládám knihy.", "a": "0417.mp3" },
+      { "t": "Are you alone here?", "l": "Jste tady sám / sama?", "a": "0418.mp3" },
+      { "t": "No, my wife / my husband is also here.", "l": "Ne, moje žena / můj muž je tady také.", "a": "0419.mp3" },
+      { "t": "And those are my two children.", "l": "A tam jsou mé dvě děti.", "a": "0420.mp3" }
+    ]
+  },
+  {
+    "topic": "22 Small Talk 3",
+    "words": [
+      { "t": "22 [twenty-two]", "l": "22 [dvacet dva]", "a": "0421.mp3" },
+      { "t": "Small Talk 3", "l": "Konverzace 3", "a": "0422.mp3" },
+      { "t": "Do you smoke?", "l": "Kouříte?", "a": "0423.mp3" },
+      { "t": "I used to.", "l": "Dříve ano.", "a": "0424.mp3" },
+      { "t": "But I don’t smoke anymore.", "l": "Ale teď už nekouřím.", "a": "0425.mp3" },
+      { "t": "Does it disturb you if I smoke?", "l": "Vadí vám, že kouřím?", "a": "0426.mp3" },
+      { "t": "No, absolutely not.", "l": "Ne, vůbec ne.", "a": "0427.mp3" },
+      { "t": "It doesn’t disturb me.", "l": "To mi nevadí.", "a": "0428.mp3" },
+      { "t": "Will you drink something?", "l": "Dáte si něco k pití?", "a": "0429.mp3" },
+      { "t": "A brandy?", "l": "Dáte si koňak?", "a": "0430.mp3" },
+      { "t": "No, preferably a beer.", "l": "Ne, raději pivo.", "a": "0431.mp3" },
+      { "t": "Do you travel a lot?", "l": "Cestujete hodně?", "a": "0432.mp3" },
+      { "t": "Yes, mostly on business trips.", "l": "Ano, většinou jezdím na služební cesty.", "a": "0433.mp3" },
+      { "t": "But now we’re on holiday.", "l": "Ale teď jsme na dovolené.", "a": "0434.mp3" },
+      { "t": "It’s so hot!", "l": "To je ale vedro!", "a": "0435.mp3" },
+      { "t": "Yes, today it’s really hot.", "l": "Ano, dnes je opravdu horko.", "a": "0436.mp3" },
+      { "t": "Let’s go to the balcony.", "l": "Pojďme na balkón.", "a": "0437.mp3" },
+      { "t": "There’s a party here tomorrow.", "l": "Zítra tady bude párty.", "a": "0438.mp3" },
+      { "t": "Are you also coming?", "l": "Přijdete také?", "a": "0439.mp3" },
+      { "t": "Yes, we’ve also been invited.", "l": "Ano, jsme také pozváni.", "a": "0440.mp3" }
+    ]
+  },
+  {
+    "topic": "23 Learning foreign languages",
+    "words": [
+      { "t": "23 [twenty-three]", "l": "23 [dvacet tři]", "a": "0441.mp3" },
+      { "t": "Learning foreign languages", "l": "Studium cizích jazyků", "a": "0442.mp3" },
+      { "t": "Where did you learn Spanish?", "l": "Kde jste se naučil / naučila španělsky?", "a": "0443.mp3" },
+      { "t": "Can you also speak Portuguese?", "l": "Mluvíte i portugalsky?", "a": "0444.mp3" },
+      { "t": "Yes, and I also speak some Italian.", "l": "Ano a umím i trochu italsky.", "a": "0445.mp3" },
+      { "t": "I think you speak very well.", "l": "Myslím, že mluvíte velmi dobře.", "a": "0446.mp3" },
+      { "t": "The languages are quite similar.", "l": "Jsou to docela podobné jazyky.", "a": "0447.mp3" },
+      { "t": "I can understand them well.", "l": "Mohu jim dobře rozumět.", "a": "0448.mp3" },
+      { "t": "But speaking and writing is difficult.", "l": "Ale mluvit a psát je těžké.", "a": "0449.mp3" },
+      { "t": "I still make many mistakes.", "l": "Pořád ještě dělám hodně chyb.", "a": "0450.mp3" },
+      { "t": "Please correct me each time.", "l": "Prosím opravujte mně stále.", "a": "0451.mp3" },
+      { "t": "Your pronunciation is very good.", "l": "Vaše výslovnost je docela dobrá.", "a": "0452.mp3" },
+      { "t": "You only have a slight accent.", "l": "Máte lehký přízvuk.", "a": "0453.mp3" },
+      { "t": "One can tell where you come from.", "l": "Pozná se, odkud jste.", "a": "0454.mp3" },
+      { "t": "What is your mother tongue / native language (am.)?", "l": "Co je Vaše mateřština?", "a": "0455.mp3" },
+      { "t": "Are you taking a language course?", "l": "Účastníte se jazykového kurzu?", "a": "0456.mp3" },
+      { "t": "Which textbook are you using?", "l": "Podle čeho se učíte?", "a": "0457.mp3" },
+      { "t": "I don’t remember the name right now.", "l": "Teď si nevzpomínám, jak se to jmenuje.", "a": "0458.mp3" },
+      { "t": "The title is not coming to me.", "l": "Ne a ne si vzpomenout na ten název.", "a": "0459.mp3" },
+      { "t": "I’ve forgotten it.", "l": "Zapomněl / zapomněla jsem to.", "a": "0460.mp3" }
+    ]
+  },
+  {
+    "topic": "24 Appointment",
+    "words": [
+      { "t": "24 [twenty-four]", "l": "24 [dvacet čtyři]", "a": "0461.mp3" },
+      { "t": "Appointment", "l": "Schůzka", "a": "0462.mp3" },
+      { "t": "Did you miss the bus?", "l": "Ujel ti autobus?", "a": "0463.mp3" },
+      { "t": "I waited for you for half an hour.", "l": "Čekal / Čekala jsem na tebe půl hodiny.", "a": "0464.mp3" },
+      { "t": "Don’t you have a mobile / cell phone (am.) with you?", "l": "Nemáš u sebe mobil?", "a": "0465.mp3" },
+      { "t": "Be punctual next time!", "l": "Příště přijď přesně!", "a": "0466.mp3" },
+      { "t": "Take a taxi next time!", "l": "Příště si vezmi taxi!", "a": "0467.mp3" },
+      { "t": "Take an umbrella with you next time!", "l": "Příště si vezmi deštník!", "a": "0468.mp3" },
+      { "t": "I have the day off tomorrow.", "l": "Zítra mám volno.", "a": "0469.mp3" },
+      { "t": "Shall we meet tomorrow?", "l": "Sejdeme se zítra?", "a": "0470.mp3" },
+      { "t": "I’m sorry, I can’t make it tomorrow.", "l": "Zítra bohužel nemohu.", "a": "0471.mp3" },
+      { "t": "Do you already have plans for this weekend?", "l": "Máš na víkend něco v plánu?", "a": "0472.mp3" },
+      { "t": "Or do you already have an appointment?", "l": "Nebo máš už něco domluveno?", "a": "0473.mp3" },
+      {
+        "t": "I suggest that we meet on the weekend.",
+        "l": "Navrhuji, abychom se setkali / setkaly o víkendu.",
+        "a": "0474.mp3"
+      },
+      { "t": "Shall we have a picnic?", "l": "Neuděláme piknik?", "a": "0475.mp3" },
+      { "t": "Shall we go to the beach?", "l": "Nepojedeme na pláž?", "a": "0476.mp3" },
+      { "t": "Shall we go to the mountains?", "l": "Nezajedeme do hor?", "a": "0477.mp3" },
+      { "t": "I will pick you up at the office.", "l": "Vyzvednu tě z kanceláře.", "a": "0478.mp3" },
+      { "t": "I will pick you up at home.", "l": "Vyzvednu tě u tebe doma.", "a": "0479.mp3" },
+      { "t": "I will pick you up at the bus stop.", "l": "Vyzvednu tě na autobusové zastávce.", "a": "0480.mp3" }
+    ]
+  },
+  {
+    "topic": "25 In the city",
+    "words": [
+      { "t": "25 [twenty-five]", "l": "25 [dvacet pět]", "a": "0481.mp3" },
+      { "t": "In the city", "l": "Ve městě", "a": "0482.mp3" },
+      { "t": "I would like to go to the station.", "l": "Chci (jet) na nádraží.", "a": "0483.mp3" },
+      { "t": "I would like to go to the airport.", "l": "Chci (jet) na letiště.", "a": "0484.mp3" },
+      { "t": "I would like to go to the city centre / center (am.).", "l": "Chci (jet) do centra.", "a": "0485.mp3" },
+      { "t": "How do I get to the station?", "l": "Jak se dostanu na nádraží?", "a": "0486.mp3" },
+      { "t": "How do I get to the airport?", "l": "Jak se dostanu na letiště?", "a": "0487.mp3" },
+      { "t": "How do I get to the city centre / center (am.)?", "l": "Jak se dostanu do centra?", "a": "0488.mp3" },
+      { "t": "I need a taxi.", "l": "Potřebuji taxi.", "a": "0489.mp3" },
+      { "t": "I need a city map.", "l": "Potřebuji plán města.", "a": "0490.mp3" },
+      { "t": "I need a hotel.", "l": "Potřebuji hotel.", "a": "0491.mp3" },
+      { "t": "I would like to rent a car.", "l": "Chci si pronajmout auto.", "a": "0492.mp3" },
+      { "t": "Here is my credit card.", "l": "Tady je moje kreditní karta.", "a": "0493.mp3" },
+      { "t": "Here is my licence / license (am.).", "l": "Tady je můj řidičský průkaz.", "a": "0494.mp3" },
+      { "t": "What is there to see in the city?", "l": "Co je v tomto městě k vidění?", "a": "0495.mp3" },
+      { "t": "Go to the old city.", "l": "Běžte do starého města.", "a": "0496.mp3" },
+      { "t": "Go on a city tour.", "l": "Zúčastněte se okružní jízdy městem.", "a": "0497.mp3" },
+      { "t": "Go to the harbour / harbor (am.).", "l": "Běžte do přístavu.", "a": "0498.mp3" },
+      { "t": "Go on a harbour / harbor (am.) tour.", "l": "Zúčastněte se okružní jízdy přístavem.", "a": "0499.mp3" },
+      {
+        "t": "Are there any other places of interest?",
+        "l": "Jaké další pamětihodnosti jsou tady ještě?",
+        "a": "0500.mp3"
+      }
+    ]
+  },
+  {
+    "topic": "26 In nature",
+    "words": [
+      { "t": "26 [twenty-six]", "l": "26 [dvacet šest]", "a": "0501.mp3" },
+      { "t": "In nature", "l": "V přírodě", "a": "0502.mp3" },
+      { "t": "Do you see the tower there?", "l": "Vidíš tu věž?", "a": "0503.mp3" },
+      { "t": "Do you see the mountain there?", "l": "Vidíš tu horu?", "a": "0504.mp3" },
+      { "t": "Do you see the village there?", "l": "Vidíš tu vesnici?", "a": "0505.mp3" },
+      { "t": "Do you see the river there?", "l": "Vidíš tu řeku?", "a": "0506.mp3" },
+      { "t": "Do you see the bridge there?", "l": "Vidíš ten most?", "a": "0507.mp3" },
+      { "t": "Do you see the lake there?", "l": "Vidíš to jezero?", "a": "0508.mp3" },
+      { "t": "I like that bird.", "l": "Tamten pták se mi líbí.", "a": "0509.mp3" },
+      { "t": "I like that tree.", "l": "Tamten strom se mi líbí.", "a": "0510.mp3" },
+      { "t": "I like this stone.", "l": "Tamten kámen se mi líbí.", "a": "0511.mp3" },
+      { "t": "I like that park.", "l": "Tamten park se mi líbí.", "a": "0512.mp3" },
+      { "t": "I like that garden.", "l": "Ta zahrada se mi líbí.", "a": "0513.mp3" },
+      { "t": "I like this flower.", "l": "Tato květina se mi líbí.", "a": "0514.mp3" },
+      { "t": "I find that pretty.", "l": "Líbí se mi to.", "a": "0515.mp3" },
+      { "t": "I find that interesting.", "l": "Připadá mi to zajímavé.", "a": "0516.mp3" },
+      { "t": "I find that gorgeous.", "l": "To je nádherné.", "a": "0517.mp3" },
+      { "t": "I find that ugly.", "l": "To je ošklivé.", "a": "0518.mp3" },
+      { "t": "I find that boring.", "l": "Připadá mi to nudné.", "a": "0519.mp3" },
+      { "t": "I find that terrible.", "l": "To je strašné.", "a": "0520.mp3" }
+    ]
+  },
+  {
+    "topic": "27 In the hotel – Arrival",
+    "words": [
+      { "t": "27 [twenty-seven]", "l": "27 [dvacet sedm]", "a": "0521.mp3" },
+      { "t": "In the hotel – Arrival", "l": "V hotelu – příjezd", "a": "0522.mp3" },
+      { "t": "Do you have a vacant room?", "l": "Máte volné pokoje?", "a": "0523.mp3" },
+      { "t": "I have booked a room.", "l": "Rezervoval jsem si pokoj.", "a": "0524.mp3" },
+      { "t": "My name is Miller.", "l": "Jmenuji se Müller.", "a": "0525.mp3" },
+      { "t": "I need a single room.", "l": "Potřebuji jednolůžkový pokoj.", "a": "0526.mp3" },
+      { "t": "I need a double room.", "l": "Potřebuji dvoulůžkový pokoj.", "a": "0527.mp3" },
+      { "t": "What does the room cost per night?", "l": "Kolik stojí ten pokoj na jednu noc?", "a": "0528.mp3" },
+      { "t": "I would like a room with a bathroom.", "l": "Chci pokoj s koupelnou.", "a": "0529.mp3" },
+      { "t": "I would like a room with a shower.", "l": "Chci pokoj se sprchou.", "a": "0530.mp3" },
+      { "t": "Can I see the room?", "l": "Mohu ten pokoj vidět?", "a": "0531.mp3" },
+      { "t": "Is there a garage here?", "l": "Máte tady garáž?", "a": "0532.mp3" },
+      { "t": "Is there a safe here?", "l": "Máte tady sejf?", "a": "0533.mp3" },
+      { "t": "Is there a fax machine here?", "l": "Máte tady fax?", "a": "0534.mp3" },
+      { "t": "Fine, I’ll take the room.", "l": "Dobře, chci ten pokoj.", "a": "0535.mp3" },
+      { "t": "Here are the keys.", "l": "Tady jsou klíče.", "a": "0536.mp3" },
+      { "t": "Here is my luggage.", "l": "Tady jsou má zavazadla.", "a": "0537.mp3" },
+      { "t": "What time do you serve breakfast?", "l": "V kolik hodin se podává snídaně?", "a": "0538.mp3" },
+      { "t": "What time do you serve lunch?", "l": "V kolik hodin se podává oběd?", "a": "0539.mp3" },
+      { "t": "What time do you serve dinner?", "l": "V kolik hodin se podává večeře?", "a": "0540.mp3" }
+    ]
+  },
+  {
+    "topic": "28 In the hotel – Complaints",
+    "words": [
+      { "t": "28 [twenty-eight]", "l": "28 [dvacet osm]", "a": "0541.mp3" },
+      { "t": "In the hotel – Complaints", "l": "V hotelu – stížnosti", "a": "0542.mp3" },
+      { "t": "The shower isn’t working.", "l": "Sprcha nefunguje.", "a": "0543.mp3" },
+      { "t": "There is no warm water.", "l": "Neteče teplá voda.", "a": "0544.mp3" },
+      { "t": "Can you get it repaired?", "l": "Můžete to nechat opravit?", "a": "0545.mp3" },
+      { "t": "There is no telephone in the room.", "l": "Na pokoji není telefon.", "a": "0546.mp3" },
+      { "t": "There is no TV in the room.", "l": "Na pokoji není televizor.", "a": "0547.mp3" },
+      { "t": "The room has no balcony.", "l": "Ten pokoj nemá balkón.", "a": "0548.mp3" },
+      { "t": "The room is too noisy.", "l": "Ten pokoj je příliš hlučný.", "a": "0549.mp3" },
+      { "t": "The room is too small.", "l": "Ten pokoj je příliš malý.", "a": "0550.mp3" },
+      { "t": "The room is too dark.", "l": "Ten pokoj je příliš tmavý.", "a": "0551.mp3" },
+      { "t": "The heater isn’t working.", "l": "Topení nefunguje.", "a": "0552.mp3" },
+      { "t": "The air-conditioning isn’t working.", "l": "Klimatizace nefunguje.", "a": "0553.mp3" },
+      { "t": "The TV isn’t working.", "l": "Televizor je rozbitý.", "a": "0554.mp3" },
+      { "t": "I don’t like that.", "l": "To se mi nelíbí.", "a": "0555.mp3" },
+      { "t": "That’s too expensive.", "l": "To je pro mně příliš drahé.", "a": "0556.mp3" },
+      { "t": "Do you have anything cheaper?", "l": "Máte něco levnějšího?", "a": "0557.mp3" },
+      { "t": "Is there a youth hostel nearby?", "l": "Je tady poblíž ubytovna pro mládež?", "a": "0558.mp3" },
+      {
+        "t": "Is there a boarding house / a bed and breakfast nearby?",
+        "l": "Je tady poblíž nějaký penzion?",
+        "a": "0559.mp3"
+      },
+      { "t": "Is there a restaurant nearby?", "l": "Je tady poblíž nějaká restaurace?", "a": "0560.mp3" }
+    ]
+  },
+  {
+    "topic": "29 At the restaurant 1",
+    "words": [
+      { "t": "29 [twenty-nine]", "l": "29 [dvacet devět]", "a": "0561.mp3" },
+      { "t": "At the restaurant 1", "l": "V restauraci 1", "a": "0562.mp3" },
+      { "t": "Is this table taken?", "l": "Je ten stůl volný?", "a": "0563.mp3" },
+      { "t": "I would like the menu, please.", "l": "Přineste mi prosím jídelní lístek.", "a": "0564.mp3" },
+      { "t": "What would you recommend?", "l": "Co byste nám doporučil / doporučila?", "a": "0565.mp3" },
+      { "t": "I’d like a beer.", "l": "Dal / dala bych si rád pivo.", "a": "0566.mp3" },
+      { "t": "I’d like a mineral water.", "l": "Dal / dala bych si rád minerálku.", "a": "0567.mp3" },
+      { "t": "I’d like an orange juice.", "l": "Dal / dala bych si rád pomerančový džus.", "a": "0568.mp3" },
+      { "t": "I’d like a coffee.", "l": "Dal / dala bych si si rád kávu.", "a": "0569.mp3" },
+      { "t": "I’d like a coffee with milk.", "l": "Dal / dala bych si rád kávu s mlékem.", "a": "0570.mp3" },
+      { "t": "With sugar, please.", "l": "S cukrem, prosím.", "a": "0571.mp3" },
+      { "t": "I’d like a tea.", "l": "Dal / dala bych si čaj.", "a": "0572.mp3" },
+      { "t": "I’d like a tea with lemon.", "l": "Dal / dala bych si čaj s citrónem.", "a": "0573.mp3" },
+      { "t": "I’d like a tea with milk.", "l": "Dal / dala bych si čaj s mlékem.", "a": "0574.mp3" },
+      { "t": "Do you have cigarettes?", "l": "Máte cigarety?", "a": "0575.mp3" },
+      { "t": "Do you have an ashtray?", "l": "Máte popelník?", "a": "0576.mp3" },
+      { "t": "Do you have a light?", "l": "Máte oheň? / Můžete mi připálit?", "a": "0577.mp3" },
+      { "t": "I’m missing a fork.", "l": "Chybí mi vidlička.", "a": "0578.mp3" },
+      { "t": "I’m missing a knife.", "l": "Chybí mi nůž.", "a": "0579.mp3" },
+      { "t": "I’m missing a spoon.", "l": "Chybí mi lžíce.", "a": "0580.mp3" }
+    ]
+  },
+  {
+    "topic": "30 At the restaurant 2",
+    "words": [
+      { "t": "30 [thirty]", "l": "30 [třicet]", "a": "0581.mp3" },
+      { "t": "At the restaurant 2", "l": "V restauraci 2", "a": "0582.mp3" },
+      { "t": "An apple juice, please.", "l": "Jablečný džus, prosím.", "a": "0583.mp3" },
+      { "t": "A lemonade, please.", "l": "Limonádu, prosím.", "a": "0584.mp3" },
+      { "t": "A tomato juice, please.", "l": "Rajčatovou šťávu, prosím.", "a": "0585.mp3" },
+      { "t": "I’d like a glass of red wine.", "l": "Dal / dala bych si skleničku červeného vína.", "a": "0586.mp3" },
+      { "t": "I’d like a glass of white wine.", "l": "Dal / dala bych si skleničku bílého vína.", "a": "0587.mp3" },
+      { "t": "I’d like a bottle of champagne.", "l": "Přineste mi prosím láhev šampaňského.", "a": "0588.mp3" },
+      { "t": "Do you like fish?", "l": "Máš rád ryby?", "a": "0589.mp3" },
+      { "t": "Do you like beef?", "l": "Máš rád hovězí maso?", "a": "0590.mp3" },
+      { "t": "Do you like pork?", "l": "Máš rád vepřové maso?", "a": "0591.mp3" },
+      { "t": "I’d like something without meat.", "l": "Chtěl / chtěla bych nějaké bezmasé jídlo.", "a": "0592.mp3" },
+      { "t": "I’d like some mixed vegetables.", "l": "Chtěl / chtěla bych zeleninovou mísu.", "a": "0593.mp3" },
+      {
+        "t": "I’d like something that won’t take much time.",
+        "l": "Chtěl / chtěla bych nějaké rychlé jídlo.",
+        "a": "0594.mp3"
+      },
+      { "t": "Would you like that with rice?", "l": "Chcete to s rýží?", "a": "0595.mp3" },
+      { "t": "Would you like that with pasta?", "l": "Chcete to s těstovinama?", "a": "0596.mp3" },
+      { "t": "Would you like that with potatoes?", "l": "Chcete to s bramborami?", "a": "0597.mp3" },
+      { "t": "That doesn’t taste good.", "l": "To mi nechutná.", "a": "0598.mp3" },
+      { "t": "The food is cold.", "l": "To jídlo je studené.", "a": "0599.mp3" },
+      { "t": "I didn’t order this.", "l": "To jsem si neobjednal / neobjednala.", "a": "0600.mp3" }
+    ]
+  },
+  {
+    "topic": "33 At the train station",
+    "words": [
+      { "t": "33 [thirty-three]", "l": "33 [třicet tři]", "a": "0641.mp3" },
+      { "t": "At the train station", "l": "Na nádraží", "a": "0642.mp3" },
+      { "t": "When is the next train to Berlin?", "l": "Kdy jede příští vlak do Berlína?", "a": "0643.mp3" },
+      { "t": "When is the next train to Paris?", "l": "Kdy jede příští vlak do Paříže?", "a": "0644.mp3" },
+      { "t": "When is the next train to London?", "l": "Kdy jede příští vlak do Londýna?", "a": "0645.mp3" },
+      { "t": "When does the train for Warsaw leave?", "l": "V kolik hodin jede vlak do Varšavy?", "a": "0646.mp3" },
+      {
+        "t": "When does the train for Stockholm leave?",
+        "l": "V kolik hodin jede vlak do Stockholmu?",
+        "a": "0647.mp3"
+      },
+      {
+        "t": "When does the train for Budapest leave?",
+        "l": "V kolik hodin jede vlak do Budapešti?",
+        "a": "0648.mp3"
+      },
+      { "t": "I’d like a ticket to Madrid.", "l": "Chtěl / chtěla bych jízdenku do Madridu.", "a": "0649.mp3" },
+      { "t": "I’d like a ticket to Prague.", "l": "Chtěl / chtěla bych jízdenku do Prahy.", "a": "0650.mp3" },
+      { "t": "I’d like a ticket to Bern.", "l": "Chtěl / chtěla bych jízdenku do Bernu.", "a": "0651.mp3" },
+      { "t": "When does the train arrive in Vienna?", "l": "Kdy přijede vlak do Vídně?", "a": "0652.mp3" },
+      { "t": "When does the train arrive in Moscow?", "l": "Kdy přijede vlak do Moskvy?", "a": "0653.mp3" },
+      { "t": "When does the train arrive in Amsterdam?", "l": "Kdy přijede vlak do Amsterdamu?", "a": "0654.mp3" },
+      { "t": "Do I have to change trains?", "l": "Budu muset přestupovat?", "a": "0655.mp3" },
+      {
+        "t": "From which platform does the train leave?",
+        "l": "Z kterého nástupiště jede ten vlak?",
+        "a": "0656.mp3"
+      },
+      { "t": "Does the train have sleepers?", "l": "Je v tom vlaku spací vůz?", "a": "0657.mp3" },
+      {
+        "t": "I’d like a one-way ticket to Brussels.",
+        "l": "Chtěl / chtěla bych jízdenku do Bruselu.",
+        "a": "0658.mp3"
+      },
+      {
+        "t": "I’d like a return ticket to Copenhagen.",
+        "l": "Chtěl / chtěla bych zpáteční jízdenku do Kodaně.",
+        "a": "0659.mp3"
+      },
+      { "t": "What does a berth in the sleeper cost?", "l": "Kolik stojí lůžko ve spacím voze?", "a": "0660.mp3" }
+    ]
+  },
+  {
+    "topic": "34 On the train",
+    "words": [
+      { "t": "34 [thirty-four]", "l": "34 [třicet čtyři]", "a": "0661.mp3" },
+      { "t": "On the train", "l": "Ve vlaku", "a": "0662.mp3" },
+      { "t": "Is that the train to Berlin?", "l": "Je to vlak do Berlína?", "a": "0663.mp3" },
+      { "t": "When does the train leave?", "l": "V kolik hodin ten vlak odjíždí?", "a": "0664.mp3" },
+      {
+        "t": "When does the train arrive in Berlin?",
+        "l": "V kolik hodin dorazí ten vlak do Berlína?",
+        "a": "0665.mp3"
+      },
+      { "t": "Excuse me, may I pass?", "l": "S dovolením, mohu projít?", "a": "0666.mp3" },
+      { "t": "I think this is my seat.", "l": "Myslím, že toto je mé místo.", "a": "0667.mp3" },
+      { "t": "I think you’re sitting in my seat.", "l": "Myslím, že sedíte na mém místě.", "a": "0668.mp3" },
+      { "t": "Where is the sleeper?", "l": "Kde je spací vůz?", "a": "0669.mp3" },
+      { "t": "The sleeper is at the end of the train.", "l": "Spací vůz je na konci vlaku.", "a": "0670.mp3" },
+      {
+        "t": "And where is the dining car? – At the front.",
+        "l": "A kde je jídelní vůz? – Vepředu.",
+        "a": "0671.mp3"
+      },
+      { "t": "Can I sleep below?", "l": "Mohu spát dole?", "a": "0672.mp3" },
+      { "t": "Can I sleep in the middle?", "l": "Mohl bych spát uprostřed?", "a": "0673.mp3" },
+      { "t": "Can I sleep at the top?", "l": "Mohl bych spát nahoře?", "a": "0674.mp3" },
+      { "t": "When will we get to the border?", "l": "Kdy budeme na hranici?", "a": "0675.mp3" },
+      { "t": "How long does the journey to Berlin take?", "l": "Jak dlouho trvá cesta do Berlína?", "a": "0676.mp3" },
+      { "t": "Is the train delayed?", "l": "Má ten vlak zpoždění?", "a": "0677.mp3" },
+      { "t": "Do you have something to read?", "l": "Máte něco na čtení?", "a": "0678.mp3" },
+      {
+        "t": "Can one get something to eat and to drink here?",
+        "l": "Je tady možné koupit něco k jídlu a pití?",
+        "a": "0679.mp3"
+      },
+      { "t": "Could you please wake me up at 7 o’clock?", "l": "Můžete mě vzbudit v 7 hodin?", "a": "0680.mp3" }
+    ]
+  },
+  {
+    "topic": "35 At the airport",
+    "words": [
+      { "t": "35 [thirty-five]", "l": "35 [třicet pět]", "a": "0681.mp3" },
+      { "t": "At the airport", "l": "Na letišti", "a": "0682.mp3" },
+      {
+        "t": "I’d like to book a flight to Athens.",
+        "l": "Chtěl / chtěla bych si zabukovat letenku do Atén.",
+        "a": "0683.mp3"
+      },
+      { "t": "Is it a direct flight?", "l": "Je to přímý let?", "a": "0684.mp3" },
+      {
+        "t": "A window seat, non-smoking, please.",
+        "l": "Sedadlo u okna v nekuřáckém oddělení, prosím.",
+        "a": "0685.mp3"
+      },
+      {
+        "t": "I would like to confirm my reservation.",
+        "l": "Chtěl / chtěla bych potvrdit rezervaci.",
+        "a": "0686.mp3"
+      },
+      { "t": "I would like to cancel my reservation.", "l": "Chtěl / chtěla bych zrušit rezervaci.", "a": "0687.mp3" },
+      {
+        "t": "I would like to change my reservation.",
+        "l": "Chtěl / chtěla bych změnit svou rezervaci.",
+        "a": "0688.mp3"
+      },
+      { "t": "When is the next flight to Rome?", "l": "Kdy letí příští letadlo do Říma?", "a": "0689.mp3" },
+      { "t": "Are there two seats available?", "l": "Jsou tam ještě dvě volná místa?", "a": "0690.mp3" },
+      { "t": "No, we have only one seat available.", "l": "Ne, už je tam jen jedno volné místo.", "a": "0691.mp3" },
+      { "t": "When do we land?", "l": "Kdy přistaneme?", "a": "0692.mp3" },
+      { "t": "When will we be there?", "l": "Kdy tam budeme?", "a": "0693.mp3" },
+      {
+        "t": "When does a bus go to the city centre / center (am.)?",
+        "l": "Kdy jede autobus do centra?",
+        "a": "0694.mp3"
+      },
+      { "t": "Is that your suitcase?", "l": "Je to Váš kufr?", "a": "0695.mp3" },
+      { "t": "Is that your bag?", "l": "Je to Vaše taška?", "a": "0696.mp3" },
+      { "t": "Is that your luggage?", "l": "Je to Vaše zavazadlo?", "a": "0697.mp3" },
+      { "t": "How much luggage can I take?", "l": "Kolik si mohu vzít s sebou zavazadel?", "a": "0698.mp3" },
+      { "t": "Twenty kilos.", "l": "Dvacet kilo.", "a": "0699.mp3" },
+      { "t": "What? Only twenty kilos?", "l": "Cože, jen dvacet kilo?", "a": "0700.mp3" }
+    ]
+  },
+  {
+    "topic": "36 Public transportation",
+    "words": [
+      { "t": "36 [thirty-six]", "l": "36 [třicet šest]", "a": "0701.mp3" },
+      { "t": "Public transportation", "l": "Městská hromadná doprava", "a": "0702.mp3" },
+      { "t": "Where is the bus stop?", "l": "Kde je autobusová zastávka?", "a": "0703.mp3" },
+      {
+        "t": "Which bus goes to the city centre / center (am.)?",
+        "l": "Který autobus jede do centra?",
+        "a": "0704.mp3"
+      },
+      { "t": "Which bus do I have to take?", "l": "Kterou linkou musím jet?", "a": "0705.mp3" },
+      { "t": "Do I have to change?", "l": "Musím přestoupit?", "a": "0706.mp3" },
+      { "t": "Where do I have to change?", "l": "Kde musím přestoupit?", "a": "0707.mp3" },
+      { "t": "How much does a ticket cost?", "l": "Kolik stojí lístek / jízdenka?", "a": "0708.mp3" },
+      {
+        "t": "How many stops are there before downtown / the city centre?",
+        "l": "Kolik stanic zbývá do centra?",
+        "a": "0709.mp3"
+      },
+      { "t": "You have to get off here.", "l": "Tady musíte vystoupit.", "a": "0710.mp3" },
+      { "t": "You have to get off at the back.", "l": "Musíte vystoupit vzadu.", "a": "0711.mp3" },
+      { "t": "The next train is in 5 minutes.", "l": "Další metro pojede za 5 minut.", "a": "0712.mp3" },
+      { "t": "The next tram is in 10 minutes.", "l": "Další tramvaj pojede za 10 minut.", "a": "0713.mp3" },
+      { "t": "The next bus is in 15 minutes.", "l": "Další autobus pojede za 15 minut.", "a": "0714.mp3" },
+      { "t": "When is the last train?", "l": "Kdy jede poslední metro?", "a": "0715.mp3" },
+      { "t": "When is the last tram?", "l": "Kdy jede poslední tramvaj?", "a": "0716.mp3" },
+      { "t": "When is the last bus?", "l": "Kdy jede poslední autobus?", "a": "0717.mp3" },
+      { "t": "Do you have a ticket?", "l": "Máte jízdenku?", "a": "0718.mp3" },
+      { "t": "A ticket? – No, I don’t have one.", "l": "Jízdenku? – Ne, nemám žádnou.", "a": "0719.mp3" },
+      { "t": "Then you have to pay a fine.", "l": "Tak musíte zaplatit pokutu.", "a": "0720.mp3" }
+    ]
+  },
+  {
+    "topic": "37 En route",
+    "words": [
+      { "t": "37 [thirty-seven]", "l": "37 [třicet sedm]", "a": "0721.mp3" },
+      { "t": "En route", "l": "Na cestách", "a": "0722.mp3" },
+      { "t": "He drives a motorbike.", "l": "Jede na motorce.", "a": "0723.mp3" },
+      { "t": "He rides a bicycle.", "l": "Jede na kole.", "a": "0724.mp3" },
+      { "t": "He walks.", "l": "Jde pěšky.", "a": "0725.mp3" },
+      { "t": "He goes by ship.", "l": "Jede lodí.", "a": "0726.mp3" },
+      { "t": "He goes by boat.", "l": "Jede ve člunu.", "a": "0727.mp3" },
+      { "t": "He swims.", "l": "Plave.", "a": "0728.mp3" },
+      { "t": "Is it dangerous here?", "l": "Je to tu nebezpečné?", "a": "0729.mp3" },
+      { "t": "Is it dangerous to hitchhike alone?", "l": "Je nebezpečné sám stopovat?", "a": "0730.mp3" },
+      {
+        "t": "Is it dangerous to go for a walk at night?",
+        "l": "Je nebezpečné se procházet v noci?",
+        "a": "0731.mp3"
+      },
+      { "t": "We got lost.", "l": "Zabloudili jsme.", "a": "0732.mp3" },
+      { "t": "We’re on the wrong road.", "l": "Jsme na špatné cestě.", "a": "0733.mp3" },
+      { "t": "We must turn around.", "l": "Musíme se otočit.", "a": "0734.mp3" },
+      { "t": "Where can one park here?", "l": "Kde se tady dá parkovat?", "a": "0735.mp3" },
+      { "t": "Is there a parking lot here?", "l": "Je tady nějaké parkoviště?", "a": "0736.mp3" },
+      { "t": "How long can one park here?", "l": "Jak dlouho se tady smí parkovat?", "a": "0737.mp3" },
+      { "t": "Do you ski?", "l": "Jezdíte na lyžích?", "a": "0738.mp3" },
+      { "t": "Do you take the ski lift to the top?", "l": "Jedete nahoru vlekem?", "a": "0739.mp3" },
+      { "t": "Can one rent skis here?", "l": "Dají se tady půjčit lyže?", "a": "0740.mp3" }
+    ]
+  },
+  {
+    "topic": "38 In the taxi",
+    "words": [
+      { "t": "38 [thirty-eight]", "l": "38 [třicet osm]", "a": "0741.mp3" },
+      { "t": "In the taxi", "l": "V taxíku", "a": "0742.mp3" },
+      { "t": "Please call a taxi.", "l": "Zavolejte mi taxi, prosím.", "a": "0743.mp3" },
+      { "t": "What does it cost to go to the station?", "l": "Kolik to stojí na nádraží?", "a": "0744.mp3" },
+      { "t": "What does it cost to go to the airport?", "l": "Kolik to stojí na letiště?", "a": "0745.mp3" },
+      { "t": "Please go straight ahead.", "l": "Pořád rovně, prosím.", "a": "0746.mp3" },
+      { "t": "Please turn right here.", "l": "Zde doprava, prosím.", "a": "0747.mp3" },
+      { "t": "Please turn left at the corner.", "l": "Na rohu doleva, prosím.", "a": "0748.mp3" },
+      { "t": "I’m in a hurry.", "l": "Mám naspěch.", "a": "0749.mp3" },
+      { "t": "I have time.", "l": "Mám čas.", "a": "0750.mp3" },
+      { "t": "Please drive slowly.", "l": "Jeďte, prosím, pomaleji.", "a": "0751.mp3" },
+      { "t": "Please stop here.", "l": "Zastavte zde, prosím.", "a": "0752.mp3" },
+      { "t": "Please wait a moment.", "l": "Počkejte chvilku, prosím.", "a": "0753.mp3" },
+      { "t": "I’ll be back immediately.", "l": "Jsem hned zpátky.", "a": "0754.mp3" },
+      { "t": "Please give me a receipt.", "l": "Prosím, dejte mi účet.", "a": "0755.mp3" },
+      { "t": "I have no change.", "l": "Nemám drobné.", "a": "0756.mp3" },
+      { "t": "That is okay, please keep the change.", "l": "To je v pořádku, zbytek je pro Vás.", "a": "0757.mp3" },
+      { "t": "Drive me to this address.", "l": "Zavezte mě na tuto adresu.", "a": "0758.mp3" },
+      { "t": "Drive me to my hotel.", "l": "Odvezte mě do mého hotelu.", "a": "0759.mp3" },
+      { "t": "Drive me to the beach.", "l": "Odvezte mě na pláž.", "a": "0760.mp3" }
+    ]
+  },
+  {
+    "topic": "39 Car breakdown",
+    "words": [
+      { "t": "39 [thirty-nine]", "l": "39 [třicet devět]", "a": "0761.mp3" },
+      { "t": "Car breakdown", "l": "Nehoda", "a": "0762.mp3" },
+      { "t": "Where is the next gas station?", "l": "Kde je nejbližší pumpa?", "a": "0763.mp3" },
+      { "t": "I have a flat tyre / tire (am.).", "l": "Píchnul / píchla jsem.", "a": "0764.mp3" },
+      { "t": "Can you change the tyre / tire (am.)?", "l": "Můžete mi vyměnit kolo?", "a": "0765.mp3" },
+      { "t": "I need a few litres / liters (am.) of diesel.", "l": "Potřebuji několik litrů nafty.", "a": "0766.mp3" },
+      { "t": "I have no more petrol / gas (am.).", "l": "Nemám už žádný benzín.", "a": "0767.mp3" },
+      { "t": "Do you have a petrol can / jerry can / gas can (am.)?", "l": "Máte rezervní kanystr?", "a": "0768.mp3" },
+      { "t": "Where can I make a call?", "l": "Kde si mohu zatelefonovat?", "a": "0769.mp3" },
+      { "t": "I need a towing service.", "l": "Potřebuji odtahovou službu.", "a": "0770.mp3" },
+      { "t": "I’m looking for a garage.", "l": "Hledám autoopravnu.", "a": "0771.mp3" },
+      { "t": "An accident has occurred.", "l": "Stala se nehoda.", "a": "0772.mp3" },
+      { "t": "Where is the nearest telephone?", "l": "Kde je nejbližší telefon?", "a": "0773.mp3" },
+      {
+        "t": "Do you have a mobile / cell phone (am.) with you?",
+        "l": "Máte u sebe mobilní telefon?",
+        "a": "0774.mp3"
+      },
+      { "t": "We need help.", "l": "Potřebujeme pomoc.", "a": "0775.mp3" },
+      { "t": "Call a doctor!", "l": "Zavolejte lékaře!", "a": "0776.mp3" },
+      { "t": "Call the police!", "l": "Zavolejte policii!", "a": "0777.mp3" },
+      { "t": "Your papers, please.", "l": "Vaše doklady, prosím.", "a": "0778.mp3" },
+      { "t": "Your licence / license (am.), please.", "l": "Váš řidičský průkaz, prosím.", "a": "0779.mp3" },
+      { "t": "Your registration, please.", "l": "Váš technický průkaz, prosím.", "a": "0780.mp3" }
+    ]
+  },
+  {
+    "topic": "40 Asking for directions",
+    "words": [
+      { "t": "40 [forty]", "l": "40 [čtyřicet]", "a": "0781.mp3" },
+      { "t": "Asking for directions", "l": "Ptáme se na cestu", "a": "0782.mp3" },
+      { "t": "Excuse me!", "l": "Promiňte!", "a": "0783.mp3" },
+      { "t": "Can you help me?", "l": "Můžete mi pomoci?", "a": "0784.mp3" },
+      { "t": "Is there a good restaurant around here?", "l": "Kde je tady nějaká dobrá restaurace?", "a": "0785.mp3" },
+      { "t": "Take a left at the corner.", "l": "Na rohu zahněte doleva.", "a": "0786.mp3" },
+      { "t": "Then go straight for a while.", "l": "Pak běžte kousek rovně.", "a": "0787.mp3" },
+      {
+        "t": "Then go right for a hundred metres / meters (am.).",
+        "l": "A potom běžte sto metrů doprava.",
+        "a": "0788.mp3"
+      },
+      { "t": "You can also take the bus.", "l": "Můžete jet i autobusem.", "a": "0789.mp3" },
+      { "t": "You can also take the tram.", "l": "Můžete jet i tramvají.", "a": "0790.mp3" },
+      { "t": "You can also follow me with your car.", "l": "Můžete jet za mnou.", "a": "0791.mp3" },
+      {
+        "t": "How do I get to the football / soccer (am.) stadium?",
+        "l": "Jak se dostanu k fotbalovému stadiónu?",
+        "a": "0792.mp3"
+      },
+      { "t": "Cross the bridge!", "l": "Přejeďte přes most!", "a": "0793.mp3" },
+      { "t": "Go through the tunnel!", "l": "Projeďte tunelem!", "a": "0794.mp3" },
+      { "t": "Drive until you reach the third traffic light.", "l": "Jeďte ke třetímu semaforu.", "a": "0795.mp3" },
+      {
+        "t": "Then turn into the first street on your right.",
+        "l": "Potom odbočte na první doprava.",
+        "a": "0796.mp3"
+      },
+      {
+        "t": "Then drive straight through the next intersection.",
+        "l": "Pak projeďte rovně nejbližší křižovatku.",
+        "a": "0797.mp3"
+      },
+      { "t": "Excuse me, how do I get to the airport?", "l": "Promiňte, jak se dostanu na letiště?", "a": "0798.mp3" },
+      {
+        "t": "It is best if you take the underground / subway (am.).",
+        "l": "Nejlepší bude, když pojedete metrem.",
+        "a": "0799.mp3"
+      },
+      { "t": "Simply get out at the last stop.", "l": "Jeďte na konečnou.", "a": "0800.mp3" }
+    ]
+  },
+  {
+    "topic": "41 Where is ... ?",
+    "words": [
+      { "t": "41 [forty-one]", "l": "41 [čtyřicet jedna]", "a": "0801.mp3" },
+      { "t": "Where is ... ?", "l": "Orientace", "a": "0802.mp3" },
+      {
+        "t": "Where is the tourist information office?",
+        "l": "Kde je turistická informační kancelář?",
+        "a": "0803.mp3"
+      },
+      { "t": "Do you have a city map for me?", "l": "Můžete mi dát plán města?", "a": "0804.mp3" },
+      { "t": "Can one reserve a room here?", "l": "Je tady možné rezervovat hotel?", "a": "0805.mp3" },
+      { "t": "Where is the old city?", "l": "Kde je staré město?", "a": "0806.mp3" },
+      { "t": "Where is the cathedral?", "l": "Kde je katedrála?", "a": "0807.mp3" },
+      { "t": "Where is the museum?", "l": "Kde se nachází muzeum?", "a": "0808.mp3" },
+      { "t": "Where can one buy stamps?", "l": "Kde je možné koupit známky?", "a": "0809.mp3" },
+      { "t": "Where can one buy flowers?", "l": "Kde je možné koupit květiny?", "a": "0810.mp3" },
+      { "t": "Where can one buy tickets?", "l": "Kde je možné koupit jízdenky?", "a": "0811.mp3" },
+      { "t": "Where is the harbour / harbor (am.)?", "l": "Kde je přístav?", "a": "0812.mp3" },
+      { "t": "Where is the market?", "l": "Kde je tržnice?", "a": "0813.mp3" },
+      { "t": "Where is the castle?", "l": "Kde je zámek?", "a": "0814.mp3" },
+      { "t": "When does the tour begin?", "l": "Kdy začíná prohlídka?", "a": "0815.mp3" },
+      { "t": "When does the tour end?", "l": "Kdy končí ta prohlídka?", "a": "0816.mp3" },
+      { "t": "How long is the tour?", "l": "Jak dlouho trvá ta prohlídka?", "a": "0817.mp3" },
+      { "t": "I would like a guide who speaks German.", "l": "Chci průvodce, který mluví německy.", "a": "0818.mp3" },
+      { "t": "I would like a guide who speaks Italian.", "l": "Chci průvodce, který mluví italsky.", "a": "0819.mp3" },
+      {
+        "t": "I would like a guide who speaks French.",
+        "l": "Chci průvodce, který mluví francouzsky.",
+        "a": "0820.mp3"
+      }
+    ]
+  },
+  {
+    "topic": "42 City tour",
+    "words": [
+      { "t": "42 [forty-two]", "l": "42 [čtyřicet dva]", "a": "0821.mp3" },
+      { "t": "City tour", "l": "Prohlídka města", "a": "0822.mp3" },
+      { "t": "Is the market open on Sundays?", "l": "Je tržnice otevřena v neděli?", "a": "0823.mp3" },
+      { "t": "Is the fair open on Mondays?", "l": "Je výstaviště otevřeno v pondělí?", "a": "0824.mp3" },
+      { "t": "Is the exhibition open on Tuesdays?", "l": "Je výstavní síň otevřena v úterý?", "a": "0825.mp3" },
+      { "t": "Is the zoo open on Wednesdays?", "l": "Má zoologická zahrada ve středu otevřeno?", "a": "0826.mp3" },
+      { "t": "Is the museum open on Thursdays?", "l": "Má muzeum ve čtvrtek otevřeno?", "a": "0827.mp3" },
+      { "t": "Is the gallery open on Fridays?", "l": "Má galerie v pátek otevřeno?", "a": "0828.mp3" },
+      { "t": "Can one take photographs?", "l": "Může se tady fotografovat?", "a": "0829.mp3" },
+      { "t": "Does one have to pay an entrance fee?", "l": "Musí se platit vstup?", "a": "0830.mp3" },
+      { "t": "How much is the entrance fee?", "l": "Kolik stojí vstup?", "a": "0831.mp3" },
+      { "t": "Is there a discount for groups?", "l": "Poskytuje se skupinová sleva?", "a": "0832.mp3" },
+      { "t": "Is there a discount for children?", "l": "Poskytuje se sleva pro děti?", "a": "0833.mp3" },
+      { "t": "Is there a discount for students?", "l": "Poskytuje se studentská sleva?", "a": "0834.mp3" },
+      { "t": "What building is that?", "l": "Co je to za budovu?", "a": "0835.mp3" },
+      { "t": "How old is the building?", "l": "Jak stará je ta budova?", "a": "0836.mp3" },
+      { "t": "Who built the building?", "l": "Kdo tu budovu postavil?", "a": "0837.mp3" },
+      { "t": "I’m interested in architecture.", "l": "Zajímám se o architekturu.", "a": "0838.mp3" },
+      { "t": "I’m interested in art.", "l": "Zajímám se o umění.", "a": "0839.mp3" },
+      { "t": "I’m interested in paintings.", "l": "Zajímám se o malířství.", "a": "0840.mp3" }
+    ]
+  },
+  {
+    "topic": "43 At the zoo",
+    "words": [
+      { "t": "43 [forty-three]", "l": "43 [čtyřicet tři]", "a": "0841.mp3" },
+      { "t": "At the zoo", "l": "V ZOO / zoologické zahradě", "a": "0842.mp3" },
+      { "t": "The zoo is there.", "l": "Tam je ZOO.", "a": "0843.mp3" },
+      { "t": "The giraffes are there.", "l": "Tam jsou žirafy.", "a": "0844.mp3" },
+      { "t": "Where are the bears?", "l": "Kde jsou medvědi?", "a": "0845.mp3" },
+      { "t": "Where are the elephants?", "l": "Kde jsou sloni?", "a": "0846.mp3" },
+      { "t": "Where are the snakes?", "l": "Kde jsou hadi?", "a": "0847.mp3" },
+      { "t": "Where are the lions?", "l": "Kde jsou lvi?", "a": "0848.mp3" },
+      { "t": "I have a camera.", "l": "Mám foťák.", "a": "0849.mp3" },
+      { "t": "I also have a video camera.", "l": "Mám i kameru.", "a": "0850.mp3" },
+      { "t": "Where can I find a battery?", "l": "Kde je baterie?", "a": "0851.mp3" },
+      { "t": "Where are the penguins?", "l": "Kde jsou tučňáci?", "a": "0852.mp3" },
+      { "t": "Where are the kangaroos?", "l": "Kde jsou klokani?", "a": "0853.mp3" },
+      { "t": "Where are the rhinos?", "l": "Kde jsou nosorožci?", "a": "0854.mp3" },
+      { "t": "Where is the toilet / restroom (am.)?", "l": "Kde jsou toalety?", "a": "0855.mp3" },
+      { "t": "There is a café over there.", "l": "Tam je kavárna.", "a": "0856.mp3" },
+      { "t": "There is a restaurant over there.", "l": "Tam je restaurace.", "a": "0857.mp3" },
+      { "t": "Where are the camels?", "l": "Kde jsou velbloudi?", "a": "0858.mp3" },
+      { "t": "Where are the gorillas and the zebras?", "l": "Kde jsou gorily a zebry?", "a": "0859.mp3" },
+      { "t": "Where are the tigers and the crocodiles?", "l": "Kde jsou tygři a krokodýli?", "a": "0860.mp3" }
+    ]
+  },
+  {
+    "topic": "44 Going out in the evening",
+    "words": [
+      { "t": "44 [forty-four]", "l": "44 [čtyřicet čtyři]", "a": "0861.mp3" },
+      { "t": "Going out in the evening", "l": "Večerní program", "a": "0862.mp3" },
+      { "t": "Is there a disco here?", "l": "Je tady nějaká diskotéka?", "a": "0863.mp3" },
+      { "t": "Is there a nightclub here?", "l": "Je tady nějaký noční klub?", "a": "0864.mp3" },
+      { "t": "Is there a pub here?", "l": "Je tady nějaká hospoda?", "a": "0865.mp3" },
+      {
+        "t": "What’s playing at the theatre / theater (am.) this evening?",
+        "l": "Co dávají dnes v divadle?",
+        "a": "0866.mp3"
+      },
+      {
+        "t": "What’s playing at the cinema / movies (am.) this evening?",
+        "l": "Co dávají dnes v kině?",
+        "a": "0867.mp3"
+      },
+      { "t": "What’s on TV this evening?", "l": "Co dávají dnes v televizi?", "a": "0868.mp3" },
+      {
+        "t": "Are tickets for the theatre / theater (am.) still available?",
+        "l": "Jsou ještě vstupenky do divadla?",
+        "a": "0869.mp3"
+      },
+      {
+        "t": "Are tickets for the cinema / movies (am.) still available?",
+        "l": "Jsou ještě lístky do kina?",
+        "a": "0870.mp3"
+      },
+      {
+        "t": "Are tickets for the football / soccer am. game still available?",
+        "l": "Jsou ještě lístky na fotbal?",
+        "a": "0871.mp3"
+      },
+      { "t": "I want to sit in the back.", "l": "Chtěl bych lístek do zadní řady.", "a": "0872.mp3" },
+      { "t": "I want to sit somewhere in the middle.", "l": "Chtěl bych lístek někam doprostřed.", "a": "0873.mp3" },
+      { "t": "I want to sit at the front.", "l": "Chtěl bych lístek do přední řady.", "a": "0874.mp3" },
+      { "t": "Could you recommend something?", "l": "Můžete mi něco doporučit?", "a": "0875.mp3" },
+      { "t": "When does the show begin?", "l": "Kdy začíná představení?", "a": "0876.mp3" },
+      { "t": "Can you get me a ticket?", "l": "Můžete mi sehnat vstupenku?", "a": "0877.mp3" },
+      { "t": "Is there a golf course nearby?", "l": "Je tady poblíž nějaké golfové hřiště?", "a": "0878.mp3" },
+      { "t": "Is there a tennis court nearby?", "l": "Jsou tady poblíž nějaké tenisové kurty?", "a": "0879.mp3" },
+      { "t": "Is there an indoor swimming pool nearby?", "l": "Je tady poblíž nějaký krytý bazén?", "a": "0880.mp3" }
+    ]
+  },
+  {
+    "topic": "45 At the cinema",
+    "words": [
+      { "t": "45 [forty-five]", "l": "45 [čtyřicet pět]", "a": "0881.mp3" },
+      { "t": "At the cinema", "l": "V kině", "a": "0882.mp3" },
+      { "t": "We want to go to the cinema.", "l": "Chceme jít do kina.", "a": "0883.mp3" },
+      { "t": "A good film is playing today.", "l": "Dnes se hraje dobrý film.", "a": "0884.mp3" },
+      { "t": "The film is brand new.", "l": "Je to úplně nový film.", "a": "0885.mp3" },
+      { "t": "Where is the cash register?", "l": "Kde je pokladna?", "a": "0886.mp3" },
+      { "t": "Are seats still available?", "l": "Jsou ještě volná místa?", "a": "0887.mp3" },
+      { "t": "How much are the admission tickets?", "l": "Kolik stojí vstupenky?", "a": "0888.mp3" },
+      { "t": "When does the show begin?", "l": "Kdy začíná představení?", "a": "0889.mp3" },
+      { "t": "How long is the film?", "l": "Jak dlouho ten film trvá?", "a": "0890.mp3" },
+      { "t": "Can one reserve tickets?", "l": "Lze si rezervovat vstupenky?", "a": "0891.mp3" },
+      { "t": "I want to sit at the back.", "l": "Chtěl / chtěla bych sedět vzadu.", "a": "0892.mp3" },
+      { "t": "I want to sit at the front.", "l": "Chtěl / chtěla bych sedět vepředu.", "a": "0893.mp3" },
+      { "t": "I want to sit in the middle.", "l": "Chtěl / chtěla bych sedět uprostřed.", "a": "0894.mp3" },
+      { "t": "The film was exciting.", "l": "Ten film byl napínavý.", "a": "0895.mp3" },
+      { "t": "The film was not boring.", "l": "Ten film nebyl nudný.", "a": "0896.mp3" },
+      {
+        "t": "But the book on which the film was based was better.",
+        "l": "Ale knižní předloha byla lepší.",
+        "a": "0897.mp3"
+      },
+      { "t": "How was the music?", "l": "Jaká byla hudba?", "a": "0898.mp3" },
+      { "t": "How were the actors?", "l": "Jací byli herci?", "a": "0899.mp3" },
+      { "t": "Were there English subtitles?", "l": "Měl ten film anglické titulky?", "a": "0900.mp3" }
+    ]
+  },
+  {
+    "topic": "46 In the discotheque",
+    "words": [
+      { "t": "46 [forty-six]", "l": "46 [čtyřicet šest]", "a": "0901.mp3" },
+      { "t": "In the discotheque", "l": "Na diskotéce", "a": "0902.mp3" },
+      { "t": "Is this seat taken?", "l": "Je to místo volné?", "a": "0903.mp3" },
+      { "t": "May I sit with you?", "l": "Mohu si k Vám přisednout?", "a": "0904.mp3" },
+      { "t": "Sure.", "l": "Prosím.", "a": "0905.mp3" },
+      { "t": "How do you like the music?", "l": "Jak se Vám líbí ta hudba?", "a": "0906.mp3" },
+      { "t": "A little too loud.", "l": "Je moc hlasitá.", "a": "0907.mp3" },
+      { "t": "But the band plays very well.", "l": "Ale ta skupina hraje docela dobře.", "a": "0908.mp3" },
+      { "t": "Do you come here often?", "l": "Chodíte sem často?", "a": "0909.mp3" },
+      { "t": "No, this is the first time.", "l": "Ne, jsem tu poprvé.", "a": "0910.mp3" },
+      { "t": "I’ve never been here before.", "l": "Nikdy jsem tu ještě nebyl / nebyla.", "a": "0911.mp3" },
+      { "t": "Would you like to dance?", "l": "Tančíte?", "a": "0912.mp3" },
+      { "t": "Maybe later.", "l": "Možná později.", "a": "0913.mp3" },
+      { "t": "I can’t dance very well.", "l": "Neumím moc dobře tancovat.", "a": "0914.mp3" },
+      { "t": "It’s very easy.", "l": "To je úplně jednoduché.", "a": "0915.mp3" },
+      { "t": "I’ll show you.", "l": "Ukážu vám to.", "a": "0916.mp3" },
+      { "t": "No, maybe some other time.", "l": "Ne, až někdy jindy.", "a": "0917.mp3" },
+      { "t": "Are you waiting for someone?", "l": "Čekáte na někoho?", "a": "0918.mp3" },
+      { "t": "Yes, for my boyfriend.", "l": "Ano, na svého přítele.", "a": "0919.mp3" },
+      { "t": "There he is!", "l": "Tamhle zrovna přichází!", "a": "0920.mp3" }
+    ]
+  },
+  {
+    "topic": "47 Preparing a trip",
+    "words": [
+      { "t": "47 [forty-seven]", "l": "47 [čtyřicet sedm]", "a": "0921.mp3" },
+      { "t": "Preparing a trip", "l": "Příprava na cestu", "a": "0922.mp3" },
+      { "t": "You have to pack our suitcase!", "l": "Musíš nám sbalit kufr!", "a": "0923.mp3" },
+      { "t": "Don’t forget anything!", "l": "Nesmíš na nic zapomenout!", "a": "0924.mp3" },
+      { "t": "You need a big suitcase!", "l": "Potřebuješ velký kufr!", "a": "0925.mp3" },
+      { "t": "Don’t forget your passport!", "l": "Nezapomeň si pas!", "a": "0926.mp3" },
+      { "t": "Don’t forget your ticket!", "l": "Nezapomeň si letenku!", "a": "0927.mp3" },
+      {
+        "t": "Don’t forget your traveller’s cheques / traveler’s checks (am.)!",
+        "l": "Nezapomeň si cestovní šeky!",
+        "a": "0928.mp3"
+      },
+      { "t": "Take some suntan lotion with you.", "l": "Vezmi si krém na opalování.", "a": "0929.mp3" },
+      { "t": "Take the sun-glasses with you.", "l": "Vezmi si sluneční brýle.", "a": "0930.mp3" },
+      { "t": "Take the sun hat with you.", "l": "Vezmi si slamák.", "a": "0931.mp3" },
+      { "t": "Do you want to take a road map?", "l": "Chceš si vzít mapu?", "a": "0932.mp3" },
+      { "t": "Do you want to take a travel guide?", "l": "Chceš si vzít průvodce?", "a": "0933.mp3" },
+      { "t": "Do you want to take an umbrella?", "l": "Chceš si vzít deštník?", "a": "0934.mp3" },
+      {
+        "t": "Remember to take pants, shirts and socks.",
+        "l": "Nezapomeň na kalhoty, košile, ponožky.",
+        "a": "0935.mp3"
+      },
+      {
+        "t": "Remember to take ties, belts and sports jackets.",
+        "l": "Nezapomeň na kravaty, pásky, saka.",
+        "a": "0936.mp3"
+      },
+      {
+        "t": "Remember to take pyjamas, nightgowns and t-shirts.",
+        "l": "Nezapomeň na pyžama, noční košile a trička.",
+        "a": "0937.mp3"
+      },
+      { "t": "You need shoes, sandals and boots.", "l": "Potřebuješ boty, sandály a holínky.", "a": "0938.mp3" },
+      {
+        "t": "You need handkerchiefs, soap and a nail clipper.",
+        "l": "Potřebuješ kapesníky, mýdlo a nůžky na nehty.",
+        "a": "0939.mp3"
+      },
+      {
+        "t": "You need a comb, a toothbrush and toothpaste.",
+        "l": "Potřebuješ hřeben, zubní kartáček a pastu.",
+        "a": "0940.mp3"
+      }
+    ]
+  },
+  {
+    "topic": "48 Vacation activities",
+    "words": [
+      { "t": "48 [forty-eight]", "l": "48 [čtyřicet osm]", "a": "0941.mp3" },
+      { "t": "Vacation activities", "l": "Aktivity na dovolené", "a": "0942.mp3" },
+      { "t": "Is the beach clean?", "l": "Je ta pláž čistá?", "a": "0943.mp3" },
+      { "t": "Can one swim there?", "l": "Může se tam koupat?", "a": "0944.mp3" },
+      { "t": "Isn’t it dangerous to swim there?", "l": "Není nebezpečné se tam koupat?", "a": "0945.mp3" },
+      { "t": "Can one rent a sun umbrella / parasol here?", "l": "Půjčují se tady slunečníky?", "a": "0946.mp3" },
+      { "t": "Can one rent a deck chair here?", "l": "Půjčují se tady lehátka?", "a": "0947.mp3" },
+      { "t": "Can one rent a boat here?", "l": "Půjčují se tady čluny?", "a": "0948.mp3" },
+      { "t": "I would like to surf.", "l": "Chtěl / chtěla bych rád / ráda surfovat.", "a": "0949.mp3" },
+      { "t": "I would like to dive.", "l": "Chtěl / chtěla bych se rád / ráda potápět.", "a": "0950.mp3" },
+      {
+        "t": "I would like to water ski.",
+        "l": "Chtěl / chtěla bych rád / ráda jezdit na vodních lyžích.",
+        "a": "0951.mp3"
+      },
+      { "t": "Can one rent a surfboard?", "l": "Dá se tady půjčit surf?", "a": "0952.mp3" },
+      { "t": "Can one rent diving equipment?", "l": "Dá se tady půjčit potápěčská výstroj?", "a": "0953.mp3" },
+      { "t": "Can one rent water skis?", "l": "Dají se tady půjčit vodní lyže?", "a": "0954.mp3" },
+      { "t": "I’m only a beginner.", "l": "Jsem teprve začátečník.", "a": "0955.mp3" },
+      { "t": "I’m moderately good.", "l": "Jsem středně pokročilý.", "a": "0956.mp3" },
+      { "t": "I’m pretty good at it.", "l": "Vyznám se v tom. / Umím to.", "a": "0957.mp3" },
+      { "t": "Where is the ski lift?", "l": "Kde je vlek?", "a": "0958.mp3" },
+      { "t": "Do you have skis?", "l": "Máš s sebou lyže?", "a": "0959.mp3" },
+      { "t": "Do you have ski boots?", "l": "Máš s sebou lyžařské boty?", "a": "0960.mp3" }
+    ]
+  },
+  {
+    "topic": "49 Sports",
+    "words": [
+      { "t": "49 [forty-nine]", "l": "49 [čtyřicet devět]", "a": "0961.mp3" },
+      { "t": "Sports", "l": "Sport", "a": "0962.mp3" },
+      { "t": "Do you exercise?", "l": "Sportuješ?", "a": "0963.mp3" },
+      { "t": "Yes, I need some exercise.", "l": "Ano, potřebuji pohyb.", "a": "0964.mp3" },
+      { "t": "I am a member of a sports club.", "l": "Jsem členem sportovního klubu.", "a": "0965.mp3" },
+      { "t": "We play football / soccer (am.).", "l": "Hrajeme fotbal.", "a": "0966.mp3" },
+      { "t": "We swim sometimes.", "l": "Někdy plaveme.", "a": "0967.mp3" },
+      { "t": "Or we cycle.", "l": "Nebo jezdíme na kole.", "a": "0968.mp3" },
+      {
+        "t": "There is a football / soccer (am.) stadium in our city.",
+        "l": "V našem městě je fotbalový stadión.",
+        "a": "0969.mp3"
+      },
+      { "t": "There is also a swimming pool with a sauna.", "l": "Je tam i plovárna se saunou.", "a": "0970.mp3" },
+      { "t": "And there is a golf course.", "l": "A je tam také golfové hřiště.", "a": "0971.mp3" },
+      { "t": "What is on TV?", "l": "Co je v televizi?", "a": "0972.mp3" },
+      { "t": "There is a football / soccer (am.) match on now.", "l": "Teď dávají fotbal.", "a": "0973.mp3" },
+      {
+        "t": "The German team is playing against the English one.",
+        "l": "Německo hraje proti Anglii.",
+        "a": "0974.mp3"
+      },
+      { "t": "Who is winning?", "l": "Kdo vyhrává?", "a": "0975.mp3" },
+      { "t": "I have no idea.", "l": "Nemám tušení.", "a": "0976.mp3" },
+      { "t": "It is currently a tie.", "l": "Teď je to nerozhodně.", "a": "0977.mp3" },
+      { "t": "The referee is from Belgium.", "l": "Rozhodčí je z Belgie.", "a": "0978.mp3" },
+      { "t": "Now there is a penalty.", "l": "Teď se bude kopat penalta.", "a": "0979.mp3" },
+      { "t": "Goal! One – zero!", "l": "Gól! Jedna nula!", "a": "0980.mp3" }
+    ]
+  },
+  {
+    "topic": "50 In the swimming pool",
+    "words": [
+      { "t": "50 [fifty]", "l": "50 [padesát]", "a": "0981.mp3" },
+      { "t": "In the swimming pool", "l": "V bazénu", "a": "0982.mp3" },
+      { "t": "It is hot today.", "l": "Dnes je horko.", "a": "0983.mp3" },
+      { "t": "Shall we go to the swimming pool?", "l": "Jdeme na plovárnu?", "a": "0984.mp3" },
+      { "t": "Do you feel like swimming?", "l": "Chce se ti jít plavat?", "a": "0985.mp3" },
+      { "t": "Do you have a towel?", "l": "Máš ručník?", "a": "0986.mp3" },
+      { "t": "Do you have swimming trunks?", "l": "Máš plavky?", "a": "0987.mp3" },
+      { "t": "Do you have a bathing suit?", "l": "Máš plavky?", "a": "0988.mp3" },
+      { "t": "Can you swim?", "l": "Umíš plavat?", "a": "0989.mp3" },
+      { "t": "Can you dive?", "l": "Umíš se potápět?", "a": "0990.mp3" },
+      { "t": "Can you jump in the water?", "l": "Umíš skákat do vody?", "a": "0991.mp3" },
+      { "t": "Where is the shower?", "l": "Kde je sprcha?", "a": "0992.mp3" },
+      { "t": "Where is the changing room?", "l": "Kde je kabina na převlékání?", "a": "0993.mp3" },
+      { "t": "Where are the swimming goggles?", "l": "Kde jsou plavecké brýle?", "a": "0994.mp3" },
+      { "t": "Is the water deep?", "l": "Je ta voda hluboká?", "a": "0995.mp3" },
+      { "t": "Is the water clean?", "l": "Je ta voda čistá?", "a": "0996.mp3" },
+      { "t": "Is the water warm?", "l": "Je ta voda teplá?", "a": "0997.mp3" },
+      { "t": "I am freezing.", "l": "Mrznu.", "a": "0998.mp3" },
+      { "t": "The water is too cold.", "l": "Ta voda je příliš studená.", "a": "0999.mp3" },
+      { "t": "I am getting out of the water now.", "l": "Teď jdu z vody.", "a": "1000.mp3" }
+    ]
+  },
+  {
+    "topic": "51 Running errands",
+    "words": [
+      { "t": "51 [fifty-one]", "l": "51 [padesát jedna]", "a": "1001.mp3" },
+      { "t": "Running errands", "l": "Drobné vyřizování", "a": "1002.mp3" },
+      { "t": "I want to go to the library.", "l": "Chci jít do knihovny.", "a": "1003.mp3" },
+      { "t": "I want to go to the bookstore.", "l": "Chci jít do knihkupectví.", "a": "1004.mp3" },
+      { "t": "I want to go to the newspaper stand.", "l": "Chci jít ke stánku.", "a": "1005.mp3" },
+      { "t": "I want to borrow a book.", "l": "Chci si půjčit nějakou knihu.", "a": "1006.mp3" },
+      { "t": "I want to buy a book.", "l": "Chci koupit nějakou knihu.", "a": "1007.mp3" },
+      { "t": "I want to buy a newspaper.", "l": "Chci si koupit noviny.", "a": "1008.mp3" },
+      {
+        "t": "I want to go to the library to borrow a book.",
+        "l": "Chci do knihovny půjčit si knihu.",
+        "a": "1009.mp3"
+      },
+      {
+        "t": "I want to go to the bookstore to buy a book.",
+        "l": "Chci do knihkupectví koupit si knihu.",
+        "a": "1010.mp3"
+      },
+      {
+        "t": "I want to go to the kiosk / newspaper stand to buy a newspaper.",
+        "l": "Chci ke stánku koupit si noviny.",
+        "a": "1011.mp3"
+      },
+      { "t": "I want to go to the optician.", "l": "Chci do optiky.", "a": "1012.mp3" },
+      { "t": "I want to go to the supermarket.", "l": "Chci do supermarketu.", "a": "1013.mp3" },
+      { "t": "I want to go to the bakery.", "l": "Chci do pekárny.", "a": "1014.mp3" },
+      { "t": "I want to buy some glasses.", "l": "Chci si koupit brýle.", "a": "1015.mp3" },
+      { "t": "I want to buy fruit and vegetables.", "l": "Chci koupit ovoce a zeleninu.", "a": "1016.mp3" },
+      { "t": "I want to buy rolls and bread.", "l": "Chci koupit housky a chléb.", "a": "1017.mp3" },
+      { "t": "I want to go to the optician to buy glasses.", "l": "Chci do optiky koupit si brýle.", "a": "1018.mp3" },
+      {
+        "t": "I want to go to the supermarket to buy fruit and vegetables.",
+        "l": "Chci do supermarketu koupit si ovoce a zeleninu.",
+        "a": "1019.mp3"
+      },
+      {
+        "t": "I want to go to the baker to buy rolls and bread.",
+        "l": "Chci do pekařství koupit si housky a chléb.",
+        "a": "1020.mp3"
+      }
+    ]
+  },
+  {
+    "topic": "54 Shopping",
+    "words": [
+      { "t": "54 [fifty-four]", "l": "54 [padesát čtyři]", "a": "1061.mp3" },
+      { "t": "Shopping", "l": "Nakupování", "a": "1062.mp3" },
+      { "t": "I want to buy a present.", "l": "Chtěl bych koupit nějaký dárek.", "a": "1063.mp3" },
+      { "t": "But nothing too expensive.", "l": "Ale ne moc drahý.", "a": "1064.mp3" },
+      { "t": "Maybe a handbag?", "l": "Možná nějakou kabelku?", "a": "1065.mp3" },
+      { "t": "Which color would you like?", "l": "Jakou barvu byste chtěl / chtěla?", "a": "1066.mp3" },
+      { "t": "Black, brown or white?", "l": "Černou, hnědou nebo bílou?", "a": "1067.mp3" },
+      { "t": "A large one or a small one?", "l": "Větší nebo menší?", "a": "1068.mp3" },
+      { "t": "May I see this one, please?", "l": "Můžu si prohlédnout tuto?", "a": "1069.mp3" },
+      { "t": "Is it made of leather?", "l": "Je z kůže?", "a": "1070.mp3" },
+      { "t": "Or is it made of plastic?", "l": "Nebo z koženky?", "a": "1071.mp3" },
+      { "t": "Of leather, of course.", "l": "Samozřejmě z kůže.", "a": "1072.mp3" },
+      { "t": "This is very good quality.", "l": "Je obzvlášť kvalitní.", "a": "1073.mp3" },
+      { "t": "And the bag is really very reasonable.", "l": "A ta taška je skutečně velmi levná.", "a": "1074.mp3" },
+      { "t": "I like it.", "l": "Tato se mi líbí.", "a": "1075.mp3" },
+      { "t": "I’ll take it.", "l": "Vezmu si tuto.", "a": "1076.mp3" },
+      { "t": "Can I exchange it if needed?", "l": "Mohu ji případně vyměnit?", "a": "1077.mp3" },
+      { "t": "Of course.", "l": "Samozřejmě.", "a": "1078.mp3" },
+      { "t": "We’ll gift wrap it.", "l": "Zabalíme ji jako dárek.", "a": "1079.mp3" },
+      { "t": "The cashier is over there.", "l": "Támhle je pokladna.", "a": "1080.mp3" }
+    ]
+  },
+  {
+    "topic": "55 Working",
+    "words": [
+      { "t": "55 [fifty-five]", "l": "55 [padesát pět]", "a": "1081.mp3" },
+      { "t": "Working", "l": "Práce", "a": "1082.mp3" },
+      { "t": "What do you do for a living?", "l": "Čím se živíte?", "a": "1083.mp3" },
+      { "t": "My husband is a doctor.", "l": "Můj manžel je povoláním lékař.", "a": "1084.mp3" },
+      { "t": "I work as a nurse part-time.", "l": "Já pracuji jako zdravotní sestra na půl úvazku.", "a": "1085.mp3" },
+      { "t": "We will soon receive our pension.", "l": "Brzy půjdeme do důchodu.", "a": "1086.mp3" },
+      { "t": "But taxes are high.", "l": "Ale daně jsou vysoké.", "a": "1087.mp3" },
+      { "t": "And health insurance is expensive.", "l": "A zdravotní pojištění je drahé.", "a": "1088.mp3" },
+      { "t": "What would you like to become some day?", "l": "Čím chceš jednou být?", "a": "1089.mp3" },
+      {
+        "t": "I would like to become an engineer.",
+        "l": "Chtěl / chtěla bych být inženýrem / inženýrkou.",
+        "a": "1090.mp3"
+      },
+      { "t": "I want to go to college.", "l": "Chci jít na univerzitu.", "a": "1091.mp3" },
+      { "t": "I am an intern.", "l": "Jsem na stáži.", "a": "1092.mp3" },
+      { "t": "I do not earn much.", "l": "Nevydělávám moc.", "a": "1093.mp3" },
+      { "t": "I am doing an internship abroad.", "l": "Dělám stáž v zahraničí.", "a": "1094.mp3" },
+      { "t": "That is my boss.", "l": "To je můj šéf.", "a": "1095.mp3" },
+      { "t": "I have nice colleagues.", "l": "Mám milé spolupracovníky.", "a": "1096.mp3" },
+      { "t": "We always go to the cafeteria at noon.", "l": "V poledne jdeme vždy do kantýny.", "a": "1097.mp3" },
+      { "t": "I am looking for a job.", "l": "Hledám práci.", "a": "1098.mp3" },
+      {
+        "t": "I have already been unemployed for a year.",
+        "l": "Už rok jsem nezaměstnaný / nezaměstnaná.",
+        "a": "1099.mp3"
+      },
+      {
+        "t": "There are too many unemployed people in this country.",
+        "l": "V této zemi je příliš mnoho nezaměstnaných.",
+        "a": "1100.mp3"
+      }
+    ]
+  },
+  {
+    "topic": "56 Feelings",
+    "words": [
+      { "t": "56 [fifty-six]", "l": "56 [padesát šest]", "a": "1101.mp3" },
+      { "t": "Feelings", "l": "Pocity", "a": "1102.mp3" },
+      { "t": "to feel like / want to", "l": "mít chuť", "a": "1103.mp3" },
+      { "t": "We feel like. / We want to.", "l": "Máme chuť.", "a": "1104.mp3" },
+      { "t": "We don’t feel like. / We do’t want to.", "l": "Nemáme žádnou chuť.", "a": "1105.mp3" },
+      { "t": "to be afraid", "l": "mít strach", "a": "1106.mp3" },
+      { "t": "I’m afraid.", "l": "Mám strach.", "a": "1107.mp3" },
+      { "t": "I am not afraid.", "l": "Nemám žádný strach.", "a": "1108.mp3" },
+      { "t": "to have time", "l": "mít čas", "a": "1109.mp3" },
+      { "t": "He has time.", "l": "Má čas.", "a": "1110.mp3" },
+      { "t": "He has no time.", "l": "Nemá čas.", "a": "1111.mp3" },
+      { "t": "to be bored", "l": "nudit se", "a": "1112.mp3" },
+      { "t": "She is bored.", "l": "Nudí se.", "a": "1113.mp3" },
+      { "t": "She is not bored.", "l": "Nenudí se.", "a": "1114.mp3" },
+      { "t": "to be hungry", "l": "mít hlad", "a": "1115.mp3" },
+      { "t": "Are you hungry?", "l": "Máte hlad?", "a": "1116.mp3" },
+      { "t": "Aren’t you hungry?", "l": "Vy nemáte vůbec hlad?", "a": "1117.mp3" },
+      { "t": "to be thirsty", "l": "Mít žízeň", "a": "1118.mp3" },
+      { "t": "They are thirsty.", "l": "Mají žízeň.", "a": "1119.mp3" },
+      { "t": "They are not thirsty.", "l": "Nemají vůbec žízeň.", "a": "1120.mp3" }
+    ]
+  },
+  {
+    "topic": "57 At the doctor",
+    "words": [
+      { "t": "57 [fifty-seven]", "l": "57 [padesát sedm]", "a": "1121.mp3" },
+      { "t": "At the doctor", "l": "U lékaře", "a": "1122.mp3" },
+      { "t": "I have a doctor’s appointment.", "l": "Jsem objednaný / objednaná k lékaři.", "a": "1123.mp3" },
+      {
+        "t": "I have the appointment at ten o’clock.",
+        "l": "Jsem objednaný / objednaná na deset hodin.",
+        "a": "1124.mp3"
+      },
+      { "t": "What is your name?", "l": "Jak se jmenujete?", "a": "1125.mp3" },
+      { "t": "Please take a seat in the waiting room.", "l": "Prosím posaďte se v čekárně.", "a": "1126.mp3" },
+      { "t": "The doctor is on his way.", "l": "Pan doktor přijde hned.", "a": "1127.mp3" },
+      {
+        "t": "What insurance company do you belong to?",
+        "l": "U které pojišťovny jste pojištěn / pojištěna?",
+        "a": "1128.mp3"
+      },
+      { "t": "What can I do for you?", "l": "Co pro Vás mohu udělat?", "a": "1129.mp3" },
+      { "t": "Do you have any pain?", "l": "Bolí Vás něco?", "a": "1130.mp3" },
+      { "t": "Where does it hurt?", "l": "Kde to bolí?", "a": "1131.mp3" },
+      { "t": "I always have back pain.", "l": "Pořád mě bolí v zádech.", "a": "1132.mp3" },
+      { "t": "I often have headaches.", "l": "Často mě bolí hlava.", "a": "1133.mp3" },
+      { "t": "I sometimes have stomach aches.", "l": "Někdy mě bolí břicho.", "a": "1134.mp3" },
+      { "t": "Remove your top!", "l": "Prosím svlékněte se do pasu!", "a": "1135.mp3" },
+      { "t": "Lie down on the examining table.", "l": "Lehnite si prosím na lůžko!", "a": "1136.mp3" },
+      { "t": "Your blood pressure is okay.", "l": "Váš krevní tlak je v pořádku.", "a": "1137.mp3" },
+      { "t": "I will give you an injection.", "l": "Dám Vám injekci.", "a": "1138.mp3" },
+      { "t": "I will give you some pills.", "l": "Předepíšu Vám léky.", "a": "1139.mp3" },
+      { "t": "I am giving you a prescription for the pharmacy.", "l": "Dám Vám recept pro lékárnu.", "a": "1140.mp3" }
+    ]
+  },
+  {
+    "topic": "58 Parts of the body",
+    "words": [
+      { "t": "58 [fifty-eight]", "l": "58 [padesát osm]", "a": "1141.mp3" },
+      { "t": "Parts of the body", "l": "Části těla", "a": "1142.mp3" },
+      { "t": "I am drawing a man.", "l": "Nakreslím muže.", "a": "1143.mp3" },
+      { "t": "First the head.", "l": "Nejdříve hlavu.", "a": "1144.mp3" },
+      { "t": "The man is wearing a hat.", "l": "Ten muž má na sobě klobouk.", "a": "1145.mp3" },
+      { "t": "One cannot see the hair.", "l": "Jeho vlasy nejsou vidět.", "a": "1146.mp3" },
+      { "t": "One cannot see the ears either.", "l": "Ani jeho uši nejsou vidět.", "a": "1147.mp3" },
+      { "t": "One cannot see his back either.", "l": "Ani jeho záda nejsou vidět.", "a": "1148.mp3" },
+      { "t": "I am drawing the eyes and the mouth.", "l": "Nakreslím mu oči a ústa.", "a": "1149.mp3" },
+      { "t": "The man is dancing and laughing.", "l": "Ten muž tančí a směje se.", "a": "1150.mp3" },
+      { "t": "The man has a long nose.", "l": "Ten muž má dlouhý nos.", "a": "1151.mp3" },
+      { "t": "He is carrying a cane in his hands.", "l": "V rukou drží hůl.", "a": "1152.mp3" },
+      { "t": "He is also wearing a scarf around his neck.", "l": "Kolem krku má také šálu.", "a": "1153.mp3" },
+      { "t": "It is winter and it is cold.", "l": "Je zima a je chladno.", "a": "1154.mp3" },
+      { "t": "The arms are athletic.", "l": "Jeho paže jsou silné.", "a": "1155.mp3" },
+      { "t": "The legs are also athletic.", "l": "I jeho nohy jsou silné.", "a": "1156.mp3" },
+      { "t": "The man is made of snow.", "l": "Ten muž je ze sněhu.", "a": "1157.mp3" },
+      {
+        "t": "He is neither wearing pants nor a coat.",
+        "l": "Nemá na sobě žádné kalhoty a žádný kabát.",
+        "a": "1158.mp3"
+      },
+      { "t": "But the man is not freezing.", "l": "Ale nemrzne.", "a": "1159.mp3" },
+      { "t": "He is a snowman.", "l": "Je to sněhulák.", "a": "1160.mp3" }
+    ]
+  },
+  {
+    "topic": "59 At the post office",
+    "words": [
+      { "t": "59 [fifty-nine]", "l": "59 [padesát devět]", "a": "1161.mp3" },
+      { "t": "At the post office", "l": "Na poště", "a": "1162.mp3" },
+      { "t": "Where is the nearest post office?", "l": "Kde je nejbližší pošta?", "a": "1163.mp3" },
+      { "t": "Is the post office far from here?", "l": "Je to daleko k nejbližší poště?", "a": "1164.mp3" },
+      { "t": "Where is the nearest mail box?", "l": "Kde je nejbližší poštovní schránka?", "a": "1165.mp3" },
+      { "t": "I need a couple of stamps.", "l": "Potřebuji několik známek.", "a": "1166.mp3" },
+      { "t": "For a card and a letter.", "l": "Na pohled a na dopis.", "a": "1167.mp3" },
+      { "t": "How much is the postage to America?", "l": "Kolik stojí poštovné do Ameriky?", "a": "1168.mp3" },
+      { "t": "How heavy is the package?", "l": "Kolik váží tento balík?", "a": "1169.mp3" },
+      { "t": "Can I send it by air mail?", "l": "Mohu to poslat letecky?", "a": "1170.mp3" },
+      { "t": "How long will it take to get there?", "l": "Jak dlouho to trvá, než to tam dojde?", "a": "1171.mp3" },
+      { "t": "Where can I make a call?", "l": "Kde si mohu zatelefonovat?", "a": "1172.mp3" },
+      { "t": "Where is the nearest telephone booth?", "l": "Kde je nejbližší telefonní budka?", "a": "1173.mp3" },
+      { "t": "Do you have calling cards?", "l": "Máte telefonní karty?", "a": "1174.mp3" },
+      { "t": "Do you have a telephone directory?", "l": "Máte telefonní seznam?", "a": "1175.mp3" },
+      { "t": "Do you know the area code for Austria?", "l": "Znáte předčíslí Rakouska?", "a": "1176.mp3" },
+      { "t": "One moment, I’ll look it up.", "l": "Okamžik, podívám se po tom.", "a": "1177.mp3" },
+      { "t": "The line is always busy.", "l": "Ta linka je pořád obsazená.", "a": "1178.mp3" },
+      { "t": "Which number did you dial?", "l": "Jaké číslo jste volal / volala?", "a": "1179.mp3" },
+      { "t": "You have to dial a zero first!", "l": "Musíte nejprve vytočit nulu!", "a": "1180.mp3" }
+    ]
+  },
+  {
+    "topic": "61 Ordinal numbers",
+    "words": [
+      { "t": "61 [sixty-one]", "l": "61 [šedesát jedna]", "a": "1201.mp3" },
+      { "t": "Ordinal numbers", "l": "Řadové číslovky", "a": "1202.mp3" },
+      { "t": "The first month is January.", "l": "První měsíc je leden.", "a": "1203.mp3" },
+      { "t": "The second month is February.", "l": "Druhý měsíc je únor.", "a": "1204.mp3" },
+      { "t": "The third month is March.", "l": "Třetí měsíc je březen.", "a": "1205.mp3" },
+      { "t": "The fourth month is April.", "l": "Čtvrtý měsíc je duben.", "a": "1206.mp3" },
+      { "t": "The fifth month is May.", "l": "Pátý měsíc je květen.", "a": "1207.mp3" },
+      { "t": "The sixth month is June.", "l": "Šestý měsíc je červen.", "a": "1208.mp3" },
+      { "t": "Six months make half a year.", "l": "Šest měsíců je půl roku.", "a": "1209.mp3" },
+      { "t": "January, February, March,", "l": "Leden, únor, březen,", "a": "1210.mp3" },
+      { "t": "April, May and June.", "l": "duben, květen a červen.", "a": "1211.mp3" },
+      { "t": "The seventh month is July.", "l": "Sedmý měsíc je červenec.", "a": "1212.mp3" },
+      { "t": "The eighth month is August.", "l": "Osmý měsíc je srpen.", "a": "1213.mp3" },
+      { "t": "The ninth month is September.", "l": "Devátý měsíc je září.", "a": "1214.mp3" },
+      { "t": "The tenth month is October.", "l": "Desátý měsíc je říjen.", "a": "1215.mp3" },
+      { "t": "The eleventh month is November.", "l": "Jedenáctý měsíc je listopad.", "a": "1216.mp3" },
+      { "t": "The twelfth month is December.", "l": "Dvanáctý měsíc je prosinec.", "a": "1217.mp3" },
+      { "t": "Twelve months make a year.", "l": "Dvanáct měsíců je jeden rok.", "a": "1218.mp3" },
+      { "t": "July, August, September,", "l": "Červenec, srpen, září,", "a": "1219.mp3" },
+      { "t": "October, November and December.", "l": "říjen, listopad a prosinec.", "a": "1220.mp3" }
+    ]
+  },
+  {
+    "topic": "62 Asking questions 1",
+    "words": [
+      { "t": "62 [sixty-two]", "l": "62 [šedesát dva]", "a": "1221.mp3" },
+      { "t": "Asking questions 1", "l": "Kladení otázek 1", "a": "1222.mp3" },
+      { "t": "to learn", "l": "učit se", "a": "1223.mp3" },
+      { "t": "Do the students learn a lot?", "l": "Učí se žáci hodně?", "a": "1224.mp3" },
+      { "t": "No, they learn a little.", "l": "Ne, učí se málo.", "a": "1225.mp3" },
+      { "t": "to ask", "l": "ptát se", "a": "1226.mp3" },
+      { "t": "Do you often ask the teacher questions?", "l": "Ptáte se často učitele?", "a": "1227.mp3" },
+      { "t": "No, I don’t ask him questions often.", "l": "Ne, neptám se ho často.", "a": "1228.mp3" },
+      { "t": "to reply", "l": "odpovídat", "a": "1229.mp3" },
+      { "t": "Please reply.", "l": "Odpovězte, prosím.", "a": "1230.mp3" },
+      { "t": "I reply.", "l": "Odpovídám.", "a": "1231.mp3" },
+      { "t": "to work", "l": "pracovat", "a": "1232.mp3" },
+      { "t": "Is he working right now?", "l": "Pracuje právě?", "a": "1233.mp3" },
+      { "t": "Yes, he is working right now.", "l": "Ano, právě pracuje.", "a": "1234.mp3" },
+      { "t": "to come", "l": "přijít", "a": "1235.mp3" },
+      { "t": "Are you coming?", "l": "Přijdete?", "a": "1236.mp3" },
+      { "t": "Yes, we are coming soon.", "l": "Ano, přijdeme hned.", "a": "1237.mp3" },
+      { "t": "to live", "l": "bydlet", "a": "1238.mp3" },
+      { "t": "Do you live in Berlin?", "l": "Bydlíte v Berlíně?", "a": "1239.mp3" },
+      { "t": "Yes, I live in Berlin.", "l": "Ano, bydlím v Berlíně.", "a": "1240.mp3" }
+    ]
+  },
+  {
+    "topic": "63 Asking questions 2",
+    "words": [
+      { "t": "63 [sixty-three]", "l": "63 [šedesát tři]", "a": "1241.mp3" },
+      { "t": "Asking questions 2", "l": "Kladení otázek 2", "a": "1242.mp3" },
+      { "t": "I have a hobby.", "l": "Mám koníčka.", "a": "1243.mp3" },
+      { "t": "I play tennis.", "l": "Hraji tenis.", "a": "1244.mp3" },
+      { "t": "Where is the tennis court?", "l": "Kde je tenisové hřiště?", "a": "1245.mp3" },
+      { "t": "Do you have a hobby?", "l": "Máš nějakého koníčka?", "a": "1246.mp3" },
+      { "t": "I play football / soccer (am.).", "l": "Hraji fotbal.", "a": "1247.mp3" },
+      { "t": "Where is the football / soccer (am.) field?", "l": "Kde je fotbalové hřiště?", "a": "1248.mp3" },
+      { "t": "My arm hurts.", "l": "Bolí mě paže.", "a": "1249.mp3" },
+      { "t": "My foot and hand also hurt.", "l": "Bolí mě i noha a ruka.", "a": "1250.mp3" },
+      { "t": "Is there a doctor?", "l": "Kde je lékař?", "a": "1251.mp3" },
+      { "t": "I have a car / an automobile.", "l": "Mám auto.", "a": "1252.mp3" },
+      { "t": "I also have a motorcycle.", "l": "Mám i motorku.", "a": "1253.mp3" },
+      { "t": "Where could I park?", "l": "Kde je parkoviště?", "a": "1254.mp3" },
+      { "t": "I have a sweater.", "l": "Mám svetr.", "a": "1255.mp3" },
+      { "t": "I also have a jacket and a pair of jeans.", "l": "Mám i bundu a džíny.", "a": "1256.mp3" },
+      { "t": "Where is the washing machine?", "l": "Kde je pračka?", "a": "1257.mp3" },
+      { "t": "I have a plate.", "l": "Mám talíř.", "a": "1258.mp3" },
+      { "t": "I have a knife, a fork and a spoon.", "l": "Mám nůž, vidličku a lžíci.", "a": "1259.mp3" },
+      { "t": "Where is the salt and pepper?", "l": "Kde je sůl a pepř?", "a": "1260.mp3" }
+    ]
+  },
+  {
+    "topic": "64 Negation 1",
+    "words": [
+      { "t": "64 [sixty-four]", "l": "64 [šedesát čtyři]", "a": "1261.mp3" },
+      { "t": "Negation 1", "l": "Zápor 1", "a": "1262.mp3" },
+      { "t": "I don’t understand the word.", "l": "Nerozumím tomu slovu.", "a": "1263.mp3" },
+      { "t": "I don’t understand the sentence.", "l": "Nerozumím té větě.", "a": "1264.mp3" },
+      { "t": "I don’t understand the meaning.", "l": "Nerozumím významu.", "a": "1265.mp3" },
+      { "t": "the teacher", "l": "učitel", "a": "1266.mp3" },
+      { "t": "Do you understand the teacher?", "l": "Rozumíte učiteli?", "a": "1267.mp3" },
+      { "t": "Yes, I understand him well.", "l": "Ano, rozumím mu dobře.", "a": "1268.mp3" },
+      { "t": "the teacher", "l": "učitelka", "a": "1269.mp3" },
+      { "t": "Do you understand the teacher?", "l": "Rozumíte učitelce?", "a": "1270.mp3" },
+      { "t": "Yes, I understand her well.", "l": "Ano, rozumím jí dobře.", "a": "1271.mp3" },
+      { "t": "the people", "l": "lidé", "a": "1272.mp3" },
+      { "t": "Do you understand the people?", "l": "Rozumíte těm lidem?", "a": "1273.mp3" },
+      { "t": "No, I don’t understand them so well.", "l": "Ne, nerozumím jim moc dobře.", "a": "1274.mp3" },
+      { "t": "the girlfriend", "l": "přítelkyně", "a": "1275.mp3" },
+      { "t": "Do you have a girlfriend?", "l": "Máte přítelkyni?", "a": "1276.mp3" },
+      { "t": "Yes, I do.", "l": "Ano, mám přítelkyni.", "a": "1277.mp3" },
+      { "t": "the daughter", "l": "dcera", "a": "1278.mp3" },
+      { "t": "Do you have a daughter?", "l": "Máte dceru?", "a": "1279.mp3" },
+      { "t": "No, I don’t.", "l": "Ne, nemám.", "a": "1280.mp3" }
+    ]
+  },
+  {
+    "topic": "65 Negation 2",
+    "words": [
+      { "t": "65 [sixty-five]", "l": "65 [šedesát pět]", "a": "1281.mp3" },
+      { "t": "Negation 2", "l": "Zápor 2", "a": "1282.mp3" },
+      { "t": "Is the ring expensive?", "l": "Je ten prsten drahý?", "a": "1283.mp3" },
+      { "t": "No, it costs only one hundred Euros.", "l": "Ne, stojí jen sto euro.", "a": "1284.mp3" },
+      { "t": "But I have only fifty.", "l": "Ale já mám jen padesát.", "a": "1285.mp3" },
+      { "t": "Are you finished?", "l": "Jsi už hotový / hotová?", "a": "1286.mp3" },
+      { "t": "No, not yet.", "l": "Ne, ještě ne.", "a": "1287.mp3" },
+      { "t": "But I’ll be finished soon.", "l": "Ale už brzo budu hotový.", "a": "1288.mp3" },
+      { "t": "Do you want some more soup?", "l": "Chceš ještě polévku?", "a": "1289.mp3" },
+      { "t": "No, I don’t want anymore.", "l": "Ne, už nechci.", "a": "1290.mp3" },
+      { "t": "But another ice cream.", "l": "Ale chci ještě zmrzlinu.", "a": "1291.mp3" },
+      { "t": "Have you lived here long?", "l": "Bydlíš tady už dlouho?", "a": "1292.mp3" },
+      { "t": "No, only for a month.", "l": "Ne, teprve jeden měsíc.", "a": "1293.mp3" },
+      { "t": "But I already know a lot of people.", "l": "Ale znám už hodně lidí.", "a": "1294.mp3" },
+      { "t": "Are you driving home tomorrow?", "l": "Pojedeš zítra domů?", "a": "1295.mp3" },
+      { "t": "No, only on the weekend.", "l": "Ne, až o víkendu.", "a": "1296.mp3" },
+      { "t": "But I will be back on Sunday.", "l": "Ale přijedu zpátky už v neděli.", "a": "1297.mp3" },
+      { "t": "Is your daughter an adult?", "l": "Je tvoje dcera už dospělá?", "a": "1298.mp3" },
+      { "t": "No, she is only seventeen.", "l": "Ne, je jí teprve sedmnáct.", "a": "1299.mp3" },
+      { "t": "But she already has a boyfriend.", "l": "Ale už má přítele.", "a": "1300.mp3" }
+    ]
+  },
+  {
+    "topic": "66 Possessive pronouns 1",
+    "words": [
+      { "t": "66 [sixty-six]", "l": "66 [šedesát šest]", "a": "1301.mp3" },
+      { "t": "Possessive pronouns 1", "l": "Přivlastňovací zájmena 1", "a": "1302.mp3" },
+      { "t": "I – my", "l": "já – můj / moje (svůj / svoje)", "a": "1303.mp3" },
+      { "t": "I can’t find my key.", "l": "Nemůžu najít svůj klíč.", "a": "1304.mp3" },
+      { "t": "I can’t find my ticket.", "l": "Nemůžu najít svou jízdenku.", "a": "1305.mp3" },
+      { "t": "you – your", "l": "ty – tvůj / tvoje (svůj / svoje)", "a": "1306.mp3" },
+      { "t": "Have you found your key?", "l": "Našel jsi svůj klíč?", "a": "1307.mp3" },
+      { "t": "Have you found your ticket?", "l": "Našel jsi svou jízdenku?", "a": "1308.mp3" },
+      { "t": "he – his", "l": "on – jeho (svůj / svoje)", "a": "1309.mp3" },
+      { "t": "Do you know where his key is?", "l": "Nevíš, kde je jeho klíč?", "a": "1310.mp3" },
+      { "t": "Do you know where his ticket is?", "l": "Nevíš, kde je jeho jízdenka?", "a": "1311.mp3" },
+      { "t": "she – her", "l": "ona – její (svůj / svoje)", "a": "1312.mp3" },
+      { "t": "Her money is gone.", "l": "Její peníze jsou pryč.", "a": "1313.mp3" },
+      { "t": "And her credit card is also gone.", "l": "A její kreditní karta je také pryč.", "a": "1314.mp3" },
+      { "t": "we – our", "l": "my – náš / naše (svůj / svoje)", "a": "1315.mp3" },
+      { "t": "Our grandfather is ill.", "l": "Náš dědeček je nemocný.", "a": "1316.mp3" },
+      { "t": "Our grandmother is healthy.", "l": "Naše babička je zdravá.", "a": "1317.mp3" },
+      { "t": "you – your", "l": "vy – váš / vaše (svůj / svoje)", "a": "1318.mp3" },
+      { "t": "Children, where is your father?", "l": "Děti, kde je váš tatínek?", "a": "1319.mp3" },
+      { "t": "Children, where is your mother?", "l": "Děti, kde je vaše maminka?", "a": "1320.mp3" }
+    ]
+  },
+  {
+    "topic": "67 Possessive pronouns 2",
+    "words": [
+      { "t": "67 [sixty-seven]", "l": "67 [šedesát sedm]", "a": "1321.mp3" },
+      { "t": "Possessive pronouns 2", "l": "Přivlastňovací zájmena 2", "a": "1322.mp3" },
+      { "t": "the glasses", "l": "brýle", "a": "1323.mp3" },
+      { "t": "He has forgotten his glasses.", "l": "Zapomněl své brýle.", "a": "1324.mp3" },
+      { "t": "Where has he left his glasses?", "l": "Kdepak jsou jeho brýle?", "a": "1325.mp3" },
+      { "t": "the clock", "l": "hodinky / hodiny", "a": "1326.mp3" },
+      { "t": "His clock isn’t working.", "l": "Jeho hodinky jsou rozbité.", "a": "1327.mp3" },
+      { "t": "The clock hangs on the wall.", "l": "Hodiny visí na stěně.", "a": "1328.mp3" },
+      { "t": "the passport", "l": "pas", "a": "1329.mp3" },
+      { "t": "He has lost his passport.", "l": "Ztratil svůj pas.", "a": "1330.mp3" },
+      { "t": "Where is his passport then?", "l": "Kde je jeho pas?", "a": "1331.mp3" },
+      { "t": "they – their", "l": "ona – její (svůj / svoje)", "a": "1332.mp3" },
+      { "t": "The children cannot find their parents.", "l": "Ty děti nemohou najít své rodiče.", "a": "1333.mp3" },
+      { "t": "Here come their parents!", "l": "Ale támhle přicházejí jejich rodiče!", "a": "1334.mp3" },
+      { "t": "you – your", "l": "Vy – Váš / Vaše (svůj / svoje)", "a": "1335.mp3" },
+      { "t": "How was your trip, Mr. Miller?", "l": "Jaká byla Vaše cesta, pane Müllere?", "a": "1336.mp3" },
+      { "t": "Where is your wife, Mr. Miller?", "l": "Kde je Vaše manželka, pane Müllere?", "a": "1337.mp3" },
+      { "t": "you – your", "l": "Vy – Váš / Vaše (svůj / svoje)", "a": "1338.mp3" },
+      { "t": "How was your trip, Mrs. Smith?", "l": "Jaká byla Vaše cesta, paní Schmidt?", "a": "1339.mp3" },
+      { "t": "Where is your husband, Mrs. Smith?", "l": "Kde je Váš manžel, paní Schmidt?", "a": "1340.mp3" }
+    ]
+  },
+  {
+    "topic": "68 big – small",
+    "words": [
+      { "t": "68 [sixty-eight]", "l": "68 [šedesát osm]", "a": "1341.mp3" },
+      { "t": "big – small", "l": "velký – malý", "a": "1342.mp3" },
+      { "t": "big and small", "l": "velký a malý", "a": "1343.mp3" },
+      { "t": "The elephant is big.", "l": "Slon je velký.", "a": "1344.mp3" },
+      { "t": "The mouse is small.", "l": "Myš je malá.", "a": "1345.mp3" },
+      { "t": "dark and bright", "l": "tmavý a světlý", "a": "1346.mp3" },
+      { "t": "The night is dark.", "l": "Noc je tmavá.", "a": "1347.mp3" },
+      { "t": "The day is bright.", "l": "Den je světlý.", "a": "1348.mp3" },
+      { "t": "old and young", "l": "starý a mladý", "a": "1349.mp3" },
+      { "t": "Our grandfather is very old.", "l": "Náš děda je velmi starý.", "a": "1350.mp3" },
+      { "t": "70 years ago he was still young.", "l": "Před 70 lety byl ještě mladý.", "a": "1351.mp3" },
+      { "t": "beautiful and ugly", "l": "hezký a ošklivý", "a": "1352.mp3" },
+      { "t": "The butterfly is beautiful.", "l": "Motýl je hezký.", "a": "1353.mp3" },
+      { "t": "The spider is ugly.", "l": "Pavouk je ošklivý.", "a": "1354.mp3" },
+      { "t": "fat and thin", "l": "tlustý a hubený", "a": "1355.mp3" },
+      { "t": "A woman who weighs a hundred kilos is fat.", "l": "Stokilová žena je tlustá.", "a": "1356.mp3" },
+      { "t": "A man who weighs fifty kilos is thin.", "l": "Padesátikilový muž je hubený.", "a": "1357.mp3" },
+      { "t": "expensive and cheap", "l": "drahý a levný", "a": "1358.mp3" },
+      { "t": "The car is expensive.", "l": "Auto je drahé.", "a": "1359.mp3" },
+      { "t": "The newspaper is cheap.", "l": "Noviny jsou levné.", "a": "1360.mp3" }
+    ]
+  },
+  {
+    "topic": "69 to need – to want to",
+    "words": [
+      { "t": "69 [sixty-nine]", "l": "69 [šedesát devět]", "a": "1361.mp3" },
+      { "t": "to need – to want to", "l": "potřebovat – chtít", "a": "1362.mp3" },
+      { "t": "I need a bed.", "l": "Potřebuji postel.", "a": "1363.mp3" },
+      { "t": "I want to sleep.", "l": "Chci spát.", "a": "1364.mp3" },
+      { "t": "Is there a bed here?", "l": "Je tady nějaká postel?", "a": "1365.mp3" },
+      { "t": "I need a lamp.", "l": "Potřebuji lampu.", "a": "1366.mp3" },
+      { "t": "I want to read.", "l": "Chci číst.", "a": "1367.mp3" },
+      { "t": "Is there a lamp here?", "l": "Je tady nějaká lampa?", "a": "1368.mp3" },
+      { "t": "I need a telephone.", "l": "Potřebuji telefon.", "a": "1369.mp3" },
+      { "t": "I want to make a call.", "l": "Chci telefonovat.", "a": "1370.mp3" },
+      { "t": "Is there a telephone here?", "l": "Je tady nějaký telefon?", "a": "1371.mp3" },
+      { "t": "I need a camera.", "l": "Potřebuji foťák.", "a": "1372.mp3" },
+      { "t": "I want to take photographs.", "l": "Chci fotit.", "a": "1373.mp3" },
+      { "t": "Is there a camera here?", "l": "Je tady nějaký foťák?", "a": "1374.mp3" },
+      { "t": "I need a computer.", "l": "Potřebuji počítač.", "a": "1375.mp3" },
+      { "t": "I want to send an email.", "l": "Chci poslat e-mail.", "a": "1376.mp3" },
+      { "t": "Is there a computer here?", "l": "Je tady nějaký počítač?", "a": "1377.mp3" },
+      { "t": "I need a pen.", "l": "Potřebuji pero.", "a": "1378.mp3" },
+      { "t": "I want to write something.", "l": "Chci něco napsat.", "a": "1379.mp3" },
+      { "t": "Is there a sheet of paper and a pen here?", "l": "Je tady nějaký papír a pero?", "a": "1380.mp3" }
+    ]
+  },
+  {
+    "topic": "70 to like something",
+    "words": [
+      { "t": "70 [seventy]", "l": "70 [sedmdesát]", "a": "1381.mp3" },
+      { "t": "to like something", "l": "mít něco rád", "a": "1382.mp3" },
+      { "t": "Would you like to smoke?", "l": "Chcete si zakouřit?", "a": "1383.mp3" },
+      { "t": "Would you like to dance?", "l": "Chcete si zatančit?", "a": "1384.mp3" },
+      { "t": "Would you like to go for a walk?", "l": "Chcete se projít?", "a": "1385.mp3" },
+      { "t": "I would like to smoke.", "l": "Chtěl / chtěla bych si zakouřit.", "a": "1386.mp3" },
+      { "t": "Would you like a cigarette?", "l": "Chceš cigaretu?", "a": "1387.mp3" },
+      { "t": "He wants a light.", "l": "Chce připálit.", "a": "1388.mp3" },
+      { "t": "I want to drink something.", "l": "Rád / ráda bych se něčeho napil / napila.", "a": "1389.mp3" },
+      { "t": "I want to eat something.", "l": "Něco bych snědl / snědla.", "a": "1390.mp3" },
+      { "t": "I want to relax a little.", "l": "Chtěl / chtěla bych si trochu odpočinout.", "a": "1391.mp3" },
+      {
+        "t": "I want to ask you something.",
+        "l": "Rád / ráda bych se Vás na něco zeptal / zeptala.",
+        "a": "1392.mp3"
+      },
+      { "t": "I want to ask you for something.", "l": "Chtěl / chtěla bych Vás o něco poprosit.", "a": "1393.mp3" },
+      {
+        "t": "I want to treat you to something.",
+        "l": "Rád / ráda bych Vás někam pozval / pozvala.",
+        "a": "1394.mp3"
+      },
+      { "t": "What would you like?", "l": "Co si přejete, prosím?", "a": "1395.mp3" },
+      { "t": "Would you like a coffee?", "l": "Přejete si kávu?", "a": "1396.mp3" },
+      { "t": "Or do you prefer a tea?", "l": "Nebo byste raději chtěl / chtěla čaj?", "a": "1397.mp3" },
+      { "t": "We want to drive home.", "l": "Chceme jet domů.", "a": "1398.mp3" },
+      { "t": "Do you want a taxi?", "l": "Chcete zavolat taxi?", "a": "1399.mp3" },
+      { "t": "They want to make a call.", "l": "Chtějí telefonovat.", "a": "1400.mp3" }
+    ]
+  },
+  {
+    "topic": "71 to want something",
+    "words": [
+      { "t": "71 [seventy-one]", "l": "71 [sedmdesát jedna]", "a": "1401.mp3" },
+      { "t": "to want something", "l": "chtít něco", "a": "1402.mp3" },
+      { "t": "What do you want to do?", "l": "Co chcete?", "a": "1403.mp3" },
+      { "t": "Do you want to play football / soccer (am.)?", "l": "Chcete si zahrát fotbal?", "a": "1404.mp3" },
+      { "t": "Do you want to visit friends?", "l": "Chcete navštívit přátele?", "a": "1405.mp3" },
+      { "t": "to want", "l": "chtít", "a": "1406.mp3" },
+      { "t": "I don’t want to arrive late.", "l": "Nechci přijít pozdě.", "a": "1407.mp3" },
+      { "t": "I don’t want to go there.", "l": "Nechci tam jít.", "a": "1408.mp3" },
+      { "t": "I want to go home.", "l": "Chci jít domů.", "a": "1409.mp3" },
+      { "t": "I want to stay at home.", "l": "Chci zůstat doma.", "a": "1410.mp3" },
+      { "t": "I want to be alone.", "l": "Chci být sám / sama.", "a": "1411.mp3" },
+      { "t": "Do you want to stay here?", "l": "Chceš tady zůstat?", "a": "1412.mp3" },
+      { "t": "Do you want to eat here?", "l": "Chceš se tady najíst?", "a": "1413.mp3" },
+      { "t": "Do you want to sleep here?", "l": "Chceš tady spát / přespat?", "a": "1414.mp3" },
+      { "t": "Do you want to leave tomorrow?", "l": "Chcete zítra odcestovat?", "a": "1415.mp3" },
+      { "t": "Do you want to stay till tomorrow?", "l": "Chcete zůstat do zítřka?", "a": "1416.mp3" },
+      {
+        "t": "Do you want to pay the bill only tomorrow?",
+        "l": "Chcete zaplatit ten účet až zítra?",
+        "a": "1417.mp3"
+      },
+      { "t": "Do you want to go to the disco?", "l": "Chcete jít na diskotéku?", "a": "1418.mp3" },
+      { "t": "Do you want to go to the cinema?", "l": "Chcete jít do kina?", "a": "1419.mp3" },
+      { "t": "Do you want to go to a café?", "l": "Chcete jít do kavárny?", "a": "1420.mp3" }
+    ]
+  },
+  {
+    "topic": "72 to have to do something / must",
+    "words": [
+      { "t": "72 [seventy-two]", "l": "72 [sedmdesát dva]", "a": "1421.mp3" },
+      { "t": "to have to do something / must", "l": "muset něco", "a": "1422.mp3" },
+      { "t": "must", "l": "muset", "a": "1423.mp3" },
+      { "t": "I must post the letter.", "l": "Musím poslat dopis.", "a": "1424.mp3" },
+      { "t": "I must pay the hotel.", "l": "Musím zaplatit za hotel.", "a": "1425.mp3" },
+      { "t": "You must get up early.", "l": "Musíš brzy vstávat.", "a": "1426.mp3" },
+      { "t": "You must work a lot.", "l": "Musíš hodně pracovat.", "a": "1427.mp3" },
+      { "t": "You must be punctual.", "l": "Musíš být dochvilný / dochvilná.", "a": "1428.mp3" },
+      { "t": "He must fuel / get petrol / get gas (am.).", "l": "Musí natankovat.", "a": "1429.mp3" },
+      { "t": "He must repair the car.", "l": "Musí opravit auto.", "a": "1430.mp3" },
+      { "t": "He must wash the car.", "l": "Musí umýt auto.", "a": "1431.mp3" },
+      { "t": "She must shop.", "l": "Musí jít nakoupit.", "a": "1432.mp3" },
+      { "t": "She must clean the apartment.", "l": "Musí uklidit byt.", "a": "1433.mp3" },
+      { "t": "She must wash the clothes.", "l": "Musí vyprat prádlo.", "a": "1434.mp3" },
+      { "t": "We must go to school at once.", "l": "Musíme okamžitě do školy.", "a": "1435.mp3" },
+      { "t": "We must go to work at once.", "l": "Musíme okamžitě do práce.", "a": "1436.mp3" },
+      { "t": "We must go to the doctor at once.", "l": "Musíme okamžitě k lékaři.", "a": "1437.mp3" },
+      { "t": "You must wait for the bus.", "l": "Musíte počkat na autobus.", "a": "1438.mp3" },
+      { "t": "You must wait for the train.", "l": "Musíte počkat na vlak.", "a": "1439.mp3" },
+      { "t": "You must wait for the taxi.", "l": "Musíte počkat na taxi.", "a": "1440.mp3" }
+    ]
+  },
+  {
+    "topic": "74 asking for something",
+    "words": [
+      { "t": "74 [seventy-four]", "l": "74 [sedmdesát čtyři]", "a": "1461.mp3" },
+      { "t": "asking for something", "l": "žádat o něco", "a": "1462.mp3" },
+      { "t": "Can you cut my hair?", "l": "Můžete mi ostříhat vlasy?", "a": "1463.mp3" },
+      { "t": "Not too short, please.", "l": "Ne moc nakrátko, prosím.", "a": "1464.mp3" },
+      { "t": "A bit shorter, please.", "l": "O něco kratší, prosím.", "a": "1465.mp3" },
+      { "t": "Can you develop the pictures?", "l": "Můžete mi vyvolat fotky?", "a": "1466.mp3" },
+      { "t": "The pictures are on the CD.", "l": "Fotky jsou na cédéčku.", "a": "1467.mp3" },
+      { "t": "The pictures are in the camera.", "l": "Fotky jsou ve foťáku.", "a": "1468.mp3" },
+      { "t": "Can you fix the clock?", "l": "Můžete opravit ty hodinky?", "a": "1469.mp3" },
+      { "t": "The glass is broken.", "l": "Sklíčko je rozbité.", "a": "1470.mp3" },
+      { "t": "The battery is dead / empty.", "l": "Baterie je prázdná.", "a": "1471.mp3" },
+      { "t": "Can you iron the shirt?", "l": "Můžete vyžehlit tu košili?", "a": "1472.mp3" },
+      { "t": "Can you clean the pants / trousers?", "l": "Můžete vyčistit ty kalhoty?", "a": "1473.mp3" },
+      { "t": "Can you fix the shoes?", "l": "Můžete opravit ty boty?", "a": "1474.mp3" },
+      { "t": "Do you have a light?", "l": "Můžete mi připálit?", "a": "1475.mp3" },
+      { "t": "Do you have a match or a lighter?", "l": "Máte zápalky nebo zapalovač?", "a": "1476.mp3" },
+      { "t": "Do you have an ashtray?", "l": "Můžete mi přinést popelník?", "a": "1477.mp3" },
+      { "t": "Do you smoke cigars?", "l": "Kouříte doutníky?", "a": "1478.mp3" },
+      { "t": "Do you smoke cigarettes?", "l": "Kouříte cigarety?", "a": "1479.mp3" },
+      { "t": "Do you smoke a pipe?", "l": "Kouříte dýmku?", "a": "1480.mp3" }
+    ]
+  },
+  {
+    "topic": "75 giving reasons 1",
+    "words": [
+      { "t": "75 [seventy-five]", "l": "75 [sedmdesát pět]", "a": "1481.mp3" },
+      { "t": "giving reasons 1", "l": "zdůvodnění 1", "a": "1482.mp3" },
+      { "t": "Why aren’t you coming?", "l": "Proč nepřijdete?", "a": "1483.mp3" },
+      { "t": "The weather is so bad.", "l": "Je špatné počasí.", "a": "1484.mp3" },
+      {
+        "t": "I am not coming because the weather is so bad.",
+        "l": "Nepřijdu, protože je špatné počasí.",
+        "a": "1485.mp3"
+      },
+      { "t": "Why isn’t he coming?", "l": "Proč nepřijde?", "a": "1486.mp3" },
+      { "t": "He isn’t invited.", "l": "Není pozván.", "a": "1487.mp3" },
+      { "t": "He isn’t coming because he isn’t invited.", "l": "Nepřijde, protože není pozván.", "a": "1488.mp3" },
+      { "t": "Why aren’t you coming?", "l": "Proč nepřijdeš?", "a": "1489.mp3" },
+      { "t": "I have no time.", "l": "Nemám čas.", "a": "1490.mp3" },
+      { "t": "I am not coming because I have no time.", "l": "Nepřijdu, protože nemám čas.", "a": "1491.mp3" },
+      { "t": "Why don’t you stay?", "l": "Proč nezůstaneš?", "a": "1492.mp3" },
+      { "t": "I still have to work.", "l": "Musím ještě pracovat.", "a": "1493.mp3" },
+      {
+        "t": "I am not staying because I still have to work.",
+        "l": "Nezůstanu, protože musím ještě pracovat.",
+        "a": "1494.mp3"
+      },
+      { "t": "Why are you going already?", "l": "Proč už odcházíte?", "a": "1495.mp3" },
+      { "t": "I am tired.", "l": "Jsem unavený.", "a": "1496.mp3" },
+      { "t": "I’m going because I’m tired.", "l": "Jdu pryč, protože jsem unavený.", "a": "1497.mp3" },
+      { "t": "Why are you going already?", "l": "Proč už odjíždíte?", "a": "1498.mp3" },
+      { "t": "It is already late.", "l": "Je už pozdě.", "a": "1499.mp3" },
+      { "t": "I’m going because it is already late.", "l": "Odjíždím, protože už je pozdě.", "a": "1500.mp3" }
+    ]
+  },
+  {
+    "topic": "76 giving reasons 2",
+    "words": [
+      { "t": "76 [seventy-six]", "l": "76 [sedmdesát šest]", "a": "1501.mp3" },
+      { "t": "giving reasons 2", "l": "zdůvodnění 2", "a": "1502.mp3" },
+      { "t": "Why didn’t you come?", "l": "Proč jsi nepřišel?", "a": "1503.mp3" },
+      { "t": "I was ill.", "l": "Byl jsem nemocný.", "a": "1504.mp3" },
+      { "t": "I didn’t come because I was ill.", "l": "Nepřišel jsem, protože jsem byl nemocný.", "a": "1505.mp3" },
+      { "t": "Why didn’t she come?", "l": "Proč nepřišla?", "a": "1506.mp3" },
+      { "t": "She was tired.", "l": "Byla unavená.", "a": "1507.mp3" },
+      { "t": "She didn’t come because she was tired.", "l": "Nepřišla, protože byla unavená.", "a": "1508.mp3" },
+      { "t": "Why didn’t he come?", "l": "Proč nepřišel?", "a": "1509.mp3" },
+      { "t": "He wasn’t interested.", "l": "Nechtělo se mu.", "a": "1510.mp3" },
+      {
+        "t": "He didn’t come because he wasn’t interested.",
+        "l": "Nepřišel, protože se mu nechtělo.",
+        "a": "1511.mp3"
+      },
+      { "t": "Why didn’t you come?", "l": "Proč jste nepřišli?", "a": "1512.mp3" },
+      { "t": "Our car is damaged.", "l": "Máme rozbité auto.", "a": "1513.mp3" },
+      {
+        "t": "We didn’t come because our car is damaged.",
+        "l": "Nepřišli jsme, protože máme rozbité auto.",
+        "a": "1514.mp3"
+      },
+      { "t": "Why didn’t the people come?", "l": "Proč ti lidé nepřišli?", "a": "1515.mp3" },
+      { "t": "They missed the train.", "l": "Ujel jim vlak.", "a": "1516.mp3" },
+      {
+        "t": "They didn’t come because they missed the train.",
+        "l": "Nepřišli, protože jim ujel vlak.",
+        "a": "1517.mp3"
+      },
+      { "t": "Why didn’t you come?", "l": "Proč jsi nepřišel?", "a": "1518.mp3" },
+      { "t": "I was not allowed to.", "l": "Nesměl jsem.", "a": "1519.mp3" },
+      {
+        "t": "I didn’t come because I was not allowed to.",
+        "l": "Nepřišel jsem, protože jsem nesměl.",
+        "a": "1520.mp3"
+      }
+    ]
+  },
+  {
+    "topic": "77 giving reasons 3",
+    "words": [
+      { "t": "77 [seventy-seven]", "l": "77 [sedmdesát sedm]", "a": "1521.mp3" },
+      { "t": "giving reasons 3", "l": "zdůvodnění 3", "a": "1522.mp3" },
+      { "t": "Why aren’t you eating the cake?", "l": "Proč nejíte ten dort?", "a": "1523.mp3" },
+      { "t": "I must lose weight.", "l": "Musím zhubnout.", "a": "1524.mp3" },
+      {
+        "t": "I’m not eating it because I must lose weight.",
+        "l": "Nejím ten dort, protože musím zhubnout.",
+        "a": "1525.mp3"
+      },
+      { "t": "Why aren’t you drinking the beer?", "l": "Proč nepijete to pivo?", "a": "1526.mp3" },
+      { "t": "I have to drive.", "l": "Musím ještě řídit.", "a": "1527.mp3" },
+      {
+        "t": "I’m not drinking it because I have to drive.",
+        "l": "Nepiju ho, protože musím ještě řídit.",
+        "a": "1528.mp3"
+      },
+      { "t": "Why aren’t you drinking the coffee?", "l": "Proč nepiješ tu kávu?", "a": "1529.mp3" },
+      { "t": "It is cold.", "l": "Je studená.", "a": "1530.mp3" },
+      { "t": "I’m not drinking it because it is cold.", "l": "Nebudu ji pít, protože je studená.", "a": "1531.mp3" },
+      { "t": "Why aren’t you drinking the tea?", "l": "Proč nepiješ ten čaj?", "a": "1532.mp3" },
+      { "t": "I have no sugar.", "l": "Nemám cukr.", "a": "1533.mp3" },
+      {
+        "t": "I’m not drinking it because I don’t have any sugar.",
+        "l": "Nepiju ten čaj, protože nemám cukr.",
+        "a": "1534.mp3"
+      },
+      { "t": "Why aren’t you eating the soup?", "l": "Proč nejíte tu polévku?", "a": "1535.mp3" },
+      { "t": "I didn’t order it.", "l": "Neobjednal jsem si ji.", "a": "1536.mp3" },
+      {
+        "t": "I’m not eating it because I didn’t order it.",
+        "l": "Nebudu ji jíst, protože jsem si ji neobjednal.",
+        "a": "1537.mp3"
+      },
+      { "t": "Why don’t you eat the meat?", "l": "Proč nejíte to maso?", "a": "1538.mp3" },
+      { "t": "I am a vegetarian.", "l": "Jsem vegetarián.", "a": "1539.mp3" },
+      {
+        "t": "I’m not eating it because I am a vegetarian.",
+        "l": "Nejím to, protože jsem vegetarián.",
+        "a": "1540.mp3"
+      }
+    ]
+  },
+  {
+    "topic": "78 Adjectives 1",
+    "words": [
+      { "t": "78 [seventy-eight]", "l": "78 [sedmdesát osm]", "a": "1541.mp3" },
+      { "t": "Adjectives 1", "l": "Přídavná jména 1", "a": "1542.mp3" },
+      { "t": "an old lady", "l": "stará žena", "a": "1543.mp3" },
+      { "t": "a fat lady", "l": "tlustá žena", "a": "1544.mp3" },
+      { "t": "a curious lady", "l": "zvědavá žena", "a": "1545.mp3" },
+      { "t": "a new car", "l": "nové auto", "a": "1546.mp3" },
+      { "t": "a fast car", "l": "rychlé auto", "a": "1547.mp3" },
+      { "t": "a comfortable car", "l": "pohodlné auto", "a": "1548.mp3" },
+      { "t": "a blue dress", "l": "modré šaty", "a": "1549.mp3" },
+      { "t": "a red dress", "l": "červené šaty", "a": "1550.mp3" },
+      { "t": "a green dress", "l": "zelené šaty", "a": "1551.mp3" },
+      { "t": "a black bag", "l": "černá taška", "a": "1552.mp3" },
+      { "t": "a brown bag", "l": "hnědá taška", "a": "1553.mp3" },
+      { "t": "a white bag", "l": "bílá taška", "a": "1554.mp3" },
+      { "t": "nice people", "l": "příjemní lidé", "a": "1555.mp3" },
+      { "t": "polite people", "l": "zdvořilí lidé", "a": "1556.mp3" },
+      { "t": "interesting people", "l": "zajímaví lidé", "a": "1557.mp3" },
+      { "t": "loving children", "l": "milé děti", "a": "1558.mp3" },
+      { "t": "cheeky children", "l": "drzé děti", "a": "1559.mp3" },
+      { "t": "well behaved children", "l": "hodné děti", "a": "1560.mp3" }
+    ]
+  },
+  {
+    "topic": "79 Adjectives 2",
+    "words": [
+      { "t": "79 [seventy-nine]", "l": "79 [sedmdesát devět]", "a": "1561.mp3" },
+      { "t": "Adjectives 2", "l": "Přídavná jména 2", "a": "1562.mp3" },
+      { "t": "I am wearing a blue dress.", "l": "Mám na sobě modré šaty.", "a": "1563.mp3" },
+      { "t": "I am wearing a red dress.", "l": "Mám na sobě červené šaty.", "a": "1564.mp3" },
+      { "t": "I am wearing a green dress.", "l": "Mám na sobě zelené šaty.", "a": "1565.mp3" },
+      { "t": "I’m buying a black bag.", "l": "Koupím černou tašku.", "a": "1566.mp3" },
+      { "t": "I’m buying a brown bag.", "l": "Koupím hnědou tašku.", "a": "1567.mp3" },
+      { "t": "I’m buying a white bag.", "l": "Koupím bílou tašku.", "a": "1568.mp3" },
+      { "t": "I need a new car.", "l": "Potřebuji nové auto.", "a": "1569.mp3" },
+      { "t": "I need a fast car.", "l": "Potřebuji rychlé auto.", "a": "1570.mp3" },
+      { "t": "I need a comfortable car.", "l": "Potřebuji pohodlné auto.", "a": "1571.mp3" },
+      { "t": "An old lady lives at the top.", "l": "Tam nahoře bydlí nějaká stará žena.", "a": "1572.mp3" },
+      { "t": "A fat lady lives at the top.", "l": "Tam nahoře bydlí nějaká tlustá žena.", "a": "1573.mp3" },
+      { "t": "A curious lady lives below.", "l": "Tam nahoře bydlí nějaká zvědavá žena.", "a": "1574.mp3" },
+      { "t": "Our guests were nice people.", "l": "Naši hosté byli milí.", "a": "1575.mp3" },
+      { "t": "Our guests were polite people.", "l": "Naši hosté byli zdvořilí lidé.", "a": "1576.mp3" },
+      { "t": "Our guests were interesting people.", "l": "Naši hosté byli zajímaví lidé.", "a": "1577.mp3" },
+      { "t": "I have lovely children.", "l": "Mám milé děti.", "a": "1578.mp3" },
+      { "t": "But the neighbours have naughty children.", "l": "Ale mí sousedé mají drzé děti.", "a": "1579.mp3" },
+      { "t": "Are your children well behaved?", "l": "Jsou vaše děti hodné?", "a": "1580.mp3" }
+    ]
+  },
+  {
+    "topic": "81 Past tense 1",
+    "words": [
+      { "t": "81 [eighty-one]", "l": "81 [osmdesát jedna]", "a": "1601.mp3" },
+      { "t": "Past tense 1", "l": "Minulý čas 1", "a": "1602.mp3" },
+      { "t": "to write", "l": "psát", "a": "1603.mp3" },
+      { "t": "He wrote a letter.", "l": "Psal dopis.", "a": "1604.mp3" },
+      { "t": "And she wrote a card.", "l": "A ona psala pohled.", "a": "1605.mp3" },
+      { "t": "to read", "l": "číst", "a": "1606.mp3" },
+      { "t": "He read a magazine.", "l": "Četl časopis.", "a": "1607.mp3" },
+      { "t": "And she read a book.", "l": "A ona četla knihu.", "a": "1608.mp3" },
+      { "t": "to take", "l": "vzít / vzít si", "a": "1609.mp3" },
+      { "t": "He took a cigarette.", "l": "Vzal si cigaretu.", "a": "1610.mp3" },
+      { "t": "She took a piece of chocolate.", "l": "Vzala si kousek čokolády.", "a": "1611.mp3" },
+      { "t": "He was disloyal, but she was loyal.", "l": "Byl nevěrný, ale ona byla věrná.", "a": "1612.mp3" },
+      { "t": "He was lazy, but she was hard-working.", "l": "Byl líný, ale ona byla pilná.", "a": "1613.mp3" },
+      { "t": "He was poor, but she was rich.", "l": "Byl chudý, ale ona byla bohatá.", "a": "1614.mp3" },
+      { "t": "He had no money, only debts.", "l": "Neměl žádné peníze, jen dluhy.", "a": "1615.mp3" },
+      { "t": "He had no luck, only bad luck.", "l": "Neměl štěstí, jen smůlu.", "a": "1616.mp3" },
+      { "t": "He had no success, only failure.", "l": "Neměl žádný úspěch, jen neúspěch.", "a": "1617.mp3" },
+      { "t": "He was not satisfied, but dissatisfied.", "l": "Nebyl spokojený, nýbrž nespokojený.", "a": "1618.mp3" },
+      { "t": "He was not happy, but sad.", "l": "Nebyl šťastný, nýbrž nešťastný.", "a": "1619.mp3" },
+      { "t": "He was not friendly, but unfriendly.", "l": "Nebyl sympatický, nýbrž nesympatický.", "a": "1620.mp3" }
+    ]
+  },
+  {
+    "topic": "82 Past tense 2",
+    "words": [
+      { "t": "82 [eighty-two]", "l": "82 [osmdesát dva]", "a": "1621.mp3" },
+      { "t": "Past tense 2", "l": "Minulý čas 2", "a": "1622.mp3" },
+      { "t": "Did you have to call an ambulance?", "l": "Musel / musela jsi zavolat sanitku?", "a": "1623.mp3" },
+      { "t": "Did you have to call the doctor?", "l": "Musel / musela jsi zavolat lékaře?", "a": "1624.mp3" },
+      { "t": "Did you have to call the police?", "l": "Musel / musela jsi zavolat policii?", "a": "1625.mp3" },
+      {
+        "t": "Do you have the telephone number? I had it just now.",
+        "l": "Máte to telefonní číslo? Teď jsem ho ještě měl.",
+        "a": "1626.mp3"
+      },
+      {
+        "t": "Do you have the address? I had it just now.",
+        "l": "Máte tu adresu? Teď jsem ji ještě měl.",
+        "a": "1627.mp3"
+      },
+      {
+        "t": "Do you have the city map? I had it just now.",
+        "l": "Máte ten plán města? Teď jsem ho ještě měl.",
+        "a": "1628.mp3"
+      },
+      {
+        "t": "Did he come on time? He could not come on time.",
+        "l": "Přišel včas? Nemohl přijít včas.",
+        "a": "1629.mp3"
+      },
+      {
+        "t": "Did he find the way? He could not find the way.",
+        "l": "Našel cestu? Nemohl najít cestu.",
+        "a": "1630.mp3"
+      },
+      { "t": "Did he understand you? He could not understand me.", "l": "Rozuměl ti? Nerozuměl mi.", "a": "1631.mp3" },
+      { "t": "Why could you not come on time?", "l": "Proč jsi nemohl přijít včas?", "a": "1632.mp3" },
+      { "t": "Why could you not find the way?", "l": "Proč jsi nemohl najít cestu?", "a": "1633.mp3" },
+      { "t": "Why could you not understand him?", "l": "Proč jsi mu nerozuměl?", "a": "1634.mp3" },
+      {
+        "t": "I could not come on time because there were no buses.",
+        "l": "Nemohl jsem přijít včas, protože nejel žádný autobus.",
+        "a": "1635.mp3"
+      },
+      {
+        "t": "I could not find the way because I had no city map.",
+        "l": "Nemohl jsem najít cestu, protože jsem neměl plán města.",
+        "a": "1636.mp3"
+      },
+      {
+        "t": "I could not understand him because the music was so loud.",
+        "l": "Nerozuměl jsem mu, protože ta hudba byla moc hlasitá.",
+        "a": "1637.mp3"
+      },
+      { "t": "I had to take a taxi.", "l": "Musel jsem si vzít taxi.", "a": "1638.mp3" },
+      { "t": "I had to buy a city map.", "l": "Musel jsem si koupit plán města.", "a": "1639.mp3" },
+      { "t": "I had to switch off the radio.", "l": "Musel jsem vypnout rádio.", "a": "1640.mp3" }
+    ]
+  },
+  {
+    "topic": "83 Past tense 3",
+    "words": [
+      { "t": "83 [eighty-three]", "l": "83 [osmdesát tři]", "a": "1641.mp3" },
+      { "t": "Past tense 3", "l": "Minulý čas 3", "a": "1642.mp3" },
+      { "t": "to make a call", "l": "telefonovat", "a": "1643.mp3" },
+      { "t": "I made a call.", "l": "Telefonoval jsem.", "a": "1644.mp3" },
+      { "t": "I was talking on the phone all the time.", "l": "Celou dobu jsem telefonoval.", "a": "1645.mp3" },
+      { "t": "to ask", "l": "ptát se", "a": "1646.mp3" },
+      { "t": "I asked.", "l": "Zeptal jsem se.", "a": "1647.mp3" },
+      { "t": "I always asked.", "l": "Vždy jsem se ptal.", "a": "1648.mp3" },
+      { "t": "to narrate", "l": "vyprávět", "a": "1649.mp3" },
+      { "t": "I narrated.", "l": "Vyprávěl jsem.", "a": "1650.mp3" },
+      { "t": "I narrated the whole story.", "l": "Vyprávěl jsem celou příhodu.", "a": "1651.mp3" },
+      { "t": "to study", "l": "učit se", "a": "1652.mp3" },
+      { "t": "I studied.", "l": "Učil jsem se.", "a": "1653.mp3" },
+      { "t": "I studied the whole evening.", "l": "Učil jsem se celý večer.", "a": "1654.mp3" },
+      { "t": "to work", "l": "pracovat", "a": "1655.mp3" },
+      { "t": "I worked.", "l": "Pracoval jsem.", "a": "1656.mp3" },
+      { "t": "I worked all day long.", "l": "Pracoval jsem celý den.", "a": "1657.mp3" },
+      { "t": "to eat", "l": "jíst", "a": "1658.mp3" },
+      { "t": "I ate.", "l": "Jedl jsem.", "a": "1659.mp3" },
+      { "t": "I ate all the food.", "l": "Snědl jsem všechno jídlo.", "a": "1660.mp3" }
+    ]
+  },
+  {
+    "topic": "84 Past tense 4",
+    "words": [
+      { "t": "84 [eighty-four]", "l": "84 [osmdesát čtyři]", "a": "1661.mp3" },
+      { "t": "Past tense 4", "l": "Minulý čas 4", "a": "1662.mp3" },
+      { "t": "to read", "l": "číst", "a": "1663.mp3" },
+      { "t": "I read.", "l": "Četl jsem.", "a": "1664.mp3" },
+      { "t": "I read the whole novel.", "l": "Přečetl jsem celý román.", "a": "1665.mp3" },
+      { "t": "to understand", "l": "rozumět", "a": "1666.mp3" },
+      { "t": "I understood.", "l": "Rozuměl jsem.", "a": "1667.mp3" },
+      { "t": "I understood the whole text.", "l": "Rozuměl jsem celému textu.", "a": "1668.mp3" },
+      { "t": "to answer", "l": "odpovídat", "a": "1669.mp3" },
+      { "t": "I answered.", "l": "Odpověděl jsem.", "a": "1670.mp3" },
+      { "t": "I answered all the questions.", "l": "Odpověděl jsem na všechny otázky.", "a": "1671.mp3" },
+      { "t": "I know that – I knew that.", "l": "Vím to – věděl jsem to.", "a": "1672.mp3" },
+      { "t": "I write that – I wrote that.", "l": "Píšu to – napsal jsem to.", "a": "1673.mp3" },
+      { "t": "I hear that – I heard that.", "l": "Slyším to – slyšel jsem to.", "a": "1674.mp3" },
+      { "t": "I’ll get it – I got it.", "l": "Donesu to – donesl jsem to.", "a": "1675.mp3" },
+      { "t": "I’ll bring that – I brought that.", "l": "Přinesu to – přinesl jsem to.", "a": "1676.mp3" },
+      { "t": "I’ll buy that – I bought that.", "l": "Koupím to – koupil jsem to.", "a": "1677.mp3" },
+      { "t": "I expect that – I expected that.", "l": "Očekávám to – očekával jsem to.", "a": "1678.mp3" },
+      { "t": "I’ll explain that – I explained that.", "l": "Vysvětluji to – vysvětlil jsem to.", "a": "1679.mp3" },
+      { "t": "I know that – I knew that.", "l": "Znám to – znal jsem to.", "a": "1680.mp3" }
+    ]
+  },
+  {
+    "topic": "85 Questions – Past tense 1",
+    "words": [
+      { "t": "85 [eighty-five]", "l": "85 [osmdesát pět]", "a": "1681.mp3" },
+      { "t": "Questions – Past tense 1", "l": "Otázky – minulý čas 1", "a": "1682.mp3" },
+      { "t": "How much did you drink?", "l": "Kolik jste toho vypil / vypila ?", "a": "1683.mp3" },
+      { "t": "How much did you work?", "l": "Jak moc jste pracoval / pracovala?", "a": "1684.mp3" },
+      { "t": "How much did you write?", "l": "Kolik jste toho napsal / napsala?", "a": "1685.mp3" },
+      { "t": "How did you sleep?", "l": "Jak jste spal / spala?", "a": "1686.mp3" },
+      { "t": "How did you pass the exam?", "l": "Jak jste udělal / udělala zkoušku?", "a": "1687.mp3" },
+      { "t": "How did you find the way?", "l": "Jak jste našel / našla cestu?", "a": "1688.mp3" },
+      { "t": "Who did you speak to?", "l": "S kým jste mluvil / mluvila?", "a": "1689.mp3" },
+      { "t": "With whom did you make an appointment?", "l": "S kým jste domluven / domluvena?", "a": "1690.mp3" },
+      {
+        "t": "With whom did you celebrate your birthday?",
+        "l": "S kým jste slavil / slavila narozeniny?",
+        "a": "1691.mp3"
+      },
+      { "t": "Where were you?", "l": "Kde jste byl / byla?", "a": "1692.mp3" },
+      { "t": "Where did you live?", "l": "Kde jste bydlel / bydlela?", "a": "1693.mp3" },
+      { "t": "Where did you work?", "l": "Kde jste pracoval / pracovala?", "a": "1694.mp3" },
+      { "t": "What did you suggest?", "l": "Co jste doporučil / doporučila?", "a": "1695.mp3" },
+      { "t": "What did you eat?", "l": "Co jste jedl / jedla?", "a": "1696.mp3" },
+      { "t": "What did you come to know?", "l": "Co jste se dozvěděl / dozvěděla?", "a": "1697.mp3" },
+      { "t": "How fast did you drive?", "l": "Jak rychle jste jel / jela?", "a": "1698.mp3" },
+      { "t": "How long did you fly?", "l": "Jak dlouho jste letěl / letěla?", "a": "1699.mp3" },
+      { "t": "How high did you jump?", "l": "Jak vysoko jste vyskočil / vyskočila?", "a": "1700.mp3" }
+    ]
+  },
+  {
+    "topic": "86 Questions – Past tense 2",
+    "words": [
+      { "t": "86 [eighty-six]", "l": "86 [osmdesát šest]", "a": "1701.mp3" },
+      { "t": "Questions – Past tense 2", "l": "Otázky – minulý čas 2", "a": "1702.mp3" },
+      { "t": "Which tie did you wear?", "l": "Jakou kravatu jsi měl na sobě?", "a": "1703.mp3" },
+      { "t": "Which car did you buy?", "l": "Jaké auto sis koupil / koupila?", "a": "1704.mp3" },
+      {
+        "t": "Which newspaper did you subscribe to?",
+        "l": "Které noviny sis předplatil / předplatila?",
+        "a": "1705.mp3"
+      },
+      { "t": "Who did you see?", "l": "Koho jste viděl / viděla?", "a": "1706.mp3" },
+      { "t": "Who did you meet?", "l": "Koho jste potkal / potkala?", "a": "1707.mp3" },
+      { "t": "Who did you recognize?", "l": "Koho jste poznal / poznala?", "a": "1708.mp3" },
+      { "t": "When did you get up?", "l": "Kdy jste vstával / vstávala?", "a": "1709.mp3" },
+      { "t": "When did you start?", "l": "Kdy jste začal / začala?", "a": "1710.mp3" },
+      { "t": "When did you finish?", "l": "Kdy jste skončil / skončila?", "a": "1711.mp3" },
+      { "t": "Why did you wake up?", "l": "Proč jste se vzbudil / vzbudila?", "a": "1712.mp3" },
+      {
+        "t": "Why did you become a teacher?",
+        "l": "Proč jste se stal / stala učitelem / učitelkou?",
+        "a": "1713.mp3"
+      },
+      { "t": "Why did you take a taxi?", "l": "Proč jste si vzal / vzala taxi?", "a": "1714.mp3" },
+      { "t": "Where did you come from?", "l": "Odkud jste přišel / přišla?", "a": "1715.mp3" },
+      { "t": "Where did you go?", "l": "Kam jste šel / šla?", "a": "1716.mp3" },
+      { "t": "Where were you?", "l": "Kde jste byl / byla?", "a": "1717.mp3" },
+      { "t": "Who did you help?", "l": "Komu jsi pomohl / pomohla?", "a": "1718.mp3" },
+      { "t": "Who did you write to?", "l": "Komu jsi napsal / napsala?", "a": "1719.mp3" },
+      { "t": "Who did you reply to?", "l": "Komu jsi odpověděl / odpověděla?", "a": "1720.mp3" }
+    ]
+  },
+  {
+    "topic": "87 Past tense of modal verbs 1",
+    "words": [
+      { "t": "87 [eighty-seven]", "l": "87 [osmdesát sedm]", "a": "1721.mp3" },
+      { "t": "Past tense of modal verbs 1", "l": "Minulý čas způsobových sloves 1", "a": "1722.mp3" },
+      { "t": "We had to water the flowers.", "l": "Museli jsme zalít květiny.", "a": "1723.mp3" },
+      { "t": "We had to clean the apartment.", "l": "Museli jsme uklidit byt.", "a": "1724.mp3" },
+      { "t": "We had to wash the dishes.", "l": "Museli jsme umýt nádobí.", "a": "1725.mp3" },
+      { "t": "Did you have to pay the bill?", "l": "Museli jste zaplatit účet?", "a": "1726.mp3" },
+      { "t": "Did you have to pay an entrance fee?", "l": "Museli jste zaplatit vstup?", "a": "1727.mp3" },
+      { "t": "Did you have to pay a fine?", "l": "Museli jste zaplatit pokutu?", "a": "1728.mp3" },
+      { "t": "Who had to say goodbye?", "l": "Kdo se musel rozloučit?", "a": "1729.mp3" },
+      { "t": "Who had to go home early?", "l": "Kdo musel jít brzo domů?", "a": "1730.mp3" },
+      { "t": "Who had to take the train?", "l": "Kdo musel jet vlakem?", "a": "1731.mp3" },
+      { "t": "We did not want to stay long.", "l": "Nechtěli jsme zůstat dlouho.", "a": "1732.mp3" },
+      { "t": "We did not want to drink anything.", "l": "Nechtěli jsme nic pít.", "a": "1733.mp3" },
+      { "t": "We did not want to disturb you.", "l": "Nechtěli jsme rušit.", "a": "1734.mp3" },
+      { "t": "I just wanted to make a call.", "l": "Chtěl jsem si právě zavolat.", "a": "1735.mp3" },
+      { "t": "I just wanted to call a taxi.", "l": "Chtěl jsem si zavolat taxi.", "a": "1736.mp3" },
+      { "t": "Actually I wanted to drive home.", "l": "Chtěl jsem totiž jet domů.", "a": "1737.mp3" },
+      {
+        "t": "I thought you wanted to call your wife.",
+        "l": "Myslel jsem, že chceš zavolat své ženě.",
+        "a": "1738.mp3"
+      },
+      {
+        "t": "I thought you wanted to call information.",
+        "l": "Myslel jsem, že chceš zavolat informace.",
+        "a": "1739.mp3"
+      },
+      { "t": "I thought you wanted to order a pizza.", "l": "Myslel jsem, že chceš objednat pizzu.", "a": "1740.mp3" }
+    ]
+  },
+  {
+    "topic": "88 Past tense of modal verbs 2",
+    "words": [
+      { "t": "88 [eighty-eight]", "l": "88 [osmdesát osm]", "a": "1741.mp3" },
+      { "t": "Past tense of modal verbs 2", "l": "Minulý čas způsobových sloves 2", "a": "1742.mp3" },
+      {
+        "t": "My son did not want to play with the doll.",
+        "l": "Můj syn si nechtěl hrát s panenkou.",
+        "a": "1743.mp3"
+      },
+      {
+        "t": "My daughter did not want to play football / soccer (am.).",
+        "l": "Moje dcera nechtěla hrát fotbal.",
+        "a": "1744.mp3"
+      },
+      {
+        "t": "My wife did not want to play chess with me.",
+        "l": "Moje žena se mnou nechtěla hrát šachy.",
+        "a": "1745.mp3"
+      },
+      {
+        "t": "My children did not want to go for a walk.",
+        "l": "Moje děti nechtěly jít na procházku.",
+        "a": "1746.mp3"
+      },
+      { "t": "They did not want to tidy the room.", "l": "Nechtěly uklidit pokoj.", "a": "1747.mp3" },
+      { "t": "They did not want to go to bed.", "l": "Nechtěly jít do postele / spát.", "a": "1748.mp3" },
+      { "t": "He was not allowed to eat ice cream.", "l": "Nesměl jíst zmrzlinu.", "a": "1749.mp3" },
+      { "t": "He was not allowed to eat chocolate.", "l": "Nesměl jíst čokoládu.", "a": "1750.mp3" },
+      { "t": "He was not allowed to eat sweets.", "l": "Nesměl jíst bonbóny.", "a": "1751.mp3" },
+      { "t": "I was allowed to make a wish.", "l": "Směl / směla jsem si něco přát.", "a": "1752.mp3" },
+      { "t": "I was allowed to buy myself a dress.", "l": "Směl / směla jsem si koupit šaty.", "a": "1753.mp3" },
+      { "t": "I was allowed to take a chocolate.", "l": "Směl / směla jsem si vzít pralinku.", "a": "1754.mp3" },
+      {
+        "t": "Were you allowed to smoke in the airplane?",
+        "l": "Směl / směla jsi kouřit v letadle?",
+        "a": "1755.mp3"
+      },
+      {
+        "t": "Were you allowed to drink beer in the hospital?",
+        "l": "Směl / směla jsi pít v nemocnici pivo?",
+        "a": "1756.mp3"
+      },
+      {
+        "t": "Were you allowed to take the dog into the hotel?",
+        "l": "Směl / směla jsi vzít psa s sebou do hotelu?",
+        "a": "1757.mp3"
+      },
+      {
+        "t": "During the holidays the children were allowed to remain outside late.",
+        "l": "O prázdninách směly děti zůstat dlouho venku.",
+        "a": "1758.mp3"
+      },
+      {
+        "t": "They were allowed to play in the yard for a long time.",
+        "l": "Mohly si hrát dlouho na dvoře.",
+        "a": "1759.mp3"
+      },
+      { "t": "They were allowed to stay up late.", "l": "Směly zůstat dlouho vzhůru.", "a": "1760.mp3" }
+    ]
+  },
+  {
+    "topic": "89 Imperative 1",
+    "words": [
+      { "t": "89 [eighty-nine]", "l": "89 [osmdesát devět]", "a": "1761.mp3" },
+      { "t": "Imperative 1", "l": "Rozkazovací způsob 1", "a": "1762.mp3" },
+      { "t": "You are so lazy – don’t be so lazy!", "l": "Ty jsi tak líný – nebuď tak líný / líná!", "a": "1763.mp3" },
+      {
+        "t": "You sleep for so long – don’t sleep so late!",
+        "l": "Ty spíš tak dlouho – nespi tak dlouho!",
+        "a": "1764.mp3"
+      },
+      {
+        "t": "You come home so late – don’t come home so late!",
+        "l": "Ty přicházíš tak pozdě – nechoď tak pozdě!",
+        "a": "1765.mp3"
+      },
+      {
+        "t": "You laugh so loudly – don’t laugh so loudly!",
+        "l": "Ty se směješ tak nahlas – nesměj se tak nahlas!",
+        "a": "1766.mp3"
+      },
+      {
+        "t": "You speak so softly – don’t speak so softly!",
+        "l": "Ty mluvíš tak potichu – nemluv tak potichu!",
+        "a": "1767.mp3"
+      },
+      { "t": "You drink too much – don’t drink so much!", "l": "Moc piješ – nepij tolik!", "a": "1768.mp3" },
+      { "t": "You smoke too much – don’t smoke so much!", "l": "Moc kouříš – nekuř tolik!", "a": "1769.mp3" },
+      { "t": "You work too much – don’t work so much!", "l": "Moc pracuješ – nepracuj tolik!", "a": "1770.mp3" },
+      {
+        "t": "You drive too fast – don’t drive so fast!",
+        "l": "Ty jedeš tak rychle – nejezdi tak rychle!",
+        "a": "1771.mp3"
+      },
+      { "t": "Get up, Mr. Miller!", "l": "Vstaňte, pane Müllere!", "a": "1772.mp3" },
+      { "t": "Sit down, Mr. Miller!", "l": "Sedněte si, pane Müllere!", "a": "1773.mp3" },
+      { "t": "Remain seated, Mr. Miller!", "l": "Zůstaňte sedět, pane Müllere!", "a": "1774.mp3" },
+      { "t": "Be patient!", "l": "Mějte trpělivost!", "a": "1775.mp3" },
+      { "t": "Take your time!", "l": "Nespěchejte!", "a": "1776.mp3" },
+      { "t": "Wait a moment!", "l": "Počkejte chvíli!", "a": "1777.mp3" },
+      { "t": "Be careful!", "l": "Buďte opatrný / opatrná!", "a": "1778.mp3" },
+      { "t": "Be punctual!", "l": "Buďte dochvilný / dochvilná!", "a": "1779.mp3" },
+      { "t": "Don’t be stupid!", "l": "Nebuďte hloupý / hloupá!", "a": "1780.mp3" }
+    ]
+  },
+  {
+    "topic": "90 Imperative 2",
+    "words": [
+      { "t": "90 [ninety]", "l": "90 [devadesát]", "a": "1781.mp3" },
+      { "t": "Imperative 2", "l": "Rozkazovací způsob 2", "a": "1782.mp3" },
+      { "t": "Shave!", "l": "Ohol se!", "a": "1783.mp3" },
+      { "t": "Wash yourself!", "l": "Umyj se!", "a": "1784.mp3" },
+      { "t": "Comb your hair!", "l": "Učeš se!", "a": "1785.mp3" },
+      { "t": "Call!", "l": "Zavolej! Zavolejte!", "a": "1786.mp3" },
+      { "t": "Begin!", "l": "Začni! Začněte!", "a": "1787.mp3" },
+      { "t": "Stop!", "l": "Přestaň! Přestaňte!", "a": "1788.mp3" },
+      { "t": "Leave it!", "l": "Nech to! Nechte to!", "a": "1789.mp3" },
+      { "t": "Say it!", "l": "Řekni to! Řekněte to!", "a": "1790.mp3" },
+      { "t": "Buy it!", "l": "Kup to! Kupte to!", "a": "1791.mp3" },
+      { "t": "Never be dishonest!", "l": "Nebuď nikdy neupřímný / neupřímná!", "a": "1792.mp3" },
+      { "t": "Never be naughty!", "l": "Nebuď nikdy drzý / drzá!", "a": "1793.mp3" },
+      { "t": "Never be impolite!", "l": "Nebuď nikdy nezdvořilý / nezdvořilá!", "a": "1794.mp3" },
+      { "t": "Always be honest!", "l": "Buď vždy upřímný / upřímná!", "a": "1795.mp3" },
+      { "t": "Always be nice!", "l": "Buď vždy milý / milá!", "a": "1796.mp3" },
+      { "t": "Always be polite!", "l": "Buď vždy zdvořilý / zdvořilá!", "a": "1797.mp3" },
+      { "t": "Hope you arrive home safely!", "l": "Šťastnou cestu!", "a": "1798.mp3" },
+      { "t": "Take care of yourself!", "l": "Dávejte na sebe pozor!", "a": "1799.mp3" },
+      { "t": "Do visit us again soon!", "l": "Navštivte nás zase brzy!", "a": "1800.mp3" }
+    ]
+  },
+  {
+    "topic": "91 Subordinate clauses: that 1",
+    "words": [
+      { "t": "91 [ninety-one]", "l": "91 [devadesát jedna]", "a": "1801.mp3" },
+      { "t": "Subordinate clauses: that 1", "l": "Vedlejší věty s že 1", "a": "1802.mp3" },
+      { "t": "Perhaps the weather will get better tomorrow.", "l": "Zítra bude snad lepší počasí.", "a": "1803.mp3" },
+      { "t": "How do you know that?", "l": "Jak to víte?", "a": "1804.mp3" },
+      { "t": "I hope that it gets better.", "l": "Doufám, že bude lepší.", "a": "1805.mp3" },
+      { "t": "He will definitely come.", "l": "Určitě přijde.", "a": "1806.mp3" },
+      { "t": "Are you sure?", "l": "Je to jisté?", "a": "1807.mp3" },
+      { "t": "I know that he’ll come.", "l": "Vím, že přijde.", "a": "1808.mp3" },
+      { "t": "He’ll definitely call.", "l": "Určitě zavolá.", "a": "1809.mp3" },
+      { "t": "Really?", "l": "Opravdu?", "a": "1810.mp3" },
+      { "t": "I believe that he’ll call.", "l": "Věřím, že zavolá.", "a": "1811.mp3" },
+      { "t": "The wine is definitely old.", "l": "To víno je určitě staré.", "a": "1812.mp3" },
+      { "t": "Do you know that for sure?", "l": "Víte to jistě?", "a": "1813.mp3" },
+      { "t": "I think that it is old.", "l": "Předpokládám, že je staré.", "a": "1814.mp3" },
+      { "t": "Our boss is good-looking.", "l": "Náš šéf vypadá dobře.", "a": "1815.mp3" },
+      { "t": "Do you think so?", "l": "Myslíte?", "a": "1816.mp3" },
+      { "t": "I find him very handsome.", "l": "Já myslím, že vypadá dokonce velmi dobře.", "a": "1817.mp3" },
+      { "t": "The boss definitely has a girlfriend.", "l": "Šéf má určitě nějakou přítelkyni.", "a": "1818.mp3" },
+      { "t": "Do you really think so?", "l": "Opravdu tomu věříte?", "a": "1819.mp3" },
+      {
+        "t": "It is very possible that he has a girlfriend.",
+        "l": "Je dost dobře možné, že má nějakou přítelkyni.",
+        "a": "1820.mp3"
+      }
+    ]
+  },
+  {
+    "topic": "92 Subordinate clauses: that 2",
+    "words": [
+      { "t": "92 [ninety-two]", "l": "92 [devadesát dva]", "a": "1821.mp3" },
+      { "t": "Subordinate clauses: that 2", "l": "Vedlejší věty s že 2", "a": "1822.mp3" },
+      { "t": "I’m angry that you snore.", "l": "Rozčiluje mě, že chrápeš.", "a": "1823.mp3" },
+      { "t": "I’m angry that you drink so much beer.", "l": "Rozčiluje mě, že piješ tolik piva.", "a": "1824.mp3" },
+      { "t": "I’m angry that you come so late.", "l": "Rozčiluje mě, že jdeš tak pozdě.", "a": "1825.mp3" },
+      { "t": "I think he needs a doctor.", "l": "Myslím, že potřebuje lékaře.", "a": "1826.mp3" },
+      { "t": "I think he is ill.", "l": "Myslím, že je nemocný.", "a": "1827.mp3" },
+      { "t": "I think he is sleeping now.", "l": "Myslím, že teď spí.", "a": "1828.mp3" },
+      { "t": "We hope that he marries our daughter.", "l": "Doufáme, že se ožení s naší dcerou.", "a": "1829.mp3" },
+      { "t": "We hope that he has a lot of money.", "l": "Doufáme, že má hodně peněz.", "a": "1830.mp3" },
+      { "t": "We hope that he is a millionaire.", "l": "Doufáme, že je milionář.", "a": "1831.mp3" },
+      {
+        "t": "I heard that your wife had an accident.",
+        "l": "Slyšel / slyšela jsem, že tvoje žena měla úraz.",
+        "a": "1832.mp3"
+      },
+      {
+        "t": "I heard that she is in the hospital.",
+        "l": "Slyšel / slyšela jsem, že leží v nemocnici.",
+        "a": "1833.mp3"
+      },
+      {
+        "t": "I heard that your car is completely wrecked.",
+        "l": "Slyšel / slyšela jsem, že tvé auto je úplně rozbité.",
+        "a": "1834.mp3"
+      },
+      { "t": "I’m happy that you came.", "l": "Těší mě, že jste přišel / přišla.", "a": "1835.mp3" },
+      { "t": "I’m happy that you are interested.", "l": "Těší mě, že máte zájem.", "a": "1836.mp3" },
+      { "t": "I’m happy that you want to buy the house.", "l": "Těší mě, že chcete koupit ten dům.", "a": "1837.mp3" },
+      {
+        "t": "I’m afraid the last bus has already gone.",
+        "l": "Obávám se, že poslední autobus už jel.",
+        "a": "1838.mp3"
+      },
+      {
+        "t": "I’m afraid we will have to take a taxi.",
+        "l": "Obávám se, že si budeme muset vzít taxi.",
+        "a": "1839.mp3"
+      },
+      { "t": "I’m afraid I have no more money.", "l": "Obávám se, že u sebe nemám žádné peníze.", "a": "1840.mp3" }
+    ]
+  },
+  {
+    "topic": "93 Subordinate clauses: if",
+    "words": [
+      { "t": "93 [ninety-three]", "l": "93 [devadesát tři]", "a": "1841.mp3" },
+      { "t": "Subordinate clauses: if", "l": "Vedlejší věty se zda, jestli", "a": "1842.mp3" },
+      { "t": "I don’t know if he loves me.", "l": "Nevím, jestli mě má rád.", "a": "1843.mp3" },
+      { "t": "I don’t know if he’ll come back.", "l": "Nevím, jestli se vrátí.", "a": "1844.mp3" },
+      { "t": "I don’t know if he’ll call me.", "l": "Nevím, jestli mi zavolá.", "a": "1845.mp3" },
+      { "t": "Maybe he doesn’t love me?", "l": "Zdalipak mě má rád?", "a": "1846.mp3" },
+      { "t": "Maybe he won’t come back?", "l": "Zdalipak se vrátí?", "a": "1847.mp3" },
+      { "t": "Maybe he won’t call me?", "l": "Zdalipak zavolá?", "a": "1848.mp3" },
+      { "t": "I wonder if he thinks about me.", "l": "Ptám se, jestli na mne myslí.", "a": "1849.mp3" },
+      { "t": "I wonder if he has someone else.", "l": "Ptám se, jestli má nějakou jinou.", "a": "1850.mp3" },
+      { "t": "I wonder if he lies.", "l": "Ptám se, jestli mi lže.", "a": "1851.mp3" },
+      { "t": "Maybe he thinks of me?", "l": "Zdalipak na mě myslí?", "a": "1852.mp3" },
+      { "t": "Maybe he has someone else?", "l": "Zdalipak má jinou?", "a": "1853.mp3" },
+      { "t": "Maybe he tells me the truth?", "l": "Zdalipak říká pravdu?", "a": "1854.mp3" },
+      { "t": "I doubt whether he really likes me.", "l": "Pochybuji o tom, že mě má opravdu rád.", "a": "1855.mp3" },
+      { "t": "I doubt whether he’ll write to me.", "l": "Pochybuji o tom, že mi napíše.", "a": "1856.mp3" },
+      { "t": "I doubt whether he’ll marry me.", "l": "Pochybuji o tom, že si mě vezme.", "a": "1857.mp3" },
+      { "t": "Does he really like me?", "l": "Zdalipak mě má opravdu rád?", "a": "1858.mp3" },
+      { "t": "Will he write to me?", "l": "Zdalipak mi napíše?", "a": "1859.mp3" },
+      { "t": "Will he marry me?", "l": "Zdalipak si mne vezme?", "a": "1860.mp3" }
+    ]
+  },
+  {
+    "topic": "94 Conjunctions 1",
+    "words": [
+      { "t": "94 [ninety-four]", "l": "94 [devadesát čtyři]", "a": "1861.mp3" },
+      { "t": "Conjunctions 1", "l": "Spojky 1", "a": "1862.mp3" },
+      { "t": "Wait until the rain stops.", "l": "Počkej, až přestane pršet.", "a": "1863.mp3" },
+      { "t": "Wait until I’m finished.", "l": "Počkej, až budu hotov / hotová.", "a": "1864.mp3" },
+      { "t": "Wait until he comes back.", "l": "Počkej, až přijde zpátky.", "a": "1865.mp3" },
+      { "t": "I’ll wait until my hair is dry.", "l": "Čekám, až mi uschnou vlasy.", "a": "1866.mp3" },
+      { "t": "I’ll wait until the film is over.", "l": "Čekám, až ten film skončí.", "a": "1867.mp3" },
+      {
+        "t": "I’ll wait until the traffic light is green.",
+        "l": "Čekám, až bude na semaforu zelená.",
+        "a": "1868.mp3"
+      },
+      { "t": "When do you go on holiday?", "l": "Kdy pojedeš na dovolenou?", "a": "1869.mp3" },
+      { "t": "Before the summer holidays?", "l": "Ještě před letními prázdninami?", "a": "1870.mp3" },
+      {
+        "t": "Yes, before the summer holidays begin.",
+        "l": "Ano, ještě než začnou letní prázdniny.",
+        "a": "1871.mp3"
+      },
+      { "t": "Repair the roof before the winter begins.", "l": "Oprav tu střechu, než začne zima.", "a": "1872.mp3" },
+      {
+        "t": "Wash your hands before you sit at the table.",
+        "l": "Umyj si ruce, než si sedneš ke stolu.",
+        "a": "1873.mp3"
+      },
+      { "t": "Close the window before you go out.", "l": "Zavři okno, než půjdeš ven.", "a": "1874.mp3" },
+      { "t": "When will you come home?", "l": "Kdy přijdeš domů?", "a": "1875.mp3" },
+      { "t": "After class?", "l": "Po vyučování?", "a": "1876.mp3" },
+      { "t": "Yes, after the class is over.", "l": "Ano, poté, co skončí vyučování.", "a": "1877.mp3" },
+      {
+        "t": "After he had an accident, he could not work anymore.",
+        "l": "Poté, co se mu stal úraz, už nemohl pracovat.",
+        "a": "1878.mp3"
+      },
+      {
+        "t": "After he had lost his job, he went to America.",
+        "l": "Poté, co přišel o práci, odešel do Ameriky.",
+        "a": "1879.mp3"
+      },
+      {
+        "t": "After he went to America, he became rich.",
+        "l": "Poté, co odešel do Ameriky, zbohatnul.",
+        "a": "1880.mp3"
+      }
+    ]
+  },
+  {
+    "topic": "95 Conjunctions 2",
+    "words": [
+      { "t": "95 [ninety-five]", "l": "95 [devadesát pět]", "a": "1881.mp3" },
+      { "t": "Conjunctions 2", "l": "Spojky 2", "a": "1882.mp3" },
+      { "t": "Since when is she no longer working?", "l": "Od kdy nepracuje?", "a": "1883.mp3" },
+      { "t": "Since her marriage?", "l": "Od té doby, co se vdala?", "a": "1884.mp3" },
+      {
+        "t": "Yes, she is no longer working since she got married.",
+        "l": "Ano, nepracuje od té doby, co se vdala.",
+        "a": "1885.mp3"
+      },
+      {
+        "t": "Since she got married, she’s no longer working.",
+        "l": "Od té doby, co se vdala, nepracuje.",
+        "a": "1886.mp3"
+      },
+      {
+        "t": "Since they have met each other, they are happy.",
+        "l": "Od té doby, co se poznali, jsou šťastní.",
+        "a": "1887.mp3"
+      },
+      {
+        "t": "Since they have had children, they rarely go out.",
+        "l": "Od té doby, co mají děti, nechodí často do společnosti.",
+        "a": "1888.mp3"
+      },
+      { "t": "When does she call?", "l": "Kdy telefonuje?", "a": "1889.mp3" },
+      { "t": "When driving?", "l": "Za jízdy?", "a": "1890.mp3" },
+      { "t": "Yes, when she is driving.", "l": "Ano, při řízení.", "a": "1891.mp3" },
+      { "t": "She calls while she drives.", "l": "Telefonuje při řízení.", "a": "1892.mp3" },
+      { "t": "She watches TV while she irons.", "l": "Dívá se na televizi při žehlení.", "a": "1893.mp3" },
+      {
+        "t": "She listens to music while she does her work.",
+        "l": "Poslouchá hudbu, při dělání domácích úkolů.",
+        "a": "1894.mp3"
+      },
+      {
+        "t": "I can’t see anything when I don’t have glasses.",
+        "l": "Nic nevidím, když nemám brýle.",
+        "a": "1895.mp3"
+      },
+      {
+        "t": "I can’t understand anything when the music is so loud.",
+        "l": "Nic nerozumím, když ta hudba hraje tak nahlas.",
+        "a": "1896.mp3"
+      },
+      { "t": "I can’t smell anything when I have a cold.", "l": "Nic necítím, když mám rýmu.", "a": "1897.mp3" },
+      { "t": "We’ll take a taxi if it rains.", "l": "Vezmeme si taxi, pokud bude pršet.", "a": "1898.mp3" },
+      {
+        "t": "We’ll travel around the world if we win the lottery.",
+        "l": "Pojedeme na cestu kolem světa, pokud vyhrajeme v loterii.",
+        "a": "1899.mp3"
+      },
+      {
+        "t": "We’ll start eating if he doesn’t come soon.",
+        "l": "Začneme jíst, pokud brzy nepřijde.",
+        "a": "1900.mp3"
+      }
+    ]
+  },
+  {
+    "topic": "96 Conjunctions 3",
+    "words": [
+      { "t": "96 [ninety-six]", "l": "96 [devadesát šest]", "a": "1901.mp3" },
+      { "t": "Conjunctions 3", "l": "Spojky 3", "a": "1902.mp3" },
+      { "t": "I get up as soon as the alarm rings.", "l": "Vstanu, jakmile zazvoní budík.", "a": "1903.mp3" },
+      {
+        "t": "I become tired as soon as I have to study.",
+        "l": "Jsem unavený, jakmile se mám učit.",
+        "a": "1904.mp3"
+      },
+      { "t": "I will stop working as soon as I am 60.", "l": "Přestanu pracovat, až mi bude 60.", "a": "1905.mp3" },
+      { "t": "When will you call?", "l": "Kdy zavoláte?", "a": "1906.mp3" },
+      { "t": "As soon as I have a moment.", "l": "Až budu mít trochu času.", "a": "1907.mp3" },
+      {
+        "t": "He’ll call, as soon as he has a little time.",
+        "l": "Zavolá, až bude mít trochu času.",
+        "a": "1908.mp3"
+      },
+      { "t": "How long will you work?", "l": "Jak dlouho budete pracovat?", "a": "1909.mp3" },
+      { "t": "I’ll work as long as I can.", "l": "Budu pracovat, dokud budu moci.", "a": "1910.mp3" },
+      {
+        "t": "I’ll work as long as I am healthy.",
+        "l": "Budu pracovat, dokud budu zdravý / zdravá.",
+        "a": "1911.mp3"
+      },
+      { "t": "He lies in bed instead of working.", "l": "Leží v posteli, místo aby pracoval.", "a": "1912.mp3" },
+      {
+        "t": "She reads the newspaper instead of cooking.",
+        "l": "Čte si časopis, místo aby vařila.",
+        "a": "1913.mp3"
+      },
+      { "t": "He is at the bar instead of going home.", "l": "Sedí v hospodě, místo aby šel domů.", "a": "1914.mp3" },
+      { "t": "As far as I know, he lives here.", "l": "Pokud vím, bydlí zde.", "a": "1915.mp3" },
+      { "t": "As far as I know, his wife is ill.", "l": "Pokud vím, je jeho žena nemocná.", "a": "1916.mp3" },
+      { "t": "As far as I know, he is unemployed.", "l": "Pokud vím, je nezaměstnaný.", "a": "1917.mp3" },
+      {
+        "t": "I overslept; otherwise I’d have been on time.",
+        "l": "Zaspal / zaspala jsem, jinak bych přišel / přišla včas.",
+        "a": "1918.mp3"
+      },
+      {
+        "t": "I missed the bus; otherwise I’d have been on time.",
+        "l": "Zmeškal / zmeškala jsem autobus, jinak bych přišel / přišla včas.",
+        "a": "1919.mp3"
+      },
+      {
+        "t": "I didn’t find the way / I got lost; otherwise I’d have been on time.",
+        "l": "Nenašel / nenašla jsem cestu, jinak bych přišel / přišla včas.",
+        "a": "1920.mp3"
+      }
+    ]
+  },
+  {
+    "topic": "97 Conjunctions 4",
+    "words": [
+      { "t": "97 [ninety-seven]", "l": "97 [devadesát sedm]", "a": "1921.mp3" },
+      { "t": "Conjunctions 4", "l": "Spojky 4", "a": "1922.mp3" },
+      { "t": "He fell asleep although the TV was on.", "l": "Usnul, ačkoli televizor hrál.", "a": "1923.mp3" },
+      { "t": "He stayed a while although it was late.", "l": "Zůstal ještě, ačkoli bylo už pozdě.", "a": "1924.mp3" },
+      {
+        "t": "He didn’t come although we had made an appointment.",
+        "l": "Nepřišel, ačkoli jsme byli domluveni.",
+        "a": "1925.mp3"
+      },
+      {
+        "t": "The TV was on. Nevertheless, he fell asleep.",
+        "l": "Televizor byl zapnutý. Přesto usnul.",
+        "a": "1926.mp3"
+      },
+      {
+        "t": "It was already late. Nevertheless, he stayed a while.",
+        "l": "Bylo už pozdě. Přesto ještě zůstal.",
+        "a": "1927.mp3"
+      },
+      {
+        "t": "We had made an appointment. Nevertheless, he didn’t come.",
+        "l": "Domluvili jsme se. Přesto nepřišel.",
+        "a": "1928.mp3"
+      },
+      {
+        "t": "Although he has no license, he drives the car.",
+        "l": "Ačkoli nemá řidičský průkaz, řídí auto.",
+        "a": "1929.mp3"
+      },
+      {
+        "t": "Although the road is slippery, he drives so fast.",
+        "l": "Ačkoli je náledí, jede rychle.",
+        "a": "1930.mp3"
+      },
+      { "t": "Although he is drunk, he rides his bicycle.", "l": "Ačkoli je opilý, jede na kole.", "a": "1931.mp3" },
+      {
+        "t": "Despite having no licence / license (am.), he drives the car.",
+        "l": "Nemá řidičský průkaz. Přesto jezdí autem.",
+        "a": "1932.mp3"
+      },
+      {
+        "t": "Despite the road being slippery, he drives fast.",
+        "l": "Je náledí. Přesto jede rychle.",
+        "a": "1933.mp3"
+      },
+      { "t": "Despite being drunk, he rides the bike.", "l": "Je opilý. Přesto jede na kole.", "a": "1934.mp3" },
+      {
+        "t": "Although she went to college, she can’t find a job.",
+        "l": "Nemůže najít žádné místo, ačkoli vystudovala.",
+        "a": "1935.mp3"
+      },
+      {
+        "t": "Although she is in pain, she doesn’t go to the doctor.",
+        "l": "Nejde k lékaři, ačkoli má bolesti.",
+        "a": "1936.mp3"
+      },
+      {
+        "t": "Although she has no money, she buys a car.",
+        "l": "Kupuje auto, ačkoli nemá žádné peníze.",
+        "a": "1937.mp3"
+      },
+      {
+        "t": "She went to college. Nevertheless, she can’t find a job.",
+        "l": "Vystudovala. Přesto nemůže najít žádné místo.",
+        "a": "1938.mp3"
+      },
+      {
+        "t": "She is in pain. Nevertheless, she doesn’t go to the doctor.",
+        "l": "Má bolesti. Přesto nejde k lékaři.",
+        "a": "1939.mp3"
+      },
+      {
+        "t": "She has no money. Nevertheless, she buys a car.",
+        "l": "Nemá peníze. Přesto kupuje auto.",
+        "a": "1940.mp3"
+      }
+    ]
+  },
+  {
+    "topic": "98 Double connectors",
+    "words": [
+      { "t": "98 [ninety-eight]", "l": "98 [devadesát osm]", "a": "1941.mp3" },
+      { "t": "Double connectors", "l": "Složené spojky", "a": "1942.mp3" },
+      {
+        "t": "The journey was beautiful, but too tiring.",
+        "l": "Cesta byla sice hezká, ale příliš namáhavá.",
+        "a": "1943.mp3"
+      },
+      {
+        "t": "The train was on time, but too full.",
+        "l": "Vlak přijel sice včas, ale byl příliš plný.",
+        "a": "1944.mp3"
+      },
+      {
+        "t": "The hotel was comfortable, but too expensive.",
+        "l": "Hotel byl sice útulný, ale příliš drahý.",
+        "a": "1945.mp3"
+      },
+      { "t": "He’ll take either the bus or the train.", "l": "Pojede buď autobusem nebo vlakem.", "a": "1946.mp3" },
+      {
+        "t": "He’ll come either this evening or tomorrow morning.",
+        "l": "Přijede buď dnes večer nebo zítra ráno.",
+        "a": "1947.mp3"
+      },
+      {
+        "t": "He’s going to stay either with us or in the hotel.",
+        "l": "Bude bydlet buď u nás nebo v hotelu.",
+        "a": "1948.mp3"
+      },
+      { "t": "She speaks Spanish as well as English.", "l": "Mluví jak španělsky, tak anglicky.", "a": "1949.mp3" },
+      {
+        "t": "She has lived in Madrid as well as in London.",
+        "l": "Žila jak v Madridu, tak v Londýně.",
+        "a": "1950.mp3"
+      },
+      { "t": "She knows Spain as well as England.", "l": "Zná jak Španělsko, tak Anglii.", "a": "1951.mp3" },
+      { "t": "He is not only stupid, but also lazy.", "l": "Je nejen hloupý, ale i líný.", "a": "1952.mp3" },
+      {
+        "t": "She is not only pretty, but also intelligent.",
+        "l": "Je nejen hezká, ale i inteligentní.",
+        "a": "1953.mp3"
+      },
+      {
+        "t": "She speaks not only German, but also French.",
+        "l": "Mluví nejen německy, ale i francouzsky.",
+        "a": "1954.mp3"
+      },
+      {
+        "t": "I can neither play the piano nor the guitar.",
+        "l": "Neumím hrát ani na klavír, ani na kytaru.",
+        "a": "1955.mp3"
+      },
+      {
+        "t": "I can neither waltz nor do the samba.",
+        "l": "Neumím (tancovat) ani valčík, ani sambu.",
+        "a": "1956.mp3"
+      },
+      { "t": "I like neither opera nor ballet.", "l": "Nemám rád ani operu, ani balet.", "a": "1957.mp3" },
+      {
+        "t": "The faster you work, the earlier you will be finished.",
+        "l": "Čím rychleji budeš pracovat, tím dřív budeš hotov / hotová.",
+        "a": "1958.mp3"
+      },
+      {
+        "t": "The earlier you come, the earlier you can go.",
+        "l": "Čím dřív přijdeš, tím dřív můžeš jít.",
+        "a": "1959.mp3"
+      },
+      {
+        "t": "The older one gets, the more complacent one gets.",
+        "l": "Čím je člověk starší, tím je pohodlnější.",
+        "a": "1960.mp3"
+      }
+    ]
+  },
+  {
+    "topic": "99 Genitive",
+    "words": [
+      { "t": "99 [ninety-nine]", "l": "99 [devadesát devět]", "a": "1961.mp3" },
+      { "t": "Genitive", "l": "Druhý pád", "a": "1962.mp3" },
+      { "t": "my girlfriend’s cat", "l": "kočka mé přítelkyně", "a": "1963.mp3" },
+      { "t": "my boyfriend’s dog", "l": "pes mého přítele", "a": "1964.mp3" },
+      { "t": "my children’s toys", "l": "hračky mých dětí", "a": "1965.mp3" },
+      { "t": "This is my colleague’s overcoat.", "l": "To je plášť mého kolegy.", "a": "1966.mp3" },
+      { "t": "That is my colleague’s car.", "l": "To je auto mé kolegyně.", "a": "1967.mp3" },
+      { "t": "That is my colleagues’ work.", "l": "To je práce mých kolegů.", "a": "1968.mp3" },
+      { "t": "The button from the shirt is gone.", "l": "Knoflík u košile je utržený.", "a": "1969.mp3" },
+      { "t": "The garage key is gone.", "l": "Klíč od garáže je pryč.", "a": "1970.mp3" },
+      { "t": "The boss’ computer is not working.", "l": "Vedoucího počítač je rozbitý.", "a": "1971.mp3" },
+      { "t": "Who are the girl’s parents?", "l": "Kdo jsou rodiče té dívky?", "a": "1972.mp3" },
+      { "t": "How do I get to her parents’ house?", "l": "Jak se dostanu k domu jejích rodičů?", "a": "1973.mp3" },
+      { "t": "The house is at the end of the road.", "l": "Ten dům stojí na konci této ulice.", "a": "1974.mp3" },
+      {
+        "t": "What is the name of the capital city of Switzerland?",
+        "l": "Jak se jmenuje hlavní město Švýcarska?",
+        "a": "1975.mp3"
+      },
+      { "t": "What is the title of the book?", "l": "Jak se jmenuje ta kniha?", "a": "1976.mp3" },
+      {
+        "t": "What are the names of the neighbour’s / neighbor’s (am.) children?",
+        "l": "Jak se jmenují sousedovic děti?",
+        "a": "1977.mp3"
+      },
+      { "t": "When are the children’s holidays?", "l": "Kdy mají děti prázdniny?", "a": "1978.mp3" },
+      { "t": "What are the doctor’s consultation times?", "l": "Kdy jsou návštěvní hodiny lékaře?", "a": "1979.mp3" },
+      { "t": "What time is the museum open?", "l": "Kdy jsou návštěvní hodiny v muzeu?", "a": "1980.mp3" }
+    ]
+  },
+  {
+    "topic": "100 Adverbs",
+    "words": [
+      { "t": "100 [one hundred]", "l": "100 [sto]", "a": "1981.mp3" },
+      { "t": "Adverbs", "l": "Příslovce", "a": "1982.mp3" },
+      { "t": "already – not yet", "l": "už jednou – ještě nikdy", "a": "1983.mp3" },
+      { "t": "Have you already been to Berlin?", "l": "Byl / a jste už někdy v Berlíně?", "a": "1984.mp3" },
+      { "t": "No, not yet.", "l": "Ne, ještě nikdy.", "a": "1985.mp3" },
+      { "t": "someone – no one", "l": "někdo – nikdo", "a": "1986.mp3" },
+      { "t": "Do you know someone here?", "l": "Znáte tady někoho?", "a": "1987.mp3" },
+      { "t": "No, I don’t know anyone here.", "l": "Ne, neznám tady nikoho.", "a": "1988.mp3" },
+      { "t": "a little longer – not much longer", "l": "ještě – už ne", "a": "1989.mp3" },
+      { "t": "Will you stay here a little longer?", "l": "Zůstanete tady ještě dlouho?", "a": "1990.mp3" },
+      { "t": "No, I won’t stay here much longer.", "l": "Ne, nezůstanu tady dlouho.", "a": "1991.mp3" },
+      { "t": "something else – nothing else", "l": "ještě něco – už nic", "a": "1992.mp3" },
+      { "t": "Would you like to drink something else?", "l": "Chcete ještě něco k pití?", "a": "1993.mp3" },
+      { "t": "No, I don’t want anything else.", "l": "Ne, už nic nechci.", "a": "1994.mp3" },
+      { "t": "something already – nothing yet", "l": "už něco – ještě nic", "a": "1995.mp3" },
+      { "t": "Have you already eaten something?", "l": "Jedl / jedla jste už něco?", "a": "1996.mp3" },
+      { "t": "No, I haven’t eaten anything yet.", "l": "Ne, ještě jsem nic nejedl / nejedla.", "a": "1997.mp3" },
+      { "t": "someone else – no one else", "l": "ještě někdo – už nikdo", "a": "1998.mp3" },
+      { "t": "Does anyone else want a coffee?", "l": "Chce ještě někdo kávu?", "a": "1999.mp3" },
+      { "t": "No, no one else.", "l": "Ne, už nikdo.", "a": "2000.mp3" }
+    ]
+  }
+]

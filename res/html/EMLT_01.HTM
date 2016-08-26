@@ -1,0 +1,652 @@
+<html><script>(function main() {
+    // Create enabled event
+    function fireEnabledEvent() {
+        // If gli exists, then we are already present and shouldn't do anything
+        if (!window.gli) {
+            setTimeout(function () {
+                var enabledEvent = document.createEvent("Event");
+                enabledEvent.initEvent("WebGLEnabledEvent", true, true);
+                document.dispatchEvent(enabledEvent);
+            }, 0);
+        } else {
+            //console.log("WebGL Inspector already embedded on the page - disabling extension");
+        }
+    };
+
+    // Grab the path root from the extension
+    document.addEventListener("WebGLInspectorReadyEvent", function (e) {
+        var pathElement = document.getElementById("__webglpathroot");
+        if (window["gliloader"]) {
+            gliloader.pathRoot = pathElement.innerText;
+        } else {
+            // TODO: more?
+            window.gliCssUrl = pathElement.innerText + "gli.all.css";
+        }
+    }, false);
+
+    // Rewrite getContext to snoop for webgl
+    var originalGetContext = HTMLCanvasElement.prototype.getContext;
+    if (!HTMLCanvasElement.prototype.getContextRaw) {
+        HTMLCanvasElement.prototype.getContextRaw = originalGetContext;
+    }
+    HTMLCanvasElement.prototype.getContext = function () {
+        var ignoreCanvas = this.internalInspectorSurface;
+        if (ignoreCanvas) {
+            return originalGetContext.apply(this, arguments);
+        }
+
+        var result = originalGetContext.apply(this, arguments);
+        if (result == null) {
+            return null;
+        }
+
+        var contextNames = ["moz-webgl", "webkit-3d", "experimental-webgl", "webgl", "3d"];
+        var requestingWebGL = contextNames.indexOf(arguments[0]) != -1;
+        if (requestingWebGL) {
+            // Page is requesting a WebGL context!
+            fireEnabledEvent(this);
+
+            // If we are injected, inspect this context
+            if (window.gli) {
+                if (gli.host.inspectContext) {
+                    // TODO: pull options from extension
+                    result = gli.host.inspectContext(this, result);
+                    // NOTE: execute in a timeout so that if the dom is not yet
+                    // loaded this won't error out.
+                    window.setTimeout(function() {
+                        var hostUI = new gli.host.HostUI(result);
+                        result.hostUI = hostUI; // just so we can access it later for debugging
+                    }, 0);
+                }
+            }
+        }
+
+        return result;
+    };
+})();</script><head>
+<meta charset="utf-8">
+<link rel="alternate" hreflang="ru-ad" href="http://www.goethe-verlag.com/book2/_VOCAB/AD/ADLT/01.HTM">
+<link rel="alternate" hreflang="af" href="http://www.goethe-verlag.com/book2/_VOCAB/AF/AFLT/01.HTM">
+<link rel="alternate" hreflang="ar" href="http://www.goethe-verlag.com/book2/_VOCAB/AR/ARLT/01.HTM">
+<link rel="alternate" hreflang="be" href="http://www.goethe-verlag.com/book2/_VOCAB/BE/BELT/01.HTM">
+<link rel="alternate" hreflang="bg" href="http://www.goethe-verlag.com/book2/_VOCAB/BG/BGLT/01.HTM">
+<link rel="alternate" hreflang="bn" href="http://www.goethe-verlag.com/book2/_VOCAB/BN/BNLT/01.HTM">
+<link rel="alternate" hreflang="bs" href="http://www.goethe-verlag.com/book2/_VOCAB/BS/BSLT/01.HTM">
+<link rel="alternate" hreflang="ca" href="http://www.goethe-verlag.com/book2/_VOCAB/CA/CALT/01.HTM">
+<link rel="alternate" hreflang="cs" href="http://www.goethe-verlag.com/book2/_VOCAB/CS/CSLT/01.HTM">
+<link rel="alternate" hreflang="da" href="http://www.goethe-verlag.com/book2/_VOCAB/DA/DALT/01.HTM">
+<link rel="alternate" hreflang="de" href="http://www.goethe-verlag.com/book2/_VOCAB/DE/DELT/01.HTM">
+<link rel="alternate" hreflang="el" href="http://www.goethe-verlag.com/book2/_VOCAB/EL/ELLT/01.HTM">
+<link rel="alternate" hreflang="en-us" href="http://www.goethe-verlag.com/book2/_VOCAB/EM/EMLT/01.HTM">
+<link rel="alternate" hreflang="en" href="http://www.goethe-verlag.com/book2/_VOCAB/EN/ENLT/01.HTM">
+<link rel="alternate" hreflang="eo" href="http://www.goethe-verlag.com/book2/_VOCAB/EO/EOLT/01.HTM">
+<link rel="alternate" hreflang="es" href="http://www.goethe-verlag.com/book2/_VOCAB/ES/ESLT/01.HTM">
+<link rel="alternate" hreflang="et" href="http://www.goethe-verlag.com/book2/_VOCAB/ET/ETLT/01.HTM">
+<link rel="alternate" hreflang="fa" href="http://www.goethe-verlag.com/book2/_VOCAB/FA/FALT/01.HTM">
+<link rel="alternate" hreflang="fi" href="http://www.goethe-verlag.com/book2/_VOCAB/FI/FILT/01.HTM">
+<link rel="alternate" hreflang="fr" href="http://www.goethe-verlag.com/book2/_VOCAB/FR/FRLT/01.HTM">
+<link rel="alternate" hreflang="he" href="http://www.goethe-verlag.com/book2/_VOCAB/HE/HELT/01.HTM">
+<link rel="alternate" hreflang="hi" href="http://www.goethe-verlag.com/book2/_VOCAB/HI/HILT/01.HTM">
+<link rel="alternate" hreflang="hr" href="http://www.goethe-verlag.com/book2/_VOCAB/HR/HRLT/01.HTM">
+<link rel="alternate" hreflang="hu" href="http://www.goethe-verlag.com/book2/_VOCAB/HU/HULT/01.HTM">
+<link rel="alternate" hreflang="id" href="http://www.goethe-verlag.com/book2/_VOCAB/ID/IDLT/01.HTM">
+<link rel="alternate" hreflang="it" href="http://www.goethe-verlag.com/book2/_VOCAB/IT/ITLT/01.HTM">
+<link rel="alternate" hreflang="ja" href="http://www.goethe-verlag.com/book2/_VOCAB/JA/JALT/01.HTM">
+<link rel="alternate" hreflang="ka" href="http://www.goethe-verlag.com/book2/_VOCAB/KA/KALT/01.HTM">
+<link rel="alternate" hreflang="kn" href="http://www.goethe-verlag.com/book2/_VOCAB/KN/KNLT/01.HTM">
+<link rel="alternate" hreflang="ko" href="http://www.goethe-verlag.com/book2/_VOCAB/KO/KOLT/01.HTM">
+<link rel="alternate" hreflang="lv" href="http://www.goethe-verlag.com/book2/_VOCAB/LV/LVLT/01.HTM">
+<link rel="alternate" hreflang="mk" href="http://www.goethe-verlag.com/book2/_VOCAB/MK/MKLT/01.HTM">
+<link rel="alternate" hreflang="mr" href="http://www.goethe-verlag.com/book2/_VOCAB/MR/MRLT/01.HTM">
+<link rel="alternate" hreflang="nl" href="http://www.goethe-verlag.com/book2/_VOCAB/NL/NLLT/01.HTM">
+<link rel="alternate" hreflang="no" href="http://www.goethe-verlag.com/book2/_VOCAB/NO/NOLT/01.HTM">
+<link rel="alternate" hreflang="pa" href="http://www.goethe-verlag.com/book2/_VOCAB/PA/PALT/01.HTM">
+<link rel="alternate" hreflang="pl" href="http://www.goethe-verlag.com/book2/_VOCAB/PL/PLLT/01.HTM">
+<link rel="alternate" hreflang="pt" href="http://www.goethe-verlag.com/book2/_VOCAB/PT/PTLT/01.HTM">
+<link rel="alternate" hreflang="pt-br" href="http://www.goethe-verlag.com/book2/_VOCAB/PX/PXLT/01.HTM">
+<link rel="alternate" hreflang="ro" href="http://www.goethe-verlag.com/book2/_VOCAB/RO/ROLT/01.HTM">
+<link rel="alternate" hreflang="ru" href="http://www.goethe-verlag.com/book2/_VOCAB/RU/RULT/01.HTM">
+<link rel="alternate" hreflang="sk" href="http://www.goethe-verlag.com/book2/_VOCAB/SK/SKLT/01.HTM">
+<link rel="alternate" hreflang="sl" href="http://www.goethe-verlag.com/book2/_VOCAB/SL/SLLT/01.HTM">
+<link rel="alternate" hreflang="sq" href="http://www.goethe-verlag.com/book2/_VOCAB/SQ/SQLT/01.HTM">
+<link rel="alternate" hreflang="sr" href="http://www.goethe-verlag.com/book2/_VOCAB/SR/SRLT/01.HTM">
+<link rel="alternate" hreflang="sv" href="http://www.goethe-verlag.com/book2/_VOCAB/SV/SVLT/01.HTM">
+<link rel="alternate" hreflang="ta" href="http://www.goethe-verlag.com/book2/_VOCAB/TA/TALT/01.HTM">
+<link rel="alternate" hreflang="te" href="http://www.goethe-verlag.com/book2/_VOCAB/TE/TELT/01.HTM">
+<link rel="alternate" hreflang="th" href="http://www.goethe-verlag.com/book2/_VOCAB/TH/THLT/01.HTM">
+<link rel="alternate" hreflang="tr" href="http://www.goethe-verlag.com/book2/_VOCAB/TR/TRLT/01.HTM">
+<link rel="alternate" hreflang="uk" href="http://www.goethe-verlag.com/book2/_VOCAB/UK/UKLT/01.HTM">
+<link rel="alternate" hreflang="ur" href="http://www.goethe-verlag.com/book2/_VOCAB/UR/URLT/01.HTM">
+<link rel="alternate" hreflang="vi" href="http://www.goethe-verlag.com/book2/_VOCAB/VI/VILT/01.HTM">
+<link rel="alternate" hreflang="zh" href="http://www.goethe-verlag.com/book2/_VOCAB/ZH/ZHLT/01.HTM">
+<title>50 languages: English US - Lithuanian | Feelings - Jausmai</title>
+<style type="text/css">
+.Stil36 {font-family: "Verdana"; font-size: 15px; text-align: center; color: #666; margin:2px}
+.Stil46 {font-family: "Verdana"; font-size: 15px; text-align: center; margin:2px}
+.Stil39 {font-family: "Arial"; font-size: 12px; color: #996600; text-align: center; margin:2px;}
+A:link {text-decoration: none}
+A:visited {text-decoration: none}
+A:active {text-decoration: none}
+A:hover {text-decoration: underline; color: red;}
+</style>
+<meta name="description" content="meilumas - affection | pyktis - anger | nuobodulys - boredom | pasitikėjimas - confidence | kūrybiškumas - creativity | krizė - crisis | smalsumas - curiosity | pralaimėjimas - defeat | depresija - depression | neviltis - despair | nusivylimas - disappointment | nepasitikėjimas - distrust | abejonė - doubt | sapnas - dream | nuovargis - fatigue | baimė - fear | ginčas - fight | draugystė - friendship | smagumas - fun | sielvartas - grief | grimasa - grimace | laimė - happiness | viltis - hope | alkis - hunger | susidomėjimas - interest | džiaugsmas - joy | bučinys - kiss | vienatvė - loneliness | meilė - love | melancholija - melancholy | nuotaika - mood | optimizmas - optimism | panika - panic | apstulbimas - perplexity | įniršis - rage | atmetimas - rejection | santykiai - relationship | reikalavimas - request | riksmas - scream | saugumas - security | išgąstis - shock | šypsena - smile | švelnumas - tenderness | mintis - thought | mąstymas - thoughtfulness | ">
+</head>
+<body>
+<table width="100%" border="0" align="center">
+<tbody><tr><td align="center">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-9240635761824238";
+/* 728x90, created 4/16/08 */
+google_ad_slot = "2351115037";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</td></tr>
+</tbody></table>
+<form><input type="BUTTON" value="Go back" onclick="history.go(-1)"></form>
+<h2>
+<span class="Stil36">Feelings - </span>
+<span class="Stil46">Jausmai</span></h2>
+<table width="100%" border="0" align="center">
+<tbody><tr bgcolor="#f2f2f2">
+<td width="164" align="center">
+<p><img src="../../../_alleima/1628.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+meilumas
+</span>
+<button onclick="document.getElementById('1').play()">►</button>
+<audio id="1">
+<source src="../../../_alleima/_mp3/LT/0001.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">affection</span><br></p></td>
+<td width="164" align="center">
+<p><img src="../../../_alleima/1640.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+pyktis
+</span>
+<button onclick="document.getElementById('2').play()">►</button>
+<audio id="2">
+<source src="../../../_alleima/_mp3/LT/0002.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">anger</span><br></p></td>
+<td width="164" align="center">
+<p><img src="../../../_alleima/0772.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+nuobodulys
+</span>
+<button onclick="document.getElementById('3').play()">►</button>
+<audio id="3">
+<source src="../../../_alleima/_mp3/LT/0003.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">boredom</span><br></p></td>
+<td width="164" align="center">
+<p><img src="../../../_alleima/1985.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+pasitikėjimas
+</span>
+<button onclick="document.getElementById('4').play()">►</button>
+<audio id="4">
+<source src="../../../_alleima/_mp3/LT/0004.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">confidence</span><br></p></td>
+<td width="164" align="center">
+<p><img src="../../../_alleima/0725.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+kūrybiškumas
+</span>
+<button onclick="document.getElementById('5').play()">►</button>
+<audio id="5">
+<source src="../../../_alleima/_mp3/LT/0005.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">creativity</span><br></p></td>
+</tr>
+<tr bgcolor="#f2f2f2">
+<td width="164" align="center">
+<p><img src="../../../_alleima/0730.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+krizė
+</span>
+<button onclick="document.getElementById('6').play()">►</button>
+<audio id="6">
+<source src="../../../_alleima/_mp3/LT/0006.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">crisis</span><br></p></td>
+<td width="164" align="center">
+<p><img src="../../../_alleima/0933.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+smalsumas
+</span>
+<button onclick="document.getElementById('7').play()">►</button>
+<audio id="7">
+<source src="../../../_alleima/_mp3/LT/0007.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">curiosity</span><br></p></td>
+<td width="164" align="center">
+<p><img src="../../../_alleima/2037.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+pralaimėjimas
+</span>
+<button onclick="document.getElementById('8').play()">►</button>
+<audio id="8">
+<source src="../../../_alleima/_mp3/LT/0008.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">defeat</span><br></p></td>
+<td width="164" align="center">
+<p><img src="../../../_alleima/0226.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+depresija
+</span>
+<button onclick="document.getElementById('9').play()">►</button>
+<audio id="9">
+<source src="../../../_alleima/_mp3/LT/0009.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">depression</span><br></p></td>
+<td width="164" align="center">
+<p><img src="../../../_alleima/1746.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+neviltis
+</span>
+<button onclick="document.getElementById('10').play()">►</button>
+<audio id="10">
+<source src="../../../_alleima/_mp3/LT/0010.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">despair</span><br></p></td>
+</tr>
+<tr bgcolor="#f2f2f2">
+<td width="164" align="center">
+<p><img src="../../../_alleima/2086.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+nusivylimas
+</span>
+<button onclick="document.getElementById('11').play()">►</button>
+<audio id="11">
+<source src="../../../_alleima/_mp3/LT/0011.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">disappointment</span><br></p></td>
+<td width="164" align="center">
+<p><img src="../../../_alleima/0874.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+nepasitikėjimas
+</span>
+<button onclick="document.getElementById('12').play()">►</button>
+<audio id="12">
+<source src="../../../_alleima/_mp3/LT/0012.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">distrust</span><br></p></td>
+<td width="164" align="center">
+<p><img src="../../../_alleima/1631.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+abejonė
+</span>
+<button onclick="document.getElementById('13').play()">►</button>
+<audio id="13">
+<source src="../../../_alleima/_mp3/LT/0013.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">doubt</span><br></p></td>
+<td width="164" align="center">
+<p><img src="../../../_alleima/1443.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+sapnas
+</span>
+<button onclick="document.getElementById('14').play()">►</button>
+<audio id="14">
+<source src="../../../_alleima/_mp3/LT/0014.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">dream</span><br></p></td>
+<td width="164" align="center">
+<p><img src="../../../_alleima/0912.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+nuovargis
+</span>
+<button onclick="document.getElementById('15').play()">►</button>
+<audio id="15">
+<source src="../../../_alleima/_mp3/LT/0015.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">fatigue</span><br></p></td>
+</tr>
+<tr bgcolor="#f2f2f2">
+<td width="164" align="center">
+<p><img src="../../../_alleima/0027.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+baimė
+</span>
+<button onclick="document.getElementById('16').play()">►</button>
+<audio id="16">
+<source src="../../../_alleima/_mp3/LT/0016.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">fear</span><br></p></td>
+<td width="164" align="center">
+<p><img src="../../../_alleima/1356.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+ginčas
+</span>
+<button onclick="document.getElementById('17').play()">►</button>
+<audio id="17">
+<source src="../../../_alleima/_mp3/LT/0017.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">fight</span><br></p></td>
+<td width="164" align="center">
+<p><img src="../../../_alleima/0382.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+draugystė
+</span>
+<button onclick="document.getElementById('18').play()">►</button>
+<audio id="18">
+<source src="../../../_alleima/_mp3/LT/0018.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">friendship</span><br></p></td>
+<td width="164" align="center">
+<p><img src="../../../_alleima/1300.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+smagumas
+</span>
+<button onclick="document.getElementById('19').play()">►</button>
+<audio id="19">
+<source src="../../../_alleima/_mp3/LT/0019.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">fun</span><br></p></td>
+<td width="164" align="center">
+<p><img src="../../../_alleima/1442.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+sielvartas
+</span>
+<button onclick="document.getElementById('20').play()">►</button>
+<audio id="20">
+<source src="../../../_alleima/_mp3/LT/0020.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">grief</span><br></p></td>
+</tr>
+<tr bgcolor="#f2f2f2">
+<td width="164" align="center">
+<p><img src="../../../_alleima/0486.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+grimasa
+</span>
+<button onclick="document.getElementById('21').play()">►</button>
+<audio id="21">
+<source src="../../../_alleima/_mp3/LT/0021.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">grimace</span><br></p></td>
+<td width="164" align="center">
+<p><img src="../../../_alleima/0472.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+laimė
+</span>
+<button onclick="document.getElementById('22').play()">►</button>
+<audio id="22">
+<source src="../../../_alleima/_mp3/LT/0022.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">happiness</span><br></p></td>
+<td width="164" align="center">
+<p><img src="../../../_alleima/0560.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+viltis
+</span>
+<button onclick="document.getElementById('23').play()">►</button>
+<audio id="23">
+<source src="../../../_alleima/_mp3/LT/0023.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">hope</span><br></p></td>
+<td width="164" align="center">
+<p><img src="../../../_alleima/0572.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+alkis
+</span>
+<button onclick="document.getElementById('24').play()">►</button>
+<audio id="24">
+<source src="../../../_alleima/_mp3/LT/0024.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">hunger</span><br></p></td>
+<td width="164" align="center">
+<p><img src="../../../_alleima/0593.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+susidomėjimas
+</span>
+<button onclick="document.getElementById('25').play()">►</button>
+<audio id="25">
+<source src="../../../_alleima/_mp3/LT/0025.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">interest</span><br></p></td>
+</tr>
+<tr bgcolor="#f2f2f2">
+<td width="164" align="center">
+<p><img src="../../../_alleima/0380.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+džiaugsmas
+</span>
+<button onclick="document.getElementById('26').play()">►</button>
+<audio id="26">
+<source src="../../../_alleima/_mp3/LT/0026.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">joy</span><br></p></td>
+<td width="164" align="center">
+<p><img src="../../../_alleima/0748.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+bučinys
+</span>
+<button onclick="document.getElementById('27').play()">►</button>
+<audio id="27">
+<source src="../../../_alleima/_mp3/LT/0027.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">kiss</span><br></p></td>
+<td width="164" align="center">
+<p><img src="../../../_alleima/0273.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+vienatvė
+</span>
+<button onclick="document.getElementById('28').play()">►</button>
+<audio id="28">
+<source src="../../../_alleima/_mp3/LT/0028.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">loneliness</span><br></p></td>
+<td width="164" align="center">
+<p><img src="../../../_alleima/0795.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+meilė
+</span>
+<button onclick="document.getElementById('29').play()">►</button>
+<audio id="29">
+<source src="../../../_alleima/_mp3/LT/0029.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">love</span><br></p></td>
+<td width="164" align="center">
+<p><img src="../../../_alleima/1774.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+melancholija
+</span>
+<button onclick="document.getElementById('30').play()">►</button>
+<audio id="30">
+<source src="../../../_alleima/_mp3/LT/0030.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">melancholy</span><br></p></td>
+</tr>
+<tr bgcolor="#f2f2f2">
+<td width="164" align="center">
+<p><img src="../../../_alleima/1347.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+nuotaika
+</span>
+<button onclick="document.getElementById('31').play()">►</button>
+<audio id="31">
+<source src="../../../_alleima/_mp3/LT/0031.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">mood</span><br></p></td>
+<td width="164" align="center">
+<p><img src="../../../_alleima/0964.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+optimizmas
+</span>
+<button onclick="document.getElementById('32').play()">►</button>
+<audio id="32">
+<source src="../../../_alleima/_mp3/LT/0032.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">optimism</span><br></p></td>
+<td width="164" align="center">
+<p><img src="../../../_alleima/0978.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+panika
+</span>
+<button onclick="document.getElementById('33').play()">►</button>
+<audio id="33">
+<source src="../../../_alleima/_mp3/LT/0033.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">panic</span><br></p></td>
+<td width="164" align="center">
+<p><img src="../../../_alleima/1074.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+apstulbimas
+</span>
+<button onclick="document.getElementById('34').play()">►</button>
+<audio id="34">
+<source src="../../../_alleima/_mp3/LT/0034.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">perplexity</span><br></p></td>
+<td width="164" align="center">
+<p><img src="../../../_alleima/1582.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+įniršis
+</span>
+<button onclick="document.getElementById('35').play()">►</button>
+<audio id="35">
+<source src="../../../_alleima/_mp3/LT/0035.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">rage</span><br></p></td>
+</tr>
+<tr bgcolor="#f2f2f2">
+<td width="164" align="center">
+<p><img src="../../../_alleima/0001.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+atmetimas
+</span>
+<button onclick="document.getElementById('36').play()">►</button>
+<audio id="36">
+<source src="../../../_alleima/_mp3/LT/0036.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">rejection</span><br></p></td>
+<td width="164" align="center">
+<p><img src="../../../_alleima/0119.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+santykiai
+</span>
+<button onclick="document.getElementById('37').play()">►</button>
+<audio id="37">
+<source src="../../../_alleima/_mp3/LT/0037.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">relationship</span><br></p></td>
+<td width="164" align="center">
+<p><img src="../../../_alleima/0058.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+reikalavimas
+</span>
+<button onclick="document.getElementById('38').play()">►</button>
+<audio id="38">
+<source src="../../../_alleima/_mp3/LT/0038.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">request</span><br></p></td>
+<td width="164" align="center">
+<p><img src="../../../_alleima/1206.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+riksmas
+</span>
+<button onclick="document.getElementById('39').play()">►</button>
+<audio id="39">
+<source src="../../../_alleima/_mp3/LT/0039.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">scream</span><br></p></td>
+<td width="164" align="center">
+<p><img src="../../../_alleima/0417.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+saugumas
+</span>
+<button onclick="document.getElementById('40').play()">►</button>
+<audio id="40">
+<source src="../../../_alleima/_mp3/LT/0040.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">security</span><br></p></td>
+</tr>
+<tr bgcolor="#f2f2f2">
+<td width="164" align="center">
+<p><img src="../../../_alleima/1205.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+išgąstis
+</span>
+<button onclick="document.getElementById('41').play()">►</button>
+<audio id="41">
+<source src="../../../_alleima/_mp3/LT/0041.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">shock</span><br></p></td>
+<td width="164" align="center">
+<p><img src="../../../_alleima/0817.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+šypsena
+</span>
+<button onclick="document.getElementById('42').play()">►</button>
+<audio id="42">
+<source src="../../../_alleima/_mp3/LT/0042.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">smile</span><br></p></td>
+<td width="164" align="center">
+<p><img src="../../../_alleima/1638.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+švelnumas
+</span>
+<button onclick="document.getElementById('43').play()">►</button>
+<audio id="43">
+<source src="../../../_alleima/_mp3/LT/0043.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">tenderness</span><br></p></td>
+<td width="164" align="center">
+<p><img src="../../../_alleima/0420.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+mintis
+</span>
+<button onclick="document.getElementById('44').play()">►</button>
+<audio id="44">
+<source src="../../../_alleima/_mp3/LT/0044.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">thought</span><br></p></td>
+<td width="164" align="center">
+<p><img src="../../../_alleima/0920.jpg" width="150" height="150" border="0"><br>
+<span class="Stil46">
+mąstymas
+</span>
+<button onclick="document.getElementById('45').play()">►</button>
+<audio id="45">
+<source src="../../../_alleima/_mp3/LT/0045.mp3" type="audio/mpeg">
+</audio><br>
+<span class="Stil36">thoughtfulness</span><br></p></td>
+</tr>
+</tbody></table>
+<table width="100%" border="0" align="center">
+<tbody><tr><td align="center">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-9240635761824238";
+/* 728x90, created 4/16/08 */
+google_ad_slot = "2351115037";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</td></tr>
+</tbody></table>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<form><input type="BUTTON" value="Go back" onclick="history.go(-1)"></form>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-3977703-3");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body></html>

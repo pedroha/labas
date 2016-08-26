@@ -1,0 +1,25 @@
+.phrases ul {
+	background-color: purple;
+}
+
+.phrases ul > li {
+	background-color: lime;
+}
+
+.phrases ul li:last-child {
+}
+
+.phrases ul li:hover {
+	background-color: pink;
+}
+
+.phrases ul li:active,
+.phrases ul li.active {
+	background-color: red;
+}
+
+.phrases ul li > div,
+.phrases ul li dd,
+.phrases ul li dt {
+	background-color: yellow;
+}
