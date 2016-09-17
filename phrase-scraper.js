@@ -7,7 +7,7 @@ const mkdirp = require('node-mkdirp')
 const beautify = require('json-beautify')
 const config = require('./config')
 
-// console.log("scraper.config", config)
+// console.log("phrase.scraper.config", config)
 
 // var str = `${config['code-src']}`
 // console.log(str)
@@ -23,6 +23,8 @@ const downloadAudioFolder = 'web/audio'
 const downloadAudio = false
 const outputHint = false
 const compressed = true
+
+let processedTopicCount = 0
 
 
 var downloadFile = function(url, path) {
@@ -77,7 +79,33 @@ var downloadAudioResource = function(url, folder) {
 const bookPathUrl = `http://www.goethe-verlag.com/book2/EM/${indexPagePrefix}/`
 const databaseFilename = `${config.language}.json`
 
+const CHAPTER_NUM = 100
 var database = []
+
+var checkFinalCount = function() {
+  if (processedTopicCount !== CHAPTER_NUM) {
+    console.log('It looks like we are missing some topics!')
+
+    let chapters = new Set()
+
+    for (let i = 0; i < database.length; i++) {
+      let chapter = database[i]
+      console.log(chapter.topic)
+
+      let tokens = chapter.topic.split(' ')
+      chapters.add(parseInt(tokens[0]))
+    }
+
+    for (let i = 0; i < CHAPTER_NUM; i++) {
+      if (!chapters.has(i+1)) {
+        console.log('Missing chapter: ' + i)
+      }
+    }
+  }
+  else {
+    console.log("Final count matches!!! Congrats! Let's breathe")
+  }
+}
 
 var outputDatabase = function() {
   var sorted = database.sort(function(right, left) {
@@ -85,43 +113,13 @@ var outputDatabase = function() {
     var b = parseInt(left.topic)
     return a - b
   })
-
   // var json = JSON.stringify(sorted)
   var json = beautify(sorted, null, 2, 120)
   console.log(json)
   fs.writeFileSync('res/' + databaseFilename, json)
 }
 
-var collectEntry = function(src, $audio) {
-  let columns = $audio.parent().parent().siblings()
-  let translation = $(columns[0]).text().trim()
-  let languageNodes = $($(columns[1]).children()[0]).children()
-  let language = ''
-  let readable = ''
-  let hint = ''
-
-  if (languageNodes && languageNodes.length > 1) {
-    hint = $(languageNodes[0]).text().trim()
-
-    language = $(languageNodes[1]).text().trim()
-
-    if (/\r\n\r\n/.test(language)) {
-      let pieces = language.split('\r\n\r\n')
-      language = pieces[0]
-      readable = pieces[1]
-    }
-  } 
-  else {
-    language = $(columns[0]).text().trim()
-
-    // Hack for the English language, on the other side of the table!
-    let $tableRow = $(columns[0]).closest('tr')
-    let index = $tableRow.index()
-    let $firstInRow = $($tableRow.closest('div.row').children()[0])
-    let spans = $firstInRow.find('span')
-    translation = $(spans[index]).text().trim()
-  }
-
+var makeEntry = function(compressed, readable, translation, language, src) {
   let entry
 
   if (compressed) {
@@ -167,6 +165,39 @@ var collectEntry = function(src, $audio) {
   return entry
 }
 
+var collectEntry = function(src, $audio) {
+  let columns = $audio.parent().parent().siblings()
+  let translation = $(columns[0]).text().trim()
+  let languageNodes = $($(columns[1]).children()[0]).children()
+  let language = ''
+  let readable = ''
+  let hint = ''
+
+  if (languageNodes && languageNodes.length > 1) {
+    hint = $(languageNodes[0]).text().trim()
+
+    language = $(languageNodes[1]).text().trim()
+
+    if (/\r\n\r\n/.test(language)) {
+      let pieces = language.split('\r\n\r\n')
+      language = pieces[0]
+      readable = pieces[1]
+    }
+  }
+  else {
+    language = $(columns[0]).text().trim()
+
+    // Hack for the English language, on the other side of the table!
+    let $tableRow = $(columns[0]).closest('tr')
+    let index = $tableRow.index()
+    let $firstInRow = $($tableRow.closest('div.row').children()[0])
+    let spans = $firstInRow.find('span')
+    translation = $(spans[index]).text().trim()
+  }
+
+  return makeEntry(compressed, readable, translation, language, src)
+}
+
 var parseTopicPage = function(html, topic) {
   console.log('getTopicPage: ' + topic)
 
@@ -189,6 +220,11 @@ var parseTopicPage = function(html, topic) {
     topic,
     words
   })
+  processedTopicCount++
+
+  if (processedTopicCount === CHAPTER_NUM) {
+    outputDatabase()
+  }
 }
 
 var getTopicPage = function(topic) {
@@ -262,10 +298,8 @@ if (typeof main !== 'undefined') {
   var bookIndexUrl = bookPathUrl + indexPagePrefix + '002.HTM'
   request(bookIndexUrl, getIndex)
 
-  // Give it enough time (another timing hack)
-  setTimeout(outputDatabase, 5000)
+  setTimeout(checkFinalCount, 10000) // 5 seconds works fine, but let's be very generous!
 }
-
 
 // fs.readFile('./res/html/ENLT002.HTM', function (err, data) {
 //   if (err) throw err

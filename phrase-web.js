@@ -5,29 +5,10 @@ const mkdirp = require('node-mkdirp')
 const writeFile = require('./utils/write-file')
 const config = require('./config')
 
+const AUDIO_BASE_URL = 'audio'
+
 config.loadEntries()
-
-var convertAudios = function(language, convertToFullUrl) {
-    const audioBaseUrl = 'audio'
-
-    var transformAudioEntry = function(transform) {
-        language.map(function(topic) {
-            topic.words.map(transform)
-        })
-    }
-
-    var fullAudioUrlTransform = function(entry) {
-        entry.audio = audioBaseUrl + '/' + entry.audio
-    }
-
-    var audioIdTransform = function(entry) {
-        var idx = entry.audio.indexOf('.')
-        entry.audio = entry.audio.substr(0, idx)
-    }
-
-    var transform = convertToFullUrl? fullAudioUrlTransform : audioIdTransform
-    transformAudioEntry(transform)
-}
+config.convertAudioUrls(AUDIO_BASE_URL)
 
 let templates = {}
 
@@ -128,5 +109,4 @@ let wordEntries = config.entries;
 // language = language.splice(0, 5)
 // console.log(JSON.stringify(language))
 
-convertAudios(wordEntries)
 buildWebPage(config, wordEntries)
