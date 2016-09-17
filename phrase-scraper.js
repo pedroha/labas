@@ -213,7 +213,7 @@ var processTopic = function(relativeUrl, topic) {
   var url = bookPathUrl + relativeUrl
   console.log(url)
 
-  if (0 && !findTopic(topic)) {
+  if (!findTopic(topic)) {
     request(url, getTopicPage(topic))
   }
 }
@@ -251,7 +251,7 @@ var getIndex = function(err, resp, html) {
   }
 }
 
-var main;
+var main = true;
 
 if (typeof main !== 'undefined') {
   mkdirp(downloadAudioFolder, function(err) {

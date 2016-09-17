@@ -3,13 +3,14 @@ if (process.argv.length > 2) {
     code = process.argv[2]
 }
 
+code = code.toUpperCase()
+
 let foundEntry = null
 let allLanguages = require('./res/book2-languages')
 
 for (var i = 0; i < allLanguages.length; i++) {
 	let entry = allLanguages[i]
-	let entryCode = entry.code.toLowerCase()
-	if (entryCode === code) {
+	if (entry.code === code) {
 		foundEntry = entry
 		break
 	}
@@ -21,7 +22,7 @@ if (!foundEntry) {
 
 	for (var i = 0; i < allLanguages.length; i++) {
 		let entry = allLanguages[i]
-		console.log(`${entry.code.toLowerCase()} - ${entry.altEnglish.toLowerCase()}`)
+		console.log(`${entry.code.toLowerCase()} - ${entry.altEnglish}`)
 	}
 	process.exit()
 }
@@ -74,9 +75,11 @@ if (foundEntry) {
 	}
 	// see if we find the file to load first! then load the file (require: static dependency, not applicable for dynamic!)
 
-	// TODO: load ONLY if the file exists! (so, make this optional)
-	let entries = require(`./res/${config.language}.json`)
-	config.entries = expandEntries(entries)
+	config.loadEntries = function() {
+		// TODO: load ONLY if the file exists! (so, make this optional)
+		let entries = require(`./res/${config.language}.json`)
+		config.entries = expandEntries(entries)		
+	}
 }
 
 module.exports = config

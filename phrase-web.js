@@ -5,6 +5,8 @@ const mkdirp = require('node-mkdirp')
 const writeFile = require('./utils/write-file')
 const config = require('./config')
 
+config.loadEntries()
+
 var convertAudios = function(language, convertToFullUrl) {
     const audioBaseUrl = 'audio'
 
