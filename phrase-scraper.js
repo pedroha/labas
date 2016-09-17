@@ -15,7 +15,7 @@ const config = require('./config')
 // str =`${config['code-src']}${config['code-dest']}002.HTM`
 // console.log(str)
 
-const processFirstTopicOnly = false;
+const processFirstTopicOnly = false; // DEBUGGING
 
 const indexPagePrefix = `${config['code-src']}${config['code-dest']}`
 
@@ -213,7 +213,7 @@ var processTopic = function(relativeUrl, topic) {
   var url = bookPathUrl + relativeUrl
   console.log(url)
 
-  if (!findTopic(topic)) {
+  if (0 && !findTopic(topic)) {
     request(url, getTopicPage(topic))
   }
 }
@@ -251,7 +251,7 @@ var getIndex = function(err, resp, html) {
   }
 }
 
-var main = true
+var main;
 
 if (typeof main !== 'undefined') {
   mkdirp(downloadAudioFolder, function(err) {

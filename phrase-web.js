@@ -5,23 +5,6 @@ const mkdirp = require('node-mkdirp')
 const writeFile = require('./utils/write-file')
 const config = require('./config')
 
-let language = require(`./res/${config.language}.json`)
-// language = language.splice(0, 5)
-// console.log(JSON.stringify(language))
-
-var expandEntries = function(language) {
-    language.map(function(topic) {
-        topic.words.map(function expand(entry) {
-            entry.audio = entry.a
-            entry.language = entry.l
-            if (entry.r) {
-                entry.readable = entry.r
-            }
-            entry.translation = entry.t
-        })
-    })    
-}
-
 var convertAudios = function(language, convertToFullUrl) {
     const audioBaseUrl = 'audio'
 
@@ -109,18 +92,18 @@ String.prototype.capitalize = function() {
     return this.charAt(0).toUpperCase() + this.slice(1)
 }
 
-let buildWebPage = function(config, language) {
+let buildWebPage = function(config, wordEntries) {
     let topicTpl = hogan.compile(templates['topic'])
     let i = 1
 
-    let topics = language.map(function(topic) {
+    let topics = wordEntries.map(function(topic) {
         let suffix = ((i<10)? '00': (i<100)? '0': '') + i
         i++
         topic.chapter = 'phrases-' + suffix
         return topicTpl.render(topic, {entry: templates['entry']})
     })
 
-    let pageTpl = hogan.compile(templates['page']);
+    let pageTpl = hogan.compile(templates['page'])
     let rendered = pageTpl.render({
         head: {
             content: 'Goethe-Verlag and www.50languages.com'
@@ -139,6 +122,9 @@ let buildWebPage = function(config, language) {
     writeFile(`web/${htmlFilename}`, rendered)
 }
 
-expandEntries(language)
-convertAudios(language)
-buildWebPage(config, language)
+let wordEntries = config.entries;
+// language = language.splice(0, 5)
+// console.log(JSON.stringify(language))
+
+convertAudios(wordEntries)
+buildWebPage(config, wordEntries)
