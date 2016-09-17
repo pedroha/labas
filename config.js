@@ -82,7 +82,7 @@ if (foundEntry) {
 		config.entries = expandEntries(entries)		
 	}
 
-	config.convertAudioUrls = function(audioBaseUrl, convertToFullUrl) {
+	config.convertAudioUrls = function(audioBaseUrl) {
 		let wordEntries = config.entries
 
 	    var transformAudioEntry = function(transform) {
@@ -99,7 +99,7 @@ if (foundEntry) {
 	        var idx = entry.audio.indexOf('.')
 	        entry.audio = entry.audio.substr(0, idx)
 	    }
-	    var transform = convertToFullUrl? fullAudioUrlTransform : audioIdTransform
+	    var transform = audioBaseUrl? fullAudioUrlTransform : audioIdTransform
 	    transformAudioEntry(transform)
 	}
 }

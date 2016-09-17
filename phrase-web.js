@@ -5,10 +5,8 @@ const mkdirp = require('node-mkdirp')
 const writeFile = require('./utils/write-file')
 const config = require('./config')
 
-const AUDIO_BASE_URL = 'audio'
-
 config.loadEntries()
-config.convertAudioUrls(AUDIO_BASE_URL)
+config.convertAudioUrls()
 
 let templates = {}
 
