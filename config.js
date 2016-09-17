@@ -34,7 +34,7 @@ if (!foundEntry) {
 
 var expandEntries = function(language) {
     return language.map(function(chapter) {
-        let expandedTopic = {
+        let expandedChapter = {
             topic: chapter.topic,
             words: chapter.words.map(function expand(entry) {
                 let expanded = {}
@@ -47,7 +47,7 @@ var expandEntries = function(language) {
                 return expanded
             })
         }
-        return expandedTopic
+        return expandedChapter
     })    
 }
 

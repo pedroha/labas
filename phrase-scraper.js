@@ -17,17 +17,20 @@ const config = require('./config')
 
 const processFirstTopicOnly = false; // DEBUGGING
 
-const indexPagePrefix = `${config['code-src']}${config['code-dest']}`
-
 const downloadAudioFolder = 'web/audio'
 const downloadAudio = false
 const outputHint = false
 const compressed = true
 
+const CHAPTER_NUM = 100
+var database = []
 let processedTopicCount = 0
 
+const LANGUAGE_PREFIX = `${config['code-src']}${config['code-dest']}`
+const BOOK_BASE_URL = `http://www.goethe-verlag.com/book2/EM/${LANGUAGE_PREFIX}/`
 
-var downloadFile = function(url, path) {
+
+var downloadFile = function(url, path) { // only used for downloading audio files
     console.log('downloading... ' + url)
 
     var stream = fs.createWriteStream(path)
@@ -52,7 +55,6 @@ var downloadAudioResource = function(url, folder) {
   var name = getFileName(url)
   if (name) {
     var isAudioFile = (name && name.substring(name.length-4) === '.mp3')
-
     if (isAudioFile) {
       var path = folder + '/' + name
 
@@ -76,12 +78,6 @@ var downloadAudioResource = function(url, folder) {
   }
 }
 
-const bookPathUrl = `http://www.goethe-verlag.com/book2/EM/${indexPagePrefix}/`
-const databaseFilename = `${config.language}.json`
-
-const CHAPTER_NUM = 100
-var database = []
-
 var checkFinalCount = function() {
   if (processedTopicCount !== CHAPTER_NUM) {
     console.log('It looks like we are missing some topics!')
@@ -97,7 +93,7 @@ var checkFinalCount = function() {
     }
 
     for (let i = 0; i < CHAPTER_NUM; i++) {
-      if (!chapters.has(i+1)) {
+      if (!chapters.has(i+1)) { // chapters start at 1 to 100
         console.log('Missing chapter: ' + i)
       }
     }
@@ -116,6 +112,8 @@ var outputDatabase = function() {
   // var json = JSON.stringify(sorted)
   var json = beautify(sorted, null, 2, 120)
   console.log(json)
+
+  const databaseFilename = `${config.language}.json`
   fs.writeFileSync('res/' + databaseFilename, json)
 }
 
@@ -198,6 +196,18 @@ var collectEntry = function(src, $audio) {
   return makeEntry(compressed, readable, translation, language, src)
 }
 
+var updateDatabase = function(topic, words) {
+  database.push({
+    topic,
+    words
+  })
+  processedTopicCount++
+
+  if (processedTopicCount === CHAPTER_NUM) {
+    outputDatabase()
+  }
+}
+
 var parseTopicPage = function(html, topic) {
   console.log('getTopicPage: ' + topic)
 
@@ -216,15 +226,7 @@ var parseTopicPage = function(html, topic) {
     let entry = collectEntry(src, $audio)
     words.push(entry)
   })
-  database.push({
-    topic,
-    words
-  })
-  processedTopicCount++
-
-  if (processedTopicCount === CHAPTER_NUM) {
-    outputDatabase()
-  }
+  updateDatabase(topic, words)
 }
 
 var getTopicPage = function(topic) {
@@ -246,7 +248,7 @@ var findTopic = function(topic) {
 }
 
 var processTopic = function(relativeUrl, topic) {
-  var url = bookPathUrl + relativeUrl
+  var url = BOOK_BASE_URL + relativeUrl
   console.log(url)
 
   if (!findTopic(topic)) {
@@ -295,10 +297,11 @@ if (typeof main !== 'undefined') {
     else console.log('pow!')
   })
 
-  var bookIndexUrl = bookPathUrl + indexPagePrefix + '002.HTM'
+  var page = LANGUAGE_PREFIX + '002.HTM'
+  var bookIndexUrl = BOOK_BASE_URL + page
   request(bookIndexUrl, getIndex)
 
-  setTimeout(checkFinalCount, 10000) // 5 seconds works fine, but let's be very generous!
+  setTimeout(checkFinalCount, 5000) // 5 seconds seems to work fine
 }
 
 // fs.readFile('./res/html/ENLT002.HTM', function (err, data) {
