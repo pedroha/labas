@@ -10,5 +10,5 @@ mediaPlayer.playNext = function() {
 var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
 
 if (!isMobile) {
-    lessonPlayer.play();
+    //lessonPlayer.play();
 }

@@ -117,6 +117,18 @@ var outputDatabase = function() {
   fs.writeFileSync('res/' + databaseFilename, json)
 }
 
+var updateDatabase = function(topic, words) {
+  database.push({
+    topic,
+    words
+  })
+  processedTopicCount++
+
+  if (processedTopicCount === CHAPTER_NUM) {
+    outputDatabase()
+  }
+}
+
 var makeEntry = function(compressed, readable, translation, language, src) {
   let entry
 
@@ -196,18 +208,6 @@ var collectEntry = function(src, $audio) {
   return makeEntry(compressed, readable, translation, language, src)
 }
 
-var updateDatabase = function(topic, words) {
-  database.push({
-    topic,
-    words
-  })
-  processedTopicCount++
-
-  if (processedTopicCount === CHAPTER_NUM) {
-    outputDatabase()
-  }
-}
-
 var parseTopicPage = function(html, topic) {
   console.log('getTopicPage: ' + topic)
 
@@ -268,7 +268,7 @@ var getIndex = function(err, resp, html) {
   parsedHTML(sel).each(function(i, link) {
     var href = $(link).attr('href')
     var topic = $(link).text().trim()
-    console.log('adding... ' + topic + ' : ' + href)
+    //console.log('adding... ' + topic + ' : ' + href)
     topicLinks.push(href)
     topics.push(topic)
   })

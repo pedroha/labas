@@ -27,7 +27,7 @@ var MediaPlayer = function(baseUrl, language) {
     };
 
     var loadChapterSounds = function(chapter, onload) {
-        if (sounds && !howlers[chapter]) {
+        if (sounds && !howlers[chapter] && sounds[chapter]) {
             var settings = sounds[chapter].settings;
             settings.src = baseUrl + settings.src;
             settings.preload = false;
@@ -89,7 +89,7 @@ var MediaPlayer = function(baseUrl, language) {
         }
     };
 
-    var setAutoplay = function(val) { // TODO: make it public
+    this.setAutoplay = function(val) { // TODO: make it public
     	autoplay = val;
     };
 

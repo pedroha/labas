@@ -106,6 +106,10 @@ var LessonPlayer = function(audioDomContainerSelector, mediaPlayer) {
         scrollTop(0);
     };
 
+    var stop = function() {
+        mediaPlayer.setAutoplay(false);
+    };
+
     initialize();
 
     return {
