@@ -21,6 +21,8 @@ const numMaxTrials = 5
 
 for (let i = 0; i < numMaxTrials; i++) {
 	var stats = downloadAudios(languageData)
+	console.log(stats.previouslyDownloadedFileCount, stats.totalFileCount)
+
 	if (stats.previouslyDownloadedFileCount === stats.totalFileCount) {
 		console.log(`We have downloaded all files by iteration ${i}`)
 		break

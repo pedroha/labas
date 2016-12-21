@@ -70,11 +70,13 @@ var downloadAudioResource = function(url, folder) {
 }
 
 var iterateForEntry = function(topicList, processEntry) {
+    let cnt = 0;
     for (let i = 0; i < topicList.length; i++) {
         let topic = topicList[i];
         for (let j = 0; j < topic.words.length; j++) {
             let entry = topic.words[j];
-            processEntry(entry, 10 * (i * topic.words.length + j));
+            processEntry(entry, 10 * cnt);
+            cnt++;
         }
     }    
 }
