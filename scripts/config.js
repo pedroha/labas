@@ -1,3 +1,16 @@
+const BASE_PATH = '..'
+const WEB_PATH = BASE_PATH + "/web"
+const RESOURCE_PATH = BASE_PATH + "/res"
+const TRANSLATION_PATH = RESOURCE_PATH + "/translation"
+const DOWNLOAD_PATH = RESOURCE_PATH + "/download"
+
+let config = {
+	"WEB_PATH" : 		WEB_PATH,
+	"RESOURCE_PATH": 	RESOURCE_PATH,
+	"TRANSLATION_PATH": TRANSLATION_PATH,
+	"DOWNLOAD_PATH": 	DOWNLOAD_PATH
+}
+
 let inputCode = 'lt';
 if (process.argv.length > 2) {
     inputCode = process.argv[2]
@@ -51,8 +64,6 @@ var expandEntries = function(language) {
     })    
 }
 
-let config = null
-
 if (foundEntry) {
 	/*
 	From:
@@ -71,14 +82,13 @@ if (foundEntry) {
 		"code-dest" : "LT"
 	}
 	*/
-	config = {
-		"language": foundEntry.altEnglish.toLowerCase(),
-		"code-src": "EM",
-		"code-dest": foundEntry.code
-	}
+
+	config["language"] = foundEntry.altEnglish.toLowerCase();
+	config["code-src"] = "EM";
+	config["code-dest"] = foundEntry.code;
 
 	config.loadEntries = function() {
-		let entries = require(`./res/${config.language}.json`)
+		let entries = require(`${TRANSLATION_PATH}/${config.language}.json`)
 		config.entries = expandEntries(entries)		
 	}
 

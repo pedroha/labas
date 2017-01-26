@@ -1,0 +1,3254 @@
+[
+  {
+    "topic": "1 People",
+    "words": [
+      { "t": "1 [one]", "l": "\u202b1 [واحد]\u202c", "a": "0001.mp3" },
+      { "t": "People", "l": "\u202bالأشخاص\u202c", "a": "0002.mp3" },
+      { "t": "ana wa'ant", "l": "I", "a": "0003.mp3" },
+      { "t": "nahno elethnaan", "l": "I and you", "a": "0004.mp3" },
+      { "t": "houwa", "l": "both of us", "a": "0005.mp3" },
+      { "t": "kilahoma / kiltahoma", "l": "he", "a": "0006.mp3" },
+      { "t": "errajol", "l": "he and she", "a": "0007.mp3" },
+      { "t": "elmar'at", "l": "they both", "a": "0008.mp3" },
+      { "t": "aaela", "l": "the man", "a": "0009.mp3" },
+      { "t": "aaelati", "l": "the woman", "a": "0010.mp3" },
+      { "t": "aaelati hona", "l": "the child", "a": "0011.mp3" },
+      { "t": "anta hona", "l": "a family", "a": "0012.mp3" },
+      { "t": "howa hona wa hiya hona", "l": "my family", "a": "0013.mp3" },
+      { "t": "nahno hona", "l": "My family is here.", "a": "0014.mp3" },
+      { "t": "kollohom hona", "l": "I am here.", "a": "0015.mp3" },
+      { "t": "", "l": "You are here.", "a": "0016.mp3" },
+      { "t": "", "l": "He is here and she is here.", "a": "0017.mp3" },
+      { "t": "", "l": "We are here.", "a": "0018.mp3" },
+      { "t": "", "l": "You are here.", "a": "0019.mp3" },
+      { "t": "", "l": "They are all here.", "a": "0020.mp3" }
+    ]
+  },
+  {
+    "topic": "2 Family Members",
+    "words": [
+      { "t": "2 [two]", "l": "\u202b2 [اثنان]\u202c", "a": "0021.mp3" },
+      { "t": "Family Members", "l": "\u202bالعائلة\u202c", "a": "0022.mp3" },
+      { "t": "eljdat", "l": "the grandfather", "a": "0023.mp3" },
+      { "t": "howa wa hiya", "l": "the grandmother", "a": "0024.mp3" },
+      { "t": "elab", "l": "he and she", "a": "0025.mp3" },
+      { "t": "howa wa hiya", "l": "the father", "a": "0026.mp3" },
+      { "t": "elebn", "l": "the mother", "a": "0027.mp3" },
+      { "t": "elebnat", "l": "he and she", "a": "0028.mp3" },
+      { "t": "el'akh", "l": "the son", "a": "0029.mp3" },
+      { "t": "elokht", "l": "the daughter", "a": "0030.mp3" },
+      { "t": "howa wa hiya", "l": "he and she", "a": "0031.mp3" },
+      { "t": "alamat aw alkhaalat", "l": "the brother", "a": "0032.mp3" },
+      { "t": "howa wa hiya", "l": "the sister", "a": "0033.mp3" },
+      { "t": "nahnou aaela", "l": "he and she", "a": "0034.mp3" },
+      { "t": "elaaela kabirat", "l": "the uncle", "a": "0035.mp3" },
+      { "t": "", "l": "the aunt", "a": "0036.mp3" },
+      { "t": "", "l": "he and she", "a": "0037.mp3" },
+      { "t": "", "l": "We are a family.", "a": "0038.mp3" },
+      { "t": "", "l": "The family is not small.", "a": "0039.mp3" },
+      { "t": "", "l": "The family is big.", "a": "0040.mp3" }
+    ]
+  },
+  {
+    "topic": "3 Getting to know others",
+    "words": [
+      { "t": "3 [three]", "l": "\u202b3 [ثلاثة]\u202c", "a": "0041.mp3" },
+      { "t": "Getting to know others", "l": "\u202bالتعارف\u202c", "a": "0042.mp3" },
+      { "t": "marhaban!", "l": "Hi!", "a": "0043.mp3" },
+      { "t": "kayfa halok?", "l": "Hello!", "a": "0044.mp3" },
+      { "t": "hal anta min awruba?", "l": "How are you?", "a": "0045.mp3" },
+      { "t": "hal anta min assya?", "l": "Do you come from Europe?", "a": "0046.mp3" },
+      { "t": "fi ayi fondokn tokiim?", "l": "Do you come from America?", "a": "0047.mp3" },
+      { "t": "mondho mataa wa anta hona?", "l": "Do you come from Asia?", "a": "0048.mp3" },
+      { "t": "hal yoejiboka hona?", "l": "In which hotel are you staying?", "a": "0049.mp3" },
+      { "t": "hal antom tomdoona ijazatokom hona?", "l": "How long have you been here for?", "a": "0050.mp3" },
+      { "t": "yajibo ann tazorani!", "l": "How long will you be staying?", "a": "0051.mp3" },
+      { "t": "hal sanara baadhanaa ghadan ?", "l": "Do you like it here?", "a": "0052.mp3" },
+      { "t": "ywasifini, laqad 'asbahat mrtbta bashi'", "l": "Are you here on vacation?", "a": "0053.mp3" },
+      { "t": "ila ellikaa  !", "l": "Please do visit me sometime!", "a": "0054.mp3" },
+      { "t": "ilaa allikaa kariban!", "l": "Here is my address.", "a": "0055.mp3" },
+      { "t": "", "l": "Shall we see each other tomorrow?", "a": "0056.mp3" },
+      { "t": "", "l": "I am sorry, but I already have plans.", "a": "0057.mp3" },
+      { "t": "", "l": "Bye!", "a": "0058.mp3" },
+      { "t": "", "l": "Good bye!", "a": "0059.mp3" },
+      { "t": "", "l": "See you soon!", "a": "0060.mp3" }
+    ]
+  },
+  {
+    "topic": "4 At school",
+    "words": [
+      { "t": "4 [four]", "l": "\u202b4 [أربعة]\u202c", "a": "0061.mp3" },
+      { "t": "At school", "l": "\u202bفي المدرسة\u202c", "a": "0062.mp3" },
+      { "t": "nahno filmadrasat", "l": "Where are we?", "a": "0063.mp3" },
+      { "t": "endana dars", "l": "We are at school.", "a": "0064.mp3" },
+      { "t": "haoulaa  hom ettalaamidh", "l": "We are having class / a lesson.", "a": "0065.mp3" },
+      { "t": "hadha howa alfasl", "l": "Those are the school children.", "a": "0066.mp3" },
+      { "t": "maadha naaml?", "l": "That is the teacher.", "a": "0067.mp3" },
+      { "t": "nahno nataallam", "l": "That is the class.", "a": "0068.mp3" },
+      { "t": "ana ataalam elinjlizia", "l": "What are we doing?", "a": "0069.mp3" },
+      { "t": "anta tataallam elesbannia", "l": "We are learning.", "a": "0070.mp3" },
+      { "t": "howa yataallam elalmannia", "l": "We are learning a language.", "a": "0071.mp3" },
+      { "t": "antom tataallamon / antonna tataallamnn elitaliia", "l": "I learn English.", "a": "0072.mp3" },
+      { "t": "hom yataallamon / hadhratokom tataallamon errussia", "l": "You learn Spanish.", "a": "0073.mp3" },
+      { "t": "taalom elloghat shay' momtaa", "l": "He learns German.", "a": "0074.mp3" },
+      { "t": "norid 'an natakallam maa ennaas", "l": "We learn French.", "a": "0075.mp3" },
+      { "t": "", "l": "You all learn Italian.", "a": "0076.mp3" },
+      { "t": "", "l": "They learn Russian.", "a": "0077.mp3" },
+      { "t": "", "l": "Learning languages is interesting.", "a": "0078.mp3" },
+      { "t": "", "l": "We want to understand people.", "a": "0079.mp3" },
+      { "t": "", "l": "We want to speak with people.", "a": "0080.mp3" }
+    ]
+  },
+  {
+    "topic": "5 Countries and Languages",
+    "words": [
+      { "t": "5 [five]", "l": "\u202b5 [خمسة]\u202c", "a": "0081.mp3" },
+      { "t": "Countries and Languages", "l": "\u202bالبلدان واللغات\u202c", "a": "0082.mp3" },
+      { "t": "takaa london fi britania elodhmaa", "l": "John is from London.", "a": "0083.mp3" },
+      { "t": "howa yatakallam elinjalizia", "l": "London is in Great Britain.", "a": "0084.mp3" },
+      { "t": "maria min madrid", "l": "He speaks English.", "a": "0085.mp3" },
+      { "t": "hiya tatakallam elesbania", "l": "Maria is from Madrid.", "a": "0086.mp3" },
+      { "t": "biitr wa martaa min berlin", "l": "Madrid is in Spain.", "a": "0087.mp3" },
+      { "t": "takao berlin fi almania", "l": "She speaks Spanish.", "a": "0088.mp3" },
+      { "t": "london aasima", "l": "Peter and Martha are from Berlin.", "a": "0089.mp3" },
+      { "t": "madrid wa berlin asimataan aydhan", "l": "Berlin is in Germany.", "a": "0090.mp3" },
+      { "t": "elawassem kabira wa sakhiba", "l": "Do both of you speak German?", "a": "0091.mp3" },
+      { "t": "takaa misr fi afrikia", "l": "London is a capital city.", "a": "0092.mp3" },
+      { "t": "takaa elyaban fi asya", "l": "Madrid and Berlin are also capital cities.", "a": "0093.mp3" },
+      { "t": "takaa kanada fi amirka eshshamalia", "l": "Capital cities are big and noisy.", "a": "0094.mp3" },
+      { "t": "takaa elbarazil fi amirka eljanobia", "l": "France is in Europe.", "a": "0095.mp3" },
+      { "t": "", "l": "Egypt is in Africa.", "a": "0096.mp3" },
+      { "t": "", "l": "Japan is in Asia.", "a": "0097.mp3" },
+      { "t": "", "l": "Canada is in North America.", "a": "0098.mp3" },
+      { "t": "", "l": "Panama is in Central America.", "a": "0099.mp3" },
+      { "t": "", "l": "Brazil is in South America.", "a": "0100.mp3" }
+    ]
+  },
+  {
+    "topic": "6 Reading and writing",
+    "words": [
+      { "t": "6 [six]", "l": "\u202b6 [ستة]\u202c", "a": "0101.mp3" },
+      { "t": "Reading and writing", "l": "\u202bالقراءة والكتابة\u202c", "a": "0102.mp3" },
+      { "t": "ana 'akra harfan", "l": "I read.", "a": "0103.mp3" },
+      { "t": "ana 'akra kalima", "l": "I read a letter.", "a": "0104.mp3" },
+      { "t": "ana 'akra jomla", "l": "I read a word.", "a": "0105.mp3" },
+      { "t": "ana 'akra kitaban", "l": "I read a sentence.", "a": "0106.mp3" },
+      { "t": "ana 'akra'a", "l": "I read a letter.", "a": "0107.mp3" },
+      { "t": "anta takra'a/ anti takrayin", "l": "I read a book.", "a": "0108.mp3" },
+      { "t": "ana aktob", "l": "I read.", "a": "0109.mp3" },
+      { "t": "aktob harfan", "l": "You read.", "a": "0110.mp3" },
+      { "t": "aktob kalimta", "l": "He reads.", "a": "0111.mp3" },
+      { "t": "aktob khitaban", "l": "I write.", "a": "0112.mp3" },
+      { "t": "aktob kitaban", "l": "I write a letter / character.", "a": "0113.mp3" },
+      { "t": "ana aktob", "l": "I write a word.", "a": "0114.mp3" },
+      { "t": "howa yaktob", "l": "I write a sentence.", "a": "0115.mp3" },
+      { "t": "", "l": "I write a letter.", "a": "0116.mp3" },
+      { "t": "", "l": "I write a book.", "a": "0117.mp3" },
+      { "t": "", "l": "I write.", "a": "0118.mp3" },
+      { "t": "", "l": "You write.", "a": "0119.mp3" },
+      { "t": "", "l": "He writes.", "a": "0120.mp3" }
+    ]
+  },
+  {
+    "topic": "7 Numbers",
+    "words": [
+      { "t": "7 [seven]", "l": "\u202b7 [سبعة]\u202c", "a": "0121.mp3" },
+      { "t": "Numbers", "l": "\u202bالأعداد\u202c", "a": "0122.mp3" },
+      { "t": "waahd, ethnaan, thlaatha", "l": "I count:", "a": "0123.mp3" },
+      { "t": "ana aodd hatta thalatha", "l": "one, two, three", "a": "0124.mp3" },
+      { "t": "ana owasil eladd:", "l": "I count to three.", "a": "0125.mp3" },
+      { "t": "sbaa , thamania , tesat", "l": "I count further:", "a": "0126.mp3" },
+      { "t": "ana 'aodd", "l": "four, five, six,", "a": "0127.mp3" },
+      { "t": "anta taodd / anti taoddiina", "l": "seven, eight, nine", "a": "0128.mp3" },
+      { "t": "wahd al'awal", "l": "I count.", "a": "0129.mp3" },
+      { "t": "ethnan eththaani", "l": "You count.", "a": "0130.mp3" },
+      { "t": "thlathta , eththaalith", "l": "He counts.", "a": "0131.mp3" },
+      { "t": "khmasa , elkhaames", "l": "One. The first.", "a": "0132.mp3" },
+      { "t": "setta , essaadis", "l": "Two. The second.", "a": "0133.mp3" },
+      { "t": "sbaa , essaaba", "l": "Three. The third.", "a": "0134.mp3" },
+      { "t": "tessa , ettaasa", "l": "Four. The fourth.", "a": "0135.mp3" },
+      { "t": "", "l": "Five. The fifth.", "a": "0136.mp3" },
+      { "t": "", "l": "Six. The sixth.", "a": "0137.mp3" },
+      { "t": "", "l": "Seven. The seventh.", "a": "0138.mp3" },
+      { "t": "", "l": "Eight. The eighth.", "a": "0139.mp3" },
+      { "t": "", "l": "Nine. The ninth.", "a": "0140.mp3" }
+    ]
+  },
+  {
+    "topic": "8 The time",
+    "words": [
+      { "t": "8 [eight]", "l": "\u202b8 [ثمانٍية]\u202c", "a": "0141.mp3" },
+      { "t": "The time", "l": "\u202bأوقات الساعة\u202c", "a": "0142.mp3" },
+      { "t": "men fadhlik kam essaaea?", "l": "Excuse me!", "a": "0143.mp3" },
+      { "t": "shokran jazylan", "l": "What time is it, please?", "a": "0144.mp3" },
+      { "t": "innaha elwaahida", "l": "Thank you very much.", "a": "0145.mp3" },
+      { "t": "innaha eththaalitha", "l": "It is one o’clock.", "a": "0146.mp3" },
+      { "t": "innaha erraabia", "l": "It is two o’clock.", "a": "0147.mp3" },
+      { "t": "innaha elkhaamisa", "l": "It is three o’clock.", "a": "0148.mp3" },
+      { "t": "innaha essaabia", "l": "It is four o’clock.", "a": "0149.mp3" },
+      { "t": "innaha ethaamina", "l": "It is five o’clock.", "a": "0150.mp3" },
+      { "t": "innaha ettaasia", "l": "It is six o’clock.", "a": "0151.mp3" },
+      { "t": "innaha elhaadiat ashara", "l": "It is seven o’clock.", "a": "0152.mp3" },
+      { "t": "innaha eththaaniat ashara", "l": "It is eight o’clock.", "a": "0153.mp3" },
+      { "t": "eddakiikat fiiha sittoona thania", "l": "It is nine o’clock.", "a": "0154.mp3" },
+      { "t": "elyawm fiih arbaa wa eshroona saaet", "l": "It is ten o’clock.", "a": "0155.mp3" },
+      { "t": "", "l": "It is eleven o’clock.", "a": "0156.mp3" },
+      { "t": "", "l": "It is twelve o’clock.", "a": "0157.mp3" },
+      { "t": "", "l": "A minute has sixty seconds.", "a": "0158.mp3" },
+      { "t": "", "l": "An hour has sixty minutes.", "a": "0159.mp3" },
+      { "t": "", "l": "A day has twenty-four hours.", "a": "0160.mp3" }
+    ]
+  },
+  {
+    "topic": "9 Days of the week",
+    "words": [
+      { "t": "9 [nine]", "l": "\u202b9 [تسعة]\u202c", "a": "0161.mp3" },
+      { "t": "Days of the week", "l": "\u202bأيام الأسبوع\u202c", "a": "0162.mp3" },
+      { "t": "eththolatha", "l": "Monday", "a": "0163.mp3" },
+      { "t": "elarbieaa", "l": "Tuesday", "a": "0164.mp3" },
+      { "t": "elkhamiis", "l": "Wednesday", "a": "0165.mp3" },
+      { "t": "essabat", "l": "Thursday", "a": "0166.mp3" },
+      { "t": "elahad", "l": "Friday", "a": "0167.mp3" },
+      { "t": "elosboaa", "l": "Saturday", "a": "0168.mp3" },
+      { "t": "elyawm elawwal howa elithnayn", "l": "Sunday", "a": "0169.mp3" },
+      { "t": "elyawm elththani howa eltholatha", "l": "the week", "a": "0170.mp3" },
+      { "t": "elyawm alththalith hu al'arbiea'a", "l": "from Monday to Sunday", "a": "0171.mp3" },
+      { "t": "aliawm alkhamis hu aljameatu", "l": "The first day is Monday.", "a": "0172.mp3" },
+      { "t": "aliawm alssadis hu alssbbuta", "l": "The second day is Tuesday.", "a": "0173.mp3" },
+      { "t": "aliawm alssabie hu al'ahad", "l": "The third day is Wednesday.", "a": "0174.mp3" },
+      { "t": "nahno naamal khamsat ayaam fakat", "l": "The fourth day is Thursday.", "a": "0175.mp3" },
+      { "t": "", "l": "The fifth day is Friday.", "a": "0176.mp3" },
+      { "t": "", "l": "The sixth day is Saturday.", "a": "0177.mp3" },
+      { "t": "", "l": "The seventh day is Sunday.", "a": "0178.mp3" },
+      { "t": "", "l": "The week has seven days.", "a": "0179.mp3" },
+      { "t": "", "l": "We only work for five days.", "a": "0180.mp3" }
+    ]
+  },
+  {
+    "topic": "10 Yesterday – today – tomorrow",
+    "words": [
+      { "t": "10 [ten]", "l": "\u202b10 [عشرة]\u202c", "a": "0181.mp3" },
+      { "t": "Yesterday – today – tomorrow", "l": "\u202bأمس – اليوم – غدًا\u202c", "a": "0182.mp3" },
+      { "t": "amas konto fi essinima", "l": "Yesterday was Saturday.", "a": "0183.mp3" },
+      { "t": "kana elfilm moshawikan", "l": "I was at the cinema yesterday.", "a": "0184.mp3" },
+      { "t": "elyawm howa elahad", "l": "The film was interesting.", "a": "0185.mp3" },
+      { "t": "saabkaa fi elbayt", "l": "Today is Sunday.", "a": "0186.mp3" },
+      { "t": "ghadan elethnayn", "l": "I’m not working today.", "a": "0187.mp3" },
+      { "t": "ghadan saaeodo lilamal mojadadan", "l": "I’m staying at home.", "a": "0188.mp3" },
+      { "t": "man hadha?", "l": "Tomorrow is Monday.", "a": "0189.mp3" },
+      { "t": "hadha biiter", "l": "Tomorrow I will work again.", "a": "0190.mp3" },
+      { "t": "biiter taaleb", "l": "I work at an office.", "a": "0191.mp3" },
+      { "t": "hadhihi marta", "l": "Who is that?", "a": "0192.mp3" },
+      { "t": "marta sekrityra", "l": "That is Peter.", "a": "0193.mp3" },
+      { "t": "biiter wa marta asdikaa", "l": "Peter is a student.", "a": "0194.mp3" },
+      { "t": "marta sadiikato biiter", "l": "Who is that?", "a": "0195.mp3" },
+      { "t": "", "l": "That is Martha.", "a": "0196.mp3" },
+      { "t": "", "l": "Martha is a secretary.", "a": "0197.mp3" },
+      { "t": "", "l": "Peter and Martha are friends.", "a": "0198.mp3" },
+      { "t": "", "l": "Peter is Martha’s friend.", "a": "0199.mp3" },
+      { "t": "", "l": "Martha is Peter’s friend.", "a": "0200.mp3" }
+    ]
+  },
+  {
+    "topic": "11 Months",
+    "words": [
+      { "t": "11 [eleven]", "l": "\u202b11 [أحد عشر]\u202c", "a": "0201.mp3" },
+      { "t": "Months", "l": "\u202bالشهور\u202c", "a": "0202.mp3" },
+      { "t": "febraayer", "l": "January", "a": "0203.mp3" },
+      { "t": "mars", "l": "February", "a": "0204.mp3" },
+      { "t": "abril", "l": "March", "a": "0205.mp3" },
+      { "t": "yooniyoo", "l": "April", "a": "0206.mp3" },
+      { "t": "hadhihi settat ashhor", "l": "May", "a": "0207.mp3" },
+      { "t": "yanaayir, febraayer, mars,", "l": "June", "a": "0208.mp3" },
+      { "t": "yooliyoo", "l": "These are six months.", "a": "0209.mp3" },
+      { "t": "aghostos", "l": "January, February, March,", "a": "0210.mp3" },
+      { "t": "sebtambar", "l": "April, May and June.", "a": "0211.mp3" },
+      { "t": "noofambr", "l": "July", "a": "0212.mp3" },
+      { "t": "diisambr", "l": "August", "a": "0213.mp3" },
+      { "t": "wa hadhihi aydhan settato ashhor", "l": "September", "a": "0214.mp3" },
+      { "t": "oktoobr, noofambr, wa diisambar", "l": "October", "a": "0215.mp3" },
+      { "t": "", "l": "November", "a": "0216.mp3" },
+      { "t": "", "l": "December", "a": "0217.mp3" },
+      { "t": "", "l": "These are also six months.", "a": "0218.mp3" },
+      { "t": "", "l": "July, August, September,", "a": "0219.mp3" },
+      { "t": "", "l": "October, November and December.", "a": "0220.mp3" }
+    ]
+  },
+  {
+    "topic": "12 Beverages",
+    "words": [
+      { "t": "12 [twelve]", "l": "\u202b12 [اثنا عشر]\u202c", "a": "0221.mp3" },
+      { "t": "Beverages", "l": "\u202bالمشروبات\u202c", "a": "0222.mp3" },
+      { "t": "ana ashrabo kahwa", "l": "I drink tea.", "a": "0223.mp3" },
+      { "t": "ana ashrabo miyaah maadania", "l": "I drink coffee.", "a": "0224.mp3" },
+      { "t": "atashrabo shaay maa laymoon?", "l": "I drink mineral water.", "a": "0225.mp3" },
+      { "t": "atshrabo maan maa thalj?", "l": "Do you drink tea with lemon?", "a": "0226.mp3" },
+      { "t": "hona toojado haffala", "l": "Do you drink coffee with sugar?", "a": "0227.mp3" },
+      { "t": "ennas yashraboon shambaniaa", "l": "Do you drink water with ice?", "a": "0228.mp3" },
+      { "t": "atashrabo elkhamr?", "l": "There is a party here.", "a": "0229.mp3" },
+      { "t": "atashrabo wessky?", "l": "People are drinking champagne.", "a": "0230.mp3" },
+      { "t": "atashrabo kola maa room?", "l": "People are drinking wine and beer.", "a": "0231.mp3" },
+      { "t": "la ohibbo elkhamr", "l": "Do you drink alcohol?", "a": "0232.mp3" },
+      { "t": "la ohibbo elbiira", "l": "Do you drink whisky / whiskey (am.)?", "a": "0233.mp3" },
+      { "t": "erradhia yohibbo ellaban", "l": "Do you drink Coke with rum?", "a": "0234.mp3" },
+      {
+        "t": "almara tohibbo asiir elbortokal wa asiir eljarib froot",
+        "l": "I do not like champagne.",
+        "a": "0235.mp3"
+      },
+      { "t": "", "l": "I do not like wine.", "a": "0236.mp3" },
+      { "t": "", "l": "I do not like beer.", "a": "0237.mp3" },
+      { "t": "", "l": "The baby likes milk.", "a": "0238.mp3" },
+      { "t": "", "l": "The child likes cocoa and apple juice.", "a": "0239.mp3" },
+      { "t": "", "l": "The woman likes orange and grapefruit juice.", "a": "0240.mp3" }
+    ]
+  },
+  {
+    "topic": "13 Activities",
+    "words": [
+      { "t": "13 [thirteen]", "l": "\u202b13 [ثلاثة عشر]\u202c", "a": "0241.mp3" },
+      { "t": "Activities", "l": "\u202bالأنشطة والأعمال\u202c", "a": "0242.mp3" },
+      { "t": "hia tashtaghil fi elmaktab?", "l": "What does Martha do?", "a": "0243.mp3" },
+      { "t": "hia tashtaghil alaa elkombiyooter", "l": "She works at an office.", "a": "0244.mp3" },
+      { "t": "ayna marta?", "l": "She works on the computer.", "a": "0245.mp3" },
+      { "t": "hal toshahid filman", "l": "Where is Martha?", "a": "0246.mp3" },
+      { "t": "madha yaamal biiter?", "l": "At the cinema.", "a": "0247.mp3" },
+      { "t": "howa yadross fi eljamiaa", "l": "She is watching a film.", "a": "0248.mp3" },
+      { "t": "ayna biiter?", "l": "What does Peter do?", "a": "0249.mp3" },
+      { "t": "fii elmaqhaa", "l": "He studies at the university.", "a": "0250.mp3" },
+      { "t": "howa yashrabo kahwa", "l": "He studies languages.", "a": "0251.mp3" },
+      { "t": "ilaa elhaffla elmoosikia", "l": "Where is Peter?", "a": "0252.mp3" },
+      { "t": "hom yohibboon samaae elmoosikaa", "l": "At the café.", "a": "0253.mp3" },
+      { "t": "ilaa ayna laa yohibboon an yadhhaboo؟", "l": "He is drinking coffee.", "a": "0254.mp3" },
+      { "t": "hom laa yohibboon errakess", "l": "Where do they like to go?", "a": "0255.mp3" },
+      { "t": "", "l": "To a concert.", "a": "0256.mp3" },
+      { "t": "", "l": "They like to listen to music.", "a": "0257.mp3" },
+      { "t": "", "l": "Where do they not like to go?", "a": "0258.mp3" },
+      { "t": "", "l": "To the disco.", "a": "0259.mp3" },
+      { "t": "", "l": "They do not like to dance.", "a": "0260.mp3" }
+    ]
+  },
+  {
+    "topic": "14 Colors",
+    "words": [
+      { "t": "14 [fourteen]", "l": "\u202b14 [أربعة عشر]\u202c", "a": "0261.mp3" },
+      { "t": "Colors", "l": "\u202bالألوان\u202c", "a": "0262.mp3" },
+      { "t": "eshshamss safra", "l": "Snow is white.", "a": "0263.mp3" },
+      { "t": "elbortokala bortokalia", "l": "The sun is yellow.", "a": "0264.mp3" },
+      { "t": "elkarza hamra", "l": "The orange is orange.", "a": "0265.mp3" },
+      { "t": "eloshb akhddar", "l": "The cherry is red.", "a": "0266.mp3" },
+      { "t": "ettorba bonnia", "l": "The sky is blue.", "a": "0267.mp3" },
+      { "t": "essahaba ramadia", "l": "The grass is green.", "a": "0268.mp3" },
+      { "t": "maa lawn elththalij? abyadh", "l": "The earth is brown.", "a": "0269.mp3" },
+      { "t": "maa lawn eshshams? asfar", "l": "The cloud is grey / gray (am.).", "a": "0270.mp3" },
+      { "t": "maa lawn elburtokala? Bortokaalii", "l": "The tyres / tires (am.) are black.", "a": "0271.mp3" },
+      { "t": "maa lawn essamaa? Azrak", "l": "What colour / color (am.) is the snow? White.", "a": "0272.mp3" },
+      { "t": "maa lawn eloshsheb? akhdhar", "l": "What colour / color (am.) is the sun? Yellow.", "a": "0273.mp3" },
+      { "t": "maa lawn etorba? Bonniya", "l": "What colour / color (am.) is the orange? Orange.", "a": "0274.mp3" },
+      {
+        "t": "maa lawn itaaraat elajalaat? aswad",
+        "l": "What colour / color (am.) is the cherry? Red.",
+        "a": "0275.mp3"
+      },
+      { "t": "", "l": "What colour / color (am.) is the sky? Blue.", "a": "0276.mp3" },
+      { "t": "", "l": "What colour / color (am.) is the grass? Green.", "a": "0277.mp3" },
+      { "t": "", "l": "What colour / color (am.) is the earth? Brown.", "a": "0278.mp3" },
+      { "t": "", "l": "What colour / color (am.) is the cloud? Grey / Gray (am.).", "a": "0279.mp3" },
+      { "t": "", "l": "What colour / color (am.) are the tyres / tires (am.)? Black.", "a": "0280.mp3" }
+    ]
+  },
+  {
+    "topic": "15 Fruits and food",
+    "words": [
+      { "t": "15 [fifteen]", "l": "\u202b15 [خمسة عشر]\u202c", "a": "0281.mp3" },
+      { "t": "Fruits and food", "l": "\u202bالثمار والمواد الغذائية\u202c", "a": "0282.mp3" },
+      { "t": "mayi habbat kewi wa shammaama", "l": "I have a strawberry.", "a": "0283.mp3" },
+      { "t": "mayi bortokala wa habbat jarib froot", "l": "I have a kiwi and a melon.", "a": "0284.mp3" },
+      { "t": "mayi toffaha wa habbat mango", "l": "I have an orange and a grapefruit.", "a": "0285.mp3" },
+      { "t": "ana amal saltat faakiha", "l": "I have an apple and a mango.", "a": "0286.mp3" },
+      { "t": "ana akol kitaat toowist", "l": "I have a banana and a pineapple.", "a": "0287.mp3" },
+      { "t": "ana akol kitaat toowist maa zobda", "l": "I am making a fruit salad.", "a": "0288.mp3" },
+      { "t": "ana akol sandwitsh", "l": "I am eating toast.", "a": "0289.mp3" },
+      { "t": "ana akol sandwitsh belmarjiriin", "l": "I am eating toast with butter.", "a": "0290.mp3" },
+      {
+        "t": "ana akol sandwitsh belmarjiriin wa etamaatem",
+        "l": "I am eating toast with butter and jam.",
+        "a": "0291.mp3"
+      },
+      { "t": "nahtaaj ilaa samak wa stiik", "l": "I am eating a sandwich.", "a": "0292.mp3" },
+      {
+        "t": "nahtaaj ilaa pitzaa wa makroona sbajitii",
+        "l": "I am eating a sandwich with margarine.",
+        "a": "0293.mp3"
+      },
+      {
+        "t": "matha nahtaaj ziyaadatan alaa thalik?",
+        "l": "I am eating a sandwich with margarine and tomatoes.",
+        "a": "0294.mp3"
+      },
+      { "t": "ayna elsoober maarket?", "l": "We need bread and rice.", "a": "0295.mp3" },
+      { "t": "", "l": "We need fish and steaks.", "a": "0296.mp3" },
+      { "t": "", "l": "We need pizza and spaghetti.", "a": "0297.mp3" },
+      { "t": "", "l": "What else do we need?", "a": "0298.mp3" },
+      { "t": "", "l": "We need carrots and tomatoes for the soup.", "a": "0299.mp3" },
+      { "t": "", "l": "Where is the supermarket?", "a": "0300.mp3" }
+    ]
+  },
+  {
+    "topic": "16 Seasons and Weather",
+    "words": [
+      { "t": "16 [sixteen]", "l": "\u202b16 [ستة عشر]\u202c", "a": "0301.mp3" },
+      { "t": "Seasons and Weather", "l": "\u202bفصول السنة والطقس\u202c", "a": "0302.mp3" },
+      { "t": "errabiia, essayif,", "l": "These are the seasons:", "a": "0303.mp3" },
+      { "t": "elkhariif, wa eshshitaa,", "l": "Spring, summer,", "a": "0304.mp3" },
+      { "t": "essayif  haar", "l": "autumn / fall (am.) and winter.", "a": "0305.mp3" },
+      { "t": "fi alssayf nahibb nadhhab natnazaha", "l": "The summer is warm.", "a": "0306.mp3" },
+      { "t": "eshshitaa baared", "l": "The sun shines in summer.", "a": "0307.mp3" },
+      { "t": "fii eshshitaa tothlij aw tomter", "l": "We like to go for a walk in summer.", "a": "0308.mp3" },
+      { "t": "ejaw baared", "l": "The winter is cold.", "a": "0309.mp3" },
+      { "t": "innahaa tomter", "l": "It snows or rains in winter.", "a": "0310.mp3" },
+      { "t": "ejjaw aasef", "l": "We like to stay home in winter.", "a": "0311.mp3" },
+      { "t": "ejjaw moshmes", "l": "It is cold.", "a": "0312.mp3" },
+      { "t": "ejjaw saafen", "l": "It is raining.", "a": "0313.mp3" },
+      { "t": "kayfa ettaksso elyawm?", "l": "It is windy.", "a": "0314.mp3" },
+      { "t": "elyawm ejjaw dafe'", "l": "It is warm.", "a": "0315.mp3" },
+      { "t": "", "l": "It is sunny.", "a": "0316.mp3" },
+      { "t": "", "l": "It is pleasant.", "a": "0317.mp3" },
+      { "t": "", "l": "What is the weather like today?", "a": "0318.mp3" },
+      { "t": "", "l": "It is cold today.", "a": "0319.mp3" },
+      { "t": "", "l": "It is warm today.", "a": "0320.mp3" }
+    ]
+  },
+  {
+    "topic": "17 Around the house",
+    "words": [
+      { "t": "17 [seventeen]", "l": "\u202b17 [سبعة عشر]\u202c", "a": "0321.mp3" },
+      { "t": "Around the house", "l": "\u202bفى البيت\u202c", "a": "0322.mp3" },
+      { "t": "fawk yoojado essakf", "l": "Our house is here.", "a": "0323.mp3" },
+      { "t": "taht yoojado elkabow", "l": "The roof is on top.", "a": "0324.mp3" },
+      { "t": "toojado hadiikat khalfa elmanzel", "l": "The basement is below.", "a": "0325.mp3" },
+      { "t": "toojado ashjaar bijiwaari elmanzel", "l": "There is a garden behind the house.", "a": "0326.mp3" },
+      { "t": "houna shokkatii", "l": "There is no street in front of the house.", "a": "0327.mp3" },
+      { "t": "houna elmatbakh wa elhammaam", "l": "There are trees next to the house.", "a": "0328.mp3" },
+      { "t": "baab  elmanzil moghlak", "l": "My apartment is here.", "a": "0329.mp3" },
+      { "t": "lakinn ennawafith maftou7a", "l": "The kitchen and bathroom are here.", "a": "0330.mp3" },
+      { "t": "elyawm eljaw haar", "l": "The living room and bedroom are there.", "a": "0331.mp3" },
+      { "t": "honaka yoojado sofa wa kanabaa", "l": "The front door is closed.", "a": "0332.mp3" },
+      { "t": "tafadhal wa ijles", "l": "But the windows are open.", "a": "0333.mp3" },
+      { "t": "honaka yoojad combyootarii", "l": "It is hot today.", "a": "0334.mp3" },
+      { "t": "ettelfezyoon jadiidon tamaaman", "l": "We are going to the living room.", "a": "0335.mp3" },
+      { "t": "", "l": "There is a sofa and an armchair there.", "a": "0336.mp3" },
+      { "t": "", "l": "Please, sit down!", "a": "0337.mp3" },
+      { "t": "", "l": "My computer is there.", "a": "0338.mp3" },
+      { "t": "", "l": "My stereo is there.", "a": "0339.mp3" },
+      { "t": "", "l": "The TV set is brand new.", "a": "0340.mp3" }
+    ]
+  },
+  {
+    "topic": "18 House cleaning",
+    "words": [
+      { "t": "18 [eighteen]", "l": "\u202b18 [ثمانية عشر]\u202c", "a": "0341.mp3" },
+      { "t": "House cleaning", "l": "\u202bتنظيف المنزل\u202c", "a": "0342.mp3" },
+      { "t": "elyawm endana wakton kafii", "l": "Today is Saturday.", "a": "0343.mp3" },
+      { "t": "elyawm nonadhefo elmanzel", "l": "We have time today.", "a": "0344.mp3" },
+      { "t": "ana onadhifo elhammaam", "l": "We are cleaning the apartment today.", "a": "0345.mp3" },
+      { "t": "elatfaal yonadhifoona eddarrajaat", "l": "I am cleaning the bathroom.", "a": "0346.mp3" },
+      { "t": "eljaddat taski elzouhour", "l": "My husband is washing the car.", "a": "0347.mp3" },
+      {
+        "t": "elatfaal yorattiboona ghorfat elatfaal",
+        "l": "The children are cleaning the bicycles.",
+        "a": "0348.mp3"
+      },
+      { "t": "ana adhao elghasiila fil ghassaala", "l": "Grandma is watering the flowers.", "a": "0349.mp3" },
+      { "t": "ana anchoro elghasiil", "l": "The children are cleaning up the children’s room.", "a": "0350.mp3" },
+      { "t": "ana akwii elmalabess", "l": "My husband is tidying up his desk.", "a": "0351.mp3" },
+      { "t": "elarthiyat wasikha", "l": "I am putting the laundry in the washing machine.", "a": "0352.mp3" },
+      { "t": "essohoon wasikhat", "l": "I am hanging up the laundry.", "a": "0353.mp3" },
+      { "t": "men yonadhif ennawaafedh?", "l": "I am ironing the clothes.", "a": "0354.mp3" },
+      { "t": "men yaghsilou essohoon?", "l": "The windows are dirty.", "a": "0355.mp3" },
+      { "t": "", "l": "The floor is dirty.", "a": "0356.mp3" },
+      { "t": "", "l": "The dishes are dirty.", "a": "0357.mp3" },
+      { "t": "", "l": "Who washes the windows?", "a": "0358.mp3" },
+      { "t": "", "l": "Who does the vacuuming?", "a": "0359.mp3" },
+      { "t": "", "l": "Who does the dishes?", "a": "0360.mp3" }
+    ]
+  },
+  {
+    "topic": "19 In the kitchen",
+    "words": [
+      { "t": "19 [nineteen]", "l": "\u202b19 [تسعة عشر]\u202c", "a": "0361.mp3" },
+      { "t": "In the kitchen", "l": "\u202bفى المطبخ\u202c", "a": "0362.mp3" },
+      { "t": "madha toriido en tatbokh elyawm.", "l": "Do you have a new kitchen?", "a": "0363.mp3" },
+      { "t": "atatbogh bel kahrabaa aw belghaaz", "l": "What do you want to cook today?", "a": "0364.mp3" },
+      { "t": "hal okattio elbasla?", "l": "Do you cook on an electric or a gas stove?", "a": "0365.mp3" },
+      { "t": "hal aghsil elkhass", "l": "Shall I cut the onions?", "a": "0366.mp3" },
+      { "t": "ayn alkibayat [ al'akawab]?", "l": "Shall I peel the potatoes?", "a": "0367.mp3" },
+      { "t": "ayna essohoon [elatbaak]?", "l": "Shall I rinse the lettuce?", "a": "0368.mp3" },
+      { "t": "aendaka fattahat olab?", "l": "Where are the glasses?", "a": "0369.mp3" },
+      { "t": "aendaka fattahat kanaanii?", "l": "Where are the dishes?", "a": "0370.mp3" },
+      { "t": "aendaka meftaahon lelfelliin?", "l": "Where is the cutlery / silverware (am.)?", "a": "0371.mp3" },
+      {
+        "t": "atakli essamaka fi hathihi elmeklaat?",
+        "l": "Do you have a tin opener / can opener (am.)?",
+        "a": "0372.mp3"
+      },
+      { "t": "atashwii elkhodhaar alaa hathihi elshawaya?", "l": "Do you have a bottle opener?", "a": "0373.mp3" },
+      { "t": "ana ojahhez taawilat esofra", "l": "Do you have a corkscrew?", "a": "0374.mp3" },
+      {
+        "t": "hona elkobbaayaat, essohoon, welmanaadiil",
+        "l": "Are you cooking the soup in this pot?",
+        "a": "0375.mp3"
+      },
+      { "t": "", "l": "Are you frying the fish in this pan?", "a": "0376.mp3" },
+      { "t": "", "l": "Are you grilling the vegetables on this grill?", "a": "0377.mp3" },
+      { "t": "", "l": "I am setting the table.", "a": "0378.mp3" },
+      { "t": "", "l": "Here are the knives, the forks and the spoons.", "a": "0379.mp3" },
+      { "t": "", "l": "Here are the glasses, the plates and the napkins.", "a": "0380.mp3" }
+    ]
+  },
+  {
+    "topic": "20 Small Talk 1",
+    "words": [
+      { "t": "20 [twenty]", "l": "\u202b20 [عشرون]\u202c", "a": "0381.mp3" },
+      { "t": "Small Talk 1", "l": "\u202bمحادثة قصيرة رقم 1\u202c", "a": "0382.mp3" },
+      { "t": "elbaytou baytouka!", "l": "Make yourself comfortable!", "a": "0383.mp3" },
+      { "t": "maathaa tohebbo hadhratoka an tashrab?", "l": "Please, feel right at home!", "a": "0384.mp3" },
+      { "t": "atohebbo elmoosikaa?", "l": "What would you like to drink?", "a": "0385.mp3" },
+      { "t": "hnna sidyati", "l": "Do you like music?", "a": "0386.mp3" },
+      { "t": "ataazifou alaa aalaten moosiikiya?", "l": "I like classical music.", "a": "0387.mp3" },
+      { "t": "hona gitaaratii", "l": "These are my CD’s.", "a": "0388.mp3" },
+      { "t": "aendaka atfaal?", "l": "Do you play a musical instrument?", "a": "0389.mp3" },
+      { "t": "aendaka kalb ?", "l": "This is my guitar.", "a": "0390.mp3" },
+      { "t": "aendaka ketta ?", "l": "Do you like to sing?", "a": "0391.mp3" },
+      { "t": "akrao haaliyan hatha elkitaab", "l": "Do you have children?", "a": "0392.mp3" },
+      { "t": "matha tohebbo an takraa ?", "l": "Do you have a dog?", "a": "0393.mp3" },
+      { "t": "atohebbo an tadhhaba ilaa elhaflat elmoosiikiya?", "l": "Do you have a cat?", "a": "0394.mp3" },
+      { "t": "atohebbo an tadhhaba ilaa daar eloberaa", "l": "These are my books.", "a": "0395.mp3" },
+      { "t": "", "l": "I am currently reading this book.", "a": "0396.mp3" },
+      { "t": "", "l": "What do you like to read?", "a": "0397.mp3" },
+      { "t": "", "l": "Do you like to go to concerts?", "a": "0398.mp3" },
+      { "t": "", "l": "Do you like to go to the theatre / theater (am.)?", "a": "0399.mp3" },
+      { "t": "", "l": "Do you like to go to the opera?", "a": "0400.mp3" }
+    ]
+  },
+  {
+    "topic": "21 Small Talk 2",
+    "words": [
+      { "t": "21 [twenty-one]", "l": "\u202b21 [واحد وعشرون]\u202c", "a": "0401.mp3" },
+      { "t": "Small Talk 2", "l": "\u202bمحادثة قصيرة رقم 2\u202c", "a": "0402.mp3" },
+      { "t": "ana men baazel", "l": "Where do you come from?", "a": "0403.mp3" },
+      { "t": "baazel fii swiisraa", "l": "From Basel.", "a": "0404.mp3" },
+      { "t": "esmahoo lii an okaddima lakom essayed mooler!", "l": "Basel is in Switzerland.", "a": "0405.mp3" },
+      { "t": "howa yattakallam eddata loghaat", "l": "May I introduce Mr. Miller?", "a": "0406.mp3" },
+      { "t": "hal hadhratoka hona liawali marra?", "l": "He is a foreigner.", "a": "0407.mp3" },
+      { "t": "laa , la9ad konto hona elaama elmaadhii", "l": "He speaks several languages.", "a": "0408.mp3" },
+      { "t": "atastamtioo biwojodika hona?", "l": "Are you here for the first time?", "a": "0409.mp3" },
+      { "t": "jidan. ennaaso hona lotafaa", "l": "No, I was here once last year.", "a": "0410.mp3" },
+      { "t": "wa tojibonii elmanaadhir ettabiiya", "l": "Only for a week, though.", "a": "0411.mp3" },
+      { "t": "ana motarjem", "l": "How do you like it here?", "a": "0412.mp3" },
+      { "t": "ana otarjim elkotob", "l": "A lot. The people are nice.", "a": "0413.mp3" },
+      { "t": "hal hadhratoka hona liwahdik?", "l": "And I like the scenery, too.", "a": "0414.mp3" },
+      { "t": "wa honaaka teflaaya elethnaan", "l": "What is your profession?", "a": "0415.mp3" },
+      { "t": "", "l": "I am a translator.", "a": "0416.mp3" },
+      { "t": "", "l": "I translate books.", "a": "0417.mp3" },
+      { "t": "", "l": "Are you alone here?", "a": "0418.mp3" },
+      { "t": "", "l": "No, my wife / my husband is also here.", "a": "0419.mp3" },
+      { "t": "", "l": "And those are my two children.", "a": "0420.mp3" }
+    ]
+  },
+  {
+    "topic": "22 Small Talk 3",
+    "words": [
+      { "t": "22 [twenty-two]", "l": "\u202b22 [اثنان وعشرون]\u202c", "a": "0421.mp3" },
+      { "t": "Small Talk 3", "l": "\u202bمحادثة قصيرة رقم 3\u202c", "a": "0422.mp3" },
+      { "t": "saabikan naam", "l": "Do you smoke?", "a": "0423.mp3" },
+      { "t": "laken elaan laa odakhin katiiyan", "l": "I used to.", "a": "0424.mp3" },
+      { "t": "ayozejoka in anaa dakhkhant ?", "l": "But I don’t smoke anymore.", "a": "0425.mp3" },
+      { "t": "hatha laa yozejoni", "l": "Does it disturb you if I smoke?", "a": "0426.mp3" },
+      { "t": "hal tashrabo hadhratoka chay'an?", "l": "No, absolutely not.", "a": "0427.mp3" },
+      { "t": "wahed koniyaak ?", "l": "It doesn’t disturb me.", "a": "0428.mp3" },
+      { "t": "atosaafiro hadhratoka kathiiran ?", "l": "Will you drink something?", "a": "0429.mp3" },
+      { "t": "naam ghaaliban maa takoon rahalaat amal", "l": "A brandy?", "a": "0430.mp3" },
+      { "t": "wa lakennanaa nomdhi elaan ijaazatan hona", "l": "No, preferably a beer.", "a": "0431.mp3" },
+      { "t": "naam elyawm haaron jiddan fealan", "l": "Do you travel a lot?", "a": "0432.mp3" },
+      { "t": "lnadhhab ilaa eshshorfa", "l": "Yes, mostly on business trips.", "a": "0433.mp3" },
+      { "t": "ghadan satakoon honaa hafla", "l": "But now we’re on holiday.", "a": "0434.mp3" },
+      { "t": "naam nahno aydhan madowoon", "l": "It’s so hot!", "a": "0435.mp3" },
+      { "t": "", "l": "Yes, today it’s really hot.", "a": "0436.mp3" },
+      { "t": "", "l": "Let’s go to the balcony.", "a": "0437.mp3" },
+      { "t": "", "l": "There’s a party here tomorrow.", "a": "0438.mp3" },
+      { "t": "", "l": "Are you also coming?", "a": "0439.mp3" },
+      { "t": "", "l": "Yes, we’ve also been invited.", "a": "0440.mp3" }
+    ]
+  },
+  {
+    "topic": "23 Learning foreign languages",
+    "words": [
+      { "t": "23 [twenty-three]", "l": "\u202b23 [ثلاثة وعشرون]\u202c", "a": "0441.mp3" },
+      { "t": "Learning foreign languages", "l": "\u202bتعلم اللغات الأجنبية\u202c", "a": "0442.mp3" },
+      { "t": "hal tatakallam aydhan elbortoghaliya?", "l": "Where did you learn Spanish?", "a": "0443.mp3" },
+      { "t": "naam, w anta aydhan chay'an mena elitaliya", "l": "Can you also speak Portuguese?", "a": "0444.mp3" },
+      {
+        "t": "araa annaka tatakallam bichaklen jayiden jeddan",
+        "l": "Yes, and I also speak some Italian.",
+        "a": "0445.mp3"
+      },
+      { "t": "astatiio an afhamahaa jayidan", "l": "I think you speak very well.", "a": "0446.mp3" },
+      { "t": "laken eltakallom wa elkitaaba chay'on saab", "l": "The languages are quite similar.", "a": "0447.mp3" },
+      { "t": "w ma azaalo aamalo akhtaa kathiira", "l": "I can understand them well.", "a": "0448.mp3" },
+      { "t": "notkoka jayidon tmaaman", "l": "But speaking and writing is difficult.", "a": "0449.mp3" },
+      { "t": "3endaka laknaton bsiita", "l": "I still make many mistakes.", "a": "0450.mp3" },
+      { "t": "yastatiio elshakhso an ya3rifa men ayna ant", "l": "Please correct me each time.", "a": "0451.mp3" },
+      { "t": "hal anta tatalam fi dawrat loghawiya?", "l": "Your pronunciation is very good.", "a": "0452.mp3" },
+      { "t": "ayo manhaj tastaamel?", "l": "You only have a slight accent.", "a": "0453.mp3" },
+      { "t": "la aarifouesmaho fil wakt elhali", "l": "One can tell where you come from.", "a": "0454.mp3" },
+      { "t": "lakad nasaytoho leltaw", "l": "What is your mother tongue / native language (am.)?", "a": "0455.mp3" },
+      { "t": "", "l": "Are you taking a language course?", "a": "0456.mp3" },
+      { "t": "", "l": "Which textbook are you using?", "a": "0457.mp3" },
+      { "t": "", "l": "I don’t remember the name right now.", "a": "0458.mp3" },
+      { "t": "", "l": "The title is not coming to me.", "a": "0459.mp3" },
+      { "t": "", "l": "I’ve forgotten it.", "a": "0460.mp3" }
+    ]
+  },
+  {
+    "topic": "24 Appointment",
+    "words": [
+      { "t": "24 [twenty-four]", "l": "\u202b24 [أربع وعشرون]\u202c", "a": "0461.mp3" },
+      { "t": "Appointment", "l": "\u202bالمواعيد\u202c", "a": "0462.mp3" },
+      { "t": "lakad entadhartoka letaw nesfa saae", "l": "Did you miss the bus?", "a": "0463.mp3" },
+      { "t": "ala yoojado maaka haatef jawaal?", "l": "I waited for you for half an hour.", "a": "0464.mp3" },
+      {
+        "t": "kon dakikan fil marra elkaadima!",
+        "l": "Don’t you have a mobile / cell phone (am.) with you?",
+        "a": "0465.mp3"
+      },
+      { "t": "khodh maaka midhallata matar fil marra elkaadima!", "l": "Be punctual next time!", "a": "0466.mp3" },
+      { "t": "ghadan endii otla", "l": "Take a taxi next time!", "a": "0467.mp3" },
+      { "t": "hal sanaltaki ghadan?", "l": "Take an umbrella with you next time!", "a": "0468.mp3" },
+      {
+        "t": "hal kad khattatta lshay'in fi otlat nihaayat elosbooa?",
+        "l": "I have the day off tomorrow.",
+        "a": "0469.mp3"
+      },
+      { "t": "aw kad serta motawaaedan?", "l": "Shall we meet tomorrow?", "a": "0470.mp3" },
+      {
+        "t": "aktarihou an naltaki fi otlati nihaayati elosbooa",
+        "l": "I’m sorry, I can’t make it tomorrow.",
+        "a": "0471.mp3"
+      },
+      { "t": "hal nossafiro ilaa eshshaat'e?", "l": "Do you already have plans for this weekend?", "a": "0472.mp3" },
+      { "t": "hal nossafiro ilaa eljibaal ?", "l": "Or do you already have an appointment?", "a": "0473.mp3" },
+      { "t": "saakhothoka mina elmaktab", "l": "I suggest that we meet on the weekend.", "a": "0474.mp3" },
+      { "t": "saakhothoka men mahattat elbaasaat [alhafilaat]", "l": "Shall we have a picnic?", "a": "0475.mp3" },
+      { "t": "", "l": "Shall we go to the beach?", "a": "0476.mp3" },
+      { "t": "", "l": "Shall we go to the mountains?", "a": "0477.mp3" },
+      { "t": "", "l": "I will pick you up at the office.", "a": "0478.mp3" },
+      { "t": "", "l": "I will pick you up at home.", "a": "0479.mp3" },
+      { "t": "", "l": "I will pick you up at the bus stop.", "a": "0480.mp3" }
+    ]
+  },
+  {
+    "topic": "25 In the city",
+    "words": [
+      { "t": "25 [twenty-five]", "l": "\u202b25 [خمسة وعشرون]\u202c", "a": "0481.mp3" },
+      { "t": "In the city", "l": "\u202bفي المدينة\u202c", "a": "0482.mp3" },
+      { "t": "oriido an adhhaba ilaa elmataar", "l": "I would like to go to the station.", "a": "0483.mp3" },
+      { "t": "oriido an adhhaba ila wasati elmadiina", "l": "I would like to go to the airport.", "a": "0484.mp3" },
+      {
+        "t": "kayfa asilo ila mahattati elkitaar?",
+        "l": "I would like to go to the city centre / center (am.).",
+        "a": "0485.mp3"
+      },
+      { "t": "kayfa asilo ilaa wasati elmadina?", "l": "How do I get to the station?", "a": "0486.mp3" },
+      { "t": "ahtaaj ila sayarat ojra", "l": "How do I get to the airport?", "a": "0487.mp3" },
+      { "t": "ahtajo lkhriitat elmadiina", "l": "How do I get to the city centre / center (am.)?", "a": "0488.mp3" },
+      { "t": "oriido an asta'ajra sayaara", "l": "I need a taxi.", "a": "0489.mp3" },
+      { "t": "hona bitakatii ele'etimaaniya", "l": "I need a city map.", "a": "0490.mp3" },
+      { "t": "hona roghsat kiyaadatii", "l": "I need a hotel.", "a": "0491.mp3" },
+      { "t": "idhhab ilaa elmadiinat elkadiima", "l": "I would like to rent a car.", "a": "0492.mp3" },
+      { "t": "kom bjawlat fil madiina", "l": "Here is my credit card.", "a": "0493.mp3" },
+      { "t": "idhhab ilaa elmiinaa", "l": "Here is my licence / license (am.).", "a": "0494.mp3" },
+      {
+        "t": "madhaa bakiya men maalima jadiira bilmoshahada ghayra thalek",
+        "l": "What is there to see in the city?",
+        "a": "0495.mp3"
+      },
+      { "t": "", "l": "Go to the old city.", "a": "0496.mp3" },
+      { "t": "", "l": "Go on a city tour.", "a": "0497.mp3" },
+      { "t": "", "l": "Go to the harbour / harbor (am.).", "a": "0498.mp3" },
+      { "t": "", "l": "Go on a harbour / harbor (am.) tour.", "a": "0499.mp3" },
+      { "t": "", "l": "Are there any other places of interest?", "a": "0500.mp3" }
+    ]
+  },
+  {
+    "topic": "26 In nature",
+    "words": [
+      { "t": "26 [twenty-six]", "l": "\u202b26 [ستة وعشرون]\u202c", "a": "0501.mp3" },
+      { "t": "In nature", "l": "\u202bفي الطبيعة\u202c", "a": "0502.mp3" },
+      { "t": "ataraa dhalika eljabel?", "l": "Do you see the tower there?", "a": "0503.mp3" },
+      { "t": "ataraa telka elkarya?", "l": "Do you see the mountain there?", "a": "0504.mp3" },
+      { "t": "ataraa thalika ennaher?", "l": "Do you see the village there?", "a": "0505.mp3" },
+      { "t": "atarra telka elbohayra?", "l": "Do you see the river there?", "a": "0506.mp3" },
+      { "t": "yojiboni thalika elosfoor", "l": "Do you see the bridge there?", "a": "0507.mp3" },
+      { "t": "tojiboni telka elchajara", "l": "Do you see the lake there?", "a": "0508.mp3" },
+      { "t": "yojiboni thalika elmontazah", "l": "I like that bird.", "a": "0509.mp3" },
+      { "t": "tojiboni telka elhadiika", "l": "I like that tree.", "a": "0510.mp3" },
+      { "t": "tojiboni hathihi ezzahra", "l": "I like this stone.", "a": "0511.mp3" },
+      { "t": "ana araa hatha momtea", "l": "I like that park.", "a": "0512.mp3" },
+      { "t": "ana araa anna hathaa raa'a", "l": "I like that garden.", "a": "0513.mp3" },
+      { "t": "ana araa anna hathaa kabiih", "l": "I like this flower.", "a": "0514.mp3" },
+      { "t": "ana ara anna hatha fadhia", "l": "I find that pretty.", "a": "0515.mp3" },
+      { "t": "", "l": "I find that interesting.", "a": "0516.mp3" },
+      { "t": "", "l": "I find that gorgeous.", "a": "0517.mp3" },
+      { "t": "", "l": "I find that ugly.", "a": "0518.mp3" },
+      { "t": "", "l": "I find that boring.", "a": "0519.mp3" },
+      { "t": "", "l": "I find that terrible.", "a": "0520.mp3" }
+    ]
+  },
+  {
+    "topic": "27 In the hotel – Arrival",
+    "words": [
+      { "t": "27 [twenty-seven]", "l": "\u202b27 [سبعة وعشرون]\u202c", "a": "0521.mp3" },
+      { "t": "In the hotel – Arrival", "l": "\u202bفى الفندق – الوصول\u202c", "a": "0522.mp3" },
+      { "t": "lakad hajaztou endakom ghorfa", "l": "Do you have a vacant room?", "a": "0523.mp3" },
+      { "t": "esmii mooler", "l": "I have booked a room.", "a": "0524.mp3" },
+      { "t": "ahtaajo lghorfati sariir wahed", "l": "My name is Miller.", "a": "0525.mp3" },
+      { "t": "kam sear elghorfa lellayla", "l": "I need a single room.", "a": "0526.mp3" },
+      { "t": "oriido ghorfat maa hammaam baanyoo", "l": "I need a double room.", "a": "0527.mp3" },
+      { "t": "oriido ghorfa maa hammaam dosh", "l": "What does the room cost per night?", "a": "0528.mp3" },
+      { "t": "ayoojad hona mawkef sayyaaraat ?", "l": "I would like a room with a bathroom.", "a": "0529.mp3" },
+      { "t": "atoojad hona khaziinato amaanaat?", "l": "I would like a room with a shower.", "a": "0530.mp3" },
+      { "t": "ayoojad hona jihaaz fax?", "l": "Can I see the room?", "a": "0531.mp3" },
+      { "t": "hona elmafaatiih", "l": "Is there a garage here?", "a": "0532.mp3" },
+      { "t": "hona amtiaatii", "l": "Is there a safe here?", "a": "0533.mp3" },
+      { "t": "mataa yakoon eleftaar?", "l": "Is there a fax machine here?", "a": "0534.mp3" },
+      { "t": "mataa yakoon elachaa?", "l": "Fine, I’ll take the room.", "a": "0535.mp3" },
+      { "t": "", "l": "Here are the keys.", "a": "0536.mp3" },
+      { "t": "", "l": "Here is my luggage.", "a": "0537.mp3" },
+      { "t": "", "l": "What time do you serve breakfast?", "a": "0538.mp3" },
+      { "t": "", "l": "What time do you serve lunch?", "a": "0539.mp3" },
+      { "t": "", "l": "What time do you serve dinner?", "a": "0540.mp3" }
+    ]
+  },
+  {
+    "topic": "28 In the hotel – Complaints",
+    "words": [
+      { "t": "28 [twenty-eight]", "l": "\u202b28 [ثمانية وعشرون]\u202c", "a": "0541.mp3" },
+      { "t": "In the hotel – Complaints", "l": "\u202bفي الفندق ــ شكاوى\u202c", "a": "0542.mp3" },
+      { "t": "laa yoojad maa saakhen", "l": "The shower isn’t working.", "a": "0543.mp3" },
+      { "t": "ayomkinokom an tokallifoo ahadan yoslihoho", "l": "There is no warm water.", "a": "0544.mp3" },
+      { "t": "laa yoojado telefoon fil ghorfa", "l": "Can you get it repaired?", "a": "0545.mp3" },
+      { "t": "laa yoojado balkoon[ shorfa] lelghorfa", "l": "There is no telephone in the room.", "a": "0546.mp3" },
+      { "t": "elghorfa saakhiba", "l": "There is no TV in the room.", "a": "0547.mp3" },
+      { "t": "elghorfa saghiira", "l": "The room has no balcony.", "a": "0548.mp3" },
+      { "t": "eltadfia la taamal", "l": "The room is too noisy.", "a": "0549.mp3" },
+      { "t": "elmokayef laa yaamal", "l": "The room is too small.", "a": "0550.mp3" },
+      { "t": "eltelfezyoon moattal", "l": "The room is too dark.", "a": "0551.mp3" },
+      { "t": "elser aalii jeddan alay", "l": "The heater isn’t working.", "a": "0552.mp3" },
+      { "t": "aendakom maa howa arghas.", "l": "The air-conditioning isn’t working.", "a": "0553.mp3" },
+      { "t": "hal yoojado bayt shabab belkorbi men hona?", "l": "The TV isn’t working.", "a": "0554.mp3" },
+      { "t": "hal yoojado mataam  belkorbi men hona?", "l": "I don’t like that.", "a": "0555.mp3" },
+      { "t": "", "l": "That’s too expensive.", "a": "0556.mp3" },
+      { "t": "", "l": "Do you have anything cheaper?", "a": "0557.mp3" },
+      { "t": "", "l": "Is there a youth hostel nearby?", "a": "0558.mp3" },
+      { "t": "", "l": "Is there a boarding house / a bed and breakfast nearby?", "a": "0559.mp3" },
+      { "t": "", "l": "Is there a restaurant nearby?", "a": "0560.mp3" }
+    ]
+  },
+  {
+    "topic": "29 At the restaurant 1",
+    "words": [
+      { "t": "29 [twenty-nine]", "l": "\u202b29 [تسعة وعشرون]\u202c", "a": "0561.mp3" },
+      { "t": "At the restaurant 1", "l": "\u202bفى المطعم 1\u202c", "a": "0562.mp3" },
+      { "t": "men fathlik kaaemat eltaam", "l": "Is this table taken?", "a": "0563.mp3" },
+      { "t": "bemaathaa tansah?", "l": "I would like the menu, please.", "a": "0564.mp3" },
+      { "t": "men fadhlik waahed biira", "l": "What would you recommend?", "a": "0565.mp3" },
+      { "t": "men fadhlik waahed asiir portokal", "l": "I’d like a beer.", "a": "0566.mp3" },
+      { "t": "men fadhlik wahed kahwa", "l": "I’d like a mineral water.", "a": "0567.mp3" },
+      { "t": "men fadhlik waahed kahwa maa haliib", "l": "I’d like an orange juice.", "a": "0568.mp3" },
+      { "t": "men fadhlik waahed chay", "l": "I’d like a coffee.", "a": "0569.mp3" },
+      { "t": "men fadhlek waahed chay maa laymoon", "l": "I’d like a coffee with milk.", "a": "0570.mp3" },
+      { "t": "men fadhlek waahed chay maa haliib", "l": "With sugar, please.", "a": "0571.mp3" },
+      { "t": "hal endakom menfadhat sajaaer?", "l": "I’d like a tea.", "a": "0572.mp3" },
+      { "t": "hal endakom sholat naar  [wallaa]?", "l": "I’d like a tea with lemon.", "a": "0573.mp3" },
+      { "t": "yankosonii chawka", "l": "I’d like a tea with milk.", "a": "0574.mp3" },
+      { "t": "yankosonii melaka", "l": "Do you have cigarettes?", "a": "0575.mp3" },
+      { "t": "", "l": "Do you have an ashtray?", "a": "0576.mp3" },
+      { "t": "", "l": "Do you have a light?", "a": "0577.mp3" },
+      { "t": "", "l": "I’m missing a fork.", "a": "0578.mp3" },
+      { "t": "", "l": "I’m missing a knife.", "a": "0579.mp3" },
+      { "t": "", "l": "I’m missing a spoon.", "a": "0580.mp3" }
+    ]
+  },
+  {
+    "topic": "30 At the restaurant 2",
+    "words": [
+      { "t": "30 [thirty]", "l": "\u202b30 [ثلاثون]\u202c", "a": "0581.mp3" },
+      { "t": "At the restaurant 2", "l": "\u202bفى المطعم 2\u202c", "a": "0582.mp3" },
+      { "t": "men fadhlek waahed asiir laymoon", "l": "An apple juice, please.", "a": "0583.mp3" },
+      { "t": "men fadhlek waahed asiir tamatem", "l": "A lemonade, please.", "a": "0584.mp3" },
+      { "t": "men fadhlik ka's nabiidh ahmar", "l": "A tomato juice, please.", "a": "0585.mp3" },
+      { "t": "men fadhlek kniinat chambaaniya", "l": "I’d like a glass of red wine.", "a": "0586.mp3" },
+      { "t": "hal tohebbo essamak?", "l": "I’d like a glass of white wine.", "a": "0587.mp3" },
+      { "t": "hal tohebbo lahma elbakar ?", "l": "I’d like a bottle of champagne.", "a": "0588.mp3" },
+      { "t": "men fadhlika chay'on bdoon lahm", "l": "Do you like fish?", "a": "0589.mp3" },
+      { "t": "men fadhlik tabak khothrawaat moshakala", "l": "Do you like beef?", "a": "0590.mp3" },
+      { "t": "men fadhlika chay'on laa yahtaaj lwakten tawiil", "l": "Do you like pork?", "a": "0591.mp3" },
+      { "t": "hal tohebboho maa elmakaroona?", "l": "I’d like something without meat.", "a": "0592.mp3" },
+      { "t": "hal tohebboho maa elbataates", "l": "I’d like some mixed vegetables.", "a": "0593.mp3" },
+      { "t": "laa yojibonii taamoh", "l": "I’d like something that won’t take much time.", "a": "0594.mp3" },
+      { "t": "maa talabto hathaa", "l": "Would you like that with rice?", "a": "0595.mp3" },
+      { "t": "", "l": "Would you like that with pasta?", "a": "0596.mp3" },
+      { "t": "", "l": "Would you like that with potatoes?", "a": "0597.mp3" },
+      { "t": "", "l": "That doesn’t taste good.", "a": "0598.mp3" },
+      { "t": "", "l": "The food is cold.", "a": "0599.mp3" },
+      { "t": "", "l": "I didn’t order this.", "a": "0600.mp3" }
+    ]
+  },
+  {
+    "topic": "31 At the restaurant 3",
+    "words": [
+      { "t": "31 [thirty-one]", "l": "\u202b31 [واحد وثلاثون]\u202c", "a": "0601.mp3" },
+      { "t": "At the restaurant 3", "l": "\u202bفى المطعم 3\u202c", "a": "0602.mp3" },
+      { "t": "men fadhlek waahed salata", "l": "I would like a starter.", "a": "0603.mp3" },
+      { "t": "men fadhlek waahed shoorba", "l": "I would like a salad.", "a": "0604.mp3" },
+      { "t": "men fadhlek elhalwaa", "l": "I would like a soup.", "a": "0605.mp3" },
+      { "t": "mn fadlik fawakatan 'aw jabnata", "l": "I would like a dessert.", "a": "0606.mp3" },
+      { "t": "men fadhlek noriido an naftor", "l": "I would like an ice cream with whipped cream.", "a": "0607.mp3" },
+      { "t": "men fadhlika noriido an nataghaddaa", "l": "I would like some fruit or cheese.", "a": "0608.mp3" },
+      { "t": "maathaa toriido hathratoka lelfatoor ?", "l": "We would like to have breakfast.", "a": "0609.mp3" },
+      {
+        "t": "khobez hamaam [saamoolii] maaa elmorabbaa walasal?",
+        "l": "We would like to have lunch.",
+        "a": "0610.mp3"
+      },
+      { "t": "khobez twiist maa sajak w jobna?", "l": "We would like to have dinner.", "a": "0611.mp3" },
+      { "t": "baythat  oyoon", "l": "What would you like for breakfast?", "a": "0612.mp3" },
+      { "t": "oomlaat", "l": "Rolls with jam and honey?", "a": "0613.mp3" },
+      { "t": "men fadhlek waahed zabaadii aakhar", "l": "Toast with sausage and cheese?", "a": "0614.mp3" },
+      { "t": "men fadhlika kobbayat maa okhraa", "l": "A boiled egg?", "a": "0615.mp3" },
+      { "t": "", "l": "A fried egg?", "a": "0616.mp3" },
+      { "t": "", "l": "An omelette?", "a": "0617.mp3" },
+      { "t": "", "l": "Another yoghurt, please.", "a": "0618.mp3" },
+      { "t": "", "l": "Some salt and pepper also, please.", "a": "0619.mp3" },
+      { "t": "", "l": "Another glass of water, please.", "a": "0620.mp3" }
+    ]
+  },
+  {
+    "topic": "32 At the restaurant 4",
+    "words": [
+      { "t": "32 [thirty-two]", "l": "\u202b32 [اثنان وثلاثون]\u202c", "a": "0621.mp3" },
+      { "t": "At the restaurant 4", "l": "\u202bفى المطعم 4\u202c", "a": "0622.mp3" },
+      { "t": "wathnaan maa elmaayooniiz", "l": "I’d like chips / French fries (am.) with ketchup.", "a": "0623.mp3" },
+      {
+        "t": "wa thalaatha sajak mohammar maa elkhardal elmostarda",
+        "l": "And two with mayonnaise.",
+        "a": "0624.mp3"
+      },
+      { "t": "maathaa endakom mena khodhraawaat?", "l": "And three sausages with mustard.", "a": "0625.mp3" },
+      { "t": "aendakom karnabiit?", "l": "What vegetables do you have?", "a": "0626.mp3" },
+      { "t": "ohebbo akla elthora", "l": "Do you have beans?", "a": "0627.mp3" },
+      { "t": "ohebbo akla elkhiyaar", "l": "Do you have cauliflower?", "a": "0628.mp3" },
+      { "t": "atohebbo aydhan akla elkorraath", "l": "I like to eat (sweet) corn.", "a": "0629.mp3" },
+      { "t": "atohebbo aydhan akla mokhallal malfoof?", "l": "I like to eat cucumber.", "a": "0630.mp3" },
+      { "t": "atohebbo aydhan akla elaadas?", "l": "I like to eat tomatoes.", "a": "0631.mp3" },
+      { "t": "atohebbo aydhan akla elbrookolii?", "l": "Do you also like to eat leek?", "a": "0632.mp3" },
+      { "t": "atohebbo aydhan akla elfolfol elhelw?", "l": "Do you also like to eat sauerkraut?", "a": "0633.mp3" },
+      { "t": "laa ohebbo elbasal", "l": "Do you also like to eat lentils?", "a": "0634.mp3" },
+      { "t": "laa ohebbo elfeter", "l": "Do you also like to eat carrots?", "a": "0635.mp3" },
+      { "t": "", "l": "Do you also like to eat broccoli?", "a": "0636.mp3" },
+      { "t": "", "l": "Do you also like to eat peppers?", "a": "0637.mp3" },
+      { "t": "", "l": "I don’t like onions.", "a": "0638.mp3" },
+      { "t": "", "l": "I don’t like olives.", "a": "0639.mp3" },
+      { "t": "", "l": "I don’t like mushrooms.", "a": "0640.mp3" }
+    ]
+  },
+  {
+    "topic": "33 At the train station",
+    "words": [
+      { "t": "33 [thirty-three]", "l": "\u202b33 [ثلاثة وثلاثون]\u202c", "a": "0641.mp3" },
+      { "t": "At the train station", "l": "\u202bفى محطة القطار\u202c", "a": "0642.mp3" },
+      {
+        "t": "mataa yosaafer elkitaar ettalii ilaa baariiz?",
+        "l": "When is the next train to Berlin?",
+        "a": "0643.mp3"
+      },
+      {
+        "t": "mataa yosaafer elkitaar ettalii ilaa london?",
+        "l": "When is the next train to Paris?",
+        "a": "0644.mp3"
+      },
+      {
+        "t": "fi ayyi saea yosaafir elkitaar ilaa waarsoo?",
+        "l": "When is the next train to London?",
+        "a": "0645.mp3"
+      },
+      {
+        "t": "fi ayyi saea yosaafir elkitaar ilaa boodaabest?",
+        "l": "When does the train for Warsaw leave?",
+        "a": "0646.mp3"
+      },
+      {
+        "t": "men fadhlika tethkirat safar ilaa madriid",
+        "l": "When does the train for Stockholm leave?",
+        "a": "0647.mp3"
+      },
+      {
+        "t": "men fadhlika tethkirat safar ilaa braagh",
+        "l": "When does the train for Budapest leave?",
+        "a": "0648.mp3"
+      },
+      { "t": "mataa yasilo elkitaar ilaa fiiyenna?", "l": "I’d like a ticket to Madrid.", "a": "0649.mp3" },
+      { "t": "mataa yasilo elkitaar ilaa mooskoo?", "l": "I’d like a ticket to Prague.", "a": "0650.mp3" },
+      { "t": "mataa yasilo elkitaar ilaa amesterdaam?", "l": "I’d like a ticket to Bern.", "a": "0651.mp3" },
+      { "t": "men ayyi rasiif yoghaader elkitaar ?", "l": "When does the train arrive in Vienna?", "a": "0652.mp3" },
+      { "t": "hal toojad arabaato nawmen belkitaar?", "l": "When does the train arrive in Moscow?", "a": "0653.mp3" },
+      {
+        "t": "men fadhlika tedhkirat thahaab fakat elaa brooksel",
+        "l": "When does the train arrive in Amsterdam?",
+        "a": "0654.mp3"
+      },
+      { "t": "bikam essariir fi arabat ennawm?", "l": "Do I have to change trains?", "a": "0655.mp3" },
+      { "t": "", "l": "From which platform does the train leave?", "a": "0656.mp3" },
+      { "t": "", "l": "Does the train have sleepers?", "a": "0657.mp3" },
+      { "t": "", "l": "I’d like a one-way ticket to Brussels.", "a": "0658.mp3" },
+      { "t": "", "l": "I’d like a return ticket to Copenhagen.", "a": "0659.mp3" },
+      { "t": "", "l": "What does a berth in the sleeper cost?", "a": "0660.mp3" }
+    ]
+  },
+  {
+    "topic": "34 On the train",
+    "words": [
+      { "t": "34 [thirty-four]", "l": "\u202b34 [أربعة وثلاثون]\u202c", "a": "0661.mp3" },
+      { "t": "On the train", "l": "\u202bفى القطار\u202c", "a": "0662.mp3" },
+      { "t": "mataa yoghaader elkitaar?", "l": "Is that the train to Berlin?", "a": "0663.mp3" },
+      { "t": "mataa yasil elkitaar elaa berliin?", "l": "When does the train leave?", "a": "0664.mp3" },
+      { "t": "esmah lii hal yomkin an amorr ?", "l": "When does the train arrive in Berlin?", "a": "0665.mp3" },
+      { "t": "aatakido anna hadhrataka tajliso fi makaanii", "l": "Excuse me, may I pass?", "a": "0666.mp3" },
+      { "t": "ayna arabat ennawm?", "l": "I think this is my seat.", "a": "0667.mp3" },
+      { "t": "arabt ennawm fi aakher elkitaar", "l": "I think you’re sitting in my seat.", "a": "0668.mp3" },
+      { "t": "ayomkinoni an anaama taht ?", "l": "Where is the sleeper?", "a": "0669.mp3" },
+      { "t": "ayomkinoni an anaama fil wasat?", "l": "The sleeper is at the end of the train.", "a": "0670.mp3" },
+      { "t": "ayomkinoni an anaama fawk?", "l": "And where is the dining car? – At the front.", "a": "0671.mp3" },
+      { "t": "kam yadoomo elsafar ilaa berliin?", "l": "Can I sleep below?", "a": "0672.mp3" },
+      { "t": "hal elkitaar mota'akher?", "l": "Can I sleep in the middle?", "a": "0673.mp3" },
+      { "t": "hal endakom chay'on lelkira'a?", "l": "Can I sleep at the top?", "a": "0674.mp3" },
+      {
+        "t": "mn fadlik hal tawqazni alssaeat alssabieat sbahana?",
+        "l": "When will we get to the border?",
+        "a": "0675.mp3"
+      },
+      { "t": "", "l": "How long does the journey to Berlin take?", "a": "0676.mp3" },
+      { "t": "", "l": "Is the train delayed?", "a": "0677.mp3" },
+      { "t": "", "l": "Do you have something to read?", "a": "0678.mp3" },
+      { "t": "", "l": "Can one get something to eat and to drink here?", "a": "0679.mp3" },
+      { "t": "", "l": "Could you please wake me up at 7 o’clock?", "a": "0680.mp3" }
+    ]
+  },
+  {
+    "topic": "35 At the airport",
+    "words": [
+      { "t": "35 [thirty-five]", "l": "\u202b35 [خمسة وثلاثون]\u202c", "a": "0681.mp3" },
+      { "t": "At the airport", "l": "\u202bفى المطار\u202c", "a": "0682.mp3" },
+      { "t": "hal hathaa tayaraan mobaacher?", "l": "I’d like to book a flight to Athens.", "a": "0683.mp3" },
+      {
+        "t": "men fadhlek makad bijaaneb elnaafitha, hgayr elmodakhkhiniin",
+        "l": "Is it a direct flight?",
+        "a": "0684.mp3"
+      },
+      { "t": "men fadhlika oriido ta'kiida elhajz", "l": "A window seat, non-smoking, please.", "a": "0685.mp3" },
+      { "t": "men fadhlika oriido taadiila elhajz", "l": "I would like to confirm my reservation.", "a": "0686.mp3" },
+      {
+        "t": "mataa toklio ettaira ettaliya ilaa roomaa",
+        "l": "I would like to cancel my reservation.",
+        "a": "0687.mp3"
+      },
+      { "t": "hal maazaala yoojad makaan lethnayn?", "l": "I would like to change my reservation.", "a": "0688.mp3" },
+      { "t": "mataa nahbet?", "l": "When is the next flight to Rome?", "a": "0689.mp3" },
+      { "t": "mataa nasel ?", "l": "Are there two seats available?", "a": "0690.mp3" },
+      {
+        "t": "mataa yadhhab elbaas ilaa wasat elmadiina?",
+        "l": "No, we have only one seat available.",
+        "a": "0691.mp3"
+      },
+      { "t": "hal hathihi shantatouka?", "l": "When do we land?", "a": "0692.mp3" },
+      { "t": "hal hathihi amtiatoka?", "l": "When will we be there?", "a": "0693.mp3" },
+      {
+        "t": "kam aakhoth mayii amtiatan fittaira?",
+        "l": "When does a bus go to the city centre / center (am.)?",
+        "a": "0694.mp3"
+      },
+      { "t": "kam? Fakat echriina kiiloo?", "l": "Is that your suitcase?", "a": "0695.mp3" },
+      { "t": "", "l": "Is that your bag?", "a": "0696.mp3" },
+      { "t": "", "l": "Is that your luggage?", "a": "0697.mp3" },
+      { "t": "", "l": "How much luggage can I take?", "a": "0698.mp3" },
+      { "t": "", "l": "Twenty kilos.", "a": "0699.mp3" },
+      { "t": "", "l": "What? Only twenty kilos?", "a": "0700.mp3" }
+    ]
+  },
+  {
+    "topic": "36 Public transportation",
+    "words": [
+      { "t": "36 [thirty-six]", "l": "\u202b36 [ستة وثلاثون]\u202c", "a": "0701.mp3" },
+      { "t": "Public transportation", "l": "\u202bالمواصلات العامة القريبة\u202c", "a": "0702.mp3" },
+      { "t": "ayyou baas ellathi yathhab ila wasat elmadiina?", "l": "Where is the bus stop?", "a": "0703.mp3" },
+      {
+        "t": "ayyou khatt yajibo an aakhoth?",
+        "l": "Which bus goes to the city centre / center (am.)?",
+        "a": "0704.mp3"
+      },
+      { "t": "hal yajibo an obaddila elbaas fissafra?", "l": "Which bus do I have to take?", "a": "0705.mp3" },
+      { "t": "bikam tedhkirat essafar?", "l": "Do I have to change?", "a": "0706.mp3" },
+      {
+        "t": "kam adado mahattat eltawakkof hattaa wasat elmadiina?",
+        "l": "Where do I have to change?",
+        "a": "0707.mp3"
+      },
+      { "t": "yajibo an tanzila honaa", "l": "How much does a ticket cost?", "a": "0708.mp3" },
+      {
+        "t": "elmetroo ettaalii sayasil khilaala khams dakaa'ek",
+        "l": "How many stops are there before downtown / the city centre?",
+        "a": "0709.mp3"
+      },
+      { "t": "ettram ettalii sayasil khilaala ashar dakaa'ek", "l": "You have to get off here.", "a": "0710.mp3" },
+      {
+        "t": "albas alttali sayasil khilal khmst eshr daqiqata",
+        "l": "You have to get off at the back.",
+        "a": "0711.mp3"
+      },
+      { "t": "mataa yosaafer aakher traam?", "l": "The next train is in 5 minutes.", "a": "0712.mp3" },
+      { "t": "mataa yosaafer aakher baas?", "l": "The next tram is in 10 minutes.", "a": "0713.mp3" },
+      { "t": "hal maaka tethkirat safar?", "l": "The next bus is in 15 minutes.", "a": "0714.mp3" },
+      { "t": "idhan alayka an tadfaea gharaama", "l": "When is the last train?", "a": "0715.mp3" },
+      { "t": "", "l": "When is the last tram?", "a": "0716.mp3" },
+      { "t": "", "l": "When is the last bus?", "a": "0717.mp3" },
+      { "t": "", "l": "Do you have a ticket?", "a": "0718.mp3" },
+      { "t": "", "l": "A ticket? – No, I don’t have one.", "a": "0719.mp3" },
+      { "t": "", "l": "Then you have to pay a fine.", "a": "0720.mp3" }
+    ]
+  },
+  {
+    "topic": "37 En route",
+    "words": [
+      { "t": "37 [thirty-seven]", "l": "\u202b37 [سبعة وثلاثون]\u202c", "a": "0721.mp3" },
+      { "t": "En route", "l": "\u202bفى الطريق\u202c", "a": "0722.mp3" },
+      { "t": "howa yossafir belbaasikliit [addarraaja]", "l": "He drives a motorbike.", "a": "0723.mp3" },
+      { "t": "howa yahhab alaa elakdaam", "l": "He rides a bicycle.", "a": "0724.mp3" },
+      { "t": "yowa yosaafir bessafiina", "l": "He walks.", "a": "0725.mp3" },
+      { "t": "howa yasbah", "l": "He goes by ship.", "a": "0726.mp3" },
+      { "t": "hal hathaa elmakaan khater?", "l": "He goes by boat.", "a": "0727.mp3" },
+      { "t": "hal safar elwaahed lwahdeh belotoostoob khatiir?", "l": "He swims.", "a": "0728.mp3" },
+      { "t": "lakad adhaanaa ettariik", "l": "Is it dangerous here?", "a": "0729.mp3" },
+      { "t": "nahno fittarik elkhaate'", "l": "Is it dangerous to hitchhike alone?", "a": "0730.mp3" },
+      { "t": "yajibo an nadoora w narjaa", "l": "Is it dangerous to go for a walk at night?", "a": "0731.mp3" },
+      { "t": "ayoojad honaa mawkef sayyaraat?", "l": "We got lost.", "a": "0732.mp3" },
+      { "t": "kam elmodda ellatii yomkin wokoofohaa hona?", "l": "We’re on the wrong road.", "a": "0733.mp3" },
+      { "t": "hal tomaares esskii?", "l": "We must turn around.", "a": "0734.mp3" },
+      { "t": "hal yomkin honaa est'ejaar zallaajaat skii ?", "l": "Where can one park here?", "a": "0735.mp3" },
+      { "t": "", "l": "Is there a parking lot here?", "a": "0736.mp3" },
+      { "t": "", "l": "How long can one park here?", "a": "0737.mp3" },
+      { "t": "", "l": "Do you ski?", "a": "0738.mp3" },
+      { "t": "", "l": "Do you take the ski lift to the top?", "a": "0739.mp3" },
+      { "t": "", "l": "Can one rent skis here?", "a": "0740.mp3" }
+    ]
+  },
+  {
+    "topic": "38 In the taxi",
+    "words": [
+      { "t": "38 [thirty-eight]", "l": "\u202b38 [ثمانيةٍ وثلاثون]\u202c", "a": "0741.mp3" },
+      { "t": "In the taxi", "l": "\u202bفى التاكسى\u202c", "a": "0742.mp3" },
+      { "t": "kam tokallef ilaa mahattat elkitaar?", "l": "Please call a taxi.", "a": "0743.mp3" },
+      { "t": "kam tokallef ilaa elmataar?", "l": "What does it cost to go to the station?", "a": "0744.mp3" },
+      { "t": "men fadhlik alaa tool", "l": "What does it cost to go to the airport?", "a": "0745.mp3" },
+      { "t": "men fadhlik, honaak enda ezzawiya ilaa elyasaar", "l": "Please go straight ahead.", "a": "0746.mp3" },
+      { "t": "ana mostaajel", "l": "Please turn right here.", "a": "0747.mp3" },
+      { "t": "maayii  wakt", "l": "Please turn left at the corner.", "a": "0748.mp3" },
+      { "t": "men fadhlek tawakaf honaa", "l": "I’m in a hurry.", "a": "0749.mp3" },
+      { "t": "men fadhlek intadher lahdha", "l": "I have time.", "a": "0750.mp3" },
+      { "t": "anaa raajaa fawran", "l": "Please drive slowly.", "a": "0751.mp3" },
+      { "t": "maa mayii fakka", "l": "Please stop here.", "a": "0752.mp3" },
+      { "t": "tamam, elbaakii lak", "l": "Please wait a moment.", "a": "0753.mp3" },
+      { "t": "awselnii ilaa hatha elenwaan", "l": "I’ll be back immediately.", "a": "0754.mp3" },
+      { "t": "awselnii ilaa eshshate'e", "l": "Please give me a receipt.", "a": "0755.mp3" },
+      { "t": "", "l": "I have no change.", "a": "0756.mp3" },
+      { "t": "", "l": "That is okay, please keep the change.", "a": "0757.mp3" },
+      { "t": "", "l": "Drive me to this address.", "a": "0758.mp3" },
+      { "t": "", "l": "Drive me to my hotel.", "a": "0759.mp3" },
+      { "t": "", "l": "Drive me to the beach.", "a": "0760.mp3" }
+    ]
+  },
+  {
+    "topic": "39 Car breakdown",
+    "words": [
+      { "t": "39 [thirty-nine]", "l": "\u202b39 [تسعة وثلاثون]\u202c", "a": "0761.mp3" },
+      { "t": "Car breakdown", "l": "\u202bتعطل السيارة\u202c", "a": "0762.mp3" },
+      { "t": "mayii ajal mobanchar", "l": "Where is the next gas station?", "a": "0763.mp3" },
+      { "t": "hal womkinoka taghyiir elitaar?", "l": "I have a flat tyre / tire (am.).", "a": "0764.mp3" },
+      { "t": "ahtaaj eddat litraat diizel", "l": "Can you change the tyre / tire (am.)?", "a": "0765.mp3" },
+      {
+        "t": "hal endaka gaaloon benziin ehtiyaatii?",
+        "l": "I need a few litres / liters (am.) of diesel.",
+        "a": "0766.mp3"
+      },
+      { "t": "ayna yomkinonii an attasil bettitifoon?", "l": "I have no more petrol / gas (am.).", "a": "0767.mp3" },
+      {
+        "t": "ahtaajo lkhedmat sahb sayyaara",
+        "l": "Do you have a petrol can / jerry can / gas can (am.)?",
+        "a": "0768.mp3"
+      },
+      { "t": "lakad wakaa haadeth sayyaara", "l": "Where can I make a call?", "a": "0769.mp3" },
+      { "t": "ayna yoojad akrab telifoon?", "l": "I need a towing service.", "a": "0770.mp3" },
+      { "t": "hal maeaka jawwal[khalawii]?", "l": "I’m looking for a garage.", "a": "0771.mp3" },
+      { "t": "ittasel bettabiib!", "l": "An accident has occurred.", "a": "0772.mp3" },
+      { "t": "ettasel beshshorta", "l": "Where is the nearest telephone?", "a": "0773.mp3" },
+      { "t": "roghasoka men fadhlik", "l": "Do you have a mobile / cell phone (am.) with you?", "a": "0774.mp3" },
+      { "t": "rokhsat essayyaara men fadhlek", "l": "We need help.", "a": "0775.mp3" },
+      { "t": "", "l": "Call a doctor!", "a": "0776.mp3" },
+      { "t": "", "l": "Call the police!", "a": "0777.mp3" },
+      { "t": "", "l": "Your papers, please.", "a": "0778.mp3" },
+      { "t": "", "l": "Your licence / license (am.), please.", "a": "0779.mp3" },
+      { "t": "", "l": "Your registration, please.", "a": "0780.mp3" }
+    ]
+  },
+  {
+    "topic": "40 Asking for directions",
+    "words": [
+      { "t": "40 [forty]", "l": "\u202b40 [أربعون]\u202c", "a": "0781.mp3" },
+      { "t": "Asking for directions", "l": "\u202bالسؤال عن الطريق\u202c", "a": "0782.mp3" },
+      { "t": "hal yomkinoka mosaaedatii", "l": "Excuse me!", "a": "0783.mp3" },
+      { "t": "ayna yoojad honaa mataam jayyid", "l": "Can you help me?", "a": "0784.mp3" },
+      {
+        "t": "edhhab lijihat elyassar enda ezzawiya",
+        "l": "Is there a good restaurant around here?",
+        "a": "0785.mp3"
+      },
+      { "t": "thomma ethhab ilaa jihat elyamiin ma'at meter", "l": "Take a left at the corner.", "a": "0786.mp3" },
+      { "t": "yomkinoka aydhan an ta'khoth elbaas", "l": "Then go straight for a while.", "a": "0787.mp3" },
+      {
+        "t": "yomkinoka aydhan an ta'khoth ettraam",
+        "l": "Then go right for a hundred metres / meters (am.).",
+        "a": "0788.mp3"
+      },
+      { "t": "kayfa asel ilaa staad koorat elkadam?", "l": "You can also take the bus.", "a": "0789.mp3" },
+      { "t": "iktaa eljesser!", "l": "You can also take the tram.", "a": "0790.mp3" },
+      { "t": "oobor ennafak!", "l": "You can also follow me with your car.", "a": "0791.mp3" },
+      {
+        "t": "thomma enatef yamiinan enda awwali shaarae",
+        "l": "How do I get to the football / soccer (am.) stadium?",
+        "a": "0792.mp3"
+      },
+      { "t": "thomma ser alaa khatten mostakiim alaa ettakaatoe ettaalii", "l": "Cross the bridge!", "a": "0793.mp3" },
+      { "t": "men fadhlik kayfa asil ila elmataar?", "l": "Go through the tunnel!", "a": "0794.mp3" },
+      {
+        "t": "irkab bebasaata hattaa aakher mahatta",
+        "l": "Drive until you reach the third traffic light.",
+        "a": "0795.mp3"
+      },
+      { "t": "", "l": "Then turn into the first street on your right.", "a": "0796.mp3" },
+      { "t": "", "l": "Then drive straight through the next intersection.", "a": "0797.mp3" },
+      { "t": "", "l": "Excuse me, how do I get to the airport?", "a": "0798.mp3" },
+      { "t": "", "l": "It is best if you take the underground / subway (am.).", "a": "0799.mp3" },
+      { "t": "", "l": "Simply get out at the last stop.", "a": "0800.mp3" }
+    ]
+  },
+  {
+    "topic": "41 Where is ... ?",
+    "words": [
+      { "t": "41 [forty-one]", "l": "\u202b41 [واحد وأربعون]\u202c", "a": "0801.mp3" },
+      { "t": "Where is ... ?", "l": "\u202bالتوجيه\u202c", "a": "0802.mp3" },
+      {
+        "t": "hal endakom lii khaaritaton lelmadiina?",
+        "l": "Where is the tourist information office?",
+        "a": "0803.mp3"
+      },
+      { "t": "hal yomkin honaa hajz ghorfat fi fondek?", "l": "Do you have a city map for me?", "a": "0804.mp3" },
+      { "t": "ayna hioya elmadiinat elkadiima?", "l": "Can one reserve a room here?", "a": "0805.mp3" },
+      { "t": "ayna elmothaf?", "l": "Where is the old city?", "a": "0806.mp3" },
+      { "t": "ayna yomkin shira'a tawaabaa bariid", "l": "Where is the cathedral?", "a": "0807.mp3" },
+      { "t": "ayna yokin shira'a zohoor", "l": "Where is the museum?", "a": "0808.mp3" },
+      { "t": "ayna elmiinaa'a", "l": "Where can one buy stamps?", "a": "0809.mp3" },
+      { "t": "ayna essook?", "l": "Where can one buy flowers?", "a": "0810.mp3" },
+      { "t": "ayna elkaser?", "l": "Where can one buy tickets?", "a": "0811.mp3" },
+      { "t": "mataa tantahii eljawla?", "l": "Where is the harbour / harbor (am.)?", "a": "0812.mp3" },
+      { "t": "kam moddat eljawla?", "l": "Where is the market?", "a": "0813.mp3" },
+      { "t": "oriido morshidan yatahaddath elalmaaniya", "l": "Where is the castle?", "a": "0814.mp3" },
+      { "t": "oriido morshidan yatahaddath elfiransiya", "l": "When does the tour begin?", "a": "0815.mp3" },
+      { "t": "", "l": "When does the tour end?", "a": "0816.mp3" },
+      { "t": "", "l": "How long is the tour?", "a": "0817.mp3" },
+      { "t": "", "l": "I would like a guide who speaks German.", "a": "0818.mp3" },
+      { "t": "", "l": "I would like a guide who speaks Italian.", "a": "0819.mp3" },
+      { "t": "", "l": "I would like a guide who speaks French.", "a": "0820.mp3" }
+    ]
+  },
+  {
+    "topic": "42 City tour",
+    "words": [
+      { "t": "42 [forty-two]", "l": "\u202b42 [اثنان وأربعون]\u202c", "a": "0821.mp3" },
+      { "t": "City tour", "l": "\u202bزيارة المدينة\u202c", "a": "0822.mp3" },
+      { "t": "hal yaftah elmaaradh ayaam elethnayn?", "l": "Is the market open on Sundays?", "a": "0823.mp3" },
+      { "t": "hal yaftah elmaaradh ayaam eththolaathaa?", "l": "Is the fair open on Mondays?", "a": "0824.mp3" },
+      {
+        "t": "hal taftah hadiikat elhayawaan ayyam elerbiaa'a?",
+        "l": "Is the exhibition open on Tuesdays?",
+        "a": "0825.mp3"
+      },
+      { "t": "hal yaftah elgaliirii ayyam eljomoa?", "l": "Is the zoo open on Wednesdays?", "a": "0826.mp3" },
+      { "t": "hal yosmah betaswiir?", "l": "Is the museum open on Thursdays?", "a": "0827.mp3" },
+      { "t": "hal yajibo daffae rasm eddokhool?", "l": "Is the gallery open on Fridays?", "a": "0828.mp3" },
+      { "t": "hal yoojad takhfiidh lelmajmooaat?", "l": "Can one take photographs?", "a": "0829.mp3" },
+      { "t": "hal yoojad takhfiidh lelatfaal?", "l": "Does one have to pay an entrance fee?", "a": "0830.mp3" },
+      { "t": "hal yoojad takhfiidh letalaba?", "l": "How much is the entrance fee?", "a": "0831.mp3" },
+      { "t": "kam omor hathaa elmabnaa?", "l": "Is there a discount for groups?", "a": "0832.mp3" },
+      { "t": "man banaa hathaa elmabnaa?", "l": "Is there a discount for children?", "a": "0833.mp3" },
+      { "t": "ana mohtammon belhandasa elmeamaariya", "l": "Is there a discount for students?", "a": "0834.mp3" },
+      { "t": "ana mohtammon berrasm", "l": "What building is that?", "a": "0835.mp3" },
+      { "t": "", "l": "How old is the building?", "a": "0836.mp3" },
+      { "t": "", "l": "Who built the building?", "a": "0837.mp3" },
+      { "t": "", "l": "I’m interested in architecture.", "a": "0838.mp3" },
+      { "t": "", "l": "I’m interested in art.", "a": "0839.mp3" },
+      { "t": "", "l": "I’m interested in paintings.", "a": "0840.mp3" }
+    ]
+  },
+  {
+    "topic": "43 At the zoo",
+    "words": [
+      { "t": "43 [forty-three]", "l": "\u202b43 [ثلاثة وأربعون]\u202c", "a": "0841.mp3" },
+      { "t": "At the zoo", "l": "\u202bفى حديقة الحيوان\u202c", "a": "0842.mp3" },
+      { "t": "honaaka elzaraafaat", "l": "The zoo is there.", "a": "0843.mp3" },
+      { "t": "ayna eddibaba?", "l": "The giraffes are there.", "a": "0844.mp3" },
+      { "t": "ayna elfiyala?", "l": "Where are the bears?", "a": "0845.mp3" },
+      { "t": "ayna el'osood?", "l": "Where are the elephants?", "a": "0846.mp3" },
+      { "t": "mayii kaamiraa sowar", "l": "Where are the snakes?", "a": "0847.mp3" },
+      { "t": "mayii kaamiraa fiidiyoo", "l": "Where are the lions?", "a": "0848.mp3" },
+      { "t": "ayna toyoor elbatriik?", "l": "I have a camera.", "a": "0849.mp3" },
+      { "t": "ayna elkanghar?", "l": "I also have a video camera.", "a": "0850.mp3" },
+      { "t": "aayna wahiido elkarn?", "l": "Where can I find a battery?", "a": "0851.mp3" },
+      { "t": "honaak makhaa", "l": "Where are the penguins?", "a": "0852.mp3" },
+      { "t": "honaak mataam", "l": "Where are the kangaroos?", "a": "0853.mp3" },
+      { "t": "ayna eljimaal?", "l": "Where are the rhinos?", "a": "0854.mp3" },
+      { "t": "ayna ennomoor wettamaasiih?", "l": "Where is the toilet / restroom (am.)?", "a": "0855.mp3" },
+      { "t": "", "l": "There is a café over there.", "a": "0856.mp3" },
+      { "t": "", "l": "There is a restaurant over there.", "a": "0857.mp3" },
+      { "t": "", "l": "Where are the camels?", "a": "0858.mp3" },
+      { "t": "", "l": "Where are the gorillas and the zebras?", "a": "0859.mp3" },
+      { "t": "", "l": "Where are the tigers and the crocodiles?", "a": "0860.mp3" }
+    ]
+  },
+  {
+    "topic": "44 Going out in the evening",
+    "words": [
+      { "t": "44 [forty-four]", "l": "\u202b44 [أربعة وأربعون]\u202c", "a": "0861.mp3" },
+      { "t": "Going out in the evening", "l": "\u202bالخروج مساءً\u202c", "a": "0862.mp3" },
+      { "t": "hal yoojad honaa naadii mlaylii?", "l": "Is there a disco here?", "a": "0863.mp3" },
+      { "t": "hal toojad hona haana?", "l": "Is there a nightclub here?", "a": "0864.mp3" },
+      { "t": "maathaa yoojad fil masrah masaa'a elyawm?", "l": "Is there a pub here?", "a": "0865.mp3" },
+      {
+        "t": "maathaa yoojad fil telfezyoon massa'a elyawm?",
+        "l": "What’s playing at the theatre / theater (am.) this evening?",
+        "a": "0866.mp3"
+      },
+      {
+        "t": "hal maazala toojad tadhaaker lelmasrah?",
+        "l": "What’s playing at the cinema / movies (am.) this evening?",
+        "a": "0867.mp3"
+      },
+      { "t": "hal mazaalt toojad tadhaaker lessinimaa?", "l": "What’s on TV this evening?", "a": "0868.mp3" },
+      {
+        "t": "oriido an ajlissa tamaaman fil khalf",
+        "l": "Are tickets for the theatre / theater (am.) still available?",
+        "a": "0869.mp3"
+      },
+      {
+        "t": "oriido an ajlissa fii makaanen maa fil wasat",
+        "l": "Are tickets for the cinema / movies (am.) still available?",
+        "a": "0870.mp3"
+      },
+      {
+        "t": "oriido an ajlissa tamaaman fil amaam",
+        "l": "Are tickets for the football / soccer am. game still available?",
+        "a": "0871.mp3"
+      },
+      { "t": "mataa yabda'a elardh?", "l": "I want to sit in the back.", "a": "0872.mp3" },
+      { "t": "hal yomkinoka tadbiir tethkira lii?", "l": "I want to sit somewhere in the middle.", "a": "0873.mp3" },
+      { "t": "hal yoojad malab golef kariib men honaa?", "l": "I want to sit at the front.", "a": "0874.mp3" },
+      { "t": "hal yoojad masbah kariib men hoonaa?", "l": "Could you recommend something?", "a": "0875.mp3" },
+      { "t": "", "l": "When does the show begin?", "a": "0876.mp3" },
+      { "t": "", "l": "Can you get me a ticket?", "a": "0877.mp3" },
+      { "t": "", "l": "Is there a golf course nearby?", "a": "0878.mp3" },
+      { "t": "", "l": "Is there a tennis court nearby?", "a": "0879.mp3" },
+      { "t": "", "l": "Is there an indoor swimming pool nearby?", "a": "0880.mp3" }
+    ]
+  },
+  {
+    "topic": "45 At the cinema",
+    "words": [
+      { "t": "45 [forty-five]", "l": "\u202b45 [خمسة وأربعون]\u202c", "a": "0881.mp3" },
+      { "t": "At the cinema", "l": "\u202bفى السينما\u202c", "a": "0882.mp3" },
+      { "t": "elyawm yoaradh fiilm jadiid", "l": "We want to go to the cinema.", "a": "0883.mp3" },
+      { "t": "elfiilm jadiid tamaaman", "l": "A good film is playing today.", "a": "0884.mp3" },
+      { "t": "ayna shobbak ettathaaker?", "l": "The film is brand new.", "a": "0885.mp3" },
+      { "t": "bikam tathaakor eddokhool?", "l": "Where is the cash register?", "a": "0886.mp3" },
+      { "t": "mataa yabda'a elardh?", "l": "Are seats still available?", "a": "0887.mp3" },
+      { "t": "kam yadoom elfiilm?", "l": "How much are the admission tickets?", "a": "0888.mp3" },
+      { "t": "oriido an ajlissa filkhalef", "l": "When does the show begin?", "a": "0889.mp3" },
+      { "t": "oriido an ajlissa filamaam", "l": "How long is the film?", "a": "0890.mp3" },
+      { "t": "oriido an ajlissa filwassat", "l": "Can one reserve tickets?", "a": "0891.mp3" },
+      { "t": "lam yakon elfilm momellan", "l": "I want to sit at the back.", "a": "0892.mp3" },
+      {
+        "t": "laken elkitaab elma'akhooth anho elfilm kaana afdhal",
+        "l": "I want to sit at the front.",
+        "a": "0893.mp3"
+      },
+      { "t": "kayfa kaanat elmoosiikaa?", "l": "I want to sit in the middle.", "a": "0894.mp3" },
+      { "t": "hal kanat honaak tarjamaton hiyaariya belingliiziya?", "l": "The film was exciting.", "a": "0895.mp3" },
+      { "t": "", "l": "The film was not boring.", "a": "0896.mp3" },
+      { "t": "", "l": "But the book on which the film was based was better.", "a": "0897.mp3" },
+      { "t": "", "l": "How was the music?", "a": "0898.mp3" },
+      { "t": "", "l": "How were the actors?", "a": "0899.mp3" },
+      { "t": "", "l": "Were there English subtitles?", "a": "0900.mp3" }
+    ]
+  },
+  {
+    "topic": "46 In the discotheque",
+    "words": [
+      { "t": "46 [forty-six]", "l": "\u202b46 [ستة وأربعون]\u202c", "a": "0901.mp3" },
+      { "t": "In the discotheque", "l": "\u202bفى صالة الديسكو\u202c", "a": "0902.mp3" },
+      { "t": "hal tasmah lii  an ajlissa bjiwaark?", "l": "Is this seat taken?", "a": "0903.mp3" },
+      { "t": "bikolli soroor", "l": "May I sit with you?", "a": "0904.mp3" },
+      { "t": "kayfa wajadta elmoossiikaa?", "l": "Sure.", "a": "0905.mp3" },
+      { "t": "laken elferka taazif jayyid jeddan", "l": "How do you like the music?", "a": "0906.mp3" },
+      { "t": "hal ta'etii miraaran ilaa honaa", "l": "A little too loud.", "a": "0907.mp3" },
+      { "t": "laa, hathihi hiya elmarra el'olaa", "l": "But the band plays very well.", "a": "0908.mp3" },
+      { "t": "hal toriid an tarkoss?", "l": "Do you come here often?", "a": "0909.mp3" },
+      { "t": "momken laahikan", "l": "No, this is the first time.", "a": "0910.mp3" },
+      { "t": "laa astatiie an arkossa jayyidan", "l": "I’ve never been here before.", "a": "0911.mp3" },
+      { "t": "ana oriik", "l": "Would you like to dance?", "a": "0912.mp3" },
+      { "t": "laa,elafthal fii marratin o5raa", "l": "Maybe later.", "a": "0913.mp3" },
+      { "t": "hal tantadhir ahadan?", "l": "I can’t dance very well.", "a": "0914.mp3" },
+      { "t": "hahowa ya'ti honaa belkhalf", "l": "It’s very easy.", "a": "0915.mp3" },
+      { "t": "", "l": "I’ll show you.", "a": "0916.mp3" },
+      { "t": "", "l": "No, maybe some other time.", "a": "0917.mp3" },
+      { "t": "", "l": "Are you waiting for someone?", "a": "0918.mp3" },
+      { "t": "", "l": "Yes, for my boyfriend.", "a": "0919.mp3" },
+      { "t": "", "l": "There he is!", "a": "0920.mp3" }
+    ]
+  },
+  {
+    "topic": "47 Preparing a trip",
+    "words": [
+      { "t": "47 [forty-seven]", "l": "\u202b47 [سبعة وأربعون]\u202c", "a": "0921.mp3" },
+      { "t": "Preparing a trip", "l": "\u202bالإعداد للسفر\u202c", "a": "0922.mp3" },
+      { "t": "yajibo an laa nansa shay'an!", "l": "You have to pack our suitcase!", "a": "0923.mp3" },
+      { "t": "tahtaajou ilaa shantaten kabiira", "l": "Don’t forget anything!", "a": "0924.mp3" },
+      { "t": "laa tanssa jawaaza essafar!", "l": "You need a big suitcase!", "a": "0925.mp3" },
+      { "t": "la tanssa eshshikaat essiyaahiya", "l": "Don’t forget your passport!", "a": "0926.mp3" },
+      { "t": "khoth maaka kriim waakii mena eshshames", "l": "Don’t forget your ticket!", "a": "0927.mp3" },
+      {
+        "t": "khodh maaka ennadhdhaara eshshamsiya",
+        "l": "Don’t forget your traveller’s cheques / traveler’s checks (am.)!",
+        "a": "0928.mp3"
+      },
+      {
+        "t": "hal toriid an ta'ekhotha maaka khariitat torok?",
+        "l": "Take some suntan lotion with you.",
+        "a": "0929.mp3"
+      },
+      {
+        "t": "hal toriid an ta'ekhotha maaka morshed siyaahii?",
+        "l": "Take the sun-glasses with you.",
+        "a": "0930.mp3"
+      },
+      { "t": "hal toriido an ta'ekhotha maaka methallat matar?", "l": "Take the sun hat with you.", "a": "0931.mp3" },
+      {
+        "t": "tathakkar rabtaat elonok, wa elahzima, wa essotraat",
+        "l": "Do you want to take a road map?",
+        "a": "0932.mp3"
+      },
+      {
+        "t": "tadhakkar elbiijaamaat, wa komssan ennawm, wa ettiishertaat",
+        "l": "Do you want to take a travel guide?",
+        "a": "0933.mp3"
+      },
+      {
+        "t": "anta tahtaaj ilaa ahthiya, wa snaadel, wa jizam",
+        "l": "Do you want to take an umbrella?",
+        "a": "0934.mp3"
+      },
+      {
+        "t": "tahtaaj ilaa mosht, wa forfaat asnaan, wa maajoon asnaan",
+        "l": "Remember to take pants, shirts and socks.",
+        "a": "0935.mp3"
+      },
+      { "t": "", "l": "Remember to take ties, belts and sports jackets.", "a": "0936.mp3" },
+      { "t": "", "l": "Remember to take pyjamas, nightgowns and t-shirts.", "a": "0937.mp3" },
+      { "t": "", "l": "You need shoes, sandals and boots.", "a": "0938.mp3" },
+      { "t": "", "l": "You need handkerchiefs, soap and a nail clipper.", "a": "0939.mp3" },
+      { "t": "", "l": "You need a comb, a toothbrush and toothpaste.", "a": "0940.mp3" }
+    ]
+  },
+  {
+    "topic": "48 Vacation activities",
+    "words": [
+      { "t": "48 [forty-eight]", "l": "\u202b48 [ثمانية وأربعون]\u202c", "a": "0941.mp3" },
+      { "t": "Vacation activities", "l": "\u202bأنشطة العطلات\u202c", "a": "0942.mp3" },
+      { "t": "hal tomkino fiih essibaaha?", "l": "Is the beach clean?", "a": "0943.mp3" },
+      { "t": "hal essibaaha fiih ghayr khatira?", "l": "Can one swim there?", "a": "0944.mp3" },
+      {
+        "t": "hal yomkino honaa est'ejaar methalla shamsiya?",
+        "l": "Isn’t it dangerous to swim there?",
+        "a": "0945.mp3"
+      },
+      {
+        "t": "hal yomkino hona est'ejaar kaareb?",
+        "l": "Can one rent a sun umbrella / parasol here?",
+        "a": "0946.mp3"
+      },
+      { "t": "ohibbo an arkaba elmawj?", "l": "Can one rent a deck chair here?", "a": "0947.mp3" },
+      { "t": "ohibbo an aghtoss", "l": "Can one rent a boat here?", "a": "0948.mp3" },
+      { "t": "hal yomkino ist'ejaar  zallajaat elmawj?", "l": "I would like to surf.", "a": "0949.mp3" },
+      { "t": "hal yomkino ist'ejaar  maadaat elghatss?", "l": "I would like to dive.", "a": "0950.mp3" },
+      { "t": "hal yomkino ist'ejaar zallajaat elmaa?", "l": "I would like to water ski.", "a": "0951.mp3" },
+      { "t": "anaa fii mostawaa wasat", "l": "Can one rent a surfboard?", "a": "0952.mp3" },
+      { "t": "astatiio ettaamol maea thalika jayyidan", "l": "Can one rent diving equipment?", "a": "0953.mp3" },
+      { "t": "ayna etliifriik?", "l": "Can one rent water skis?", "a": "0954.mp3" },
+      { "t": "hal maaka hithaa'a esskii?", "l": "I’m only a beginner.", "a": "0955.mp3" },
+      { "t": "", "l": "I’m moderately good.", "a": "0956.mp3" },
+      { "t": "", "l": "I’m pretty good at it.", "a": "0957.mp3" },
+      { "t": "", "l": "Where is the ski lift?", "a": "0958.mp3" },
+      { "t": "", "l": "Do you have skis?", "a": "0959.mp3" },
+      { "t": "", "l": "Do you have ski boots?", "a": "0960.mp3" }
+    ]
+  },
+  {
+    "topic": "49 Sports",
+    "words": [
+      { "t": "49 [forty-nine]", "l": "\u202b49 [تسعة وأربعون]\u202c", "a": "0961.mp3" },
+      { "t": "Sports", "l": "\u202bالرياضة\u202c", "a": "0962.mp3" },
+      { "t": "naam, yajib an attaharrak", "l": "Do you exercise?", "a": "0963.mp3" },
+      { "t": "anaa omshtarik fii naden riyaadhii", "l": "Yes, I need some exercise.", "a": "0964.mp3" },
+      { "t": "nalaab korat elkadam", "l": "I am a member of a sports club.", "a": "0965.mp3" },
+      { "t": "aw narkab eddarraajaat", "l": "We play football / soccer (am.).", "a": "0966.mp3" },
+      { "t": "yoojad fii madiinatinaa istaad korat kadam", "l": "We swim sometimes.", "a": "0967.mp3" },
+      { "t": "yoojad kadhalika masbah bihi saawnaa", "l": "Or we cycle.", "a": "0968.mp3" },
+      {
+        "t": "maathaa yoojad fii etelfezyoon",
+        "l": "There is a football / soccer (am.) stadium in our city.",
+        "a": "0969.mp3"
+      },
+      {
+        "t": "tooradho haaliyan mobaaraat korat kadam",
+        "l": "There is also a swimming pool with a sauna.",
+        "a": "0970.mp3"
+      },
+      {
+        "t": "elmontakhab elalmaanii yalab dhedda elmontakhab elengliizii",
+        "l": "And there is a golf course.",
+        "a": "0971.mp3"
+      },
+      { "t": "laa adrii", "l": "What is on TV?", "a": "0972.mp3" },
+      { "t": "haliyan taadol", "l": "There is a football / soccer (am.) match on now.", "a": "0973.mp3" },
+      { "t": "elhakam men beljiikaa", "l": "The German team is playing against the English one.", "a": "0974.mp3" },
+      { "t": "hadaf! Waahed lisefr!", "l": "Who is winning?", "a": "0975.mp3" },
+      { "t": "", "l": "I have no idea.", "a": "0976.mp3" },
+      { "t": "", "l": "It is currently a tie.", "a": "0977.mp3" },
+      { "t": "", "l": "The referee is from Belgium.", "a": "0978.mp3" },
+      { "t": "", "l": "Now there is a penalty.", "a": "0979.mp3" },
+      { "t": "", "l": "Goal! One – zero!", "a": "0980.mp3" }
+    ]
+  },
+  {
+    "topic": "50 In the swimming pool",
+    "words": [
+      { "t": "50 [fifty]", "l": "\u202b50 [خمسون]\u202c", "a": "0981.mp3" },
+      { "t": "In the swimming pool", "l": "\u202bفى المسبح\u202c", "a": "0982.mp3" },
+      { "t": "hal nathhab ilaa elmassrah", "l": "It is hot today.", "a": "0983.mp3" },
+      { "t": "hl targhab fi aldhdhahab lilssabahati?", "l": "Shall we go to the swimming pool?", "a": "0984.mp3" },
+      { "t": "hal maaka menshafa?", "l": "Do you feel like swimming?", "a": "0985.mp3" },
+      { "t": "hal maaka maayooh hariimii?", "l": "Do you have a towel?", "a": "0986.mp3" },
+      { "t": "hal tastatiio essibaaha?", "l": "Do you have swimming trunks?", "a": "0987.mp3" },
+      { "t": "hal tastatiio elghatss?", "l": "Do you have a bathing suit?", "a": "0988.mp3" },
+      { "t": "ayna edoshsh?", "l": "Can you swim?", "a": "0989.mp3" },
+      { "t": "ayna kaabiinat taghiir elmalaabes?", "l": "Can you dive?", "a": "0990.mp3" },
+      { "t": "ayna nadhdhaaraat essibaaha?", "l": "Can you jump in the water?", "a": "0991.mp3" },
+      { "t": "hal elmaa nadhiif?", "l": "Where is the shower?", "a": "0992.mp3" },
+      { "t": "hal elmaa dafi'e?", "l": "Where is the changing room?", "a": "0993.mp3" },
+      { "t": "ana bardaan", "l": "Where are the swimming goggles?", "a": "0994.mp3" },
+      { "t": "sa'akhroj elaan mina elmaa", "l": "Is the water deep?", "a": "0995.mp3" },
+      { "t": "", "l": "Is the water clean?", "a": "0996.mp3" },
+      { "t": "", "l": "Is the water warm?", "a": "0997.mp3" },
+      { "t": "", "l": "I am freezing.", "a": "0998.mp3" },
+      { "t": "", "l": "The water is too cold.", "a": "0999.mp3" },
+      { "t": "", "l": "I am getting out of the water now.", "a": "1000.mp3" }
+    ]
+  },
+  {
+    "topic": "51 Running errands",
+    "words": [
+      { "t": "51 [fifty-one]", "l": "\u202b51 [واحد وخمسون]\u202c", "a": "1001.mp3" },
+      { "t": "Running errands", "l": "\u202bقضاء الحاجات\u202c", "a": "1002.mp3" },
+      { "t": "oriido an adhhaba ilaa maktabat bayaea elkotob", "l": "I want to go to the library.", "a": "1003.mp3" },
+      { "t": "oriido an adhhaba ilaa koshshk eljaraa'ed", "l": "I want to go to the bookstore.", "a": "1004.mp3" },
+      { "t": "oriido an astaaiira kitaaban", "l": "I want to go to the newspaper stand.", "a": "1005.mp3" },
+      { "t": "oriido an ashtarii jariida", "l": "I want to borrow a book.", "a": "1006.mp3" },
+      {
+        "t": "oriido an adhhaba ilaa elmaktaba elaamma, lkay astaiira kitaaban",
+        "l": "I want to buy a book.",
+        "a": "1007.mp3"
+      },
+      {
+        "t": "oriido an adhhaba ilaa elmaktaba, likay ashtarii kitaaban",
+        "l": "I want to buy a newspaper.",
+        "a": "1008.mp3"
+      },
+      {
+        "t": "oriido an athhaba ilaa akhessaa'ii nadhdhaaraat",
+        "l": "I want to go to the library to borrow a book.",
+        "a": "1009.mp3"
+      },
+      {
+        "t": "oriido an athhaba ilaa essoober maarket",
+        "l": "I want to go to the bookstore to buy a book.",
+        "a": "1010.mp3"
+      },
+      {
+        "t": "oriido an adhhaba ilaa elmakhbaza",
+        "l": "I want to go to the kiosk / newspaper stand to buy a newspaper.",
+        "a": "1011.mp3"
+      },
+      { "t": "oriido an ashtarii fawaakah w khodhraawaat", "l": "I want to go to the optician.", "a": "1012.mp3" },
+      {
+        "t": "oriido an ashtarii khobz hamaam w khobez aadii",
+        "l": "I want to go to the supermarket.",
+        "a": "1013.mp3"
+      },
+      {
+        "t": "oriido an athhaba ilaa akhessaa'ii nadhdhaaraat li'ashtarii nadhdhaara",
+        "l": "I want to go to the bakery.",
+        "a": "1014.mp3"
+      },
+      {
+        "t": "arid 'iilaa almukhbiz li'ashtari khayz hammam wakhabiz eadi",
+        "l": "I want to buy some glasses.",
+        "a": "1015.mp3"
+      },
+      { "t": "", "l": "I want to buy fruit and vegetables.", "a": "1016.mp3" },
+      { "t": "", "l": "I want to buy rolls and bread.", "a": "1017.mp3" },
+      { "t": "", "l": "I want to go to the optician to buy glasses.", "a": "1018.mp3" },
+      { "t": "", "l": "I want to go to the supermarket to buy fruit and vegetables.", "a": "1019.mp3" },
+      { "t": "", "l": "I want to go to the baker to buy rolls and bread.", "a": "1020.mp3" }
+    ]
+  },
+  {
+    "topic": "52 In the department store",
+    "words": [
+      { "t": "52 [fifty-two]", "l": "\u202b52 [اثنان وخمسون]\u202c", "a": "1021.mp3" },
+      { "t": "In the department store", "l": "\u202bفى المتجر\u202c", "a": "1022.mp3" },
+      { "t": "yajibo an atassawwak", "l": "Shall we go to the department store?", "a": "1023.mp3" },
+      { "t": "oriido shiraa'a elkathiir", "l": "I have to go shopping.", "a": "1024.mp3" },
+      { "t": "ayna ellawaazem elmaktabiya?", "l": "I want to do a lot of shopping.", "a": "1025.mp3" },
+      { "t": "ahtaaj laklaam heber jaaf w aklaam taaliim", "l": "Where are the office supplies?", "a": "1026.mp3" },
+      { "t": "ayna elaathaath?", "l": "I need envelopes and stationery.", "a": "1027.mp3" },
+      { "t": "ahtaaj ilaa dolaab wa adraaj", "l": "I need pens and markers.", "a": "1028.mp3" },
+      { "t": "ayna loab elatfaal?", "l": "Where is the furniture?", "a": "1029.mp3" },
+      {
+        "t": "ahtaaj ilaa loabat arooss w loabat dob",
+        "l": "I need a cupboard and a chest of drawers.",
+        "a": "1030.mp3"
+      },
+      { "t": "ahtaaj ilaa korat  kadam wa shetranj", "l": "I need a desk and a bookshelf.", "a": "1031.mp3" },
+      { "t": "ahtaaj ilaa shaakoosh w kammaasha", "l": "Where are the toys?", "a": "1032.mp3" },
+      { "t": "ahtaaj ilaa dorl w mifakk", "l": "I need a doll and a teddy bear.", "a": "1033.mp3" },
+      { "t": "ayna elmojawharaat?", "l": "I need a football and a chess board.", "a": "1034.mp3" },
+      { "t": "ahtaaj ilaa khaatam w halk", "l": "Where are the tools?", "a": "1035.mp3" },
+      { "t": "", "l": "I need a hammer and a pair of pliers.", "a": "1036.mp3" },
+      { "t": "", "l": "I need a drill and a screwdriver.", "a": "1037.mp3" },
+      { "t": "", "l": "Where is the jewellery / jewelry (am.) department?", "a": "1038.mp3" },
+      { "t": "", "l": "I need a chain and a bracelet.", "a": "1039.mp3" },
+      { "t": "", "l": "I need a ring and earrings.", "a": "1040.mp3" }
+    ]
+  },
+  {
+    "topic": "53 Shops",
+    "words": [
+      { "t": "53 [fifty-three]", "l": "\u202b53 [ثلاثة وخمسون]\u202c", "a": "1041.mp3" },
+      { "t": "Shops", "l": "\u202bالمحلات\u202c", "a": "1042.mp3" },
+      { "t": "nabhath an malhama [mahal jizaarat]", "l": "We’re looking for a sports shop.", "a": "1043.mp3" },
+      { "t": "nabahth an saydaliya", "l": "We’re looking for a butcher shop.", "a": "1044.mp3" },
+      {
+        "t": "noriido an nashtarii korat kadam",
+        "l": "We’re looking for a pharmacy / drugstore (am.).",
+        "a": "1045.mp3"
+      },
+      { "t": "noriido an nashtarii adwiya", "l": "We want to buy a football.", "a": "1046.mp3" },
+      {
+        "t": "nabhath an mahal adawaat riyaadhiya lnashtarii korat kadam",
+        "l": "We want to buy salami.",
+        "a": "1047.mp3"
+      },
+      { "t": "nabhath an malhama, lnashtarii mortadiilaa salaamii", "l": "We want to buy medicine.", "a": "1048.mp3" },
+      {
+        "t": "abhath an mahal mooojawharrat",
+        "l": "We’re looking for a sports shop to buy a football.",
+        "a": "1049.mp3"
+      },
+      { "t": "abhath an stoodiyoo taswiir", "l": "We’re looking for a butcher shop to buy salami.", "a": "1050.mp3" },
+      { "t": "abhath an mahal halwayaat", "l": "We’re looking for a drugstore to buy medicine.", "a": "1051.mp3" },
+      {
+        "t": "oriido tahdiidan an ashtarii film",
+        "l": "I’m looking for a jeweller / jeweler (am.).",
+        "a": "1052.mp3"
+      },
+      { "t": "oriido tahdidan an ashtarii toorta", "l": "I’m looking for a photo equipment store.", "a": "1053.mp3" },
+      {
+        "t": "ahath an mahalli mojawharaat lashtarii khaatam",
+        "l": "I’m looking for a confectionery.",
+        "a": "1054.mp3"
+      },
+      { "t": "abhath an mahal halwayaat lashtarii torta", "l": "I actually plan to buy a ring.", "a": "1055.mp3" },
+      { "t": "", "l": "I actually plan to buy a roll of film.", "a": "1056.mp3" },
+      { "t": "", "l": "I actually plan to buy a cake.", "a": "1057.mp3" },
+      { "t": "", "l": "I’m looking for a jeweler to buy a ring.", "a": "1058.mp3" },
+      { "t": "", "l": "I’m looking for a photo shop to buy a roll of film.", "a": "1059.mp3" },
+      { "t": "", "l": "I’m looking for a confectionery to buy a cake.", "a": "1060.mp3" }
+    ]
+  },
+  {
+    "topic": "54 Shopping",
+    "words": [
+      { "t": "54 [fifty-four]", "l": "\u202b54 [أربعة وخمسون]\u202c", "a": "1061.mp3" },
+      { "t": "Shopping", "l": "\u202bالتسوق\u202c", "a": "1062.mp3" },
+      { "t": "wa laken an laa takoon ghaaliya kathiran", "l": "I want to buy a present.", "a": "1063.mp3" },
+      { "t": "robbamaa shantat ya?", "l": "But nothing too expensive.", "a": "1064.mp3" },
+      { "t": "ayy lawn toheb?", "l": "Maybe a handbag?", "a": "1065.mp3" },
+      { "t": "kaboora aw saghiira?", "l": "Which color would you like?", "a": "1066.mp3" },
+      { "t": "atasmah lii an araa hathih?", "l": "Black, brown or white?", "a": "1067.mp3" },
+      { "t": "hal hathih men jeld tabiieii", "l": "A large one or a small one?", "a": "1068.mp3" },
+      { "t": "men jeld tabiieii tabaan", "l": "May I see this one, please?", "a": "1069.mp3" },
+      { "t": "hathihi nawiia momtaza", "l": "Is it made of leather?", "a": "1070.mp3" },
+      {
+        "t": "wa elshanta elyadawiya searoha fealan monaaseb jerdan",
+        "l": "Or is it made of plastic?",
+        "a": "1071.mp3"
+      },
+      { "t": "saakhothohaa", "l": "Of leather, of course.", "a": "1072.mp3" },
+      { "t": "hal yomkin an astabdilaha idha lazem?", "l": "This is very good quality.", "a": "1073.mp3" },
+      { "t": "betta'kiid", "l": "And the bag is really very reasonable.", "a": "1074.mp3" },
+      { "t": "honaaka elsondook[eddafa]", "l": "I like it.", "a": "1075.mp3" },
+      { "t": "", "l": "I’ll take it.", "a": "1076.mp3" },
+      { "t": "", "l": "Can I exchange it if needed?", "a": "1077.mp3" },
+      { "t": "", "l": "Of course.", "a": "1078.mp3" },
+      { "t": "", "l": "We’ll gift wrap it.", "a": "1079.mp3" },
+      { "t": "", "l": "The cashier is over there.", "a": "1080.mp3" }
+    ]
+  },
+  {
+    "topic": "55 Working",
+    "words": [
+      { "t": "55 [fifty-five]", "l": "\u202b55 [خمسة وخمسون]\u202c", "a": "1081.mp3" },
+      { "t": "Working", "l": "\u202bالعمل\u202c", "a": "1082.mp3" },
+      { "t": "wadhifat zawjii tabiib", "l": "What do you do for a living?", "a": "1083.mp3" },
+      { "t": "anaa ashtaghil kamomarridha hatta montasaf ennahaar", "l": "My husband is a doctor.", "a": "1084.mp3" },
+      { "t": "kariiban sanatakaad", "l": "I work as a nurse part-time.", "a": "1085.mp3" },
+      { "t": "watt'amiin essehhii moklif", "l": "We will soon receive our pension.", "a": "1086.mp3" },
+      { "t": "maathaa toriid an tosbeh yawman maa?", "l": "But taxes are high.", "a": "1087.mp3" },
+      { "t": "oriid an osbah mohandisan", "l": "And health insurance is expensive.", "a": "1088.mp3" },
+      { "t": "anaa taaleb motadarreb", "l": "What would you like to become some day?", "a": "1089.mp3" },
+      { "t": "laa akseb elkathiir", "l": "I would like to become an engineer.", "a": "1090.mp3" },
+      { "t": "an ataddarb khaarej elbilaad", "l": "I want to go to college.", "a": "1091.mp3" },
+      { "t": "ladayya zomalaa' lotafaa'", "l": "I am an intern.", "a": "1092.mp3" },
+      { "t": "nadhhab daaiman wakt edhdhahiira ilaa elkafitiiryaa", "l": "I do not earn much.", "a": "1093.mp3" },
+      { "t": "abhath an wathiifa", "l": "I am doing an internship abroad.", "a": "1094.mp3" },
+      { "t": "yoojad fi hatha elbaled elkathiir mina elaatiliin an elamal", "l": "That is my boss.", "a": "1095.mp3" },
+      { "t": "", "l": "I have nice colleagues.", "a": "1096.mp3" },
+      { "t": "", "l": "We always go to the cafeteria at noon.", "a": "1097.mp3" },
+      { "t": "", "l": "I am looking for a job.", "a": "1098.mp3" },
+      { "t": "", "l": "I have already been unemployed for a year.", "a": "1099.mp3" },
+      { "t": "", "l": "There are too many unemployed people in this country.", "a": "1100.mp3" }
+    ]
+  },
+  {
+    "topic": "56 Feelings",
+    "words": [
+      { "t": "56 [fifty-six]", "l": "\u202b56 [ستة وخمسون]\u202c", "a": "1101.mp3" },
+      { "t": "Feelings", "l": "\u202bالمشاعر ، الأحاسيس\u202c", "a": "1102.mp3" },
+      { "t": "ladayna erraghba", "l": "to feel like / want to", "a": "1103.mp3" },
+      { "t": "layssa ladayna raghba", "l": "We feel like. / We want to.", "a": "1104.mp3" },
+      { "t": "elihssaass belkhawf", "l": "We don’t feel like. / We do’t want to.", "a": "1105.mp3" },
+      { "t": "la adhor belkhawf", "l": "to be afraid", "a": "1106.mp3" },
+      { "t": "tawaffor elwakt", "l": "I’m afraid.", "a": "1107.mp3" },
+      { "t": "ladayh elwakt", "l": "I am not afraid.", "a": "1108.mp3" },
+      { "t": "eshoor belmalal", "l": "to have time", "a": "1109.mp3" },
+      { "t": "hiya tashor belmalal", "l": "He has time.", "a": "1110.mp3" },
+      { "t": "hiya laa tashor belmalal", "l": "He has no time.", "a": "1111.mp3" },
+      { "t": "hal antom jawaa?", "l": "to be bored", "a": "1112.mp3" },
+      { "t": "hal antom ghayr jawaa?", "l": "She is bored.", "a": "1113.mp3" },
+      { "t": "ashshoor belatash", "l": "She is not bored.", "a": "1114.mp3" },
+      { "t": "hom khayr atshaa", "l": "to be hungry", "a": "1115.mp3" },
+      { "t": "", "l": "Are you hungry?", "a": "1116.mp3" },
+      { "t": "", "l": "Aren’t you hungry?", "a": "1117.mp3" },
+      { "t": "", "l": "to be thirsty", "a": "1118.mp3" },
+      { "t": "", "l": "They are thirsty.", "a": "1119.mp3" },
+      { "t": "", "l": "They are not thirsty.", "a": "1120.mp3" }
+    ]
+  },
+  {
+    "topic": "57 At the doctor",
+    "words": [
+      { "t": "57 [fifty-seven]", "l": "\u202b57 [سبعة وخمسون]\u202c", "a": "1121.mp3" },
+      { "t": "At the doctor", "l": "\u202bعند الطبيب\u202c", "a": "1122.mp3" },
+      { "t": "elmawed endii fil saea elaashira", "l": "I have a doctor’s appointment.", "a": "1123.mp3" },
+      { "t": "maa issm hadhratika?", "l": "I have the appointment at ten o’clock.", "a": "1124.mp3" },
+      { "t": "tafadhdhal ijles fi ghorfat elintidhaar", "l": "What is your name?", "a": "1125.mp3" },
+      { "t": "ta'miinoka essahhii maa ayy sharika?", "l": "Please take a seat in the waiting room.", "a": "1126.mp3" },
+      { "t": "bemaatha akder an akhdimaka?", "l": "The doctor is on his way.", "a": "1127.mp3" },
+      { "t": "hal tashoor belalam", "l": "What insurance company do you belong to?", "a": "1128.mp3" },
+      { "t": "ashoor daaeman baalaam fil edhdhaher", "l": "What can I do for you?", "a": "1129.mp3" },
+      { "t": "endii sodaa fii aghlab elawkaat", "l": "Do you have any pain?", "a": "1130.mp3" },
+      { "t": "ashshor ahyaanan balam fil batn", "l": "Where does it hurt?", "a": "1131.mp3" },
+      { "t": "men fadhlek tamaddad alaa essariir", "l": "I always have back pain.", "a": "1132.mp3" },
+      { "t": "dhoght eddamtmaam", "l": "I often have headaches.", "a": "1133.mp3" },
+      { "t": "o'otiika ibra[hokna]", "l": "I sometimes have stomach aches.", "a": "1134.mp3" },
+      { "t": "o'otiika wasfa tebbiya ledaydaliya", "l": "Remove your top!", "a": "1135.mp3" },
+      { "t": "", "l": "Lie down on the examining table.", "a": "1136.mp3" },
+      { "t": "", "l": "Your blood pressure is okay.", "a": "1137.mp3" },
+      { "t": "", "l": "I will give you an injection.", "a": "1138.mp3" },
+      { "t": "", "l": "I will give you some pills.", "a": "1139.mp3" },
+      { "t": "", "l": "I am giving you a prescription for the pharmacy.", "a": "1140.mp3" }
+    ]
+  },
+  {
+    "topic": "58 Parts of the body",
+    "words": [
+      { "t": "58 [fifty-eight]", "l": "\u202b58 [ثمانية وخمسون]\u202c", "a": "1141.mp3" },
+      { "t": "Parts of the body", "l": "\u202bأجزاء الجسم\u202c", "a": "1142.mp3" },
+      { "t": "arra's awalan", "l": "I am drawing a man.", "a": "1143.mp3" },
+      { "t": "arrajol yartadii kobbaa", "l": "First the head.", "a": "1144.mp3" },
+      { "t": "ashshaar laa yaraah ahad", "l": "The man is wearing a hat.", "a": "1145.mp3" },
+      { "t": "adhahr laa yaraah ahad aydhan", "l": "One cannot see the hair.", "a": "1146.mp3" },
+      { "t": "orsom elaynaan welfam", "l": "One cannot see the ears either.", "a": "1147.mp3" },
+      { "t": "arrajol yarkos w yadhhak", "l": "One cannot see his back either.", "a": "1148.mp3" },
+      { "t": "howa yahmel biyadihi asan", "l": "I am drawing the eyes and the mouth.", "a": "1149.mp3" },
+      { "t": "howa yartadii wishaahan hawla elonok", "l": "The man is dancing and laughing.", "a": "1150.mp3" },
+      { "t": "elfassl shitaa weljaw baared", "l": "The man has a long nose.", "a": "1151.mp3" },
+      { "t": "essaakaan aythan kawiiyataan", "l": "He is carrying a cane in his hands.", "a": "1152.mp3" },
+      { "t": "errojol masnooa men eththalj", "l": "He is also wearing a scarf around his neck.", "a": "1153.mp3" },
+      {
+        "t": "howa laa yartadii bantaloonan [bentaalan] wa laa meatafan",
+        "l": "It is winter and it is cold.",
+        "a": "1154.mp3"
+      },
+      { "t": "howa rajolon menaththalj", "l": "The arms are athletic.", "a": "1155.mp3" },
+      { "t": "", "l": "The legs are also athletic.", "a": "1156.mp3" },
+      { "t": "", "l": "The man is made of snow.", "a": "1157.mp3" },
+      { "t": "", "l": "He is neither wearing pants nor a coat.", "a": "1158.mp3" },
+      { "t": "", "l": "But the man is not freezing.", "a": "1159.mp3" },
+      { "t": "", "l": "He is a snowman.", "a": "1160.mp3" }
+    ]
+  },
+  {
+    "topic": "59 At the post office",
+    "words": [
+      { "t": "59 [fifty-nine]", "l": "\u202b59 [تسعة وخمسون]\u202c", "a": "1161.mp3" },
+      { "t": "At the post office", "l": "\u202bفي مكتب البريد\u202c", "a": "1162.mp3" },
+      {
+        "t": "hal elmasaafa baeiida an akrab maktab bariid?",
+        "l": "Where is the nearest post office?",
+        "a": "1163.mp3"
+      },
+      { "t": "ayna yoojad akrab sondook bariid?", "l": "Is the post office far from here?", "a": "1164.mp3" },
+      { "t": "ahtaaj lbaath tawaabaa elbariid", "l": "Where is the nearest mail box?", "a": "1165.mp3" },
+      { "t": "kam ojrat elbariid ilaa amriikaa?", "l": "I need a couple of stamps.", "a": "1166.mp3" },
+      { "t": "kam wazn ettard?", "l": "For a card and a letter.", "a": "1167.mp3" },
+      {
+        "t": "hal yomkinonii irssaloho belbariid ejjawwii?",
+        "l": "How much is the postage to America?",
+        "a": "1168.mp3"
+      },
+      { "t": "ayna yomkinonii an attasil bettitifoon?", "l": "How heavy is the package?", "a": "1169.mp3" },
+      { "t": "ayna toojad akrab kaabiinat telifoon?", "l": "Can I send it by air mail?", "a": "1170.mp3" },
+      { "t": "hal indakom bitaakaat telifoon?", "l": "How long will it take to get there?", "a": "1171.mp3" },
+      { "t": "hal taaref kood[meftaah]ennemssa?", "l": "Where can I make a call?", "a": "1172.mp3" },
+      { "t": "lahdha sabahath anh", "l": "Where is the nearest telephone booth?", "a": "1173.mp3" },
+      { "t": "elkhatt mashghool bestemraar", "l": "Do you have calling cards?", "a": "1174.mp3" },
+      { "t": "yajib awwalan an tadhghat essefer!", "l": "Do you have a telephone directory?", "a": "1175.mp3" },
+      { "t": "", "l": "Do you know the area code for Austria?", "a": "1176.mp3" },
+      { "t": "", "l": "One moment, I’ll look it up.", "a": "1177.mp3" },
+      { "t": "", "l": "The line is always busy.", "a": "1178.mp3" },
+      { "t": "", "l": "Which number did you dial?", "a": "1179.mp3" },
+      { "t": "", "l": "You have to dial a zero first!", "a": "1180.mp3" }
+    ]
+  },
+  {
+    "topic": "60 At the bank",
+    "words": [
+      { "t": "60 [sixty]", "l": "\u202b60 [ستون]\u202c", "a": "1181.mp3" },
+      { "t": "At the bank", "l": "\u202bفي البنك\u202c", "a": "1182.mp3" },
+      { "t": "honaa jawaaz safarii", "l": "I would like to open an account.", "a": "1183.mp3" },
+      { "t": "wa hathaa enwaanii", "l": "Here is my passport.", "a": "1184.mp3" },
+      { "t": "oriid iidaa nokood fi hisaabii", "l": "And here is my address.", "a": "1185.mp3" },
+      { "t": "oriid an astalima koshoof hisaabii", "l": "I want to deposit money in my account.", "a": "1186.mp3" },
+      { "t": "oriid an asref shiikan siyaahiyan", "l": "I want to withdraw money from my account.", "a": "1187.mp3" },
+      { "t": "kam kiimat erroosoom?", "l": "I want to pick up the bank statements.", "a": "1188.mp3" },
+      {
+        "t": "antdhir hawwalat men almaaniya",
+        "l": "I want to cash a traveller’s cheque / traveler’s check (am.).",
+        "a": "1189.mp3"
+      },
+      { "t": "honaa rakm hisaabii", "l": "What are the fees?", "a": "1190.mp3" },
+      { "t": "hal wasala ennookood[elfaloos]", "l": "Where should I sign?", "a": "1191.mp3" },
+      { "t": "ahtaaj ldoolaaraat amriikiya", "l": "I’m expecting a transfer from Germany.", "a": "1192.mp3" },
+      { "t": "men fadhlik aatinii awraak nakdiya saghiira", "l": "Here is my account number.", "a": "1193.mp3" },
+      { "t": "hal yoojad honaa sarraaf aalii?", "l": "Has the money arrived?", "a": "1194.mp3" },
+      {
+        "t": "ayy bitaakaat e'etimaan ellatii yomken isteamaalohaa?",
+        "l": "I want to change money.",
+        "a": "1195.mp3"
+      },
+      { "t": "", "l": "I need US-Dollars.", "a": "1196.mp3" },
+      { "t": "", "l": "Could you please give me small notes / bills (am.)?", "a": "1197.mp3" },
+      { "t": "", "l": "Is there a cashpoint / an ATM (am.)?", "a": "1198.mp3" },
+      { "t": "", "l": "How much money can one withdraw?", "a": "1199.mp3" },
+      { "t": "", "l": "Which credit cards can one use?", "a": "1200.mp3" }
+    ]
+  },
+  {
+    "topic": "61 Ordinal numbers",
+    "words": [
+      { "t": "61 [sixty-one]", "l": "\u202b61 [واحد وستون]\u202c", "a": "1201.mp3" },
+      { "t": "Ordinal numbers", "l": "\u202bالأعداد الترتيبية\u202c", "a": "1202.mp3" },
+      { "t": "eshshahr eththaanii howa febraayer", "l": "The first month is January.", "a": "1203.mp3" },
+      { "t": "eshshaher ethethaaleth howa maares", "l": "The second month is February.", "a": "1204.mp3" },
+      { "t": "eshshahr erraaba howaabriil", "l": "The third month is March.", "a": "1205.mp3" },
+      { "t": "eshshaher essadess howa yoonyoo", "l": "The fourth month is April.", "a": "1206.mp3" },
+      { "t": "settat ashhor yiya nesf sana", "l": "The fifth month is May.", "a": "1207.mp3" },
+      { "t": "yaanaahe,r febraayer, maars", "l": "The sixth month is June.", "a": "1208.mp3" },
+      { "t": "eshahr essaaba howa yoolyoo", "l": "Six months make half a year.", "a": "1209.mp3" },
+      { "t": "eshshaher eththaamen howa aghostos", "l": "January, February, March,", "a": "1210.mp3" },
+      { "t": "eshshaher ettaasa howa sebtambar", "l": "April, May and June.", "a": "1211.mp3" },
+      { "t": "eshshaher elhaadii ashar howa noofamber", "l": "The seventh month is July.", "a": "1212.mp3" },
+      { "t": "eshshaher ethaanii ashar howa diisamber", "l": "The eighth month is August.", "a": "1213.mp3" },
+      { "t": "ithnaa ashara shagran hiyaa sana", "l": "The ninth month is September.", "a": "1214.mp3" },
+      { "t": "oktoobar, noofambar, wa diisambar", "l": "The tenth month is October.", "a": "1215.mp3" },
+      { "t": "", "l": "The eleventh month is November.", "a": "1216.mp3" },
+      { "t": "", "l": "The twelfth month is December.", "a": "1217.mp3" },
+      { "t": "", "l": "Twelve months make a year.", "a": "1218.mp3" },
+      { "t": "", "l": "July, August, September,", "a": "1219.mp3" },
+      { "t": "", "l": "October, November and December.", "a": "1220.mp3" }
+    ]
+  },
+  {
+    "topic": "62 Asking questions 1",
+    "words": [
+      { "t": "62 [sixty-two]", "l": "\u202b62 [اثنان وستون]\u202c", "a": "1221.mp3" },
+      { "t": "Asking questions 1", "l": "\u202bطرح الأسئلة 1\u202c", "a": "1222.mp3" },
+      { "t": "hal yadross[yothaaker] ettalamiidh kathiiran?", "l": "to learn", "a": "1223.mp3" },
+      { "t": "laa, innahom yadrosoon[yodhaakiroon]kaliilan", "l": "Do the students learn a lot?", "a": "1224.mp3" },
+      { "t": "yas'al", "l": "No, they learn a little.", "a": "1225.mp3" },
+      { "t": "laa,laa as'alho miraaran", "l": "to ask", "a": "1226.mp3" },
+      { "t": "yojiib", "l": "Do you often ask the teacher questions?", "a": "1227.mp3" },
+      { "t": "ajeb men fadhlek!", "l": "No, I don’t ask him questions often.", "a": "1228.mp3" },
+      { "t": "yashtaghel", "l": "to reply", "a": "1229.mp3" },
+      { "t": "hal howa yashtaghel haaliyan?", "l": "Please reply.", "a": "1230.mp3" },
+      { "t": "naam, howa yashtaghel haaliyan", "l": "I reply.", "a": "1231.mp3" },
+      { "t": "hal sata'toon?", "l": "to work", "a": "1232.mp3" },
+      { "t": "naam,sana'tii haalan", "l": "Is he working right now?", "a": "1233.mp3" },
+      { "t": "yaskon", "l": "Yes, he is working right now.", "a": "1234.mp3" },
+      { "t": "naam anaa askon fii berliin", "l": "to come", "a": "1235.mp3" },
+      { "t": "", "l": "Are you coming?", "a": "1236.mp3" },
+      { "t": "", "l": "Yes, we are coming soon.", "a": "1237.mp3" },
+      { "t": "", "l": "to live", "a": "1238.mp3" },
+      { "t": "", "l": "Do you live in Berlin?", "a": "1239.mp3" },
+      { "t": "", "l": "Yes, I live in Berlin.", "a": "1240.mp3" }
+    ]
+  },
+  {
+    "topic": "63 Asking questions 2",
+    "words": [
+      { "t": "63 [sixty-three]", "l": "\u202b63 [ثلاثة وستون]\u202c", "a": "1241.mp3" },
+      { "t": "Asking questions 2", "l": "\u202bطرح الأسئلة 2\u202c", "a": "1242.mp3" },
+      { "t": "anaa alab tens", "l": "I have a hobby.", "a": "1243.mp3" },
+      { "t": "ayna yoojad malab tens?", "l": "I play tennis.", "a": "1244.mp3" },
+      { "t": "hal endaka hiwaaya?", "l": "Where is the tennis court?", "a": "1245.mp3" },
+      { "t": "ayna yoojad malab korat elkadam?", "l": "Do you have a hobby?", "a": "1246.mp3" },
+      { "t": "thiraaii to'limonii", "l": "I play football / soccer (am.).", "a": "1247.mp3" },
+      {
+        "t": "kadamii wa yadii to'lmaanii aythan",
+        "l": "Where is the football / soccer (am.) field?",
+        "a": "1248.mp3"
+      },
+      { "t": "endii sayyaara", "l": "My arm hurts.", "a": "1249.mp3" },
+      { "t": "endii aydhan mootoor saaykel", "l": "My foot and hand also hurt.", "a": "1250.mp3" },
+      { "t": "ayna yoojad mawkef essayyaaraat?", "l": "Is there a doctor?", "a": "1251.mp3" },
+      {
+        "t": "endii aythan jaakiit w bentaloon [bentaal]jiinez",
+        "l": "I have a car / an automobile.",
+        "a": "1252.mp3"
+      },
+      { "t": "ayna elghassaala?", "l": "I also have a motorcycle.", "a": "1253.mp3" },
+      { "t": "mayi sahn [tabak]", "l": "Where could I park?", "a": "1254.mp3" },
+      { "t": "ayna elmelh welfolfol?", "l": "I have a sweater.", "a": "1255.mp3" },
+      { "t": "", "l": "I also have a jacket and a pair of jeans.", "a": "1256.mp3" },
+      { "t": "", "l": "Where is the washing machine?", "a": "1257.mp3" },
+      { "t": "", "l": "I have a plate.", "a": "1258.mp3" },
+      { "t": "", "l": "I have a knife, a fork and a spoon.", "a": "1259.mp3" },
+      { "t": "", "l": "Where is the salt and pepper?", "a": "1260.mp3" }
+    ]
+  },
+  {
+    "topic": "64 Negation 1",
+    "words": [
+      { "t": "64 [sixty-four]", "l": "\u202b64 [أربعة وستون]\u202c", "a": "1261.mp3" },
+      { "t": "Negation 1", "l": "\u202bالنفي 1\u202c", "a": "1262.mp3" },
+      { "t": "laa afham eljomla", "l": "I don’t understand the word.", "a": "1263.mp3" },
+      { "t": "laa afham elmaanaa", "l": "I don’t understand the sentence.", "a": "1264.mp3" },
+      { "t": "elmoallem", "l": "I don’t understand the meaning.", "a": "1265.mp3" },
+      { "t": "naam, afhamoho jayyidan", "l": "the teacher", "a": "1266.mp3" },
+      { "t": "elmoallima", "l": "Do you understand the teacher?", "a": "1267.mp3" },
+      { "t": "hal anta tafham elmoallima?", "l": "Yes, I understand him well.", "a": "1268.mp3" },
+      { "t": "ennaas", "l": "the teacher", "a": "1269.mp3" },
+      { "t": "hal anta tafham ennaas?", "l": "Do you understand the teacher?", "a": "1270.mp3" },
+      { "t": "laa, laa afhamohom bchakel jayyed", "l": "Yes, I understand her well.", "a": "1271.mp3" },
+      { "t": "hal ladayka sadiika?", "l": "the people", "a": "1272.mp3" },
+      { "t": "naam ladaya sadiika", "l": "Do you understand the people?", "a": "1273.mp3" },
+      { "t": "elibna", "l": "No, I don’t understand them so well.", "a": "1274.mp3" },
+      { "t": "laa, layssa ladaya ibna", "l": "the girlfriend", "a": "1275.mp3" },
+      { "t": "", "l": "Do you have a girlfriend?", "a": "1276.mp3" },
+      { "t": "", "l": "Yes, I do.", "a": "1277.mp3" },
+      { "t": "", "l": "the daughter", "a": "1278.mp3" },
+      { "t": "", "l": "Do you have a daughter?", "a": "1279.mp3" },
+      { "t": "", "l": "No, I don’t.", "a": "1280.mp3" }
+    ]
+  },
+  {
+    "topic": "65 Negation 2",
+    "words": [
+      { "t": "65 [sixty-five]", "l": "\u202b65 [خمسة وستون]\u202c", "a": "1281.mp3" },
+      { "t": "Negation 2", "l": "\u202bالنفي 2\u202c", "a": "1282.mp3" },
+      { "t": "laa, yokallef maa'at yooroo fakat", "l": "Is the ring expensive?", "a": "1283.mp3" },
+      { "t": "laken maay khamssoona fakat", "l": "No, it costs only one hundred Euros.", "a": "1284.mp3" },
+      { "t": "hal serta jaahizan?", "l": "But I have only fifty.", "a": "1285.mp3" },
+      { "t": "laken sajhaz haalan", "l": "Are you finished?", "a": "1286.mp3" },
+      { "t": "hal tooriid maziid mena eshshorba?", "l": "No, not yet.", "a": "1287.mp3" },
+      { "t": "laa, laaoriido kathiiran", "l": "But I’ll be finished soon.", "a": "1288.mp3" },
+      {
+        "t": "hal saarat laka modda tawiila w anta taskon honaa?",
+        "l": "Do you want some more soup?",
+        "a": "1289.mp3"
+      },
+      { "t": "laa saara lii shahron waahed", "l": "No, I don’t want anymore.", "a": "1290.mp3" },
+      { "t": "w kad serto aaref elkathiiriin", "l": "But another ice cream.", "a": "1291.mp3" },
+      { "t": "laa, fakat fii elotla elossboeaya", "l": "Have you lived here long?", "a": "1292.mp3" },
+      { "t": "w lakennii sa'arjaa wa montho yawm elahad", "l": "No, only for a month.", "a": "1293.mp3" },
+      { "t": "hal kad balaghat ibnatoka senna eddoshd?", "l": "But I already know a lot of people.", "a": "1294.mp3" },
+      { "t": "w laaken lakad saar lahaa sadiik", "l": "Are you driving home tomorrow?", "a": "1295.mp3" },
+      { "t": "", "l": "No, only on the weekend.", "a": "1296.mp3" },
+      { "t": "", "l": "But I will be back on Sunday.", "a": "1297.mp3" },
+      { "t": "", "l": "Is your daughter an adult?", "a": "1298.mp3" },
+      { "t": "", "l": "No, she is only seventeen.", "a": "1299.mp3" },
+      { "t": "", "l": "But she already has a boyfriend.", "a": "1300.mp3" }
+    ]
+  },
+  {
+    "topic": "66 Possessive pronouns 1",
+    "words": [
+      { "t": "66 [sixty-six]", "l": "\u202b66 [ستة وستون]\u202c", "a": "1301.mp3" },
+      { "t": "Possessive pronouns 1", "l": "\u202bضمائر الملكية 1\u202c", "a": "1302.mp3" },
+      { "t": "anaa laa ajido meftaahii", "l": "I – my", "a": "1303.mp3" },
+      { "t": "anaa laa ajido tedhkirat safarii", "l": "I can’t find my key.", "a": "1304.mp3" },
+      { "t": "anta- k = elkhaasso bik", "l": "I can’t find my ticket.", "a": "1305.mp3" },
+      { "t": "hal wajadta tedhkirata safarek?", "l": "you – your", "a": "1306.mp3" },
+      { "t": "howa - h = elkhaass bih", "l": "Have you found your key?", "a": "1307.mp3" },
+      { "t": "hal taarif ayna meftaahoh", "l": "Have you found your ticket?", "a": "1308.mp3" },
+      { "t": "hiya - haa = elkhaasso bihaa", "l": "he – his", "a": "1309.mp3" },
+      { "t": "kad dhaeat nokoodohaa", "l": "Do you know where his key is?", "a": "1310.mp3" },
+      {
+        "t": "wa kad dhaeat aydhan bitaakatohaa el'e'etimaaniya",
+        "l": "Do you know where his ticket is?",
+        "a": "1311.mp3"
+      },
+      { "t": "jaddonaa mariidh", "l": "she – her", "a": "1312.mp3" },
+      { "t": "jaddatonaa biaafiya", "l": "Her money is gone.", "a": "1313.mp3" },
+      {
+        "t": "antom/antonna -kom, konna =elkhaas bikom,bikonna",
+        "l": "And her credit card is also gone.",
+        "a": "1314.mp3"
+      },
+      { "t": "ayna ommokom yaa atfaal?", "l": "we – our", "a": "1315.mp3" },
+      { "t": "", "l": "Our grandfather is ill.", "a": "1316.mp3" },
+      { "t": "", "l": "Our grandmother is healthy.", "a": "1317.mp3" },
+      { "t": "", "l": "you – your", "a": "1318.mp3" },
+      { "t": "", "l": "Children, where is your father?", "a": "1319.mp3" },
+      { "t": "", "l": "Children, where is your mother?", "a": "1320.mp3" }
+    ]
+  },
+  {
+    "topic": "67 Possessive pronouns 2",
+    "words": [
+      { "t": "67 [sixty-seven]", "l": "\u202b67 [سبعة وستون]\u202c", "a": "1321.mp3" },
+      { "t": "Possessive pronouns 2", "l": "\u202bضمائر الملكية 2\u202c", "a": "1322.mp3" },
+      { "t": "lakad nasaa nadhdharataho", "l": "the glasses", "a": "1323.mp3" },
+      { "t": "ayna tarak nadhdharataho yaa toraa?", "l": "He has forgotten his glasses.", "a": "1324.mp3" },
+      { "t": "assaea", "l": "Where has he left his glasses?", "a": "1325.mp3" },
+      { "t": "assaea moallaka ala elhaa'et", "l": "the clock", "a": "1326.mp3" },
+      { "t": "jawaaz essafar", "l": "His clock isn’t working.", "a": "1327.mp3" },
+      { "t": "lakad fakada jawaaz safarihi", "l": "The clock hangs on the wall.", "a": "1328.mp3" },
+      { "t": "hom/honna-hom,honna = elkhas bihom, bihonna", "l": "the passport", "a": "1329.mp3" },
+      { "t": "laa yastatiia elatfaal an yajidoo waalidahom", "l": "He has lost his passport.", "a": "1330.mp3" },
+      { "t": "laken haa hom elwaalidaan kadimoon honaak!", "l": "Where is his passport then?", "a": "1331.mp3" },
+      { "t": "kayfa kaant rehlat hadhratkom sayyed mooler?", "l": "they – their", "a": "1332.mp3" },
+      { "t": "ayna zawjat hadratkom sayyed mooler?", "l": "The children cannot find their parents.", "a": "1333.mp3" },
+      { "t": "anti-k, hadhratoki = elkhaas biki", "l": "Here come their parents!", "a": "1334.mp3" },
+      { "t": "ayna zawjou hadhratoki mdaam shmiit?", "l": "you – your", "a": "1335.mp3" },
+      { "t": "", "l": "How was your trip, Mr. Miller?", "a": "1336.mp3" },
+      { "t": "", "l": "Where is your wife, Mr. Miller?", "a": "1337.mp3" },
+      { "t": "", "l": "you – your", "a": "1338.mp3" },
+      { "t": "", "l": "How was your trip, Mrs. Smith?", "a": "1339.mp3" },
+      { "t": "", "l": "Where is your husband, Mrs. Smith?", "a": "1340.mp3" }
+    ]
+  },
+  {
+    "topic": "68 big – small",
+    "words": [
+      { "t": "68 [sixty-eight]", "l": "\u202b68 [ثمانية وستون]\u202c", "a": "1341.mp3" },
+      { "t": "big – small", "l": "\u202bكبير ـ صغير\u202c", "a": "1342.mp3" },
+      { "t": "elfiil kabiir", "l": "big and small", "a": "1343.mp3" },
+      { "t": "elfa'r saghiir", "l": "The elephant is big.", "a": "1344.mp3" },
+      { "t": "modhlem wa modhii'", "l": "The mouse is small.", "a": "1345.mp3" },
+      { "t": "ennahaar moshrik", "l": "dark and bright", "a": "1346.mp3" },
+      { "t": "kabiir essen wa shaab", "l": "The night is dark.", "a": "1347.mp3" },
+      { "t": "jaddonaa kabiiro essenni jedan", "l": "The day is bright.", "a": "1348.mp3" },
+      { "t": "jamiil wa kabiih", "l": "old and young", "a": "1349.mp3" },
+      { "t": "elfaraasha jamiila", "l": "Our grandfather is very old.", "a": "1350.mp3" },
+      { "t": "elankaboot kabiiha", "l": "70 years ago he was still young.", "a": "1351.mp3" },
+      { "t": "emra4ton waznouhaa 100 kiloo hiya samiina", "l": "beautiful and ugly", "a": "1352.mp3" },
+      { "t": "rajolon waznoho 50 kiloo howa nahiif", "l": "The butterfly is beautiful.", "a": "1353.mp3" },
+      { "t": "hgaalii eththaman w raghiis", "l": "The spider is ugly.", "a": "1354.mp3" },
+      { "t": "eljariida raghiisat eththaman", "l": "fat and thin", "a": "1355.mp3" },
+      { "t": "", "l": "A woman who weighs a hundred kilos is fat.", "a": "1356.mp3" },
+      { "t": "", "l": "A man who weighs fifty kilos is thin.", "a": "1357.mp3" },
+      { "t": "", "l": "expensive and cheap", "a": "1358.mp3" },
+      { "t": "", "l": "The car is expensive.", "a": "1359.mp3" },
+      { "t": "", "l": "The newspaper is cheap.", "a": "1360.mp3" }
+    ]
+  },
+  {
+    "topic": "69 to need – to want to",
+    "words": [
+      { "t": "69 [sixty-nine]", "l": "\u202b69 [تسعة وستون]\u202c", "a": "1361.mp3" },
+      { "t": "to need – to want to", "l": "\u202bيحتاج ـ يريد\u202c", "a": "1362.mp3" },
+      { "t": "oriid an anaam", "l": "I need a bed.", "a": "1363.mp3" },
+      { "t": "hal yoojad honaa sariir ?", "l": "I want to sleep.", "a": "1364.mp3" },
+      { "t": "ahtaaj ilaa mesbaah", "l": "Is there a bed here?", "a": "1365.mp3" },
+      { "t": "hal yoojad honaa mesbaah?", "l": "I need a lamp.", "a": "1366.mp3" },
+      { "t": "ahtaaj ilaa telifoon", "l": "I want to read.", "a": "1367.mp3" },
+      { "t": "oriid an attasila bttalifoon", "l": "Is there a lamp here?", "a": "1368.mp3" },
+      { "t": "ahtaaj likaamiraa", "l": "I need a telephone.", "a": "1369.mp3" },
+      { "t": "oriid an osawwer", "l": "I want to make a call.", "a": "1370.mp3" },
+      { "t": "hal toojad honaa kaamiiraa?", "l": "Is there a telephone here?", "a": "1371.mp3" },
+      { "t": "oriid anorsila iimayl", "l": "I need a camera.", "a": "1372.mp3" },
+      { "t": "hal yoojad honaa kombiyooter?", "l": "I want to take photographs.", "a": "1373.mp3" },
+      { "t": "ahtaaj lkalam heber jaaf", "l": "Is there a camera here?", "a": "1374.mp3" },
+      { "t": "hal yoojad honaa waraka w kalam heber jaaf?", "l": "I need a computer.", "a": "1375.mp3" },
+      { "t": "", "l": "I want to send an email.", "a": "1376.mp3" },
+      { "t": "", "l": "Is there a computer here?", "a": "1377.mp3" },
+      { "t": "", "l": "I need a pen.", "a": "1378.mp3" },
+      { "t": "", "l": "I want to write something.", "a": "1379.mp3" },
+      { "t": "", "l": "Is there a sheet of paper and a pen here?", "a": "1380.mp3" }
+    ]
+  },
+  {
+    "topic": "70 to like something",
+    "words": [
+      { "t": "70 [seventy]", "l": "\u202b70 [سبعون]\u202c", "a": "1381.mp3" },
+      { "t": "to like something", "l": "\u202bالرغبة في فعل شيء\u202c", "a": "1382.mp3" },
+      { "t": "hal tohebbo an tarkos?", "l": "Would you like to smoke?", "a": "1383.mp3" },
+      { "t": "hal tohebbo an tatanazzah?", "l": "Would you like to dance?", "a": "1384.mp3" },
+      { "t": "ohebbo an odakhen", "l": "Would you like to go for a walk?", "a": "1385.mp3" },
+      { "t": "howa yoriid shoalat naar[wallaea]", "l": "I would like to smoke.", "a": "1386.mp3" },
+      { "t": "ohebbo an ashraba shay'an", "l": "Would you like a cigarette?", "a": "1387.mp3" },
+      { "t": "ohebbo an aakol shay'an", "l": "He wants a light.", "a": "1388.mp3" },
+      { "t": "ohebbo an as'alakom shay'an", "l": "I want to drink something.", "a": "1389.mp3" },
+      { "t": "ohebbo an atloba menkom shay'an", "l": "I want to eat something.", "a": "1390.mp3" },
+      { "t": "ohebbo an adeookom lshay'", "l": "I want to relax a little.", "a": "1391.mp3" },
+      { "t": "hal toriid hadhratokom kahwa?", "l": "I want to ask you something.", "a": "1392.mp3" },
+      { "t": "hal tofadhel hadhratokom chaay?", "l": "I want to ask you for something.", "a": "1393.mp3" },
+      { "t": "noriid an nadhhab ilaa elbayt", "l": "I want to treat you to something.", "a": "1394.mp3" },
+      { "t": "yoriidoon an yattasiloo bettelifoon?", "l": "What would you like?", "a": "1395.mp3" },
+      { "t": "", "l": "Would you like a coffee?", "a": "1396.mp3" },
+      { "t": "", "l": "Or do you prefer a tea?", "a": "1397.mp3" },
+      { "t": "", "l": "We want to drive home.", "a": "1398.mp3" },
+      { "t": "", "l": "Do you want a taxi?", "a": "1399.mp3" },
+      { "t": "", "l": "They want to make a call.", "a": "1400.mp3" }
+    ]
+  },
+  {
+    "topic": "71 to want something",
+    "words": [
+      { "t": "71 [seventy-one]", "l": "\u202b71 [واحد وسبعون]\u202c", "a": "1401.mp3" },
+      { "t": "to want something", "l": "\u202bإرادة شيء\u202c", "a": "1402.mp3" },
+      { "t": "hal tooriidoon an talaboo korat elkadam?", "l": "What do you want to do?", "a": "1403.mp3" },
+      {
+        "t": "hal toriidoon an tazooroo asdikaa",
+        "l": "Do you want to play football / soccer (am.)?",
+        "a": "1404.mp3"
+      },
+      { "t": "youriid", "l": "Do you want to visit friends?", "a": "1405.mp3" },
+      { "t": "laa oriid an adhhab ilaa honaak", "l": "to want", "a": "1406.mp3" },
+      { "t": "oriid an adhhab ilalbayt", "l": "I don’t want to arrive late.", "a": "1407.mp3" },
+      { "t": "oriid an abkaa filbayt", "l": "I don’t want to go there.", "a": "1408.mp3" },
+      { "t": "hal toriid elbakaa' lwahdek", "l": "I want to go home.", "a": "1409.mp3" },
+      { "t": "hal toriid an ta'kol honaa?", "l": "I want to stay at home.", "a": "1410.mp3" },
+      { "t": "hal toriid an tanaam honaa?", "l": "I want to be alone.", "a": "1411.mp3" },
+      { "t": "hal toriid an tabkaa hatta ghadan?", "l": "Do you want to stay here?", "a": "1412.mp3" },
+      { "t": "hal toriid an tadfaea elhissab ghadan fakat?", "l": "Do you want to eat here?", "a": "1413.mp3" },
+      { "t": "ataridun 'iilaa alddisku?", "l": "Do you want to sleep here?", "a": "1414.mp3" },
+      { "t": "ataridun 'iilaa almaqhaa؟", "l": "Do you want to leave tomorrow?", "a": "1415.mp3" },
+      { "t": "", "l": "Do you want to stay till tomorrow?", "a": "1416.mp3" },
+      { "t": "", "l": "Do you want to pay the bill only tomorrow?", "a": "1417.mp3" },
+      { "t": "", "l": "Do you want to go to the disco?", "a": "1418.mp3" },
+      { "t": "", "l": "Do you want to go to the cinema?", "a": "1419.mp3" },
+      { "t": "", "l": "Do you want to go to a café?", "a": "1420.mp3" }
+    ]
+  },
+  {
+    "topic": "72 to have to do something / must",
+    "words": [
+      { "t": "72 [seventy-two]", "l": "\u202b72 [اثنان وسبعون]\u202c", "a": "1421.mp3" },
+      { "t": "to have to do something / must", "l": "\u202bوجوب عمل شيء\u202c", "a": "1422.mp3" },
+      { "t": "yajib an orsel elmaktoob", "l": "must", "a": "1423.mp3" },
+      { "t": "yajeb an adfaa lelfondek", "l": "I must post the letter.", "a": "1424.mp3" },
+      { "t": "yajeb an tastaykidh mobakiran", "l": "I must pay the hotel.", "a": "1425.mp3" },
+      { "t": "yajib an takoon dakiikan fil mawaaiid", "l": "You must get up early.", "a": "1426.mp3" },
+      { "t": "yajib an yoabba' etank", "l": "You must work a lot.", "a": "1427.mp3" },
+      { "t": "yajib an yosleh assayyaara", "l": "You must be punctual.", "a": "1428.mp3" },
+      { "t": "yajib alayhaa an tatasawek", "l": "He must fuel / get petrol / get gas (am.).", "a": "1429.mp3" },
+      { "t": "yajib alayha an tonadhef eshshokka", "l": "He must repair the car.", "a": "1430.mp3" },
+      { "t": "yajib alayha an taghsel elghasiil", "l": "He must wash the car.", "a": "1431.mp3" },
+      { "t": "yajib an nathab fawran ilashshoghel", "l": "She must shop.", "a": "1432.mp3" },
+      { "t": "yajeb an nathhab fawran ilattabiib", "l": "She must clean the apartment.", "a": "1433.mp3" },
+      { "t": "yajib an tantadhiroo elbaas", "l": "She must wash the clothes.", "a": "1434.mp3" },
+      { "t": "yajib an tantadhiroo ettaksii", "l": "We must go to school at once.", "a": "1435.mp3" },
+      { "t": "", "l": "We must go to work at once.", "a": "1436.mp3" },
+      { "t": "", "l": "We must go to the doctor at once.", "a": "1437.mp3" },
+      { "t": "", "l": "You must wait for the bus.", "a": "1438.mp3" },
+      { "t": "", "l": "You must wait for the train.", "a": "1439.mp3" },
+      { "t": "", "l": "You must wait for the taxi.", "a": "1440.mp3" }
+    ]
+  },
+  {
+    "topic": "73 to be allowed to",
+    "words": [
+      { "t": "73 [seventy-three]", "l": "\u202b73 [ثلاثة وسبعون]\u202c", "a": "1441.mp3" },
+      { "t": "to be allowed to", "l": "\u202bالسماح بعمل شيء\u202c", "a": "1442.mp3" },
+      { "t": "hal serta yosmah lak an tashrab elkhamr?", "l": "Are you already allowed to drive?", "a": "1443.mp3" },
+      {
+        "t": "hal serta yosmah lak an tosaafer liwahdek ilaalkhaarej?",
+        "l": "Are you already allowed to drink alcohol?",
+        "a": "1444.mp3"
+      },
+      { "t": "yosmah an , yajooz", "l": "Are you already allowed to travel abroad alone?", "a": "1445.mp3" },
+      { "t": "hal yosmah bettadkhiin honaa?", "l": "may / to be allowed", "a": "1446.mp3" },
+      { "t": "hal yajooz essadaad bibtaakat eli'timaan?", "l": "May we smoke here?", "a": "1447.mp3" },
+      { "t": "hal yajooz essadaadbeshshiik?", "l": "Is smoking allowed here?", "a": "1448.mp3" },
+      { "t": "atasmah lii mojarrad an attasila bettelifoon?", "l": "May one pay by credit card?", "a": "1449.mp3" },
+      { "t": "atasmah lii mojarrad sou'aal ?", "l": "May one pay by cheque / check (am.)?", "a": "1450.mp3" },
+      { "t": "atasmah lii mojarrad an akoola shay'an?", "l": "May one only pay in cash?", "a": "1451.mp3" },
+      { "t": "laa yosmah lahoo an yanaama fissayyara", "l": "May I just make a call?", "a": "1452.mp3" },
+      { "t": "laa yosmah lahoo an yanaam fi mahattat elkitaar", "l": "May I just ask something?", "a": "1453.mp3" },
+      { "t": "atasmah an najles?", "l": "May I just say something?", "a": "1454.mp3" },
+      { "t": "hal yajooz an nadfaea monfasilayn?", "l": "He is not allowed to sleep in the park.", "a": "1455.mp3" },
+      { "t": "", "l": "He is not allowed to sleep in the car.", "a": "1456.mp3" },
+      { "t": "", "l": "He is not allowed to sleep at the train station.", "a": "1457.mp3" },
+      { "t": "", "l": "May we take a seat?", "a": "1458.mp3" },
+      { "t": "", "l": "May we have the menu?", "a": "1459.mp3" },
+      { "t": "", "l": "May we pay separately?", "a": "1460.mp3" }
+    ]
+  },
+  {
+    "topic": "74 asking for something",
+    "words": [
+      { "t": "74 [seventy-four]", "l": "\u202b74 [أربعة وسبعون]\u202c", "a": "1461.mp3" },
+      { "t": "asking for something", "l": "\u202bرجاء الشيء\u202c", "a": "1462.mp3" },
+      { "t": "men fadhlek layssa kasiiran jeddan!", "l": "Can you cut my hair?", "a": "1463.mp3" },
+      { "t": "men fadhlek aksar bikaliil", "l": "Not too short, please.", "a": "1464.mp3" },
+      { "t": "hal yomkinoka tadhiir essoowar[tahmiidh elfiilm]?", "l": "A bit shorter, please.", "a": "1465.mp3" },
+      { "t": "essowar mawjooda filkaamiraa", "l": "Can you develop the pictures?", "a": "1466.mp3" },
+      { "t": "hal yomkinoka islaah essaea?", "l": "The pictures are on the CD.", "a": "1467.mp3" },
+      { "t": "ezzojaaj taalef", "l": "The pictures are in the camera.", "a": "1468.mp3" },
+      { "t": "hal yomkinoka kay elkamiis?", "l": "Can you fix the clock?", "a": "1469.mp3" },
+      { "t": "hal yomkinoka tandhiif elkamiis?", "l": "The glass is broken.", "a": "1470.mp3" },
+      { "t": "hal uomkinoka islaah elhidhaa'?", "l": "The battery is dead / empty.", "a": "1471.mp3" },
+      { "t": "hal maak kebriit aw wallaea?", "l": "Can you iron the shirt?", "a": "1472.mp3" },
+      { "t": "hal endaka menfadhat sajaa'er?", "l": "Can you clean the pants / trousers?", "a": "1473.mp3" },
+      { "t": "atodakhkhen essijaar?", "l": "Can you fix the shoes?", "a": "1474.mp3" },
+      { "t": "atodakhkhen elgholyoon?", "l": "Do you have a light?", "a": "1475.mp3" },
+      { "t": "", "l": "Do you have a match or a lighter?", "a": "1476.mp3" },
+      { "t": "", "l": "Do you have an ashtray?", "a": "1477.mp3" },
+      { "t": "", "l": "Do you smoke cigars?", "a": "1478.mp3" },
+      { "t": "", "l": "Do you smoke cigarettes?", "a": "1479.mp3" },
+      { "t": "", "l": "Do you smoke a pipe?", "a": "1480.mp3" }
+    ]
+  },
+  {
+    "topic": "75 giving reasons 1",
+    "words": [
+      { "t": "75 [seventy-five]", "l": "\u202b75 [خمسة وسبعون]\u202c", "a": "1481.mp3" },
+      { "t": "giving reasons 1", "l": "\u202bإبداء الأسباب 1\u202c", "a": "1482.mp3" },
+      { "t": "etaks sayye' jedan", "l": "Why aren’t you coming?", "a": "1483.mp3" },
+      { "t": "laa ta'tii, li'anna eljaw sayyi'on jedan", "l": "The weather is so bad.", "a": "1484.mp3" },
+      { "t": "limaathaa laa ya'tii?", "l": "I am not coming because the weather is so bad.", "a": "1485.mp3" },
+      { "t": "howa laa ya'tii liannho ghayr madeoo", "l": "Why isn’t he coming?", "a": "1486.mp3" },
+      { "t": "limaathaa anta laa ta'tii?", "l": "He isn’t invited.", "a": "1487.mp3" },
+      { "t": "layssa mayii wakt", "l": "He isn’t coming because he isn’t invited.", "a": "1488.mp3" },
+      { "t": "limaathaa laa tabkaa?", "l": "Why aren’t you coming?", "a": "1489.mp3" },
+      { "t": "maazaal alaya an ashtaghil", "l": "I have no time.", "a": "1490.mp3" },
+      {
+        "t": "laa abkaa, l'anna laa yazzal alaya an ashtaghil",
+        "l": "I am not coming because I have no time.",
+        "a": "1491.mp3"
+      },
+      { "t": "anaa taeabaan", "l": "Why don’t you stay?", "a": "1492.mp3" },
+      { "t": "anaa athhab lanni taeabaan", "l": "I still have to work.", "a": "1493.mp3" },
+      {
+        "t": "limaathaa serta toriid an tosaafer?",
+        "l": "I am not staying because I still have to work.",
+        "a": "1494.mp3"
+      },
+      { "t": "anaa ossafer l'anna elwakt saar mota'akhkheran", "l": "Why are you going already?", "a": "1495.mp3" },
+      { "t": "", "l": "I am tired.", "a": "1496.mp3" },
+      { "t": "", "l": "I’m going because I’m tired.", "a": "1497.mp3" },
+      { "t": "", "l": "Why are you going already?", "a": "1498.mp3" },
+      { "t": "", "l": "It is already late.", "a": "1499.mp3" },
+      { "t": "", "l": "I’m going because it is already late.", "a": "1500.mp3" }
+    ]
+  },
+  {
+    "topic": "76 giving reasons 2",
+    "words": [
+      { "t": "76 [seventy-six]", "l": "\u202b76 [ستة وسبعون]\u202c", "a": "1501.mp3" },
+      { "t": "giving reasons 2", "l": "\u202bإبداء الأسباب 2\u202c", "a": "1502.mp3" },
+      { "t": "konto mariidhan", "l": "Why didn’t you come?", "a": "1503.mp3" },
+      { "t": "ana lam aati li'annii konto mariidhan", "l": "I was ill.", "a": "1504.mp3" },
+      { "t": "limaathaa hiya lam ta'ti?", "l": "I didn’t come because I was ill.", "a": "1505.mp3" },
+      { "t": "hiya lam ta'ti, li'annahaa kaanat taabaana", "l": "Why didn’t she come?", "a": "1506.mp3" },
+      { "t": "lmaathaa lam ya'ti?", "l": "She was tired.", "a": "1507.mp3" },
+      { "t": "lam yakon endaho raghba", "l": "She didn’t come because she was tired.", "a": "1508.mp3" },
+      { "t": "lmaathaa lam ta'too?", "l": "Why didn’t he come?", "a": "1509.mp3" },
+      { "t": "sayyaaratonaa motaeatila", "l": "He wasn’t interested.", "a": "1510.mp3" },
+      {
+        "t": "lam na'ti, l'ann sayaaratanaa motaeatila",
+        "l": "He didn’t come because he wasn’t interested.",
+        "a": "1511.mp3"
+      },
+      { "t": "kad faatahom elkitaar", "l": "Why didn’t you come?", "a": "1512.mp3" },
+      { "t": "lam ya'too, l'anna mawead elkitaar kad faatahom", "l": "Our car is damaged.", "a": "1513.mp3" },
+      { "t": "limaathaa anta lam ta'ti?", "l": "We didn’t come because our car is damaged.", "a": "1514.mp3" },
+      { "t": "lam aati, li'anni lam yosmah lii", "l": "Why didn’t the people come?", "a": "1515.mp3" },
+      { "t": "", "l": "They missed the train.", "a": "1516.mp3" },
+      { "t": "", "l": "They didn’t come because they missed the train.", "a": "1517.mp3" },
+      { "t": "", "l": "Why didn’t you come?", "a": "1518.mp3" },
+      { "t": "", "l": "I was not allowed to.", "a": "1519.mp3" },
+      { "t": "", "l": "I didn’t come because I was not allowed to.", "a": "1520.mp3" }
+    ]
+  },
+  {
+    "topic": "77 giving reasons 3",
+    "words": [
+      { "t": "77 [seventy-seven]", "l": "\u202b77 [سبعة وسبعون]\u202c", "a": "1521.mp3" },
+      { "t": "giving reasons 3", "l": "\u202bإبداء الأسباب 3\u202c", "a": "1522.mp3" },
+      { "t": "yajibo an onkisa waznii", "l": "Why aren’t you eating the cake?", "a": "1523.mp3" },
+      { "t": "laa aakolohaa, li'anni yajibo an onkisa waznii", "l": "I must lose weight.", "a": "1524.mp3" },
+      {
+        "t": "limaathaa enta laa tashrab elbiira?",
+        "l": "I’m not eating it because I must lose weight.",
+        "a": "1525.mp3"
+      },
+      {
+        "t": "laa ashraboha li'anni laa yazaal alayya an osaafer",
+        "l": "Why aren’t you drinking the beer?",
+        "a": "1526.mp3"
+      },
+      { "t": "limaathaa anta laa tashrab elkahwa?", "l": "I have to drive.", "a": "1527.mp3" },
+      { "t": "hiya baarida", "l": "I’m not drinking it because I have to drive.", "a": "1528.mp3" },
+      { "t": "limaathaa laatashrab eshshaay?", "l": "Why aren’t you drinking the coffee?", "a": "1529.mp3" },
+      { "t": "maa endii sokkar", "l": "It is cold.", "a": "1530.mp3" },
+      {
+        "t": "laa ashraboho, li'annii maa endii sokkar",
+        "l": "I’m not drinking it because it is cold.",
+        "a": "1531.mp3"
+      },
+      { "t": "la atlobhaa", "l": "Why aren’t you drinking the tea?", "a": "1532.mp3" },
+      { "t": "la ashraboa,li'anni lam atlobhaa", "l": "I have no sugar.", "a": "1533.mp3" },
+      {
+        "t": "limaathaa anta laa ta'kol ellahm?",
+        "l": "I’m not drinking it because I don’t have any sugar.",
+        "a": "1534.mp3"
+      },
+      { "t": "laa akoloho, li'anni nbaatii", "l": "Why aren’t you eating the soup?", "a": "1535.mp3" },
+      { "t": "", "l": "I didn’t order it.", "a": "1536.mp3" },
+      { "t": "", "l": "I’m not eating it because I didn’t order it.", "a": "1537.mp3" },
+      { "t": "", "l": "Why don’t you eat the meat?", "a": "1538.mp3" },
+      { "t": "", "l": "I am a vegetarian.", "a": "1539.mp3" },
+      { "t": "", "l": "I’m not eating it because I am a vegetarian.", "a": "1540.mp3" }
+    ]
+  },
+  {
+    "topic": "78 Adjectives 1",
+    "words": [
+      { "t": "78 [seventy-eight]", "l": "\u202b78 [ثمانية وسبعون]\u202c", "a": "1541.mp3" },
+      { "t": "Adjectives 1", "l": "\u202bالصفات 1\u202c", "a": "1542.mp3" },
+      { "t": "imara'a samiina", "l": "an old lady", "a": "1543.mp3" },
+      { "t": "imra'a fodhooliya", "l": "a fat lady", "a": "1544.mp3" },
+      { "t": "sayyaara jadiida", "l": "a curious lady", "a": "1545.mp3" },
+      { "t": "sayyaara moriiha", "l": "a new car", "a": "1546.mp3" },
+      { "t": "thawbon azrak", "l": "a fast car", "a": "1547.mp3" },
+      { "t": "thawbon ahmar", "l": "a comfortable car", "a": "1548.mp3" },
+      { "t": "shantat yad sawdaa'", "l": "a blue dress", "a": "1549.mp3" },
+      { "t": "shantat yad bonniya", "l": "a red dress", "a": "1550.mp3" },
+      { "t": "shantat yad baydhaa'", "l": "a green dress", "a": "1551.mp3" },
+      { "t": "naas mohadhaboon", "l": "a black bag", "a": "1552.mp3" },
+      { "t": "naas mohemmoon", "l": "a brown bag", "a": "1553.mp3" },
+      { "t": "atfaal mahbooboon", "l": "a white bag", "a": "1554.mp3" },
+      { "t": "atfaal mo'addaboon", "l": "nice people", "a": "1555.mp3" },
+      { "t": "", "l": "polite people", "a": "1556.mp3" },
+      { "t": "", "l": "interesting people", "a": "1557.mp3" },
+      { "t": "", "l": "loving children", "a": "1558.mp3" },
+      { "t": "", "l": "cheeky children", "a": "1559.mp3" },
+      { "t": "", "l": "well behaved children", "a": "1560.mp3" }
+    ]
+  },
+  {
+    "topic": "79 Adjectives 2",
+    "words": [
+      { "t": "79 [seventy-nine]", "l": "\u202b79 [تسعة وسبعون]\u202c", "a": "1561.mp3" },
+      { "t": "Adjectives 2", "l": "\u202bالصفات 2\u202c", "a": "1562.mp3" },
+      { "t": "anaa laabes thawban ahmar", "l": "I am wearing a blue dress.", "a": "1563.mp3" },
+      { "t": "anaa laabes thawban akhthar", "l": "I am wearing a red dress.", "a": "1564.mp3" },
+      { "t": "sa'ashtarii shantat yad sawdaa'", "l": "I am wearing a green dress.", "a": "1565.mp3" },
+      { "t": "sa'ashtarii shantat yad baydhaa'", "l": "I’m buying a black bag.", "a": "1566.mp3" },
+      { "t": "ahtaaj lisayyaara jadiida", "l": "I’m buying a brown bag.", "a": "1567.mp3" },
+      { "t": "ahtaaj lisayyaara sariia", "l": "I’m buying a white bag.", "a": "1568.mp3" },
+      { "t": "honaak fawk taskon imra'a kabiirat essen", "l": "I need a new car.", "a": "1569.mp3" },
+      { "t": "honaak fawk taskon imra'a samiina", "l": "I need a fast car.", "a": "1570.mp3" },
+      { "t": "honaak tahta taskon imra'a fodhooliya", "l": "I need a comfortable car.", "a": "1571.mp3" },
+      { "t": "dhoyoofonaa kaanoo onaasan mohaththabiin", "l": "An old lady lives at the top.", "a": "1572.mp3" },
+      { "t": "dhoyoofonaa kaanoo onaasan mohemmiin", "l": "A fat lady lives at the top.", "a": "1573.mp3" },
+      { "t": "ladaya atfaal mahbooboon", "l": "A curious lady lives below.", "a": "1574.mp3" },
+      { "t": "hal atfaalokom m'addboon?", "l": "Our guests were nice people.", "a": "1575.mp3" },
+      { "t": "", "l": "Our guests were polite people.", "a": "1576.mp3" },
+      { "t": "", "l": "Our guests were interesting people.", "a": "1577.mp3" },
+      { "t": "", "l": "I have lovely children.", "a": "1578.mp3" },
+      { "t": "", "l": "But the neighbours have naughty children.", "a": "1579.mp3" },
+      { "t": "", "l": "Are your children well behaved?", "a": "1580.mp3" }
+    ]
+  },
+  {
+    "topic": "80 Adjectives 3",
+    "words": [
+      { "t": "80 [eighty]", "l": "\u202b80 [ثمانون]\u202c", "a": "1581.mp3" },
+      { "t": "Adjectives 3", "l": "\u202bالصفات 3\u202c", "a": "1582.mp3" },
+      { "t": "elkalb kabiir", "l": "She has a dog.", "a": "1583.mp3" },
+      { "t": "hiya ladayhaa kalb kabiir", "l": "The dog is big.", "a": "1584.mp3" },
+      { "t": "hiya ladiyhaa bayt", "l": "She has a big dog.", "a": "1585.mp3" },
+      { "t": "hiya ladiyhaa bayt saghiir", "l": "She has a house.", "a": "1586.mp3" },
+      { "t": "howa yaskon fii fondek", "l": "The house is small.", "a": "1587.mp3" },
+      { "t": "elfondek raghiis", "l": "She has a small house.", "a": "1588.mp3" },
+      { "t": "howa ladyh sayyaara", "l": "He is staying in a hotel.", "a": "1589.mp3" },
+      { "t": "essayyaara ghaaliyat eththaman", "l": "The hotel is cheap.", "a": "1590.mp3" },
+      { "t": "howa ladyh sayyaara ghaaliyat eththaman", "l": "He is staying in a cheap hotel.", "a": "1591.mp3" },
+      { "t": "erriwaaya momella", "l": "He has a car.", "a": "1592.mp3" },
+      { "t": "howa yakra' riwaayat momella", "l": "The car is expensive.", "a": "1593.mp3" },
+      { "t": "hiya toshaahed filman", "l": "He has an expensive car.", "a": "1594.mp3" },
+      { "t": "hiya toshaahed filman mothiir", "l": "He reads a novel.", "a": "1595.mp3" },
+      { "t": "", "l": "The novel is boring.", "a": "1596.mp3" },
+      { "t": "", "l": "He is reading a boring novel.", "a": "1597.mp3" },
+      { "t": "", "l": "She is watching a movie.", "a": "1598.mp3" },
+      { "t": "", "l": "The movie is exciting.", "a": "1599.mp3" },
+      { "t": "", "l": "She is watching an exciting movie.", "a": "1600.mp3" }
+    ]
+  },
+  {
+    "topic": "81 Past tense 1",
+    "words": [
+      { "t": "81 [eighty-one]", "l": "\u202b81 [واحد وثمانون]\u202c", "a": "1601.mp3" },
+      { "t": "Past tense 1", "l": "\u202bالماضي 1\u202c", "a": "1602.mp3" },
+      { "t": "howa katab khitaaban", "l": "to write", "a": "1603.mp3" },
+      { "t": "wa katabat hiya bitaaka", "l": "He wrote a letter.", "a": "1604.mp3" },
+      { "t": "yakra'", "l": "And she wrote a card.", "a": "1605.mp3" },
+      { "t": "wa kara'at hiya kitaaban", "l": "to read", "a": "1606.mp3" },
+      { "t": "ya'khoth", "l": "He read a magazine.", "a": "1607.mp3" },
+      { "t": "howa akhatha sijaara", "l": "And she read a book.", "a": "1608.mp3" },
+      { "t": "howa maa kaana wafiyan wa laken hiya kaanat wafiya", "l": "to take", "a": "1609.mp3" },
+      { "t": "howa kaana kassoolan, w laken hiya kaanat mojtahida", "l": "He took a cigarette.", "a": "1610.mp3" },
+      {
+        "t": "howa kaana fakiiran, wa laken hiya kaanat ghaniya",
+        "l": "She took a piece of chocolate.",
+        "a": "1611.mp3"
+      },
+      {
+        "t": "howa maa kaana mahdhoodhan, bel manhoosan",
+        "l": "He was disloyal, but she was loyal.",
+        "a": "1612.mp3"
+      },
+      {
+        "t": "howa maa kaana naajihan, bel faashilan",
+        "l": "He was lazy, but she was hard-working.",
+        "a": "1613.mp3"
+      },
+      { "t": "howa maa kaana raadhiyan, bel kaana mostaa'an", "l": "He was poor, but she was rich.", "a": "1614.mp3" },
+      { "t": "howa maa kaana wadoodan, bel kaana ghayr wadood", "l": "He had no money, only debts.", "a": "1615.mp3" },
+      { "t": "", "l": "He had no luck, only bad luck.", "a": "1616.mp3" },
+      { "t": "", "l": "He had no success, only failure.", "a": "1617.mp3" },
+      { "t": "", "l": "He was not satisfied, but dissatisfied.", "a": "1618.mp3" },
+      { "t": "", "l": "He was not happy, but sad.", "a": "1619.mp3" },
+      { "t": "", "l": "He was not friendly, but unfriendly.", "a": "1620.mp3" }
+    ]
+  },
+  {
+    "topic": "82 Past tense 2",
+    "words": [
+      { "t": "82 [eighty-two]", "l": "\u202b82 [اثنان وثمانون]\u202c", "a": "1621.mp3" },
+      { "t": "Past tense 2", "l": "\u202bالماضي 2\u202c", "a": "1622.mp3" },
+      {
+        "t": "hal kad tawajjaba alayka an tastadii ettabiib?",
+        "l": "Did you have to call an ambulance?",
+        "a": "1623.mp3"
+      },
+      {
+        "t": "hal kad tawajjaba alayka an tastadii eshshorta?",
+        "l": "Did you have to call the doctor?",
+        "a": "1624.mp3"
+      },
+      {
+        "t": "hal ladayka rakm ettelifoon? Kaana laa yazaal mayii montho lahadhaat",
+        "l": "Did you have to call the police?",
+        "a": "1625.mp3"
+      },
+      {
+        "t": "hal ladayka khariitat elmadiina? Kaanat laa tazaal mayii montho lahadhaat",
+        "l": "Do you have the telephone number? I had it just now.",
+        "a": "1626.mp3"
+      },
+      {
+        "t": "hal jaa'a fil mawed? Lam yastatea an ya'tii fil mawead",
+        "l": "Do you have the address? I had it just now.",
+        "a": "1627.mp3"
+      },
+      {
+        "t": "hal wajada ettariik? Lam yastatea an yajida etteriik",
+        "l": "Do you have the city map? I had it just now.",
+        "a": "1628.mp3"
+      },
+      {
+        "t": "limaathaalam tastatea an ta'tii fil mawead?",
+        "l": "Did he come on time? He could not come on time.",
+        "a": "1629.mp3"
+      },
+      {
+        "t": "limaathaa lam tastatea an tajida ettariik?",
+        "l": "Did he find the way? He could not find the way.",
+        "a": "1630.mp3"
+      },
+      {
+        "t": "limaathaa lam tastatea an tafhamho?",
+        "l": "Did he understand you? He could not understand me.",
+        "a": "1631.mp3"
+      },
+      {
+        "t": "lam astatea an ajida etteriik, li'anni maa kaana mayii kharitat elmadiina",
+        "l": "Why could you not come on time?",
+        "a": "1632.mp3"
+      },
+      {
+        "t": "lam astatea an afahamho, li'anna elmoosiikaa kaanat saakhiba jeddan",
+        "l": "Why could you not find the way?",
+        "a": "1633.mp3"
+      },
+      {
+        "t": "lakad tawajjaba alayya an aakhotha taksii[sayyarat ojra]",
+        "l": "Why could you not understand him?",
+        "a": "1634.mp3"
+      },
+      {
+        "t": "lakad tawajjaba alayya an otfi'a erraadiyoo",
+        "l": "I could not come on time because there were no buses.",
+        "a": "1635.mp3"
+      },
+      { "t": "", "l": "I could not find the way because I had no city map.", "a": "1636.mp3" },
+      { "t": "", "l": "I could not understand him because the music was so loud.", "a": "1637.mp3" },
+      { "t": "", "l": "I had to take a taxi.", "a": "1638.mp3" },
+      { "t": "", "l": "I had to buy a city map.", "a": "1639.mp3" },
+      { "t": "", "l": "I had to switch off the radio.", "a": "1640.mp3" }
+    ]
+  },
+  {
+    "topic": "83 Past tense 3",
+    "words": [
+      { "t": "83 [eighty-three]", "l": "\u202b83 [ثلاثة وثمانون]\u202c", "a": "1641.mp3" },
+      { "t": "Past tense 3", "l": "\u202bالماضي 3\u202c", "a": "1642.mp3" },
+      { "t": "lakad ittasalto telefooniyan lettaw", "l": "to make a call", "a": "1643.mp3" },
+      { "t": "lakad ittasalto telefooniyan tiilat elwakt", "l": "I made a call.", "a": "1644.mp3" },
+      { "t": "yas'al", "l": "I was talking on the phone all the time.", "a": "1645.mp3" },
+      { "t": "lakad sa'alto daa'iman", "l": "to ask", "a": "1646.mp3" },
+      { "t": "yahkii [yarwii]", "l": "I asked.", "a": "1647.mp3" },
+      { "t": "lakad hakayto lettaw", "l": "I always asked.", "a": "1648.mp3" },
+      { "t": "yataeallam [yothaaker]", "l": "to narrate", "a": "1649.mp3" },
+      { "t": "lakad dhaakarto lettaw", "l": "I narrated.", "a": "1650.mp3" },
+      { "t": "lakad thaakarto tawaala elmassaa'", "l": "I narrated the whole story.", "a": "1651.mp3" },
+      { "t": "lakad ishtaghalto letaw", "l": "to study", "a": "1652.mp3" },
+      { "t": "lakad ishtaghalto tawaala elyawm", "l": "I studied.", "a": "1653.mp3" },
+      { "t": "ya'kol", "l": "I studied the whole evening.", "a": "1654.mp3" },
+      { "t": "lakad akalto kolla ettaeaam", "l": "to work", "a": "1655.mp3" },
+      { "t": "", "l": "I worked.", "a": "1656.mp3" },
+      { "t": "", "l": "I worked all day long.", "a": "1657.mp3" },
+      { "t": "", "l": "to eat", "a": "1658.mp3" },
+      { "t": "", "l": "I ate.", "a": "1659.mp3" },
+      { "t": "", "l": "I ate all the food.", "a": "1660.mp3" }
+    ]
+  },
+  {
+    "topic": "84 Past tense 4",
+    "words": [
+      { "t": "84 [eighty-four]", "l": "\u202b84 [أربعة وثمانون]\u202c", "a": "1661.mp3" },
+      { "t": "Past tense 4", "l": "\u202bالماضي 4\u202c", "a": "1662.mp3" },
+      { "t": "lakad kar'to lettaw", "l": "to read", "a": "1663.mp3" },
+      { "t": "lakd kar'to kolla erriwaaya", "l": "I read.", "a": "1664.mp3" },
+      { "t": "yafham", "l": "I read the whole novel.", "a": "1665.mp3" },
+      { "t": "lakad fahemtoo kolla ennas", "l": "to understand", "a": "1666.mp3" },
+      { "t": "yojiib", "l": "I understood.", "a": "1667.mp3" },
+      { "t": "lakad ajabto lettaw", "l": "I understood the whole text.", "a": "1668.mp3" },
+      { "t": "anaa aalam hathaa- lakd alemto hathaa lettaw", "l": "to answer", "a": "1669.mp3" },
+      { "t": "anaa aktob hathaa- lakad katabto hathaa lettaw", "l": "I answered.", "a": "1670.mp3" },
+      {
+        "t": "anaa asmaea hathaa- lakad sameato hathaa lettaw",
+        "l": "I answered all the questions.",
+        "a": "1671.mp3"
+      },
+      {
+        "t": "anaa aatii bihaathaa-lakad atayto bihaathaa lettaw",
+        "l": "I know that – I knew that.",
+        "a": "1672.mp3"
+      },
+      {
+        "t": "anaa ashtarii hathaa-lakadishtarayto hathaa lettaw",
+        "l": "I write that – I wrote that.",
+        "a": "1673.mp3"
+      },
+      {
+        "t": "anaa atawakkaea hathaa- lakad twakkaeto hathaa lettaw",
+        "l": "I hear that – I heard that.",
+        "a": "1674.mp3"
+      },
+      { "t": "anaa aaref hathaa-lakad arafto hathaa lettaw", "l": "I’ll get it – I got it.", "a": "1675.mp3" },
+      { "t": "", "l": "I’ll bring that – I brought that.", "a": "1676.mp3" },
+      { "t": "", "l": "I’ll buy that – I bought that.", "a": "1677.mp3" },
+      { "t": "", "l": "I expect that – I expected that.", "a": "1678.mp3" },
+      { "t": "", "l": "I’ll explain that – I explained that.", "a": "1679.mp3" },
+      { "t": "", "l": "I know that – I knew that.", "a": "1680.mp3" }
+    ]
+  },
+  {
+    "topic": "85 Questions – Past tense 1",
+    "words": [
+      { "t": "85 [eighty-five]", "l": "\u202b85 [خمسة وثمانون]\u202c", "a": "1681.mp3" },
+      { "t": "Questions – Past tense 1", "l": "\u202bأسئلة – الماضي 1\u202c", "a": "1682.mp3" },
+      { "t": "kam ishtaghalt?", "l": "How much did you drink?", "a": "1683.mp3" },
+      { "t": "kam katabat?", "l": "How much did you work?", "a": "1684.mp3" },
+      { "t": "kayfa nemet?", "l": "How much did you write?", "a": "1685.mp3" },
+      { "t": "kayfa wajadtta ettariik?", "l": "How did you sleep?", "a": "1686.mp3" },
+      { "t": "maea man takallamt?", "l": "How did you pass the exam?", "a": "1687.mp3" },
+      { "t": "maea man tawaaedet?", "l": "How did you find the way?", "a": "1688.mp3" },
+      { "t": "ayna kont?", "l": "Who did you speak to?", "a": "1689.mp3" },
+      { "t": "ayna konta taskon?", "l": "With whom did you make an appointment?", "a": "1690.mp3" },
+      { "t": "ayna konta tshtaghel?", "l": "With whom did you celebrate your birthday?", "a": "1691.mp3" },
+      { "t": "maathaa akalt?", "l": "Where were you?", "a": "1692.mp3" },
+      { "t": "mallathii araftaho an tajriba?", "l": "Where did you live?", "a": "1693.mp3" },
+      { "t": "kam kaanat soraetoka fissayer?", "l": "Where did you work?", "a": "1694.mp3" },
+      { "t": "kam el'irtifaaea ellathii kafaztaho?", "l": "What did you suggest?", "a": "1695.mp3" },
+      { "t": "", "l": "What did you eat?", "a": "1696.mp3" },
+      { "t": "", "l": "What did you come to know?", "a": "1697.mp3" },
+      { "t": "", "l": "How fast did you drive?", "a": "1698.mp3" },
+      { "t": "", "l": "How long did you fly?", "a": "1699.mp3" },
+      { "t": "", "l": "How high did you jump?", "a": "1700.mp3" }
+    ]
+  },
+  {
+    "topic": "86 Questions – Past tense 2",
+    "words": [
+      { "t": "86 [eighty-six]", "l": "\u202b86 [ست وثمانون]\u202c", "a": "1701.mp3" },
+      { "t": "Questions – Past tense 2", "l": "\u202bأسئلة – الماضى 2\u202c", "a": "1702.mp3" },
+      { "t": "ayyat sayyara kad ishtarayt?", "l": "Which tie did you wear?", "a": "1703.mp3" },
+      { "t": "ayyat jariida kad ishtarakta bihaa?", "l": "Which car did you buy?", "a": "1704.mp3" },
+      { "t": "man ra'ayt?", "l": "Which newspaper did you subscribe to?", "a": "1705.mp3" },
+      { "t": "man ellathii taearrafta alayh?", "l": "Who did you see?", "a": "1706.mp3" },
+      { "t": "mataa nahadhta menannawm?", "l": "Who did you meet?", "a": "1707.mp3" },
+      { "t": "mataa bada't?", "l": "Who did you recognize?", "a": "1708.mp3" },
+      { "t": "limaathaa istaykadhet?", "l": "When did you get up?", "a": "1709.mp3" },
+      { "t": "limaathaa asbahta modarrisan?", "l": "When did you start?", "a": "1710.mp3" },
+      { "t": "limaathaa akhathta sayyarat ojra?", "l": "When did you finish?", "a": "1711.mp3" },
+      { "t": "ilaa ayna thahabyt?", "l": "Why did you wake up?", "a": "1712.mp3" },
+      { "t": "ayna kont?", "l": "Why did you become a teacher?", "a": "1713.mp3" },
+      { "t": "man saaeadt?", "l": "Why did you take a taxi?", "a": "1714.mp3" },
+      { "t": "man jaawabt?", "l": "Where did you come from?", "a": "1715.mp3" },
+      { "t": "", "l": "Where did you go?", "a": "1716.mp3" },
+      { "t": "", "l": "Where were you?", "a": "1717.mp3" },
+      { "t": "", "l": "Who did you help?", "a": "1718.mp3" },
+      { "t": "", "l": "Who did you write to?", "a": "1719.mp3" },
+      { "t": "", "l": "Who did you reply to?", "a": "1720.mp3" }
+    ]
+  },
+  {
+    "topic": "87 Past tense of modal verbs 1",
+    "words": [
+      { "t": "87 [eighty-seven]", "l": "\u202b87 [سبعة وثمانون]\u202c", "a": "1721.mp3" },
+      { "t": "Past tense of modal verbs 1", "l": "\u202bماضي الأفعال المساعدة 1\u202c", "a": "1722.mp3" },
+      { "t": "lakad tawajjaba alayna an norattiba eshshokka", "l": "We had to water the flowers.", "a": "1723.mp3" },
+      { "t": "lakad tawajjaba alayna an naghsila essohoon", "l": "We had to clean the apartment.", "a": "1724.mp3" },
+      { "t": "hal kad tawajjaba alaykom an tadfaeoo elfaatoora?", "l": "We had to wash the dishes.", "a": "1725.mp3" },
+      {
+        "t": "hal kad tawajjaba alaykom an tadfaeoo gharaama?",
+        "l": "Did you have to pay the bill?",
+        "a": "1726.mp3"
+      },
+      {
+        "t": "man ellathii tawajjaba alayhi an yowaddaea?",
+        "l": "Did you have to pay an entrance fee?",
+        "a": "1727.mp3"
+      },
+      {
+        "t": "man ellathii tawajaba alayhi an yathhaba mobakkiran ilaa elbayt?",
+        "l": "Did you have to pay a fine?",
+        "a": "1728.mp3"
+      },
+      { "t": "lakd aradnaa an laa nabkaa tawiilan", "l": "Who had to say goodbye?", "a": "1729.mp3" },
+      { "t": "lakad aradnaa an nashraba shay'an", "l": "Who had to go home early?", "a": "1730.mp3" },
+      { "t": "lakad aradnaa an laa nozija", "l": "Who had to take the train?", "a": "1731.mp3" },
+      { "t": "aradto an atloba sayyaarat ojraa", "l": "We did not want to stay long.", "a": "1732.mp3" },
+      { "t": "aradto tahdiidan an athhaba ilaa elbayt", "l": "We did not want to drink anything.", "a": "1733.mp3" },
+      {
+        "t": "fakarto annaka aradta an tokhaabera zawjataka",
+        "l": "We did not want to disturb you.",
+        "a": "1734.mp3"
+      },
+      { "t": "fakkarto annaka aradta an tatloba pitza", "l": "I just wanted to make a call.", "a": "1735.mp3" },
+      { "t": "", "l": "I just wanted to call a taxi.", "a": "1736.mp3" },
+      { "t": "", "l": "Actually I wanted to drive home.", "a": "1737.mp3" },
+      { "t": "", "l": "I thought you wanted to call your wife.", "a": "1738.mp3" },
+      { "t": "", "l": "I thought you wanted to call information.", "a": "1739.mp3" },
+      { "t": "", "l": "I thought you wanted to order a pizza.", "a": "1740.mp3" }
+    ]
+  },
+  {
+    "topic": "88 Past tense of modal verbs 2",
+    "words": [
+      { "t": "88 [eighty-eight]", "l": "\u202b88 [ثمانية وثمانون]\u202c", "a": "1741.mp3" },
+      { "t": "Past tense of modal verbs 2", "l": "\u202bماضي الافعال المساعدة 2\u202c", "a": "1742.mp3" },
+      {
+        "t": "lam torid ibnatii an talaeba korat elkadam",
+        "l": "My son did not want to play with the doll.",
+        "a": "1743.mp3"
+      },
+      {
+        "t": "lam torid zawjatii an talaeba mayii shetranj",
+        "l": "My daughter did not want to play football / soccer (am.).",
+        "a": "1744.mp3"
+      },
+      {
+        "t": "araada awlaadii an laa yakoomoo benozha",
+        "l": "My wife did not want to play chess with me.",
+        "a": "1745.mp3"
+      },
+      {
+        "t": "lam yoriidoo an yathhaboo ilaa osratihem",
+        "l": "My children did not want to go for a walk.",
+        "a": "1746.mp3"
+      },
+      { "t": "lam yosmah laho an ya'kola ayss kriim", "l": "They did not want to tidy the room.", "a": "1747.mp3" },
+      { "t": "lam yosmah laho an ya'kola shookoolaata", "l": "They did not want to go to bed.", "a": "1748.mp3" },
+      { "t": "somaha lii an atamannaa lii shay'an", "l": "He was not allowed to eat ice cream.", "a": "1749.mp3" },
+      {
+        "t": "somaha lii an atamannaa an ashtarii lii thawban",
+        "l": "He was not allowed to eat chocolate.",
+        "a": "1750.mp3"
+      },
+      {
+        "t": "somiha lii an aakhotha lii habbat shookoolaata",
+        "l": "He was not allowed to eat sweets.",
+        "a": "1751.mp3"
+      },
+      {
+        "t": "hal somiha laka an tashraba biira fil mostashfaa?",
+        "l": "I was allowed to make a wish.",
+        "a": "1752.mp3"
+      },
+      {
+        "t": "hal somiha laka an todkhila maeaka elkalb ilaa elfondek?",
+        "l": "I was allowed to buy myself a dress.",
+        "a": "1753.mp3"
+      },
+      {
+        "t": "filotla elmadrassiya kaana yosmah lelatfaal an yabkaw fil khaarej tawiilan",
+        "l": "I was allowed to take a chocolate.",
+        "a": "1754.mp3"
+      },
+      {
+        "t": "kaana yosmaho lahom an yasharoo tawiilan",
+        "l": "Were you allowed to smoke in the airplane?",
+        "a": "1755.mp3"
+      },
+      { "t": "", "l": "Were you allowed to drink beer in the hospital?", "a": "1756.mp3" },
+      { "t": "", "l": "Were you allowed to take the dog into the hotel?", "a": "1757.mp3" },
+      { "t": "", "l": "During the holidays the children were allowed to remain outside late.", "a": "1758.mp3" },
+      { "t": "", "l": "They were allowed to play in the yard for a long time.", "a": "1759.mp3" },
+      { "t": "", "l": "They were allowed to stay up late.", "a": "1760.mp3" }
+    ]
+  },
+  {
+    "topic": "89 Imperative 1",
+    "words": [
+      { "t": "89 [eighty-nine]", "l": "\u202b89 [تسعة وثمانون]\u202c", "a": "1761.mp3" },
+      { "t": "Imperative 1", "l": "\u202bالأمر 1\u202c", "a": "1762.mp3" },
+      {
+        "t": "anta tanaam kathiiran - hallaa nemta akallo men hakatha!",
+        "l": "You are so lazy – don’t be so lazy!",
+        "a": "1763.mp3"
+      },
+      {
+        "t": "anta ta'tii mota'akhkhiran jedan - hallaa atayta ghayra hakathaa!",
+        "l": "You sleep for so long – don’t sleep so late!",
+        "a": "1764.mp3"
+      },
+      {
+        "t": "anta tadhhak besawt aalen - hallaa dhahakta ghayra hakathaa",
+        "l": "You come home so late – don’t come home so late!",
+        "a": "1765.mp3"
+      },
+      {
+        "t": "anta tashrabo kathiiran jeddan - hallaa sharebta ghayra hakathaa!",
+        "l": "You laugh so loudly – don’t laugh so loudly!",
+        "a": "1766.mp3"
+      },
+      {
+        "t": "anta todokhkhin kathiiran jeddan - hallaa dakhannta ghayra hakathaa!",
+        "l": "You speak so softly – don’t speak so softly!",
+        "a": "1767.mp3"
+      },
+      {
+        "t": "innaka tashtaghilo kathiiran jeddan - hallaa ishtaghalta ghayra hakathaa!",
+        "l": "You drink too much – don’t drink so much!",
+        "a": "1768.mp3"
+      },
+      { "t": "issha yaa sayyed moolar!", "l": "You smoke too much – don’t smoke so much!", "a": "1769.mp3" },
+      { "t": "ijless ya sayyed moolar!", "l": "You work too much – don’t work so much!", "a": "1770.mp3" },
+      { "t": "ibka jalisan ya sayyed moolar!", "l": "You drive too fast – don’t drive so fast!", "a": "1771.mp3" },
+      { "t": "khoth waktan kifaaya!", "l": "Get up, Mr. Miller!", "a": "1772.mp3" },
+      { "t": "intadher lahdha!", "l": "Sit down, Mr. Miller!", "a": "1773.mp3" },
+      { "t": "kon hathiran!", "l": "Remain seated, Mr. Miller!", "a": "1774.mp3" },
+      { "t": "laa takon ghbiyan!", "l": "Be patient!", "a": "1775.mp3" },
+      { "t": "", "l": "Take your time!", "a": "1776.mp3" },
+      { "t": "", "l": "Wait a moment!", "a": "1777.mp3" },
+      { "t": "", "l": "Be careful!", "a": "1778.mp3" },
+      { "t": "", "l": "Be punctual!", "a": "1779.mp3" },
+      { "t": "", "l": "Don’t be stupid!", "a": "1780.mp3" }
+    ]
+  },
+  {
+    "topic": "90 Imperative 2",
+    "words": [
+      { "t": "90 [ninety]", "l": "\u202b90 [تسعون]\u202c", "a": "1781.mp3" },
+      { "t": "Imperative 2", "l": "\u202bالأمر 2\u202c", "a": "1782.mp3" },
+      { "t": "ightasel!", "l": "Shave!", "a": "1783.mp3" },
+      { "t": "mashshet shaarak", "l": "Wash yourself!", "a": "1784.mp3" },
+      { "t": "ettasel! Ettasiloo!", "l": "Comb your hair!", "a": "1785.mp3" },
+      { "t": "tawakaf! Tawakkafoo!", "l": "Call!", "a": "1786.mp3" },
+      { "t": "otrok hathaa! otrokoo hathaa!", "l": "Begin!", "a": "1787.mp3" },
+      { "t": "kolo hathaa! Kooloo hathaa!", "l": "Stop!", "a": "1788.mp3" },
+      { "t": "la takon abadan ghayra saadek!", "l": "Leave it!", "a": "1789.mp3" },
+      { "t": "laa takon abadan wakihan!", "l": "Say it!", "a": "1790.mp3" },
+      { "t": "laa takon abadan ghayra mohaththab!", "l": "Buy it!", "a": "1791.mp3" },
+      { "t": "kon daa'iman latiifan!", "l": "Never be dishonest!", "a": "1792.mp3" },
+      { "t": "kon daa'iman mohaththaban!", "l": "Never be naughty!", "a": "1793.mp3" },
+      { "t": "oed saaliman lbaytek", "l": "Never be impolite!", "a": "1794.mp3" },
+      { "t": "zornaa marrat okhraa fii akrab wakt!", "l": "Always be honest!", "a": "1795.mp3" },
+      { "t": "", "l": "Always be nice!", "a": "1796.mp3" },
+      { "t": "", "l": "Always be polite!", "a": "1797.mp3" },
+      { "t": "", "l": "Hope you arrive home safely!", "a": "1798.mp3" },
+      { "t": "", "l": "Take care of yourself!", "a": "1799.mp3" },
+      { "t": "", "l": "Do visit us again soon!", "a": "1800.mp3" }
+    ]
+  },
+  {
+    "topic": "91 Subordinate clauses: that 1",
+    "words": [
+      { "t": "91 [ninety-one]", "l": "\u202b91 [واحد وتسعون]\u202c", "a": "1801.mp3" },
+      { "t": "Subordinate clauses: that 1", "l": "\u202bالجمل الجانبية باستخدام", "a": "1802.mp3" },
+      { "t": "kayfa arafta hathaa?", "l": "Perhaps the weather will get better tomorrow.", "a": "1803.mp3" },
+      { "t": "aamol annaho sayatahassan", "l": "How do you know that?", "a": "1804.mp3" },
+      { "t": "saya'tii bekolli ta'kiid", "l": "I hope that it gets better.", "a": "1805.mp3" },
+      { "t": "aelam annaho saya'tii", "l": "He will definitely come.", "a": "1806.mp3" },
+      { "t": "sayattasilo bet'akiid", "l": "Are you sure?", "a": "1807.mp3" },
+      { "t": "hakkan?", "l": "I know that he’ll come.", "a": "1808.mp3" },
+      { "t": "ennebiith atiikon mo'akkad", "l": "He’ll definitely call.", "a": "1809.mp3" },
+      { "t": "ataearif thalik bedhdhabet", "l": "Really?", "a": "1810.mp3" },
+      { "t": "adhonno annaho atiik", "l": "I believe that he’ll call.", "a": "1811.mp3" },
+      { "t": "ataraaho hakathaa?", "l": "The wine is definitely old.", "a": "1812.mp3" },
+      { "t": "anaa araa hatta annaho yabdoo hasanan jeddan", "l": "Do you know that for sure?", "a": "1813.mp3" },
+      { "t": "ladaa elmodiir sadiikaton bet'kiid", "l": "I think that it is old.", "a": "1814.mp3" },
+      { "t": "ennaho momken jeddan anna ladayhi sadiika", "l": "Our boss is good-looking.", "a": "1815.mp3" },
+      { "t": "", "l": "Do you think so?", "a": "1816.mp3" },
+      { "t": "", "l": "I find him very handsome.", "a": "1817.mp3" },
+      { "t": "", "l": "The boss definitely has a girlfriend.", "a": "1818.mp3" },
+      { "t": "", "l": "Do you really think so?", "a": "1819.mp3" },
+      { "t": "", "l": "It is very possible that he has a girlfriend.", "a": "1820.mp3" }
+    ]
+  },
+  {
+    "topic": "92 Subordinate clauses: that 2",
+    "words": [
+      { "t": "92 [ninety-two]", "l": "\u202b92 [اثنان وتسعون]\u202c", "a": "1821.mp3" },
+      { "t": "Subordinate clauses: that 2", "l": "\u202bالجمل الجانبية باستخدام", "a": "1822.mp3" },
+      {
+        "t": "ennaho yothaayikonii annaka tashrabo biira kathiiran jeddan hakathaa",
+        "l": "I’m angry that you snore.",
+        "a": "1823.mp3"
+      },
+      {
+        "t": "ennaho yothaayikonii annaka ta'tii mota'akhiran jeddan hakathaa",
+        "l": "I’m angry that you drink so much beer.",
+        "a": "1824.mp3"
+      },
+      { "t": "aeatakido annaho yahtaaj ilaa tabiib", "l": "I’m angry that you come so late.", "a": "1825.mp3" },
+      { "t": "aeatakido annaho el'aan naa'em", "l": "I think he needs a doctor.", "a": "1826.mp3" },
+      { "t": "na'malo annaho sayatazawwajo ebnatanaa", "l": "I think he is ill.", "a": "1827.mp3" },
+      { "t": "na'malo annaho yakoon ladayhi maalon kathiir", "l": "I think he is sleeping now.", "a": "1828.mp3" },
+      {
+        "t": "kad samaeato anna zawjataka hadatha lahaa haadeth",
+        "l": "We hope that he marries our daughter.",
+        "a": "1829.mp3"
+      },
+      {
+        "t": "kad samaeato annahaa tarkodo fil mostashfaa",
+        "l": "We hope that he has a lot of money.",
+        "a": "1830.mp3"
+      },
+      {
+        "t": "kad samaeato an syyaaratak taalifa tamaaman",
+        "l": "We hope that he is a millionaire.",
+        "a": "1831.mp3"
+      },
+      { "t": "ennaho yoseaidonii annaka mohtam", "l": "I heard that your wife had an accident.", "a": "1832.mp3" },
+      {
+        "t": "ennaho yoseaidonni annaka toriid shiraa' elmanzel",
+        "l": "I heard that she is in the hospital.",
+        "a": "1833.mp3"
+      },
+      {
+        "t": "akhshaa an yakoona aakher baas kad ghaadar",
+        "l": "I heard that your car is completely wrecked.",
+        "a": "1834.mp3"
+      },
+      { "t": "akhshaa annanii layssa mayii nokood", "l": "I’m happy that you came.", "a": "1835.mp3" },
+      { "t": "", "l": "I’m happy that you are interested.", "a": "1836.mp3" },
+      { "t": "", "l": "I’m happy that you want to buy the house.", "a": "1837.mp3" },
+      { "t": "", "l": "I’m afraid the last bus has already gone.", "a": "1838.mp3" },
+      { "t": "", "l": "I’m afraid we will have to take a taxi.", "a": "1839.mp3" },
+      { "t": "", "l": "I’m afraid I have no more money.", "a": "1840.mp3" }
+    ]
+  },
+  {
+    "topic": "93 Subordinate clauses: if",
+    "words": [
+      { "t": "93 [ninety-three]", "l": "\u202b93 [ثلاثة وتسعون]\u202c", "a": "1841.mp3" },
+      {
+        "t": "Subordinate clauses: if",
+        "l": "\u202bالجمل التابعة باستعمال : إن كان، ما إذا كان\u202c",
+        "a": "1842.mp3"
+      },
+      { "t": "laa adrii in kaana sayaeood", "l": "I don’t know if he loves me.", "a": "1843.mp3" },
+      { "t": "laaadrii in kaana sayokhbironii", "l": "I don’t know if he’ll come back.", "a": "1844.mp3" },
+      { "t": "in kaana hakkan yohebbonii?", "l": "I don’t know if he’ll call me.", "a": "1845.mp3" },
+      { "t": "in kaana hakkan sayokhbironii?", "l": "Maybe he doesn’t love me?", "a": "1846.mp3" },
+      { "t": "ennii l'atasaa'al maa ithaa kaana yofakkero fii", "l": "Maybe he won’t come back?", "a": "1847.mp3" },
+      {
+        "t": "ennii l'atasaa'al maa ithaa kaana ladayhi waahidaton okhraa",
+        "l": "Maybe he won’t call me?",
+        "a": "1848.mp3"
+      },
+      { "t": "maa ithaa kaana yofakkero fiyya hakkan?", "l": "I wonder if he thinks about me.", "a": "1849.mp3" },
+      { "t": "maa ithaa kaana ladayhi waahidaton okhraa?", "l": "I wonder if he has someone else.", "a": "1850.mp3" },
+      { "t": "maa ithaa kaana hakkan yakool elhakiika?", "l": "I wonder if he lies.", "a": "1851.mp3" },
+      { "t": "enni la'ashokko maa ithaa kaana sayaktobo lii", "l": "Maybe he thinks of me?", "a": "1852.mp3" },
+      { "t": "enni la'ashokko maa ithaa kaana sayatazawwajoniii", "l": "Maybe he has someone else?", "a": "1853.mp3" },
+      { "t": "maa ithaa kaana hakkan yoriidonii?", "l": "Maybe he tells me the truth?", "a": "1854.mp3" },
+      { "t": "maa ithaa kaana hakkan sayatazawwajonii?", "l": "I doubt whether he really likes me.", "a": "1855.mp3" },
+      { "t": "", "l": "I doubt whether he’ll write to me.", "a": "1856.mp3" },
+      { "t": "", "l": "I doubt whether he’ll marry me.", "a": "1857.mp3" },
+      { "t": "", "l": "Does he really like me?", "a": "1858.mp3" },
+      { "t": "", "l": "Will he write to me?", "a": "1859.mp3" },
+      { "t": "", "l": "Will he marry me?", "a": "1860.mp3" }
+    ]
+  },
+  {
+    "topic": "94 Conjunctions 1",
+    "words": [
+      { "t": "94 [ninety-four]", "l": "\u202b94 [أربعة وتسعون]\u202c", "a": "1861.mp3" },
+      { "t": "Conjunctions 1", "l": "\u202bحروف العطف 1\u202c", "a": "1862.mp3" },
+      { "t": "intadher hattaa antahii", "l": "Wait until the rain stops.", "a": "1863.mp3" },
+      { "t": "intadher hatta yaeaood", "l": "Wait until I’m finished.", "a": "1864.mp3" },
+      { "t": "intadher hatta yosbiha shaearii jaafan", "l": "Wait until he comes back.", "a": "1865.mp3" },
+      { "t": "intadher hatta tasiira el'ishaara khadhraa'", "l": "I’ll wait until my hair is dry.", "a": "1866.mp3" },
+      { "t": "mataa satosaafer lel'ijaaza?", "l": "I’ll wait until the film is over.", "a": "1867.mp3" },
+      {
+        "t": "hattaa men kabel el'ijaaza essayfiya?",
+        "l": "I’ll wait until the traffic light is green.",
+        "a": "1868.mp3"
+      },
+      { "t": "asleh essakef kabla an yabda'a eshshitaa'", "l": "When do you go on holiday?", "a": "1869.mp3" },
+      { "t": "eghsel yadayka kabla an tajlissa ilaa ettawila", "l": "Before the summer holidays?", "a": "1870.mp3" },
+      { "t": "eghlek ennefidha kabla an takhroj", "l": "Yes, before the summer holidays begin.", "a": "1871.mp3" },
+      { "t": "hal baad eddaress?", "l": "Repair the roof before the winter begins.", "a": "1872.mp3" },
+      {
+        "t": "naeam, baeada an yakoon eddaress kad intahaa",
+        "l": "Wash your hands before you sit at the table.",
+        "a": "1873.mp3"
+      },
+      {
+        "t": "men baead an hasala laho elhaadeth lam yaeaod yomkinoho an yaeamal",
+        "l": "Close the window before you go out.",
+        "a": "1874.mp3"
+      },
+      {
+        "t": "men baead an thahabaa ilaa amariikaa asbaha thariyan",
+        "l": "When will you come home?",
+        "a": "1875.mp3"
+      },
+      { "t": "", "l": "After class?", "a": "1876.mp3" },
+      { "t": "", "l": "Yes, after the class is over.", "a": "1877.mp3" },
+      { "t": "", "l": "After he had an accident, he could not work anymore.", "a": "1878.mp3" },
+      { "t": "", "l": "After he had lost his job, he went to America.", "a": "1879.mp3" },
+      { "t": "", "l": "After he went to America, he became rich.", "a": "1880.mp3" }
+    ]
+  },
+  {
+    "topic": "95 Conjunctions 2",
+    "words": [
+      { "t": "95 [ninety-five]", "l": "\u202b95 [خمسة وتسعون]\u202c", "a": "1881.mp3" },
+      { "t": "Conjunctions 2", "l": "\u202bحروف العطف 2\u202c", "a": "1882.mp3" },
+      { "t": "montho zawaajihaa?", "l": "Since when is she no longer working?", "a": "1883.mp3" },
+      { "t": "naeam, hiya lam taeaod tashtaghel montho an tazawwajat", "l": "Since her marriage?", "a": "1884.mp3" },
+      {
+        "t": "montho an tazawajat lam taeaod hiyaa tashtaghel",
+        "l": "Yes, she is no longer working since she got married.",
+        "a": "1885.mp3"
+      },
+      {
+        "t": "montho an asbaha lahom atfaal saaraa naadiran maa yakhrojaan",
+        "l": "Since she got married, she’s no longer working.",
+        "a": "1886.mp3"
+      },
+      {
+        "t": "mataa tattasilo hiya bettelefoun?",
+        "l": "Since they have met each other, they are happy.",
+        "a": "1887.mp3"
+      },
+      { "t": "hal athnaa'a essayer?", "l": "Since they have had children, they rarely go out.", "a": "1888.mp3" },
+      {
+        "t": "hiya tatkalam bttelefoon athnaa'a maa hiya takood essayyaara",
+        "l": "When does she call?",
+        "a": "1889.mp3"
+      },
+      { "t": "hiya toshaahed ettelfezyoon athnaa'a maa hiya takwii", "l": "When driving?", "a": "1890.mp3" },
+      {
+        "t": "hiya tasmaea elmoosiikaa athnaa'a maa hiya taeamal waajibaataha",
+        "l": "Yes, when she is driving.",
+        "a": "1891.mp3"
+      },
+      {
+        "t": "laa afham shay'an, endamaa takoon emoosiikaa hakathaa aeaaliya",
+        "l": "She calls while she drives.",
+        "a": "1892.mp3"
+      },
+      {
+        "t": "la ashommo shay'an endamaa yakoon endii zokaam",
+        "l": "She watches TV while she irons.",
+        "a": "1893.mp3"
+      },
+      {
+        "t": "sna'khotho sayyarat ojraa in hiya amtarat",
+        "l": "She listens to music while she does her work.",
+        "a": "1894.mp3"
+      },
+      {
+        "t": "sanabda4 fil akel in lam ya'tii baeada kaliil",
+        "l": "I can’t see anything when I don’t have glasses.",
+        "a": "1895.mp3"
+      },
+      { "t": "", "l": "I can’t understand anything when the music is so loud.", "a": "1896.mp3" },
+      { "t": "", "l": "I can’t smell anything when I have a cold.", "a": "1897.mp3" },
+      { "t": "", "l": "We’ll take a taxi if it rains.", "a": "1898.mp3" },
+      { "t": "", "l": "We’ll travel around the world if we win the lottery.", "a": "1899.mp3" },
+      { "t": "", "l": "We’ll start eating if he doesn’t come soon.", "a": "1900.mp3" }
+    ]
+  },
+  {
+    "topic": "96 Conjunctions 3",
+    "words": [
+      { "t": "96 [ninety-six]", "l": "\u202b96 [ستة وتسعون]\u202c", "a": "1901.mp3" },
+      { "t": "Conjunctions 3", "l": "\u202bحروف العطف 3\u202c", "a": "1902.mp3" },
+      {
+        "t": "asiiro moteaban bimojarradian yakoona alayyaa an adros",
+        "l": "I get up as soon as the alarm rings.",
+        "a": "1903.mp3"
+      },
+      {
+        "t": "satawakkafo an elamal bimojarradi an asiira fissettiin",
+        "l": "I become tired as soon as I have to study.",
+        "a": "1904.mp3"
+      },
+      { "t": "mataa anta satattasel?", "l": "I will stop working as soon as I am 60.", "a": "1905.mp3" },
+      { "t": "sayattasilo howa bimojarradi an yosbiha endaho wa9t", "l": "When will you call?", "a": "1906.mp3" },
+      { "t": "ilaa mataa sawfa tashtaghel?", "l": "As soon as I have a moment.", "a": "1907.mp3" },
+      {
+        "t": "sawfa aeamal taalamaa kaderto ala thaalik",
+        "l": "He’ll call, as soon as he has a little time.",
+        "a": "1908.mp3"
+      },
+      { "t": "ennaho yatamaddado fissariir, badalan mina elaeamel", "l": "How long will you work?", "a": "1909.mp3" },
+      { "t": "innaha takra'o eljariida, badalan men an tatbokh", "l": "I’ll work as long as I can.", "a": "1910.mp3" },
+      {
+        "t": "ennaho yajliss fielhaana, badalan men an yadhhab ilaa elbayt",
+        "l": "I’ll work as long as I am healthy.",
+        "a": "1911.mp3"
+      },
+      {
+        "t": "hasba maa aealamoho fa'inna zawjataho mariitha",
+        "l": "He lies in bed instead of working.",
+        "a": "1912.mp3"
+      },
+      {
+        "t": "hasba maa aealamoho fa'innaho aeaatilon an elaamal",
+        "l": "She reads the newspaper instead of cooking.",
+        "a": "1913.mp3"
+      },
+      {
+        "t": "lakar raahat alayyaa nawma, w ilaa lakonto hasba elmawead",
+        "l": "He is at the bar instead of going home.",
+        "a": "1914.mp3"
+      },
+      {
+        "t": "lam ajed ettariik, w illaa lakonto hasba elmawead",
+        "l": "As far as I know, he lives here.",
+        "a": "1915.mp3"
+      },
+      { "t": "", "l": "As far as I know, his wife is ill.", "a": "1916.mp3" },
+      { "t": "", "l": "As far as I know, he is unemployed.", "a": "1917.mp3" },
+      { "t": "", "l": "I overslept; otherwise I’d have been on time.", "a": "1918.mp3" },
+      { "t": "", "l": "I missed the bus; otherwise I’d have been on time.", "a": "1919.mp3" },
+      { "t": "", "l": "I didn’t find the way / I got lost; otherwise I’d have been on time.", "a": "1920.mp3" }
+    ]
+  },
+  {
+    "topic": "97 Conjunctions 4",
+    "words": [
+      { "t": "97 [ninety-seven]", "l": "\u202b97 [سبعة وتسعون]\u202c", "a": "1921.mp3" },
+      { "t": "Conjunctions 4", "l": "\u202bأدوات الوصل 4\u202c", "a": "1922.mp3" },
+      {
+        "t": "lakad dhalla bakiyan maea anna elwakta kaana mota'akhkhiran",
+        "l": "He fell asleep although the TV was on.",
+        "a": "1923.mp3"
+      },
+      {
+        "t": "innaho lam ya'ti, maea annaa konna motawaaeidayn",
+        "l": "He stayed a while although it was late.",
+        "a": "1924.mp3"
+      },
+      {
+        "t": "lakad kaana ettelfezyoon maftoohan, wa maea thalika naam",
+        "l": "He didn’t come although we had made an appointment.",
+        "a": "1925.mp3"
+      },
+      {
+        "t": "lakad tawaaeadnaa, wa maea thalika lam ya'ti",
+        "l": "The TV was on. Nevertheless, he fell asleep.",
+        "a": "1926.mp3"
+      },
+      {
+        "t": "maea annaho layssa ladayhi roghsato kiyaada, illa annaho yakood essayaara",
+        "l": "It was already late. Nevertheless, he stayed a while.",
+        "a": "1927.mp3"
+      },
+      {
+        "t": "maea anna eshshariea zalikon, ilaa annaho yakood essayyara",
+        "l": "We had made an appointment. Nevertheless, he didn’t come.",
+        "a": "1928.mp3"
+      },
+      {
+        "t": "layssa ladyhi roghsat siyaaka wa ma3a thalika yakood sayyara",
+        "l": "Although he has no license, he drives the car.",
+        "a": "1929.mp3"
+      },
+      {
+        "t": "eshshaaraea zalik, wa maea thalik yakood bisoraea kabiira",
+        "l": "Although the road is slippery, he drives so fast.",
+        "a": "1930.mp3"
+      },
+      {
+        "t": "ennaho sokraan , wa maea thalika yarkab eddarraaja",
+        "l": "Although he is drunk, he rides his bicycle.",
+        "a": "1931.mp3"
+      },
+      {
+        "t": "ennahaa laa tathhab ilaa ettabiib, maea anna endahaa aalaam",
+        "l": "Despite having no licence / license (am.), he drives the car.",
+        "a": "1932.mp3"
+      },
+      {
+        "t": "ennahaa tadhtari sayyaara, maea anna layssa lahaa nokood",
+        "l": "Despite the road being slippery, he drives fast.",
+        "a": "1933.mp3"
+      },
+      {
+        "t": "innaha kad darasat, wa maea dhalik laa tajd wadhifa",
+        "l": "Despite being drunk, he rides the bike.",
+        "a": "1934.mp3"
+      },
+      {
+        "t": "layssa endahaa nokood , wa maea thalik tashtarii sayyara",
+        "l": "Although she went to college, she can’t find a job.",
+        "a": "1935.mp3"
+      },
+      { "t": "", "l": "Although she is in pain, she doesn’t go to the doctor.", "a": "1936.mp3" },
+      { "t": "", "l": "Although she has no money, she buys a car.", "a": "1937.mp3" },
+      { "t": "", "l": "She went to college. Nevertheless, she can’t find a job.", "a": "1938.mp3" },
+      { "t": "", "l": "She is in pain. Nevertheless, she doesn’t go to the doctor.", "a": "1939.mp3" },
+      { "t": "", "l": "She has no money. Nevertheless, she buys a car.", "a": "1940.mp3" }
+    ]
+  },
+  {
+    "topic": "98 Double connectors",
+    "words": [
+      { "t": "98 [ninety-eight]", "l": "\u202b98 [ثمايةٍ وتسعون]\u202c", "a": "1941.mp3" },
+      { "t": "Double connectors", "l": "\u202bحروف العطف المزدوجة\u202c", "a": "1942.mp3" },
+      {
+        "t": "sahiih anna elkitaar kaan hasb elmawead ilaa annaho kaana malii'an jiddan",
+        "l": "The journey was beautiful, but too tiring.",
+        "a": "1943.mp3"
+      },
+      {
+        "t": "sahiih anna elfondek kaana moriihan, illa annaho kaana ghaaliyan jeddan",
+        "l": "The train was on time, but too full.",
+        "a": "1944.mp3"
+      },
+      {
+        "t": "sayosaafir immaa bebaas aw belkitaar",
+        "l": "The hotel was comfortable, but too expensive.",
+        "a": "1945.mp3"
+      },
+      {
+        "t": "sayaskon immaa maeanaa aw fii elfondek",
+        "l": "He’ll take either the bus or the train.",
+        "a": "1946.mp3"
+      },
+      {
+        "t": "ennahaa tatakalam el'espaaniya kamaa aydhan el'ingliiziya",
+        "l": "He’ll come either this evening or tomorrow morning.",
+        "a": "1947.mp3"
+      },
+      {
+        "t": "lakad aeaashat fi madriid kamaa aydhan fii london",
+        "l": "He’s going to stay either with us or in the hotel.",
+        "a": "1948.mp3"
+      },
+      {
+        "t": "ennaho layssa fakat ghabiyan bel aydhan kasoolan",
+        "l": "She speaks Spanish as well as English.",
+        "a": "1949.mp3"
+      },
+      {
+        "t": "ennahaa laysat fakat jamiila, bel aydhan thakiya",
+        "l": "She has lived in Madrid as well as in London.",
+        "a": "1950.mp3"
+      },
+      {
+        "t": "ennaha laa tatkalm fakat elalmaaniya bel kathalika elfiransiya",
+        "l": "She knows Spain as well as England.",
+        "a": "1951.mp3"
+      },
+      {
+        "t": "laa astatiiea an arkoss elfaales wa laa essambaa",
+        "l": "He is not only stupid, but also lazy.",
+        "a": "1952.mp3"
+      },
+      {
+        "t": "laa ohebbo elopraa wa laa elbaaliih",
+        "l": "She is not only pretty, but also intelligent.",
+        "a": "1953.mp3"
+      },
+      {
+        "t": "kollama eshtaghalta bisoraea akbar, kollama entahayta menho bi'abkar",
+        "l": "She speaks not only German, but also French.",
+        "a": "1954.mp3"
+      },
+      {
+        "t": "kollamaa takaddama elmar'o filomor, kollamaa asbaha akthara ridhaa",
+        "l": "I can neither play the piano nor the guitar.",
+        "a": "1955.mp3"
+      },
+      { "t": "", "l": "I can neither waltz nor do the samba.", "a": "1956.mp3" },
+      { "t": "", "l": "I like neither opera nor ballet.", "a": "1957.mp3" },
+      { "t": "", "l": "The faster you work, the earlier you will be finished.", "a": "1958.mp3" },
+      { "t": "", "l": "The earlier you come, the earlier you can go.", "a": "1959.mp3" },
+      { "t": "", "l": "The older one gets, the more complacent one gets.", "a": "1960.mp3" }
+    ]
+  },
+  {
+    "topic": "99 Genitive",
+    "words": [
+      { "t": "99 [ninety-nine]", "l": "\u202b99 [تسعة وتسعون]\u202c", "a": "1961.mp3" },
+      { "t": "Genitive", "l": "\u202bحالة الإضافة\u202c", "a": "1962.mp3" },
+      { "t": "kalbo sadiikii", "l": "my girlfriend’s cat", "a": "1963.mp3" },
+      { "t": "aleaab atfaalii", "l": "my boyfriend’s dog", "a": "1964.mp3" },
+      { "t": "hathaa meeaetafo zamiilii", "l": "my children’s toys", "a": "1965.mp3" },
+      { "t": "hathaa shoghlo zamiilii", "l": "This is my colleague’s overcoat.", "a": "1966.mp3" },
+      { "t": "zerro elkamiis kad inkataea", "l": "That is my colleague’s car.", "a": "1967.mp3" },
+      { "t": "meftaah elkaaraaj mafkood", "l": "That is my colleagues’ work.", "a": "1968.mp3" },
+      { "t": "man hom waalidaa elben?", "l": "The button from the shirt is gone.", "a": "1969.mp3" },
+      { "t": "kayfa asilo ilaa manzili waalidihaa?", "l": "The garage key is gone.", "a": "1970.mp3" },
+      { "t": "elmanzilo yakaeao fii aakher eshshaaraea", "l": "The boss’ computer is not working.", "a": "1971.mp3" },
+      { "t": "maa howa enwaan elkittaab?", "l": "Who are the girl’s parents?", "a": "1972.mp3" },
+      { "t": "maa hiya asmaa' awlaad eljiiraan?", "l": "How do I get to her parents’ house?", "a": "1973.mp3" },
+      { "t": "mataa takoon otlat mdaaress elatfaal?", "l": "The house is at the end of the road.", "a": "1974.mp3" },
+      { "t": "mataa yaftaho elmothaf?", "l": "What is the name of the capital city of Switzerland?", "a": "1975.mp3" },
+      { "t": "", "l": "What is the title of the book?", "a": "1976.mp3" },
+      { "t": "", "l": "What are the names of the neighbour’s / neighbor’s (am.) children?", "a": "1977.mp3" },
+      { "t": "", "l": "When are the children’s holidays?", "a": "1978.mp3" },
+      { "t": "", "l": "What are the doctor’s consultation times?", "a": "1979.mp3" },
+      { "t": "", "l": "What time is the museum open?", "a": "1980.mp3" }
+    ]
+  },
+  {
+    "topic": "100 Adverbs",
+    "words": [
+      { "t": "100 [one hundred]", "l": "\u202b100 [مائة]\u202c", "a": "1981.mp3" },
+      { "t": "Adverbs", "l": "\u202bالظروف\u202c", "a": "1982.mp3" },
+      { "t": "hal hasala laka marratan an konta fii berliin?", "l": "already – not yet", "a": "1983.mp3" },
+      { "t": "laa, lam yahsol kat", "l": "Have you already been to Berlin?", "a": "1984.mp3" },
+      { "t": "ahad- la ahad", "l": "No, not yet.", "a": "1985.mp3" },
+      { "t": "laa, laa aearef ahadan honaa", "l": "someone – no one", "a": "1986.mp3" },
+      { "t": "maazaal - lam yaeaod", "l": "Do you know someone here?", "a": "1987.mp3" },
+      { "t": "hal satastamerro fil bakaa'i tawiilan?", "l": "No, I don’t know anyone here.", "a": "1988.mp3" },
+      { "t": "shay'on aakhar - laa shay'a akthar", "l": "a little longer – not much longer", "a": "1989.mp3" },
+      { "t": "atoriido an tashraba shay'an aakhar?", "l": "Will you stay here a little longer?", "a": "1990.mp3" },
+      { "t": "laa , laa oriido shay'an aakhar", "l": "No, I won’t stay here much longer.", "a": "1991.mp3" },
+      { "t": "hal hasala an akalta shay'an?", "l": "something else – nothing else", "a": "1992.mp3" },
+      { "t": "laa, lam yahsol an akalto shay'an", "l": "Would you like to drink something else?", "a": "1993.mp3" },
+      { "t": "maazaal ahad - layssa men ahad", "l": "No, I don’t want anything else.", "a": "1994.mp3" },
+      { "t": "laa, layssa men ahad", "l": "something already – nothing yet", "a": "1995.mp3" },
+      { "t": "", "l": "Have you already eaten something?", "a": "1996.mp3" },
+      { "t": "", "l": "No, I haven’t eaten anything yet.", "a": "1997.mp3" },
+      { "t": "", "l": "someone else – no one else", "a": "1998.mp3" },
+      { "t": "", "l": "Does anyone else want a coffee?", "a": "1999.mp3" },
+      { "t": "", "l": "No, no one else.", "a": "2000.mp3" }
+    ]
+  }
+]

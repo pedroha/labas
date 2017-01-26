@@ -5,12 +5,12 @@ const writeFile = require('./utils/write-file')
 const beautify = require('json-beautify')
 
 const config = require('./config')
-let language = require(`./res/${config.language}.json`)
+let language = require(`${config.TRANSLATION_PATH}/${config.language}.json`)
 
 const languageCode = config['code-dest']
 
-const SOURCE_DIR = `./download/${languageCode}`
-const DEST_DIR = `./res/${languageCode}`
+const SOURCE_DIR = `${config.DOWNLOAD_PATH}/${languageCode}`
+const DEST_DIR = `${config.WEB_PATH}/audio/${languageCode}`
 
 mkdirp(DEST_DIR)
 

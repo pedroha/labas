@@ -7,6 +7,9 @@ const mkdirp = require('node-mkdirp')
 const beautify = require('json-beautify')
 const config = require('./config')
 
+const DOWNLOAD_FOLDER = `${config.TRANSLATION_PATH}`
+
+
 // console.log("phrase.scraper.config", config)
 
 // var str = `${config['code-src']}`
@@ -17,8 +20,8 @@ const config = require('./config')
 
 const processFirstTopicOnly = false; // DEBUGGING
 
-const downloadAudioFolder = 'web/audio'
-const downloadAudio = false
+const downloadAudioFolder = 'audio'
+const downloadAudio = false // let's download audio separately (for performance/concurrency)
 const outputHint = false
 const compressed = true
 
@@ -113,8 +116,9 @@ var outputDatabase = function() {
   var json = beautify(sorted, null, 2, 120)
   console.log(json)
 
+  mkdirp(DOWNLOAD_FOLDER)
   const databaseFilename = `${config.language}.json`
-  fs.writeFileSync('res/' + databaseFilename, json)
+  fs.writeFileSync(DOWNLOAD_FOLDER + "/" + databaseFilename, json)
 }
 
 var updateDatabase = function(topic, words) {
@@ -292,10 +296,12 @@ var getIndex = function(err, resp, html) {
 var main = true;
 
 if (typeof main !== 'undefined') {
-  mkdirp(downloadAudioFolder, function(err) {
-    if (err) console.error(err)
-    else console.log('pow!')
-  })
+  if (downloadAudio) {
+    mkdirp(downloadAudioFolder, function(err) {
+      if (err) console.error(err)
+      else console.log('pow!')
+    })    
+  }
 
   var page = LANGUAGE_PREFIX + '002.HTM'
   var bookIndexUrl = BOOK_BASE_URL + page

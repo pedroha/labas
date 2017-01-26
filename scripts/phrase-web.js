@@ -95,12 +95,12 @@ let buildWebPage = function(config, wordEntries) {
     }).trim()
     // console.log(rendered)
 
-    mkdirp('web', function(err) {
+    mkdirp(`${config.WEB_PATH}`, function(err) {
       if (err) console.error(err)
       else console.log('pow!')
     })
     const htmlFilename = `${config.language}.html`
-    writeFile(`web/${htmlFilename}`, rendered)
+    writeFile(`${config.WEB_PATH}/${htmlFilename}`, rendered)
 }
 
 let wordEntries = config.entries;

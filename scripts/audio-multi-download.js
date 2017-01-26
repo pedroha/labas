@@ -3,7 +3,8 @@ const config = require('./config')
 
 var languageData
 try {
-	languageData = require(`./res/${config.language}.json`)
+	languageData = require(`${config.TRANSLATION_PATH}/${config.language}.json`)
+	console.log(languageData);
 }
 catch (e) {
 	console.log('--- RUN FIRST ---')

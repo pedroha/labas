@@ -3,6 +3,8 @@ const mkdirp = require('node-mkdirp')
 const request = require('request')
 const config = require('./config')
 
+const DOWNLOAD_FOLDER = `${config.DOWNLOAD_PATH}`
+
 let previouslyDownloadedFileCount = 0;
 
 // const beautify = require('json-beautify')
@@ -62,7 +64,7 @@ var downloadAudioResource = function(url, folder) {
                 }
                 else {
                     console.log('We already have this audio file: ' + name)
-                    previouslyDownloadedFileCount++;
+                    previouslyDownloadedFileCount++
                 }
             }
         })
@@ -74,29 +76,27 @@ var iterateForEntry = function(topicList, processEntry) {
     for (let i = 0; i < topicList.length; i++) {
         let topic = topicList[i];
         for (let j = 0; j < topic.words.length; j++) {
-            let entry = topic.words[j];
-            processEntry(entry, 10 * cnt);
-            cnt++;
+            let entry = topic.words[j]
+            processEntry(entry, 10 * cnt)
+            cnt++
         }
     }    
 }
 
 var downloadAudios = function(languageDatabase) {
     let langCodeFolder = `${config['code-dest']}`
-    let destFolder = `./download/${langCodeFolder}`
+    let destFolder = `${DOWNLOAD_FOLDER}/${langCodeFolder}`
     let totalFileCount = 0
 
     mkdirp(destFolder)
 
-    let processEntry = (function(langCodeFolder) {
-        return function(entry, waitTime) {
-            setTimeout(function() {
-                let url = `http://www.book2.nl/book2/${config['code-dest']}/SOUND/${entry.a}`
-                downloadAudioResource(url, destFolder)
-                totalFileCount++                
-            }, waitTime)
-        }
-    })(langCodeFolder)
+    let processEntry = function(entry, waitTime) {
+        setTimeout(function() {
+            let url = `http://www.book2.nl/book2/${config['code-dest']}/SOUND/${entry.a}`
+            downloadAudioResource(url, destFolder)
+            totalFileCount++                
+        }, waitTime)
+    }
 
     previouslyDownloadedFileCount = 0
     iterateForEntry(languageDatabase, processEntry)
