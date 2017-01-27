@@ -18,17 +18,20 @@ catch (e) {
 // Or we can re-try the failed requests (sometimes, we get corrupted files that are usually very short, like few bytes)
 // I like speed, so I'd rather retry (usually after three retrials, I get all the audio resources)
 
-const numMaxTrials = 5
-
-for (let i = 0; i < numMaxTrials; i++) {
-	var stats = downloadAudios(languageData)
-	console.log(stats.previouslyDownloadedFileCount, stats.totalFileCount)
-
-	if (stats.previouslyDownloadedFileCount === stats.totalFileCount) {
-		console.log(`We have downloaded all files by iteration ${i}`)
-		break
-	}
-	else {
-		console.log(`We have downloaded ${stats.previouslyDownloadedFileCount} out of ${stats.totalFileCount}`)
+function runDownload(n) {
+	if (n > 0) {
+		downloadAudios(languageData, function(stats) {
+			if (stats.previouslyDownloadedFileCount === stats.totalFileCount) {
+				console.log(`We have downloaded all files by iteration ${n}`)
+				return; // exit
+			}
+			else {
+				console.log(`We have downloaded ${stats.previouslyDownloadedFileCount} out of ${stats.totalFileCount}`)
+				runDownload(n-1)
+			}
+		});
 	}
 }
+
+const numMaxTrials = 5
+runDownload(numMaxTrials)

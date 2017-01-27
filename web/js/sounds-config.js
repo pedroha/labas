@@ -1,4 +1,4 @@
-var soundsConfig = {}
+var soundsConfig = soundsConfig || {};
 
 soundsConfig['lithuanian'] = {
   "phrases-002": {

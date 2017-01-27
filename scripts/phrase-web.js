@@ -1,6 +1,6 @@
 'use strict';
 
-const hogan = require("hogan.js");
+const hogan = require("hogan.js")
 const mkdirp = require('node-mkdirp')
 const writeFile = require('./utils/write-file')
 const config = require('./config')

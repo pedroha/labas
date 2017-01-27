@@ -4,11 +4,13 @@
 
 Make sure to use the latest node (v6+)
 
+$ cd scripts
 $ npm install
 $ node phrase-scraper lt            # scrape phrase translations into ${language}.json
 $ node phrase-web lt                # build web page from ${language}.json
 
 $ node audio-multi-download lt      # download audio samples from ${language}.json (repeat few times...)
+$ node audio-check lt               # check that we have all required audio files
 $ node audio-concat-phrases lt      # concatenate and compress audio files into phrase audio files
 
 ## Publish

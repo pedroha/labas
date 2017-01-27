@@ -26,11 +26,48 @@ var concatAudioAndCompress = function(output, files, callback) { // AND ALSO COM
     audiosprite(files, opts, callback)
 };
 
-var outputConfig = function(howlerConfig) {
-    var output = JSON.stringify(howlerConfig, null, 2, 80)
-    output = output.replace(/"urls"/g, '"src"') // howler.js V2.0 format
+/*
+var soundsConfig = soundsConfig || {};
 
-    fs.writeFileSync(`${DEST_DIR}/howler-config.json`, output)
+soundsConfig['lithuanian'] = {
+  "phrases-002": {
+    "title": "2 Family Members",
+    "settings": {
+      "src": [
+        "phrases-002.mp3"
+      ],
+{
+  "./res/DE/phrases-001": {
+    "title": "1 People",
+    "settings": {
+      "src": [
+        "./res/DE/phrases-001.mp3"
+      ],
+
+  "../web/audio/FR/phrases-011": {
+    "title": "11 Months",
+    "settings": {
+      "src": [
+        "../web/audio/FR/phrases-011.mp3"
+      ],
+*/
+
+var outputConfig = function(howlerConfig) {
+    var reKeyed = {};
+
+    for (let k in howlerConfig) {
+        let i = k.lastIndexOf('/')
+        let newKey = k.substr(i+1)
+        reKeyed[newKey] = howlerConfig[k];
+    }
+    var output = JSON.stringify(reKeyed, null, 2, 80)
+    output = output.replace(/"urls"/g, '"src"') // howler.js V2.0 format
+    output = output.replace(/\.\.\/web\//g, '')   // fix relative folder for audio (starting from relative to web/)
+
+    output = 'var soundsConfig = soundsConfig || {};\n\n' +
+             `soundsConfig[${config.language}] = ${output}`
+
+    fs.writeFileSync(`${DEST_DIR}/config-sounds.js`, output)
     // console.log('-------------')
     // console.log(output)
     // console.log('-------------')

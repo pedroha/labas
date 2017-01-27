@@ -71,19 +71,22 @@ var downloadAudioResource = function(url, folder) {
     }
 }
 
+const DOWNLOAD_PROCESS_TIME = 10
+
 var iterateForEntry = function(topicList, processEntry) {
     let cnt = 0;
     for (let i = 0; i < topicList.length; i++) {
         let topic = topicList[i];
         for (let j = 0; j < topic.words.length; j++) {
             let entry = topic.words[j]
-            processEntry(entry, 10 * cnt)
+            processEntry(entry, DOWNLOAD_PROCESS_TIME * cnt)
             cnt++
         }
-    }    
+    }
+    return cnt
 }
 
-var downloadAudios = function(languageDatabase) {
+var downloadAudios = function(languageDatabase, callback) {
     let langCodeFolder = `${config['code-dest']}`
     let destFolder = `${DOWNLOAD_FOLDER}/${langCodeFolder}`
     let totalFileCount = 0
@@ -99,14 +102,18 @@ var downloadAudios = function(languageDatabase) {
     }
 
     previouslyDownloadedFileCount = 0
-    iterateForEntry(languageDatabase, processEntry)
+    const entryCount = iterateForEntry(languageDatabase, processEntry)
 
-    console.log(`Already downloaded ${previouslyDownloadedFileCount} from a total of ${totalFileCount}`)
+    setTimeout(function() {
+        console.log(`Already downloaded ${previouslyDownloadedFileCount} from a total of ${totalFileCount}`)
 
-    return {
-        previouslyDownloadedFileCount: previouslyDownloadedFileCount,
-        totalFileCount: totalFileCount
-    }
+        if (typeof callback === 'function') {
+            callback({
+                previouslyDownloadedFileCount: previouslyDownloadedFileCount,
+                totalFileCount: totalFileCount
+            })
+        }
+    }, entryCount * DOWNLOAD_PROCESS_TIME);
 }
 
 module.exports = {

@@ -1,12 +1,11 @@
-const BASE_PATH = '..'
-const WEB_PATH = BASE_PATH + "/web"
-const RESOURCE_PATH = BASE_PATH + "/res"
-const TRANSLATION_PATH = RESOURCE_PATH + "/translation"
-const DOWNLOAD_PATH = RESOURCE_PATH + "/download"
+const BASE_PATH			= '..'
+const WEB_PATH			= BASE_PATH + "/web"
+const RESOURCE_PATH 	= BASE_PATH + "/res"
+const TRANSLATION_PATH	= RESOURCE_PATH + "/translation"
+const DOWNLOAD_PATH		= RESOURCE_PATH + "/download"
 
 let config = {
 	"WEB_PATH" : 		WEB_PATH,
-	"RESOURCE_PATH": 	RESOURCE_PATH,
 	"TRANSLATION_PATH": TRANSLATION_PATH,
 	"DOWNLOAD_PATH": 	DOWNLOAD_PATH
 }
