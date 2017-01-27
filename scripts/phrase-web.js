@@ -31,8 +31,9 @@ templates['page'] =
     <script src="js/howler.min.js"></script>
     <script>
         var language = '{{language}}';
+        var languageCode = '{{languageCode}}';
     </script>
-    <script src="js/sounds-config.js"></script>
+    <script src="audio/{{languageCode}}/config-sounds.js"></script>
     <script src="js/media-player.js"></script>
     <script src="js/lesson-player.js"></script>
     <script src="js/app.js"></script>
@@ -90,6 +91,7 @@ let buildWebPage = function(config, wordEntries) {
             content: 'Goethe-Verlag and www.50languages.com'
         }, // meta stuff, like 'title' and so on
         phrases: topics.join(''),
+        languageCode: config["code-dest"],
         language: config.language,
         languageCapitalized: config.language.capitalize()
     }).trim()

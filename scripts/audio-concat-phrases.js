@@ -62,10 +62,10 @@ var outputConfig = function(howlerConfig) {
     }
     var output = JSON.stringify(reKeyed, null, 2, 80)
     output = output.replace(/"urls"/g, '"src"') // howler.js V2.0 format
-    output = output.replace(/\.\.\/web\//g, '')   // fix relative folder for audio (starting from relative to web/)
+    output = output.replace(/\.\.\/web\/audio\/..\//g, '')  // fix relative folder for audio
 
     output = 'var soundsConfig = soundsConfig || {};\n\n' +
-             `soundsConfig[${config.language}] = ${output}`
+             `soundsConfig['${config.language}'] = ${output}`
 
     fs.writeFileSync(`${DEST_DIR}/config-sounds.js`, output)
     // console.log('-------------')
