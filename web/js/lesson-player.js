@@ -54,7 +54,7 @@ var LessonPlayer = function(audioDomContainerSelector, mediaPlayer) {
         makeEntryListVisible($entry);
         $entry.addClass('active');
 
-        var audioId = $entry.data('audio');
+        var audioId = '' + $entry.data('audio');
         mediaPlayer.playSound(audioId);
     };
 
